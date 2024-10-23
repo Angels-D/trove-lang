@@ -1,0 +1,2 @@
+$prefabs_recipe_collections_fishing_depths_pole_failureLoc»需要从深海采集鱼类：\n- 深渊海马\n- 深渊石鱼\n- 毒性青苔石鱼\n- 燃烧河豚\n- 符文板鱼\n- 和风蛤蜊
+$prefabs_recipe_item_consumable_tutorial_generic»你必须推进克贝斯利的任务进度才能制造此配方。

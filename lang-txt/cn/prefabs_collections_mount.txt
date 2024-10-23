@@ -1,0 +1,30 @@
+$prefabs_collections_mount_recliner_kraken_name»深海拱门
+$prefabs_collections_mount_recliner_kraken_description»来自深海，充盈着符文的力量。
+$prefabs_collections_mount_wheelchair_typewriter_name»廉价打字机
+$prefabs_collections_mount_wheelchair_typewriter_description»只工作，不玩耍…
+$prefabs_collections_mount_raptor_raven_item_name»远古乌鸦
+$prefabs_collections_mount_raptor_raven_item_description»不时低语着“永不复焉”。
+$prefabs_collections_mount_carpet_cauldron_name»漂浮煮锅
+$prefabs_collections_mount_carpet_cauldron_description»如果只有会飞的扫帚还不够的话。
+$prefabs_collections_mount_griffon_turkey_name»大火鸡
+$prefabs_collections_mount_griffon_turkey_description»大块头，小脑瓜。
+$prefabs_collections_mount_board_autumn_name»惊喜浆果派
+$prefabs_collections_mount_board_autumn_description»美味得要命。
+$prefabs_collections_mount_pwny_autumn_name»扫帚南瓜灯
+$prefabs_collections_mount_pwny_autumn_description»长得怪，飞得快。
+$prefabs_collections_mount_griffon_autumn_name»金秋狮鹫
+$prefabs_collections_mount_griffon_autumn_description»宅在家里忘了参加秋天的迁徙。
+$prefabs_collections_mount_centaur_autumn_name»丰收守卫
+$prefabs_collections_mount_centaur_autumn_description»每年的种南瓜大赛冠军。
+$prefabs_collections_mount_cat_autumn_name»衡天狼
+$prefabs_collections_mount_cat_autumn_desc»娴熟的猎手。
+$prefabs_collections_mount_dragonwyvern_autumn_name»秋灵犬
+$prefabs_collections_mount_dragonwyvern_autumn_desc»在阴雨的天空下翩翩起舞。
+$prefabs_collections_mount_griffon_sunflower_name»阳光滑翔机(Sunlight Glider)
+$prefabs_collections_mount_griffon_sunflower_description»不喜欢睡在饥饿的马附近。\n<font color="#cccccc">Prefers not to sleep near hungry horses.</font>
+$prefabs_collections_mount_platypus_ashen_name»Albino Wastewalker(Albino Wastewalker)
+$prefabs_collections_mount_platypus_ashen_description»复原力的化身。\n<font color="#cccccc">Resilience incarnate.</font>
+$prefabs_collections_mount_platypus_irradiant_name»Irigor the Eyeless(Irigor the Eyeless)
+$prefabs_collections_mount_platypus_irradiant_description»终极追求权力的气味猎犬。\n<font color="#cccccc">The ultimate power-seeking scent hound.</font>
+$prefabs_collections_mount_griffon_gearcrafting_name»Gear Griffon(Gear Griffon)
+$prefabs_collections_mount_griffon_gearcrafting_description»强大的机械野兽。\n<font color="#cccccc">A formidable mechanical beast.</font>

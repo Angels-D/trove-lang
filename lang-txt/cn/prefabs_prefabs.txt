@@ -1,0 +1,2 @@
+$prefabs_prefabs_townportal_tutorial_item_description»碰撞到外界便会开启一个通往世界起点的传送门\n\n
+$prefabs_prefabs_townportal_tutorial_item_description_controller»碰撞到外界便会开启一个通往世界起点的传送门\n\n

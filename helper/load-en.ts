@@ -11,7 +11,7 @@ async function getGameDir(){
                 reject("读取数据失败");
                 return;
             }
-            const data = /InstallLocation(?: +)REG_SZ(?: +)((\w| |\\|\/|\:)+)/.exec(stdout);
+            const data = /InstallLocation(?: +)REG_SZ(?: +)(.*)/.exec(stdout);
             if(!data || !data[1]){
                 reject("未能找到游戏路径");
                 return;

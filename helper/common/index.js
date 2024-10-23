@@ -38,14 +38,14 @@ exports.mapBinfabDir = mapBinfabDir;
 function binfabs2Txts(srcdir, outDir, option = {}) {
     mapBinfabDir(srcdir, (filename, data) => {
         const outName = filename.substr(0, filename.lastIndexOf(".")) + ".txt";
-        fs_1.default.writeFileSync(path_1.default.join(outDir, outName), data.map((item) => `${item.key}=${item.value.replace("\r", "").replace("\n", "\\n")}`).join("\n"));
+        fs_1.default.writeFileSync(path_1.default.join(outDir, outName), data.map((item) => `${item.key}»${item.value.replace("\r", "").replace("\n", "\\n")}`).join("\n"));
     }, option);
 }
 exports.binfabs2Txts = binfabs2Txts;
 function binfabs2TxtsWithLog(srcdir, outDir = './') {
     mapBinfabDir(srcdir, (filename, data) => {
         const outName = filename.substr(0, filename.lastIndexOf(".")) + ".txt";
-        fs_1.default.writeFileSync(path_1.default.join(outDir, outName), data.map((item) => `${item.key}=${item.value.replace(/\r/g, "").replace(/\n/g, "\\n")}`).join("\n"));
+        fs_1.default.writeFileSync(path_1.default.join(outDir, outName), data.map((item) => `${item.key}»${item.value.replace(/\r/g, "").replace(/\n/g, "\\n")}`).join("\n"));
     }, {
         befroeRead: (filename) => console.log(`转换${filename}`),
         afterRead: (filename, index, length) => console.log(`转换${filename}完成 （${index + 1}/${length}）`),
@@ -56,8 +56,8 @@ function readTxtFile(path) {
     if (!fs_1.default.existsSync(path))
         return [];
     return fs_1.default.readFileSync(path, { encoding: 'utf8' }).split("\n").map(item => {
-        const [key, ...value] = item.split("=");
-        return { key, value: value.join('=') };
+        const [key, ...value] = item.split("»");
+        return { key, value: value.join('»') };
     });
 }
 exports.readTxtFile = readTxtFile;

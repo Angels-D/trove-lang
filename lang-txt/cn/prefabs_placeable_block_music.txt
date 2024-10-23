@@ -1,0 +1,1 @@
+$prefabs_placeable_block_generic_description»音乐方块\n\n\n按[HK:Loot]切换声音。

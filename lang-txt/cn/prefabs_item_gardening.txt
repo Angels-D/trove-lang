@@ -1,0 +1,2 @@
+$prefabs_item_gardening_wateringcan_event_wishingtree_item_name»祈愿聚焦
+$prefabs_item_gardening_wateringcan_event_wishingtree_item_description»用于聚焦你的心愿以及助力祈愿之树生长。\n\n本道具将在银月遗物结束后很快消失。

@@ -1,0 +1,2 @@
+$prefabs_item_consumable_titles_events_october_2024_name»随机称号：暗影之夕2024
+$prefabs_item_consumable_titles_events_october_2024_desc»随机发放一个与猫相关的称号。

@@ -1,0 +1,6 @@
+$Claims_TutorialTipDescription»你可以通过收藏物[HK:Collections]中的勋章 > 提示来阅读提示
+$Collections_Category_BadgeTips»提示
+$Collections_Category_BadgeTips_Description»收集游戏内容提示并在这里重新阅读它们！
+$CollectableTag_Tips»提示
+$CollectableTag_TutorialTips»教程提示
+$CollectableTag_Gameplay»游戏内容

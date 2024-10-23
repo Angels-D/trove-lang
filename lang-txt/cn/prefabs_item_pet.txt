@@ -1,0 +1,2 @@
+$prefabs_item_pet_fish_depths_random_name»新鲜的咸鱼卵
+$prefabs_item_pet_fish_depths_random_description»随机解锁以下一个深海宠物\n- 和风跳跃鱼\n- 燃烧跳跃鱼\n- 深渊跳跃鱼

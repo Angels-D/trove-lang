@@ -1,0 +1,2 @@
+$prefabs_item_unlocker_recipe_depths_item_name»深渊配方
+$prefabs_item_unlocker_recipe_depths_item_description»解锁一个你还没有解锁的随机深渊装饰配方。\n\n\n已解锁的装饰可在咸水萨姆的深渊工作台进行制造。

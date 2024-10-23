@@ -1,0 +1,2 @@
+$prefabs_collections_fishing_depths_pole_name»深渊钓竿
+$prefabs_collections_fishing_depths_pole_description»尽管印记商人信誓旦旦，但是这个钓竿绝对钓不上利维坦。\n\n能够在无间邪影难度(15)的水池中钓到稀有深渊鱼类。

@@ -1,0 +1,5 @@
+$prefabs_npc_events_2024_october_witch_cat_title»猫
+$prefabs_npc_events_2024_october_witch_cat_sign_content»喵，喵，喵！
+$prefabs_npc_events_2024_october_witch_title»女巫
+$prefabs_npc_events_2024_october_witch_sign_content»你是来喂猫的吗？玉鳍鱼罐头是它们的最爱！
+$prefabs_npc_events_october24_qubesly_sign_desc»我听到楼上传来喵喵的叫声，会是谁呢？

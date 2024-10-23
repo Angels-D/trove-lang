@@ -1,0 +1,2 @@
+$prefabs_item_mount_dog_husky_item_name»坐骑：冬衣柳木犬
+$prefabs_item_mount_dog_husky_item_description»你好，新朋友！那是下雪了吗？那我再也不会进来了。

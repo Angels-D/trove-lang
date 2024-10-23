@@ -1,0 +1,46 @@
+$prefabs_loot_equipment_face_waterguardian[Trovemaster2021XT]_name»远古守卫者(Ancient Guardian)
+$prefabs_loot_equipment_face_waterguardian[Trovemaster2021XT]_desc»从阴暗的深处凝视。\n<font color="#cccccc">Gazing from the murky depths.</font>
+$prefabs_loot_equipment_weapon_1h_spear_bullionbully[DakotaSpine]_name»Bullion Bully(Bullion Bully)
+$prefabs_loot_equipment_weapon_1h_spear_bullionbully[DakotaSpine]_desc»生活中有两种保证。现在，您可以同时保证两者。\n<font color="#cccccc">There are two guarantees in life. And now you can guarantee both at once.</font>
+$prefabs_loot_equipment_weapon_1h_spear_wickedwax[DeSpare]_name»邪蜡(Wicked Wax)
+$prefabs_loot_equipment_weapon_1h_spear_wickedwax[DeSpare]_desc»整个边疆最明亮的光线。\n<font color="#cccccc">Brightest light in the whole Frontier.</font>
+$prefabs_loot_equipment_weapon_1h_spear_brokenvengeance[Raghnal]_name»破碎复仇(Broken Vengeance)
+$prefabs_loot_equipment_weapon_1h_spear_brokenvengeance[Raghnal]_desc»充满了千战之怒。\n<font color="#cccccc">Imbued with the wrath of a thousand battles.</font>
+$prefabs_loot_equipment_weapon_1h_spear_sunfury[Tellador]_name»Sunfury(Sunfury)
+$prefabs_loot_equipment_weapon_1h_spear_sunfury[Tellador]_desc»在黎明的熔炉中锻造。\n<font color="#cccccc">Forged in the furnaces of dawn.</font>
+$prefabs_loot_equipment_weapon_1h_spear_skybreaker[Tellador]_name»捅破天(Skybreaker)
+$prefabs_loot_equipment_weapon_1h_spear_skybreaker[Tellador]_desc»有传言说已经开始了分手。\n<font color="#cccccc">Rumored to have started the Sundering.</font>
+$prefabs_loot_equipment_weapon_1h_spear_litany[DeSpare]_name»Litigator's Litany(Litigator's Litany)
+$prefabs_loot_equipment_weapon_1h_spear_litany[DeSpare]_desc»以无情而有节奏的精心策划的果断攻击进行反击。\n<font color="#cccccc">Fight back with a relentless and rhythmic barrage of well-planned, decisive attacks.</font>
+$prefabs_loot_equipment_weapon_1h_spear_indecisive[DeSpare]_name»优柔寡断的指标(Indecisive Indicators)
+$prefabs_loot_equipment_weapon_1h_spear_indecisive[DeSpare]_desc»你的敌人会以这样或那样的方式感受到你的愤怒。\n<font color="#cccccc">Your enemies will feel your wrath, one way or the other.</font>
+$prefabs_loot_equipment_weapon_1h_spear_celestialfury[Tellador]_name»天神之怒(Celestial Fury)
+$prefabs_loot_equipment_weapon_1h_spear_celestialfury[Tellador]_desc»锋利如天道。\n<font color="#cccccc">Sharp as heavenly justice itself.</font>
+$prefabs_loot_equipment_weapon_bow_foregrip[DakotaSpine]_name»Fledgling Foregrip(Fledgling Foregrip)
+$prefabs_loot_equipment_weapon_bow_foregrip[DakotaSpine]_desc»玉握，装饰着一缕缕凤凰羽毛。\n<font color="#cccccc">Jade grip, decorated with a plume of phoenix feathers.</font>
+$prefabs_loot_equipment_weapon_bow_dreamwhisper[Tellador]_name»Dream Whisper(Dream Whisper)
+$prefabs_loot_equipment_weapon_bow_dreamwhisper[Tellador]_desc»创造力和魔力的体现。\n<font color="#cccccc">A manifestation of the creativity and magic.</font>
+$prefabs_loot_equipment_weapon_staff_corrupted[BPsysOri]_name»腐蚀的太阳法杖(Corrupted Sun Staff)
+$prefabs_loot_equipment_weapon_staff_corrupted[BPsysOri]_desc»小心操作。\n<font color="#cccccc">Handle with care.</font>
+$prefabs_loot_equipment_weapon_staff_augury[Punkmonkey]_name»末日奥古里(Augury of the End)
+$prefabs_loot_equipment_weapon_staff_augury[Punkmonkey]_desc»阴影从未如此寒冷。\n<font color="#cccccc">The shadows have never seemed so cold.</font>
+$prefabs_loot_equipment_weapon_staff_warstaff[Arasolian]_name»Whimsical Warstaff(Whimsical Warstaff)
+$prefabs_loot_equipment_weapon_staff_warstaff[Arasolian]_desc»专为最淘气的骗子设计。\n<font color="#cccccc">Designed for the most mischievous tricksters.</font>
+$prefabs_loot_equipment_weapon_staff_troubletreble[DeSpare]_name»麻烦高音(Trouble Treble)
+$prefabs_loot_equipment_weapon_staff_troubletreble[DeSpare]_desc»这根棍子不过是高音罢了！\n<font color="#cccccc">This staff is nothing but treble!</font>
+$prefabs_loot_equipment_weapon_fist_crystalpeak[Tellador]_name»巨人杀手护手(Giantslayer Gauntlet)
+$prefabs_loot_equipment_weapon_fist_crystalpeak[Tellador]_desc»充满光芒碎片的能量。\n<font color="#cccccc">Imbued with energy of Radiant Shards.</font>
+$prefabs_loot_equipment_weapon_fist_crystalcrush[Tellador]_name»光芒四射(Radiant Revetment)
+$prefabs_loot_equipment_weapon_fist_crystalcrush[Tellador]_desc»尽管外表平和，但却具有破坏力。\n<font color="#cccccc">Posesses destructive power, despite its peaceful appearance.</font>
+$prefabs_loot_equipment_weapon_fist_warbringer[Tellador]_name»Warbringer(Warbringer)
+$prefabs_loot_equipment_weapon_fist_warbringer[Tellador]_desc»以蛮力强化。\n<font color="#cccccc">Reinforced with brute energy.</font>
+$prefabs_loot_equipment_weapon_fist_voidshadowfist[Tellador]_name»虚空影拳(Void Shadowfist)
+$prefabs_loot_equipment_weapon_fist_voidshadowfist[Tellador]_desc»从最深的黑暗中浮现。\n<font color="#cccccc">Emerged from the deepest darkness.</font>
+$prefabs_loot_equipment_weapon_fist_darkheartchaser[Tellador]_name»Shadowy Infineon(Shadowy Infineon)
+$prefabs_loot_equipment_weapon_fist_darkheartchaser[Tellador]_desc»势不可挡的力量之源。\n<font color="#cccccc">A source of unstoppable force.</font>
+$prefabs_loot_equipment_weapon_fist_blastflowerbasher[Tellador]_name»Blastflower Basher(Blastflower Basher)
+$prefabs_loot_equipment_weapon_fist_blastflowerbasher[Tellador]_desc»打出爆炸性的一拳！\n<font color="#cccccc">Packs an explosive punch!</font>
+$prefabs_loot_equipment_weapon_fist_earthgrip[Tellador]_name»锻拳(Forged Fist)
+$prefabs_loot_equipment_weapon_fist_earthgrip[Tellador]_desc»由稀有金属制成。\n<font color="#cccccc">Made from rare metals.</font>
+$prefabs_loot_equipment_weapon_fist_darkpunch[M0tt4_]_name»耀眼手套(Glaring Glove)
+$prefabs_loot_equipment_weapon_fist_darkpunch[M0tt4_]_desc»显然是最好的选择。\n<font color="#cccccc">Clearly the best choice.</font>

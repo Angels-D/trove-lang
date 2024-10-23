@@ -1,0 +1,4 @@
+$prefabs_collections_magrail_dance_magrail_dance_kraken_name»克拉肯电弧跳舞毯
+$prefabs_collections_magrail_dance_magrail_dance_kraken_desc»跟随电流一起摇摆，和深渊栖息者一起舞动。
+$prefabs_collections_magrider_dancepad_piano_name»和弦研磨机(Chord Grinder)
+$prefabs_collections_magrider_dancepad_piano_description»Adagio在旅途中！\n<font color="#cccccc">Adagio on-the-go!</font>

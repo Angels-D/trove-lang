@@ -1,0 +1,4 @@
+$prefabs_collections_wings_glider_kraken_name»恐怖飞行鱿
+$prefabs_collections_wings_glider_kraken_item_description»虽然在不停拍打翅膀，但这种飞行生物的周围却是可怕的寂静…
+$prefabs_collections_wings_quill_name»优雅羽毛笔
+$prefabs_collections_wings_quill_description»小心墨滴。

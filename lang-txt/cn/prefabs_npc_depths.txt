@@ -1,0 +1,2 @@
+$prefabs_npc_depths_outpost_spirit_tank_sign_title»暗流印记商人
+$prefabs_npc_depths_outpost_spirit_tank_sign_content»钓到大鱼了！

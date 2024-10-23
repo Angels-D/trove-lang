@@ -1,0 +1,1 @@
+$prefabs_placeable_atlas_station_description_controller»按[HK:NavigationMenu]打开地图（在进度界面）。

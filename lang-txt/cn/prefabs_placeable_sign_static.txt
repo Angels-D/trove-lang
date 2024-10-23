@@ -1,0 +1,2 @@
+$prefabs_placeable_sign_static_tutorial_sunstatue_sign_title»太阳女神艾丽西亚的雕像
+$prefabs_placeable_sign_static_tutorial_sunstatue_sign_content»克贝斯利用石头独自雕刻而成！

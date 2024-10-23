@@ -1,0 +1,64 @@
+$prefabs_collections_pet_fish_depths_air_name»和风跳跃鱼
+$prefabs_collections_pet_fish_depths_air_description»显然它并不像空气一样轻盈，除非它是装出来的…
+$prefabs_collections_pet_fish_depths_fire_name»燃烧跳跃鱼
+$prefabs_collections_pet_fish_depths_fire_description»偶尔会发出噼啪声，有时是因为体内的爆炸反应，有时是骨质疏松。
+$prefabs_collections_pet_fish_depths_water_name»深渊跳跃鱼
+$prefabs_collections_pet_fish_depths_water_description»有时候很滑…好吧，一直都很滑。
+$prefabs_collections_pet_dreambro_krakenegg_name»克拉肯幼体卵囊
+$prefabs_collections_pet_dreambro_krakenegg_desc»永远不会孵化。大概如此。
+$prefabs_collections_pet_octopus_kraken_name»友善的克拉肯幼体
+$prefabs_collections_pet_octopus_kraken_description»吃饱的时候很友好。
+$prefabs_collections_pet_joystick_book_name»滑翔魔典
+$prefabs_collections_pet_joystick_book_description»看着它飞走！
+$prefabs_collections_pet_cragglepod_lamp_name»光耀台灯
+$prefabs_collections_pet_cragglepod_lamp_description»知识就是光芒。
+$prefabs_collections_pet_monkey_folklore_name»喧闹河灵
+$prefabs_collections_pet_monkey_folklore_desc»超爱黄瓜！
+$prefabs_collections_pet_fae_folklore_name»刚强天狗
+$prefabs_collections_pet_fae_folklore_description»能够让你写出全世界最优美的歌。
+$prefabs_collections_pet_llama_folklore_name»奇妙看门狗
+$prefabs_collections_pet_llama_folklore_description»汪！
+$prefabs_collections_pet_punchbot_folklore_name»漂浮玩偶
+$prefabs_collections_pet_punchbot_folklore_description»迷人而优雅。
+$prefabs_collections_pet_griffon_folklore_name»友善狐狸
+$prefabs_collections_pet_griffon_folklore_description»能够随心所欲地变化。
+$prefabs_collections_pet_goat_folklore_name»吵闹浣熊
+$prefabs_collections_pet_goat_folklore_description»虽然总是第一个被找到，但依然对捉迷藏爱得深沉。
+$prefabs_collections_pet_froleek_catawan_name»卡塔万
+$prefabs_collections_pet_froleek_catawan_description»胸中妙计无穷，未来握在爪中！
+$prefabs_collections_pet_unicorn_allyan_name»异宠
+$prefabs_collections_pet_unicorn_allyan_description»打碎糖果罐！
+$prefabs_collections_pet_zepperay_voidcat_name»乌撒的猫
+$prefabs_collections_pet_zepperay_voidcat_description»我曾凝视深渊，却只得到了这个没什么用的宠物…
+$prefabs_collections_pet_papercrane_bruh_name»老兄
+$prefabs_collections_pet_papercrane_bruh_description»它能够感受到每个人的尴尬。
+$prefabs_collections_pet_tato_noodles_name»热面条
+$prefabs_collections_pet_tato_noodles_description»三倍滚烫。懂的都懂。
+$prefabs_collections_pet_joystick_bear_name»飞旋熊
+$prefabs_collections_pet_joystick_bear_description»一半是熊，一半是直升机，全都很可爱！
+$prefabs_collections_pet_pebble_unicorn_name»罗伯托
+$prefabs_collections_pet_pebble_unicorn_description»所有宇宙的 PVP 之王！
+$prefabs_collections_pet_goldfish_megabite_name»巨齿
+$prefabs_collections_pet_goldfish_megabite_description»一直游，别停下来！
+$prefabs_collections_pet_cat_snowflake_name»独角雪花
+$prefabs_collections_pet_cat_snowflake_description»全世界最可爱的猫咪！
+$prefabs_collections_pet_monkey_ratbeard_name»鼠胡子
+$prefabs_collections_pet_monkey_ratbeard_description»大漩涡里最出色的海盗。
+$prefabs_collections_pet_cat_witch_october2024_name»紫罗兰
+$prefabs_collections_pet_cat_witch_october2024_description»陪你一起踏上未来的巫术之旅。
+$prefabs_collections_pet_floateye_lantern_name»魔法灯笼
+$prefabs_collections_pet_floateye_lantern_description»可以见到肉眼所无法看到的事物。
+$prefabs_collections_pet_qubesly_lasagna_name»千层面斯利
+$prefabs_collections_pet_qubesly_lasagna_description»不要让橘猫或者壮汉靠近他。
+$prefabs_collections_pet_wheel_irradiant_name»灵魂研磨(Soul Grind)
+$prefabs_collections_pet_wheel_irradiant_description»一个小恶魔，一个简短的小恶魔。\n<font color="#cccccc">A little evil. A short, little evil.</font>
+$prefabs_collections_pet_monkey_ashen_name»早熟孢子(Precocious Sporeling)
+$prefabs_collections_pet_monkey_ashen_description»“等我长大了，想当任务赐予者！”\n<font color="#cccccc">"When I grow up, I wanna be a quest-giver!"</font>
+$prefabs_collections_pet_goat_demon_name»比利小子(Billy the Kid)
+$prefabs_collections_pet_goat_demon_description»纯粹的麻烦。\n<font color="#cccccc">Pure trouble.</font>
+$prefabs_collections_pet_panda_poolbear_name»Coolie McStuffins(Coolie McStuffins)
+$prefabs_collections_pet_panda_poolbear_description»游泳池太凉爽了。\n<font color="#cccccc">Too cool not to pool.</font>
+$prefabs_collections_pet_parrot_amperium_name»放大翼龙(Amped Pterosaur)
+$prefabs_collections_pet_parrot_amperium_description»真正的能量吞噬者。\n<font color="#cccccc">A true power-glutton.</font>
+$prefabs_collections_pet_griffon_gearcrafting_name»齿轮巡洋舰(Cogwheel Cruiser)
+$prefabs_collections_pet_griffon_gearcrafting_description»可疑地擅长解除陷阱。\n<font color="#cccccc">Suspiciously good at disarming traps.</font>

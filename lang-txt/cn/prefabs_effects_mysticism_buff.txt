@@ -1,0 +1,7 @@
+$prefabs_effects_gearcrafting_pet_bonus_dungeons_name»齿轮工匠的运气(Gearcrafter's Luck)
+$prefabs_effects_mysticism_buff_depths_kraken_magnet_immunity_name»BUFF：深渊稳定性
+$prefabs_effects_mysticism_buff_depths_kraken_magnet_immunity_description»让你能够抵抗深渊克拉肯的诱惑。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_depths_kraken_magnet_immunity_effect_description»免疫深渊克拉肯的拖拽效果。
+$prefabs_effects_mysticism_buff_depths_water_movement_name»增益：增强浮力(BUFF: Augment Buoyancy)
+$prefabs_effects_mysticism_buff_depths_water_movement_description»在水中增强您的运动，使其更容易下降，但更难移动和提升。\n<font color="#cccccc">Augments your movement when in Water, making it easier to descend but harder to move & ascend.</font>\n不建议在水域外使用！\n<font color="#cccccc">Not recommended for use outside of Water!</font>\n\n<font color='#ffcf72'>您一次只能有一（ 1 ）个增益处于活动状态。</font>\n<font color="#cccccc">You may only have ONE (1) BUFF active at a time.</font></font>
+$prefabs_effects_mysticism_buff_depths_water_movement_effect_description»在水中增强您的运动，使其更容易下降，但更难移动和提升。\n<font color="#cccccc">Augments your movement when in Water, making it easier to descend but harder to move & ascend.</font>\n不建议在水域外使用！\n<font color="#cccccc">Not recommended for use outside of Water!</font>

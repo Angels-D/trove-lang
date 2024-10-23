@@ -1,0 +1,2 @@
+$prefabs_item_crafting_kraken_shell_fragment_item_name»克拉肯外壳碎片
+$prefabs_item_crafting_kraken_shell_fragment_item_description»色彩斑斓，来自于一种无比怪异的生物。

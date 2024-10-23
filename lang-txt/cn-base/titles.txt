@@ -1,1 +1,1 @@
-$Titles_New=新
+$Titles_New»新

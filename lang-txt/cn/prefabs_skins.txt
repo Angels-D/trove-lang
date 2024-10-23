@@ -1,0 +1,8 @@
+$prefabs_skins_crimefighter_icecream_skinset_name»香脆猎人
+$prefabs_skins_crimefighter_icecream_skinset_description»先锋卫士的服饰。\n\n\n全部吃掉，一口不留。
+$prefabs_skins_solarion_icecream_skinset_name»圣代耀斑
+$prefabs_skins_solarion_icecream_skinset_description»曜日射手的服饰。\n\n\n身边跟着一只雪葩蝙蝠！
+$prefabs_skins_pirate_icecream_skinset_name»甜品船长
+$prefabs_skins_pirate_icecream_skinset_description»海洋探索者的服饰。\n\n\n糖海上的唯一一位冰淇淋海盗。
+$prefabs_skins_spirittank_book_skinset_name»幽魂笔者
+$prefabs_skins_spirittank_book_skinset_description»无头骑士的服饰。\n\n\n数百年来最杰出的作家、诗人、编者和文艺批评家。

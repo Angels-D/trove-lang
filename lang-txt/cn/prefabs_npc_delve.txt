@@ -1,0 +1,2 @@
+$prefabs_npc_delve_merchant_caverns_depths_kraken_herald_sign_title»深渊克拉肯的使者
+$prefabs_npc_delve_merchant_caverns_depths_kraken_herald_sign_content»按[HK:Loot]键进行互动。

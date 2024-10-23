@@ -1,0 +1,11 @@
+$prefabs_titles_entitlement_community_sept2024_up_suffix»，光辉英雄
+$prefabs_titles_entitlement_community_sept2024_down_suffix»，灰烬复生者
+$prefabs_titles_events_october_2024_catlady_suffix»，疯狂猫女士
+$prefabs_titles_events_october_2024_catmom_suffix»，猫妈妈
+$prefabs_titles_events_october_2024_catguy_suffix»，疯狂猫先生
+$prefabs_titles_events_october_2024_catdaddy_suffix»，猫爸爸
+$prefabs_titles_events_october_2024_catperson_suffix»，猫奴
+$prefabs_titles_events_october_2024_meow_suffix»，喵！
+$prefabs_titles_events_october_2024_meow_prefix»喵，
+$prefabs_titles_events_october_2024_desc»2024年10月活动期间可获得。
+$prefabs_titles_entitlement_voucher_ofthepack_suffix»——礼包

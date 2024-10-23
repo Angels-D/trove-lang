@@ -1,0 +1,2 @@
+$prefabs_placeable_matchmaker_t2_depths_kraken_name»深度推进器：深渊克拉肯
+$prefabs_placeable_matchmaker_t2_depths_kraken_description»放置并与这个深度推进器互动以开启一个秘境，在此秘境里，暗影灵魂箱将被替换为符文深渊宝箱，你必须突破一重或多重深渊克拉肯的守护！\n\n\n邀请：总共最多8名玩家\n坐骑：仅限秘境坐骑\n最小深度：175
