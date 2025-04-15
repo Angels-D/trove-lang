@@ -1,36 +1,36 @@
-$prefabs_item_fish_enchanted_rare_frogprince_item_name=Frog Prince
-$prefabs_item_fish_enchanted_rare_frogprince_item_description=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_gryphon_item_name=Gryphish
-$prefabs_item_fish_enchanted_rare_gryphon_item_description=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_merqubesly_item_name=Deep Sea Merthing
-$prefabs_item_fish_enchanted_rare_merqubesly_item_description=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_phoenix_item_name=Phoenix Fish
-$prefabs_item_fish_enchanted_rare_phoenix_item_description=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_witch_item_name=Witchly Anemone
-$prefabs_item_fish_enchanted_rare_witch_item_description=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_water_turtle_item_name=Dannet
-$prefabs_item_fish_enchanted_rare_water_turtle_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_plasma_turtle_item_name=Leodo
-$prefabs_item_fish_enchanted_rare_plasma_turtle_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_lava_turtle_item_name=Rochelle
-$prefabs_item_fish_enchanted_rare_lava_turtle_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_chocolate_turtle_item_name=Michelada
-$prefabs_item_fish_enchanted_rare_chocolate_turtle_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_eel_item_name=Eelvis
-$prefabs_item_fish_enchanted_rare_eel_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_goblinfish_item_name=Neesa
-$prefabs_item_fish_enchanted_rare_goblinfish_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_lobster_item_name=Captain Blue Claw
-$prefabs_item_fish_enchanted_rare_lobster_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_ocean_sunfish_item_name=Brightray
-$prefabs_item_fish_enchanted_rare_ocean_sunfish_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_sea_urchin_item_name=Seasalt Biscuit
-$prefabs_item_fish_enchanted_rare_sea_urchin_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_tardigrade_item_name=Snugglebug
-$prefabs_item_fish_enchanted_rare_tardigrade_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_chocolate_darkwater_item_name=Porked Up Pufferfish
-$prefabs_item_fish_enchanted_rare_chocolate_darkwater_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_plasma_darkwater_item_name=Pulsing Reactor Fish
-$prefabs_item_fish_enchanted_rare_plasma_darkwater_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
-$prefabs_item_fish_enchanted_rare_lava_darkwater_item_name=Scorched Tigerfish
-$prefabs_item_fish_enchanted_rare_lava_darkwater_item_desc=Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_frogprince_item_name»Frog Prince
+$prefabs_item_fish_enchanted_rare_frogprince_item_description»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_gryphon_item_name»Gryphish
+$prefabs_item_fish_enchanted_rare_gryphon_item_description»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_merqubesly_item_name»Deep Sea Merthing
+$prefabs_item_fish_enchanted_rare_merqubesly_item_description»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_phoenix_item_name»Phoenix Fish
+$prefabs_item_fish_enchanted_rare_phoenix_item_description»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_witch_item_name»Witchly Anemone
+$prefabs_item_fish_enchanted_rare_witch_item_description»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_water_turtle_item_name»Dannet
+$prefabs_item_fish_enchanted_rare_water_turtle_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_plasma_turtle_item_name»Leodo
+$prefabs_item_fish_enchanted_rare_plasma_turtle_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_lava_turtle_item_name»Rochelle
+$prefabs_item_fish_enchanted_rare_lava_turtle_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_chocolate_turtle_item_name»Michelada
+$prefabs_item_fish_enchanted_rare_chocolate_turtle_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_eel_item_name»Eelvis
+$prefabs_item_fish_enchanted_rare_eel_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_goblinfish_item_name»Neesa
+$prefabs_item_fish_enchanted_rare_goblinfish_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_lobster_item_name»Captain Blue Claw
+$prefabs_item_fish_enchanted_rare_lobster_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_ocean_sunfish_item_name»Brightray
+$prefabs_item_fish_enchanted_rare_ocean_sunfish_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_sea_urchin_item_name»Seasalt Biscuit
+$prefabs_item_fish_enchanted_rare_sea_urchin_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_tardigrade_item_name»Snugglebug
+$prefabs_item_fish_enchanted_rare_tardigrade_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_chocolate_darkwater_item_name»Porked Up Pufferfish
+$prefabs_item_fish_enchanted_rare_chocolate_darkwater_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_plasma_darkwater_item_name»Pulsing Reactor Fish
+$prefabs_item_fish_enchanted_rare_plasma_darkwater_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_lava_darkwater_item_name»Scorched Tigerfish
+$prefabs_item_fish_enchanted_rare_lava_darkwater_item_desc»Rare Fish. Loot Collect it to gain resources and add it to your collection.

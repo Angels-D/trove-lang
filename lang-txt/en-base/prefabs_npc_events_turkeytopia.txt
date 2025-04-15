@@ -1,82 +1,94 @@
-$prefabs_npc_events_turkeytopia_bunfest_lady_sign_title=Lady Hoppstra
-$prefabs_npc_events_turkeytopia_bunfest_lady_sign_content=What a lovely party in spite of the chilly weather. Spring is so much more lovely.
-$prefabs_npc_events_turkeytopia_bunfest_sir_sign_title=Sir Cikcs
-$prefabs_npc_events_turkeytopia_bunfest_sir_sign_content=The chocolate eggs are just stupendous!
-$prefabs_npc_events_turkeytopia_bunfest_ambas_sign_title=Ambassador Crumble
-$prefabs_npc_events_turkeytopia_bunfest_ambas_sign_content=Qubesly seems to have gone all out this year.
-$prefabs_npc_events_turkeytopia_snowfest_snowman_sign_title=Chillio
-$prefabs_npc_events_turkeytopia_snowfest_snowman_sign_content=Gatherings are always best at night, far away from the sun.
-$prefabs_npc_events_turkeytopia_snowfest_rogue_sign_title=Quick Vin
-$prefabs_npc_events_turkeytopia_snowfest_rogue_sign_content=Hmph... spread's ok.
-$prefabs_npc_events_turkeytopia_snowfest_knight_sign_title=Ser Goudgiye
-$prefabs_npc_events_turkeytopia_snowfest_knight_sign_content=A tempestuous gathering. Fear not, there shall be peace so long as I am here.
-$prefabs_npc_events_turkeytopia_sunfest_carys_sign_title=Carys Representative
-$prefabs_npc_events_turkeytopia_sunfest_carys_sign_content=It's wonderful to have found the time for this with Snowfest coming so soon.
-$prefabs_npc_events_turkeytopia_sunfest_tysor_sign_title=Tysorion Representative
-$prefabs_npc_events_turkeytopia_sunfest_tysor_sign_content=Thank you for the invitation, but did you really need to invite House Carys and House Panatea as well?
-$prefabs_npc_events_turkeytopia_sunfest_panat_sign_title=Panatea Representative
-$prefabs_npc_events_turkeytopia_sunfest_panat_sign_content=Those 'Heckbugs' are truely fascinating. I do hope to have a chance to capture one this year.
-$prefabs_npc_events_turkeytopia_may_duck_sign_title=Sir Dapper Duckington
-$prefabs_npc_events_turkeytopia_may_duck_sign_content=QUACK. THE RADDISHES ARE PERFECT. QUACK. THANK YOU. QUACK.
-$prefabs_npc_events_turkeytopia_shadowseve_priest_sign_title=High Priest Lunavic
-$prefabs_npc_events_turkeytopia_shadowseve_preist_sign_content=With the Shadow defeated for another year a feast is truly in order.
-$prefabs_npc_events_turkeytopia_shadowseve_acolyte_sign_title=Acolyte Ginner
-$prefabs_npc_events_turkeytopia_shadowseve_acolyte_sign_content=You are ever the champion, in Shadow or Light.
-$prefabs_npc_events_turkeytopia_chefsly_sign_name=Chefsly
-$prefabs_npc_events_turkeytopia_chefsly_sign_desc=Trovian Bouillon, Friendsgiving Coins, and Plumed Chests, I've got 'em all!\nPress [HK:Loot] to interact
-$prefabs_npc_events_turkeytopia_chefsly_jr_sign_name=Chefsly Jr.
-$prefabs_npc_events_turkeytopia_chefsly_jr_sign_desc=Psst! You need veggies? I got em!\nPress [HK:Loot] to interact
-$prefabs_npc_events_nov2022_ninja_sign_title=???
-$prefabs_npc_events_nov2022_ninja_sign_content=....
-$prefabs_npc_events_nov2022_qubes_ninja_sign_title=Ninjsly
-$prefabs_npc_events_nov2022_qubes_ninja_sign_content=..
-$prefabs_npc_events_nov2022_pirate_sign_title=Saltwater Sam
-$prefabs_npc_events_nov2022_pirate_sign_content=Yarrr! Nothing better than fresh oranges and good friends!
-$prefabs_npc_events_nov2022_skeleton_sign_title=Skullerd
-$prefabs_npc_events_nov2022_skeleton_sign_content=Hey boyo! Longtime no see, hope you're staying in just the right amount of trouble.
-$prefabs_npc_events_nov2022_skeleton_noble_sign_title=Sir Femuran
-$prefabs_npc_events_nov2022_skeleton_noble_sign_content=At least the Wild Fae King knows to stay on the other side of the table.
-$prefabs_npc_events_nov2022_zombie_golem_sign_title=Quick-Stitch
-$prefabs_npc_events_nov2022_zombie_golem_sign_content=Huh?
-$prefabs_npc_events_nov2022_fae_king_sign_title=Fabio Fae La Fearso
-$prefabs_npc_events_nov2022_fae_king_sign_content=SERVANT! These Fae Sugar Cubes are in no way sweet enough. You will remedy this at once or there shall be violence.
-$prefabs_npc_events_nov2022_fae_fcaster_sign_title=Archmage of the Wild Fae Court
-$prefabs_npc_events_nov2022_fae_fcaster_sign_content=Fabio is... emotional, but what could you expect with us in such close proximity to the undead.
-$prefabs_npc_events_nov2022_fae_jug_sign_title=Champion of the Wild Fae Court
-$prefabs_npc_events_nov2022_fae_jug_sign_content=I will abide the peace of the Hub and shall gladly reinstate it when the undead eventually break it.
-$prefabs_npc_events_nov2022_cactusman_sign_title=Cactops
-$prefabs_npc_events_nov2022_cactusman_sign_content=Horns are just perfected needles when you think about it.
-$prefabs_npc_events_nov2022_steambot_sign_title=Dino-Bot 1.0
-$prefabs_npc_events_nov2022_steambot_sign_content=I. Do. Not. Eat. But. Still. I'm. Thankful. For. The. Thought.
-$prefabs_npc_events_nov2022_punchbot_sign_title=Dino-Kick-Bot
-$prefabs_npc_events_nov2022_punchbot_sign_content=This food is Dino-Kick'n good!
-$prefabs_npc_events_nov2022_scissorhand_sign_title=The Dino in Black
-$prefabs_npc_events_nov2022_scissorhand_sign_content=Grrrr, hwar.
-$prefabs_npc_events_nov2022_trex_western_sign_title=Dinoboy Rex
-$prefabs_npc_events_nov2022_trex_western_sign_content=RAAAWWWRR!
-$prefabs_npc_events_nov2022_triceratops_sign_title=Tricera-pony
-$prefabs_npc_events_nov2022_triceratops_sign_content=Growl-er-nhey.
-$prefabs_npc_events_nov2022_pinzo_01_sign_title=Chuck Pinzo
-$prefabs_npc_events_nov2022_pinzo_01_sign_content=The Qubeslys sure do hold a grudge.
-$prefabs_npc_events_nov2022_pinzo_02_sign_title=Chuck Pinzo
-$prefabs_npc_events_nov2022_pinzo_02_sign_content=Thank you Trovian, now I can make all new friends! You there, Fabio, sell me that dish.
-$prefabs_npc_events_july2023_qubesly_patrol_sign_title=Patrolsy
-$prefabs_npc_events_july2023_qubesly_patrol_sign_content=There will be no funny business this year.
-$prefabs_npc_events_nov2023_bunfest_warrior_sign_desc=It's odd being here alone, but at least this side of the table is calm.
-$prefabs_npc_events_nov2023_carys_sign_desc=There's too many choices. The houses demand less complication!
-$prefabs_npc_events_nov2023_dreambro_dragonfire_sign_name=Trycrys
-$prefabs_npc_events_nov2023_dreambro_dragonfire_sign_desc=Be warned, my fury will not be stopped by a duck.
-$prefabs_npc_events_nov2023_dreambro_dragonice_sign_name=Taigam
-$prefabs_npc_events_nov2023_dreambro_dragonice_sign_desc=The food is too warm, at least if I wait long enough it'll cool.
-$prefabs_npc_events_nov2023_duck_sign_desc=Did you have to put me in between the two hate filled apex predators?
-$prefabs_npc_events_nov2023_fae_wildfae_king_sign_desc=SERVANT! These are the same sugar cubes as last year! I demand fresh sugar immediately!
-$prefabs_npc_events_nov2023_hellbug_blue_sign_name=Cobalt Heckbug
-$prefabs_npc_events_nov2023_hellbug_blue_sign_desc=Rwwwwwarr!
-$prefabs_npc_events_nov2023_lunarpriest_moonacolyte_sign_desc=It is good we brought the Sunseekers this year.
-$prefabs_npc_events_nov2023_panatea_sign_desc=Last time it was heckbugs, now it's dinosaurs.
-$prefabs_npc_events_nov2023_saltwatersam_sign_desc=No matter how much they hide you gotta keep your good eye on ninjas, you can't trust them!
-$prefabs_npc_events_nov2023_sunseeker_sign_name=Sunseeker Knight
-$prefabs_npc_events_nov2023_sunseeker_sign_desc=Tauri could not make it this year, I won the lottery.
-$prefabs_npc_events_nov2023_tysorion_sign_desc=Just like last time, did you really need to invite House Panatea and House Carys?
-$prefabs_npc_events_renewus_garx_sign_title=Garx, The Champ
-$prefabs_npc_events_renewus_garx_sign_content=Do not fear, the Champ is here.
+$prefabs_npc_events_turkeytopia_bunfest_lady_sign_title»Lady Hoppstra
+$prefabs_npc_events_turkeytopia_bunfest_lady_sign_content»What a lovely party in spite of the chilly weather. Spring is so much more lovely.
+$prefabs_npc_events_turkeytopia_bunfest_sir_sign_title»Sir Cikcs
+$prefabs_npc_events_turkeytopia_bunfest_sir_sign_content»The chocolate eggs are just stupendous!
+$prefabs_npc_events_turkeytopia_bunfest_ambas_sign_title»Ambassador Crumble
+$prefabs_npc_events_turkeytopia_bunfest_ambas_sign_content»Qubesly seems to have gone all out this year.
+$prefabs_npc_events_turkeytopia_snowfest_snowman_sign_title»Chillio
+$prefabs_npc_events_turkeytopia_snowfest_snowman_sign_content»Gatherings are always best at night, far away from the sun.
+$prefabs_npc_events_turkeytopia_snowfest_rogue_sign_title»Quick Vin
+$prefabs_npc_events_turkeytopia_snowfest_rogue_sign_content»Hmph... spread's ok.
+$prefabs_npc_events_turkeytopia_snowfest_knight_sign_title»Ser Goudgiye
+$prefabs_npc_events_turkeytopia_snowfest_knight_sign_content»A tempestuous gathering. Fear not, there shall be peace so long as I am here.
+$prefabs_npc_events_turkeytopia_sunfest_carys_sign_title»Carys Representative
+$prefabs_npc_events_turkeytopia_sunfest_carys_sign_content»It's wonderful to have found the time for this with Snowfest coming so soon.
+$prefabs_npc_events_turkeytopia_sunfest_tysor_sign_title»Tysorion Representative
+$prefabs_npc_events_turkeytopia_sunfest_tysor_sign_content»Thank you for the invitation, but did you really need to invite House Carys and House Panatea as well?
+$prefabs_npc_events_turkeytopia_sunfest_panat_sign_title»Panatea Representative
+$prefabs_npc_events_turkeytopia_sunfest_panat_sign_content»Those 'Heckbugs' are truely fascinating. I do hope to have a chance to capture one this year.
+$prefabs_npc_events_turkeytopia_may_duck_sign_title»Sir Dapper Duckington
+$prefabs_npc_events_turkeytopia_may_duck_sign_content»QUACK. THE RADDISHES ARE PERFECT. QUACK. THANK YOU. QUACK.
+$prefabs_npc_events_turkeytopia_shadowseve_priest_sign_title»High Priest Lunavic
+$prefabs_npc_events_turkeytopia_shadowseve_preist_sign_content»With the Shadow defeated for another year a feast is truly in order.
+$prefabs_npc_events_turkeytopia_shadowseve_acolyte_sign_title»Acolyte Ginner
+$prefabs_npc_events_turkeytopia_shadowseve_acolyte_sign_content»You are ever the champion, in Shadow or Light.
+$prefabs_npc_events_turkeytopia_chefsly_sign_name»Chefsly
+$prefabs_npc_events_turkeytopia_chefsly_sign_desc»Trovian Bouillon, Friendsgiving Coins, and Plumed Chests, I've got 'em all!\nPress [HK:Loot] to interact
+$prefabs_npc_events_turkeytopia_chefsly_jr_sign_name»Chefsly Jr.
+$prefabs_npc_events_turkeytopia_chefsly_jr_sign_desc»Psst! You need veggies? I got em!\nPress [HK:Loot] to interact
+$prefabs_npc_events_nov2022_ninja_sign_title»???
+$prefabs_npc_events_nov2022_ninja_sign_content»....
+$prefabs_npc_events_nov2022_qubes_ninja_sign_title»Ninjsly
+$prefabs_npc_events_nov2022_qubes_ninja_sign_content»..
+$prefabs_npc_events_nov2022_pirate_sign_title»Saltwater Sam
+$prefabs_npc_events_nov2022_pirate_sign_content»Yarrr! Nothing better than fresh oranges and good friends!
+$prefabs_npc_events_nov2022_skeleton_sign_title»Skullerd
+$prefabs_npc_events_nov2022_skeleton_sign_content»Hey boyo! Longtime no see, hope you're staying in just the right amount of trouble.
+$prefabs_npc_events_nov2022_skeleton_noble_sign_title»Sir Femuran
+$prefabs_npc_events_nov2022_skeleton_noble_sign_content»At least the Wild Fae King knows to stay on the other side of the table.
+$prefabs_npc_events_nov2022_zombie_golem_sign_title»Quick-Stitch
+$prefabs_npc_events_nov2022_zombie_golem_sign_content»Huh?
+$prefabs_npc_events_nov2022_fae_king_sign_title»Fabio Fae La Fearso
+$prefabs_npc_events_nov2022_fae_king_sign_content»SERVANT! These Fae Sugar Cubes are in no way sweet enough. You will remedy this at once or there shall be violence.
+$prefabs_npc_events_nov2022_fae_fcaster_sign_title»Archmage of the Wild Fae Court
+$prefabs_npc_events_nov2022_fae_fcaster_sign_content»Fabio is... emotional, but what could you expect with us in such close proximity to the undead.
+$prefabs_npc_events_nov2022_fae_jug_sign_title»Champion of the Wild Fae Court
+$prefabs_npc_events_nov2022_fae_jug_sign_content»I will abide the peace of the Hub and shall gladly reinstate it when the undead eventually break it.
+$prefabs_npc_events_nov2022_cactusman_sign_title»Cactops
+$prefabs_npc_events_nov2022_cactusman_sign_content»Horns are just perfected needles when you think about it.
+$prefabs_npc_events_nov2022_steambot_sign_title»Dino-Bot 1.0
+$prefabs_npc_events_nov2022_steambot_sign_content»I. Do. Not. Eat. But. Still. I'm. Thankful. For. The. Thought.
+$prefabs_npc_events_nov2022_punchbot_sign_title»Dino-Kick-Bot
+$prefabs_npc_events_nov2022_punchbot_sign_content»This food is Dino-Kick'n good!
+$prefabs_npc_events_nov2022_scissorhand_sign_title»The Dino in Black
+$prefabs_npc_events_nov2022_scissorhand_sign_content»Grrrr, hwar.
+$prefabs_npc_events_nov2022_trex_western_sign_title»Dinoboy Rex
+$prefabs_npc_events_nov2022_trex_western_sign_content»RAAAWWWRR!
+$prefabs_npc_events_nov2022_triceratops_sign_title»Tricera-pony
+$prefabs_npc_events_nov2022_triceratops_sign_content»Growl-er-nhey.
+$prefabs_npc_events_nov2022_pinzo_01_sign_title»Chuck Pinzo
+$prefabs_npc_events_nov2022_pinzo_01_sign_content»The Qubeslys sure do hold a grudge.
+$prefabs_npc_events_nov2022_pinzo_02_sign_title»Chuck Pinzo
+$prefabs_npc_events_nov2022_pinzo_02_sign_content»Thank you Trovian, now I can make all new friends! You there, Fabio, sell me that dish.
+$prefabs_npc_events_july2023_qubesly_patrol_sign_title»Patrolsly
+$prefabs_npc_events_july2023_qubesly_patrol_sign_content»There will be no funny business this year.
+$prefabs_npc_events_nov2023_bunfest_warrior_sign_desc»It's odd being here alone, but at least this side of the table is calm.
+$prefabs_npc_events_nov2023_carys_sign_desc»There's too many choices. The houses demand less complication!
+$prefabs_npc_events_nov2023_dreambro_dragonfire_sign_name»Trycrys
+$prefabs_npc_events_nov2023_dreambro_dragonfire_sign_desc»Be warned, my fury will not be stopped by a duck.
+$prefabs_npc_events_nov2023_dreambro_dragonice_sign_name»Taigam
+$prefabs_npc_events_nov2023_dreambro_dragonice_sign_desc»The food is too warm, at least if I wait long enough it'll cool.
+$prefabs_npc_events_nov2023_duck_sign_desc»Did you have to put me in between the two hate filled apex predators?
+$prefabs_npc_events_nov2023_fae_wildfae_king_sign_desc»SERVANT! These are the same sugar cubes as last year! I demand fresh sugar immediately!
+$prefabs_npc_events_nov2023_hellbug_blue_sign_name»Cobalt Heckbug
+$prefabs_npc_events_nov2023_hellbug_blue_sign_desc»Rwwwwwarr!
+$prefabs_npc_events_nov2023_lunarpriest_moonacolyte_sign_desc»It is good we brought the Sunseekers this year.
+$prefabs_npc_events_nov2023_panatea_sign_desc»Last time it was heckbugs, now it's dinosaurs.
+$prefabs_npc_events_nov2023_saltwatersam_sign_desc»No matter how much they hide you gotta keep your good eye on ninjas, you can't trust them!
+$prefabs_npc_events_nov2023_sunseeker_sign_name»Sunseeker Knight
+$prefabs_npc_events_nov2023_sunseeker_sign_desc»Tauri could not make it this year, I won the lottery.
+$prefabs_npc_events_nov2023_tysorion_sign_desc»Just like last time, did you really need to invite House Panatea and House Carys?
+$prefabs_npc_events_renewus_garx_sign_title»Garx, The Champ
+$prefabs_npc_events_renewus_garx_sign_content»Do not be concerned, the Champ has returned.
+$prefabs_npc_events_nov2024_garx_sign_content»A good workout calls for a good meal!
+$prefabs_npc_events_nov2024_septup_sign_content»Your friend there has a way with words, and you have a way with cooking. I'm pleasantly surprised.
+$prefabs_npc_events_nov2024_septdown_sign_content»That Chefsly is convincing. I never thought I'd be sitting at the same table as the Cloud Layer Delegate, but here we are.
+$prefabs_npc_events_nov2024_octwitch_sign_content»No one here is allergic to cats, right? I like this form too much to change back now.
+$prefabs_npc_events_nov2024_febhunter_sign_content»The only good heckbug is a well-sliced raw heckbug.
+$prefabs_npc_events_nov2024_sam_sign_content»No ninjas this year, or at least none that I can see...
+$prefabs_npc_events_nov2024_fran_sign_content»Delicious Karken Soup! A taste of victory.
+$prefabs_npc_events_nov2024_mark_sign_content»For a meal like this I can put my fishing rod aside.
+$prefabs_npc_events_nov2024_thommas_sign_content»That Hunter guy seems really tense. Do you think he'll be okay?
+$prefabs_npc_events_nov2024_mysticism_sign_content»I'm just happy I get a seat at the main table!
+$prefabs_npc_events_nov2024_martial_sign_content»Do you think Garx would be willing to train me? His muscles are outstanding!
+$prefabs_npc_events_nov2024_pinzo_sign_content»Sorry about my busted printer, Trovian. As compensation, why don't you buy something from me? 2% Off!

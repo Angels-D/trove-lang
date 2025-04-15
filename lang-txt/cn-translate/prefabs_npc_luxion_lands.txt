@@ -1,0 +1,2 @@
+$prefabs_npc_luxion_lands_merchant_trials_crafting_sign_title»钻头鼹鼠商人(Dealer Diggsly)
+$prefabs_npc_luxion_lands_merchant_trials_crafting_sign_content»出售各种物品以换取金粉！按[HK:Loot]进行交易！(Sells a variety of items in exchange for Venturine! Press [HK:Loot] to trade!)

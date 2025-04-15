@@ -1,0 +1,2 @@
+$prefabs_effects_delve_healthregen_scaling_name»承受压力
+$prefabs_effects_delve_healthregen_scaling_description»降低你的生命回复能力。\n该效果会跟随当前秘境的深度而变化。

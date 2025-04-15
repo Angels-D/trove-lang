@@ -1,34 +1,36 @@
-$prefabs_placeable_matchmaker_events_shadowseve_purple_baleking_name=Delve Gateway: Refracted Balephantom
-$prefabs_placeable_matchmaker_events_shadowseve_purple_baleking_description=Place to queue yourself for a Private Delve in which REFRACTED BALEPHANTOM can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
-$prefabs_placeable_matchmaker_events_shadowseve_baleking_name=Delve Gateway: Greater Balephantom
-$prefabs_placeable_matchmaker_events_shadowseve_baleking_description=Place to queue yourself for a Private Delve in which GREATER BALEPHANTOM can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
-$prefabs_placeable_matchmaker_events_nov2020_turkeytopia_name=Delve Gateway: Turkeytopia
-$prefabs_placeable_matchmaker_events_nov2020_turkeytopia_description=Place to queue yourself for a Private Delve to search for Turkeytopia\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
-$prefabs_placeable_matchmaker_events_nov2021_turkeytopia_boss_name=Delve Gateway: Trotting Turkey
-$prefabs_placeable_matchmaker_events_nov2021_turkeytopia_boss_description=Place to queue yourself for a Private Delve in which Trotting Turkey can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
-$prefabs_placeable_matchmaker_events_dec2020_library_name=Delve Gateway: The Understacks
-$prefabs_placeable_matchmaker_events_dec2020_library_description=Place to queue yourself for a Private Delve for THE UNDERSTACKS \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
-$prefabs_placeable_matchmaker_events_april2021_bunfest_name=Depth Stepper: Buntopia
-$prefabs_placeable_matchmaker_events_april2021_bunfest_description=Place to queue yourself for a Private Delve which leads to the BUNTOPIA biome. \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
-$prefabs_placeable_matchmaker_events_july2021_carys_name=Gateway: Flux. Fissures (Carys)
-$prefabs_placeable_matchmaker_events_july2021_carys_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE CARYS enemies.
-$prefabs_placeable_matchmaker_events_july2021_panatea_name=Gateway: Flux. Fissures (Panatea)
-$prefabs_placeable_matchmaker_events_july2021_panatea_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE PANATEA enemies.
-$prefabs_placeable_matchmaker_events_july2021_tysorion_name=Gateway: Flux. Fissures (Tysorion)
-$prefabs_placeable_matchmaker_events_july2021_tysorion_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE TYSORION enemies.
-$prefabs_placeable_matchmaker_events_july2021_carys_t2_name=Deep Gateway: Flux. Fissures (Carys)
-$prefabs_placeable_matchmaker_events_july2021_carys_t2_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE CARYS enemies.\n<font color='#30ff30'>Increased chance</font> of memento drops!
-$prefabs_placeable_matchmaker_events_august2023_alpha_t2_name=Deep Gateway: The Alpha
-$prefabs_placeable_matchmaker_events_august2023_alpha_t2_description=Place to queue yourself for a delve in which THE ALPHA will sometimes appear.\n\n<font color='#ff3030'>WARNING:</font> THE ALPHA can not be damaged without Solar Seals from the Radiant Dayspring, used to purge it's Shadow Protection.\n\n<font color='#30ff30'>Increased chance</font> of memento drops!
-$prefabs_placeable_matchmaker_events_july2021_panatea_t2_name=Deep Gateway: Flux. Fissures (Panatea)
-$prefabs_placeable_matchmaker_events_july2021_panatea_t2_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE PANATEA enemies.\n<font color='#30ff30'>Increased chance</font> of memento drops!
-$prefabs_placeable_matchmaker_events_july2021_tysorion_t2_name=Deep Gateway: Flux. Fissures (Tysorion)
-$prefabs_placeable_matchmaker_events_july2021_tysorion_t2_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE TYSORION enemies.\n<font color='#30ff30'>Increased chance</font> of memento drops!
-$prefabs_placeable_matchmaker_events_october2021_shadowseve_name=Delve Gateway: Wolves' Den
-$prefabs_placeable_matchmaker_events_october2021_shadowseve_desc=Place to queue yourself for a Private Delve which leads to the Wolves' Den biome. \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\n<font color='#ff3030'>Disappears</font> at the end of the Shadow's Eve event
-$prefabs_placeable_matchmaker_events_july2022_chuckp_name=Delve Gateway: Chuck Pinzo
-$prefabs_placeable_matchmaker_events_july2022_chuckp_description=Place to queue yourself for a Private Delve with a Chuck Pinzo boss.
-$prefabs_placeable_matchmaker_events_bunfest_trex_eggman_name=Depth Stepper: Tyr-egg-asaurus
-$prefabs_placeable_matchmaker_events_bunfest_trex_eggman_description=Place to queue yourself for a Private Delve in which TYR-EGG-ASAUARUS can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
-$prefabs_placeable_matchmaker_events_bunfest_golem_eggman_name=Depth Stepper: King Egon
-$prefabs_placeable_matchmaker_events_bunfest_golem_eggman_description=Place to queue yourself for a Private Delve in which KING EGON can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_shadowseve_purple_baleking_name»Delve Gateway: Refracted Balephantom
+$prefabs_placeable_matchmaker_events_shadowseve_purple_baleking_description»Place to queue yourself for a Private Delve in which REFRACTED BALEPHANTOM can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_shadowseve_baleking_name»Delve Gateway: Greater Balephantom
+$prefabs_placeable_matchmaker_events_shadowseve_baleking_description»Place to queue yourself for a Private Delve in which GREATER BALEPHANTOM can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_nov2020_turkeytopia_name»Delve Gateway: Turkeytopia
+$prefabs_placeable_matchmaker_events_nov2020_turkeytopia_description»Place to queue yourself for a Private Delve to search for Turkeytopia\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_nov2021_turkeytopia_boss_name»Delve Gateway: Trotting Turkey
+$prefabs_placeable_matchmaker_events_nov2021_turkeytopia_boss_description»Place to queue yourself for a Private Delve in which Trotting Turkey can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_dec2020_library_name»Delve Gateway: The Understacks
+$prefabs_placeable_matchmaker_events_dec2020_library_description»Place to queue yourself for a Private Delve for THE UNDERSTACKS \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_april2021_bunfest_name»Depth Stepper: Buntopia
+$prefabs_placeable_matchmaker_events_april2021_bunfest_description»Place to queue yourself for a Private Delve which leads to the BUNTOPIA biome. \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_july2021_carys_name»Gateway: Flux. Fissures (Carys)
+$prefabs_placeable_matchmaker_events_july2021_carys_description»Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE CARYS enemies.
+$prefabs_placeable_matchmaker_events_july2021_panatea_name»Gateway: Flux. Fissures (Panatea)
+$prefabs_placeable_matchmaker_events_july2021_panatea_description»Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE PANATEA enemies.
+$prefabs_placeable_matchmaker_events_july2021_tysorion_name»Gateway: Flux. Fissures (Tysorion)
+$prefabs_placeable_matchmaker_events_july2021_tysorion_description»Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE TYSORION enemies.
+$prefabs_placeable_matchmaker_events_july2021_carys_t2_name»Deep Gateway: Flux. Fissures (Carys)
+$prefabs_placeable_matchmaker_events_july2021_carys_t2_description»Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE CARYS enemies.\n<font color='#30ff30'>Increased chance</font> of memento drops!
+$prefabs_placeable_matchmaker_events_august2023_alpha_t2_name»Deep Gateway: The Alpha
+$prefabs_placeable_matchmaker_events_august2023_alpha_t2_description»Place to queue yourself for a delve in which THE ALPHA will sometimes appear.\n\n<font color='#ff3030'>WARNING:</font> THE ALPHA can not be damaged without Solar Seals from the Radiant Dayspring, used to purge it's Shadow Protection.\n\n<font color='#30ff30'>Increased chance</font> of memento drops!
+$prefabs_placeable_matchmaker_events_july2021_panatea_t2_name»Deep Gateway: Flux. Fissures (Panatea)
+$prefabs_placeable_matchmaker_events_july2021_panatea_t2_description»Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE PANATEA enemies.\n<font color='#30ff30'>Increased chance</font> of memento drops!
+$prefabs_placeable_matchmaker_events_july2021_tysorion_t2_name»Deep Gateway: Flux. Fissures (Tysorion)
+$prefabs_placeable_matchmaker_events_july2021_tysorion_t2_description»Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE TYSORION enemies.\n<font color='#30ff30'>Increased chance</font> of memento drops!
+$prefabs_placeable_matchmaker_events_october2021_shadowseve_name»Delve Gateway: Wolves' Den
+$prefabs_placeable_matchmaker_events_october2021_shadowseve_desc»Place to queue yourself for a Private Delve which leads to the Wolves' Den biome. \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\n<font color='#ff3030'>Disappears</font> at the end of the Shadow's Eve event
+$prefabs_placeable_matchmaker_events_july2022_chuckp_name»Delve Gateway: Chuck Pinzo
+$prefabs_placeable_matchmaker_events_july2022_chuckp_description»Place to queue yourself for a Private Delve with a Chuck Pinzo boss.
+$prefabs_placeable_matchmaker_events_bunfest_trex_eggman_name»Depth Stepper: Tyr-egg-asaurus
+$prefabs_placeable_matchmaker_events_bunfest_trex_eggman_description»Place to queue yourself for a Private Delve in which TYR-EGG-ASAUARUS can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_bunfest_golem_eggman_name»Depth Stepper: King Egon
+$prefabs_placeable_matchmaker_events_bunfest_golem_eggman_description»Place to queue yourself for a Private Delve in which KING EGON can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_july2024_boot_pinzo_name»Delve Gateway: Pinzo's Right Shoe
+$prefabs_placeable_matchmaker_events_july2024_boot_pinzo_description»Place to queue yourself for a Private Delve with a Pinzo's Right Shoe boss.

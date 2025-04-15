@@ -1,17 +1,21 @@
-$prefabs_gameplay_chest_shadow_animated_sign_title=Everdark Vault
-$prefabs_gameplay_chest_shadow_animated_sign_content=Use a Class Gem Key or an Shaper's Star Key nearby to claim your reward.
-$prefabs_gameplay_chest_quest_shadow_easy_sign_title=Shadow Tower Vault
-$prefabs_gameplay_chest_quest_shadow_easy_sign_content=Use the appropriate key nearby to claim your reward.
-$prefabs_gameplay_chest_quest_shadow_hard_sign_title=Moon Tower Vault
-$prefabs_gameplay_chest_quest_shadow_hard_sign_content=Use a Moon Key nearby to claim your reward.
-$prefabs_gameplay_chest_quest_shadow_ultra_sign_title=Eclipse Tower Vault
-$prefabs_gameplay_chest_quest_shadow_ultra_sign_content=Use an Eclipse Key nearby to claim your reward.
-$prefabs_gameplay_chest_worldboss_sign_title=Leviathan Vault
-$prefabs_gameplay_chest_worldboss_sign_content=Use a Leviathan Key nearby to claim your reward.
-$prefabs_gameplay_chest_delve_personal_sign_title=Personalized Chest!
-$prefabs_gameplay_chest_quest_giantlands_5star_sign_title=Unstable Sunder-Ark Cache
-$prefabs_gameplay_chest_quest_giantlands_5star_sign_content=Use a Sunder-Ark Cache Key within 30 seconds!
-$prefabs_gameplay_chest_delve_castle_catastra_keyed_sign_title=Reinforced Gemerald Cache
-$prefabs_gameplay_chest_delve_castle_catastra_keyed_sign_content=Equip and Use 'Fi's Key' to open and give loot to all NEARBY PLAYERS.
-$prefabs_gameplay_chest_quest_oct2023_pumpkin_sign_title=Cache of the Patch
-$prefabs_gameplay_chest_quest_oct2023_pumpkin_sign_content=Use a Pumpkin Patch Cache Key within 30 seconds!
+$prefabs_gameplay_chest_shadow_animated_sign_title»Everdark Vault
+$prefabs_gameplay_chest_shadow_animated_sign_content»Use a Class Gem Key or an Shaper's Star Key nearby to claim your reward.
+$prefabs_gameplay_chest_quest_shadow_easy_sign_title»Shadow Tower Vault
+$prefabs_gameplay_chest_quest_shadow_easy_sign_content»Use the appropriate key nearby to claim your reward.
+$prefabs_gameplay_chest_quest_shadow_hard_sign_title»Moon Tower Vault
+$prefabs_gameplay_chest_quest_shadow_hard_sign_content»Use a Moon Key nearby to claim your reward.
+$prefabs_gameplay_chest_quest_shadow_ultra_sign_title»Eclipse Tower Vault
+$prefabs_gameplay_chest_quest_shadow_ultra_sign_content»Use an Eclipse Key nearby to claim your reward.
+$prefabs_gameplay_chest_worldboss_sign_title»Leviathan Vault
+$prefabs_gameplay_chest_worldboss_sign_content»Use a Leviathan Key nearby to claim your reward.
+$prefabs_gameplay_chest_delve_personal_sign_title»Personalized Chest!
+$prefabs_gameplay_chest_quest_giantlands_5star_sign_title»Unstable Sunder-Ark Cache
+$prefabs_gameplay_chest_quest_giantlands_5star_sign_content»Use a Sunder-Ark Cache Key within 30 seconds!
+$prefabs_gameplay_chest_delve_castle_catastra_keyed_sign_title»Reinforced Gemerald Cache
+$prefabs_gameplay_chest_delve_castle_catastra_keyed_sign_content»Equip and Use 'Fi's Key' to open and give loot to all NEARBY PLAYERS.
+$prefabs_gameplay_chest_quest_oct2023_pumpkin_sign_title»Cache of the Patch
+$prefabs_gameplay_chest_quest_oct2023_pumpkin_sign_content»Use a Pumpkin Patch Cache Key within 30 seconds!
+$prefabs_gameplay_chest_quest_rune_vault_01_name»Surfaced Depths Cache
+$prefabs_gameplay_chest_quest_rune_vault_01_description»Equip and use a Surfaced Depths Cache Key when nearby to open.
+$prefabs_gameplay_chest_quest_rune_vault_02_name»Runic Depths Vault
+$prefabs_gameplay_chest_quest_rune_vault_02_description»Equip and use a Runic Depths Vault Key when nearby to open.

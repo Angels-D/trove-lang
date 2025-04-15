@@ -1,302 +1,311 @@
-$quest_star_bar_description=Daily Star Bar reward
-$quest_star_bar_description_01=Daily Star Bar reward 1/5
-$quest_star_bar_description_02=Daily Star Bar reward 2/5
-$quest_star_bar_description_03=Daily Star Bar reward 3/5
-$quest_star_bar_description_04=Daily Star Bar reward 4/5
-$quest_star_bar_description_05=Daily Star Bar reward 5/5
-$quest_star_bar_tooltipDescription=Spawns a Starglint Pinata when thrown. Defeating it will give something good to the person who throws it and 7 other random people nearby.
-$quest_star_bar_patron_description=Daily Star Bar reward
-$challenge_level_1_reward=Challenge level 1 reward
-$challenge_level_2_reward=Challenge level 2 reward
-$challenge_level_3_reward=Challenge level 3 reward
-$challenge_level_4_reward=Challenge level 4 reward
-$geode_surface_5star_bronze_description=Geode 5-Star Dungeon Completion Reward (Bronze)
-$geode_surface_5star_silver_description=Geode 5-Star Dungeon Completion Reward (Silver)
-$geode_surface_5star_gold_description=Geode 5-Star Dungeon Completion Reward (Gold)
-$gl_5star_default_description=Sundered Uplands 5-Star Dungeon Completion Reward
-$giantlands_5star_giantlands_lootbox_tooltip=Awarded an unlimited number of times each day, open for valuable Sundered Uplands resources!
-$giantlands_5star_sundercharge_crystal_tooltip_p01=Sundered Uplands 5-Star Boss (Wave 2)
-$giantlands_5star_sundercharge_crystal_tooltip_p02=Sundered Uplands 5-Star Boss (Wave 3)
-$giantlands_5star_sundercharge_crystal_tooltip_p03=Sundered Uplands 5-Star Boss (Wave 5)
-$giantlands_5star_sundercharge_crystal_tooltip_p04=Sundered Uplands 5-Star Boss (Wave 7)
-$giantlands_5star_sundercharge_crystal_tooltip_p05=Sundered Uplands 5-Star Boss (Wave 11)
-$giantlands_5star_sundercharge_crystal_tooltip_p06=Sundered Uplands 5-Star Boss (Wave 13)
-$giantlands_5star_sundercharge_crystal_tooltip_p07=Sundered Uplands 5-Star Boss (Wave 17)
-$giantlands_5star_sundercharge_crystal_tooltip_p08=Sundered Uplands 5-Star Boss (Wave 19)
-$giantlands_5star_sundercharge_crystal_tooltip_p09=Sundered Uplands 5-Star Boss (Wave 23)
-$giantlands_5star_sundercharge_crystal_tooltip_p10=Sundered Uplands 5-Star Boss (Wave 29)
-$giantlands_5star_sundercharge_crystal_tooltip_p11=Sundered Uplands 5-Star Boss (Wave 31)
-$giantlands_5star_sundercharge_crystal_tooltip_p12=Sundered Uplands 5-Star Boss (Wave 37)
-$giantlands_5star_sundercharge_crystal_tooltip_p13=Sundered Uplands 5-Star Boss (Wave 41)
-$giantlands_5star_sundercharge_crystal_tooltip_p14=Sundered Uplands 5-Star Boss (Wave 43)
-$giantlands_5star_sundercharge_crystal_tooltip_p15=Sundered Uplands 5-Star Boss (Wave 47)
-$giantlands_5star_sundercharge_crystal_tooltip_p16=Sundered Uplands 5-Star Boss (Wave 53)
-$giantlands_5star_sundercharge_crystal_tooltip_p17=Sundered Uplands 5-Star Boss (Wave 59)
-$giantlands_5star_sundercharge_crystal_tooltip_p18=Sundered Uplands 5-Star Boss (Wave 61)
-$giantlands_5star_sundercharge_crystal_tooltip_p19=Sundered Uplands 5-Star Boss (Wave 67)
-$giantlands_5star_sundercharge_crystal_tooltip_p20=Sundered Uplands 5-Star Boss (Wave 71)
-$giantlands_5star_sundercharge_crystal_tooltip_p21=Sundered Uplands 5-Star Boss (Wave 73, Uber 11)
-$giantlands_5star_sundercharge_crystal_tooltip_p22=Sundered Uplands 5-Star Boss (Wave 79, Uber 11)
-$giantlands_5star_sundercharge_crystal_tooltip_p23=Sundered Uplands 5-Star Boss (Wave 83, Uber 11)
-$giantlands_5star_sundercharge_crystal_tooltip_p24=Sundered Uplands 5-Star Boss (Wave 89, Uber 11)
-$giantlands_5star_sundercharge_crystal_tooltip_p25=Sundered Uplands 5-Star Boss (Wave 97, Uber 11)
-$giantlands_5star_sundercharge_crystal_tooltip_p26=Sundered Uplands 5-Star Boss (Wave 101, Uber 11)
-$giantlands_5star_sundercharge_crystal_tooltip_p27=Sundered Uplands 5-Star Boss (Wave 103, Uber 11)
-$giantlands_5star_sundercharge_crystal_tooltip_p28=Sundered Uplands 5-Star Boss (Wave 107, Uber 11)
-$giantlands_5star_sundercharge_crystal_tooltip_p29=Sundered Uplands 5-Star Boss (Wave 109, Uber 11)
-$giantlands_5star_sundercharge_crystal_tooltip_p30=Sundered Uplands 5-Star Boss (Wave 113, Uber 11)
-$Claims_scramble2019_01=Good luck exploring. Love Mortsdot.
-$Claims_scramble2019_02=These critter treats are wrapped in blankets and covered in curing kits
-$Claims_Event_goldenthread_june2019=Thanks for the help, Trovian!
-$Claims_event_adventurecrystal_auto_24=This activity is available in the Events tab of the Adventure Journal for 24 hours.
-$Claims_adventurecrystal_complete=Daily Adventure Completion Reward
-$Claims_may2019_daily_adventure_breadcrumb=Check the Adventure Journal Events tab for Luxion's Spring Cleaning Daily Adventures!
-$Claims_june2019_daily_adventure_breadcrumb=Check the Adventure Journal Events tab for Splendid Summer Daily Adventures!
-$Claims_july2019_daily_adventure_breadcrumb=Check the Adventure Journal Events tab for Sunfest Daily Adventures!
-$Claims_july2019_quest_start_breadcrumb=Spend this Token with Qubesly in the Hub to select a Sunfest House to represent!
-$Claims_aprilfools2021_quest_start_breadcrumb=... Fish?
-$Claims_Event_goldenthread_generic=Thanks for the help, Trovian!
-$Claims_generic_daily_adventure_breadcrumb=Check the Adventure Journal Events tab for bonus Daily Adventures!
-$Claims_recipe_prismatic_red_knowledge_name=Red Font of Knowledge
-$Claims_recipe_prismatic_red_knowledge_description=Teaches all there is know about the nature of Prismatic Red and allows your mind to reach towards Prismatic Orange through the consumption of Red Essences.
-$Claims_recipe_prismatic_red_knowledge_tooltipdescription=You can now craft Prismatic Red Essence at the Radiant Dayspring.
-$Claims_recipe_prismatic_blue_knowledge_name=Blue Font of Knowledge
-$Claims_recipe_prismatic_blue_knowledge_description=Teaches all there is know about the nature of Prismatic Blue and allows your mind to reach towards Prismatic Purple through the consumption of Blue Essences.
-$Claims_recipe_prismatic_blue_knowledge_tooltipdescription=You can now craft Prismatic Blue Essence at the Radiant Dayspring.
-$Claims_recipe_prismatic_purple_knowledge_name=Purple Font of Knowledge
-$Claims_recipe_prismatic_purple_knowledge_description=Teaches all there is know about the nature of Prismatic Purple and allows your mind to reach towards the Dazzling Core through the consumption of Purple Essences.
-$Claims_recipe_prismatic_purple_knowledge_tooltipdescription=You can now craft Prismatic Purple Essence at the Radiant Dayspring.
-$Claims_event_sunfest_daily_choice_coin_description=Can be traded to Qubesly to choose a Sunfest House, if you don't already have one.
-$Claims_Event_nov2020=Diggsly had the recipe!
-$Claims_GoldenThread_event_corruption_02=A Tip from Corruxion themselves.
-$Claims_Event_goldenthread_event_december2020_02_carpet_recipe=Trovian! This is one of the new recipes that requires a Glashadial Shard!
-$Claims_Event_goldenthread_event_december2020_03_library_matchmaker=These go in your BUILD INVENTORY! Place them to find your way into THE UNDERSTACKS!
-$Claims_GoldenThread_event_renewus2021_00=Rewarded from completing a Renewus Event Quest
-$Claims_GoldenThread_event_renewus2021_01=Rewarded from completing a Renewus Event Quest
-$Claims_GoldenThread_event_renewus2021_02=Rewarded from completing a Renewus Event Quest
-$Claims_GoldenThread_event_renewus2021_03=Rewarded from completing a Renewus Event Quest
-$Claims_GoldenThread_event_renewus2021_04=Rewarded from completing a Renewus Event Quest
-$Claims_GoldenThread_event_renewus2021_05=Rewarded from completing a Renewus Event Quest
-$Claims_GoldenThread_event_renewus2021_06=Rewarded from completing a Renewus Event Quest
-$Claims_GoldenThread_event_renewus2021_07=Rewarded from completing a Renewus Event Quest
-$Claims_GoldenThread_event_february2021_00=Rewarded from completing a Heckbugs in love Event Quest
-$Claims_GoldenThread_event_february2021_01=Equip and throw the Preserved Pow Meat
-$Claims_GoldenThread_event_march2021=Rewarded from completing a quest for the St. Qubeslick event
-$Claims_GoldenThread_event_april2021=A reward and thank-you from our Bun-frens!
-$Claims_GoldenThread_event_april2021_style=You can craft this Style at the Delve Workbench at your convenience!
-$Claims_GoldenThread_event_may2021=Here's a reward and please save the bees!!!
-$Claims_GoldenThread_event_june2021=Here's a reward from GM Qubesly!
-$Claims_GoldenThread_event_july2021_02=Nice work, Trovian, here's your reimbursement!
-$Claims_GoldenThread_event_july2021_05=Oh! We didn't know. Here's our fine! It's fine, right?
-$Claims_GoldenThread_event_july2021_06=Here is the Panatea fine! Thank you, Trovian, shop with us again!
-$Claims_GoldenThread_event_july2021_07=Tell Qubesly we're sorry. We probably won't do it again next year!
-$Claims_GoldenThread_event_july2021_08=Great work, Trovian! I also have this for you, thanks again!
-$Claims_GoldenThread_event_aug2021=Recieved By the Moon Goddess's Blessing.
-$Claims_GoldenThread_event_aug2021_0=Found by those hidden in the Void.
-$Claims_GoldenThread_event_september2021_qubes=Great work, Trovian! I also have this for you, thanks again!
-$Claims_GoldenThread_event_september2021_fprin=Thanks and commendations in recognition of your valor directly from the Fae Court.
-$Claims_GoldenThread_event_september2021_skeld=Hey boyo, thanks fa' doin ya' part against dem fae!
-$Claims_GoldenThread_event_july2022_pinzo=A Chuck Pinzo promise of value you can bank on.
-$Claims_GoldenThread_event_july2022_houses=A reward for enforcing the superiority of the Dragon Houses.
-$Claims_GoldenThread_event_july2022_monkey_chuckp=With your own patsy you're well on your way to becoming the next Chuck Pinzo!
-$Claims_GoldenThread_event_aug2022=A reward for fighting the Void during the Lunar Plunge 2022 event.
-$Claims_GoldenThread_event_aug2022_pet=With all the Alphas defeated there's plenty of puppys in the Everdark in need of a home.
-$Claims_GoldenThread_event_sep2022_dino=The Dinoboy's of the Jurassic Jungle roar with thanks.
-$Claims_GoldenThread_event_sep2022_cowboy=The Cowasaurs's of the Desert Frontier clamour with gratitude.
-$Claims_GoldenThread_event_oct2022_generic=A reward for taking part in the Shadow's Eve event.
-$Claims_GoldenThread_event_oct2022_wolf=With the Q'rse cured you can safely ride this. Maybe....
-$Claims_Event_goldenthread_november2022_qubesly_recipes=The recipe for one of Qubesly's Favorites.
-$Claims_Event_goldenthread_november2022_mains_recipes=The recipe for a Special Order.
-$Claims_Event_goldenthread_november2022_food_recipe=A recipe for one of the Friendsgiving 2022 foods and Trovian Bouillon.
-$Claims_Event_goldenthread_november2022_pinzo_thanks=Payment for a job well done.
-$Claims_Event_goldenthread_november2022_decoration_unlock=Pepares and sets the dish at the table, invites friends to the hub and unlocks the decoration recipes.
-$Claims_Event_goldenthread_november2022_sides_decoration_unlock=Pepares and sets the dish at the table and unlocks the decoration recipe for this dish.
-$Claims_Event_goldenthread_january2023_generic_reward=A reward from the Renewus 2023 event.
-$Claims_fishing_capricorn_fragment_description=A fragment of the Depths' power.
-$Claims_fishing_reward_hermitcrab_deltalith_description=The depths conquered the Delves and its inhabitants use the deltaliths as shells.
-$Claims_fishing_reward_howlug_snail_description=These creatures are the only light in the depths.
-$Claims_fishing_reward_hoppet_shark_description=Proof that the most terrifying predators are not the largest.
-$Claims_fishing_adv_reward_description=Freshwater Fran's payment for completing a special order.
-$Claims_fishing_tutorial_reward_description=Saltwater Sam's reward for learning to fish.
-$Claims_starchart_tutorial_reward_description=The Celestial's reward for studying the Constellations.
-$Claims_GoldenThread_event_april2023_reward=A reward for celebrating Bunfest!
-$Claims_GoldenThread_event_may2023=Thanks for getting back to the quack, and flinging for Spring Fling!
-$Claims_GoldenThread_event_ggj_2023=Excellent work, Trovian! Together we can keep Trove's ecosystem thriving!
-$Claims_GoldenThread_event_sunfest_2023_quest=Good job Trovian, with your help Sunfest will be a success!
-$Claims_GoldenThread_event_sunfest_2023_daily=Wonderful work Trovian, the Houses give thanks for your help!
-$Claims_GoldenThread_event_august_2023=Thank you for helping the Elysian Offensive.
-$Claims_GoldenThread_expertise_luxion=A reward from Luxion for working with Fluxion.
-$Claims_GoldenThread_event_september_2023_frost=Payment for serving the Rime Wardens.
-$Claims_GoldenThread_event_september_2023_fire=The Smoldering Clutch left this for you, who knows why?
-$Claims_GoldenThread_event_september_2023_neutral=A reward from the 2023 Battle of Fire and Ice event.
-$Claims_GoldenThread_event_october_2023_coin=A reward from the 2023 Shadow's Eve event.
-$Claims_GoldenThread_event_october_2023_effigy=A cleansed Pumpkin Effigy from Wolfsly.
-$claims_recipe_title_description_ends_spring=Remains available until SPRING (MAR 1st)
-$claims_recipe_title_description_ends_summer=Remains available until SUMMER (JUN 1st)
-$claims_recipe_title_description_ends_fall=Remains available until FALL (SEP 1st)
-$claims_recipe_title_description_ends_winter=Remains available until WINTER (DEC 1st)
-$claims_recipe_title_type_prefix=Prefix
-$claims_recipe_title_type_suffix=Suffix
-$claims_recipe_title_type_both=Prefix, Suffix
-$claims_recipe_title_meta_emoji_emotive=Title: the Emotive
-$claims_recipe_title_meta_emoji_chiral=Title: the Chiral
-$claims_recipe_title_lootbox_chaos_chaotic=Title: Chaotic
-$claims_recipe_title_lootbox_chaos_chaotic_neutral=Title: Chaotic Neutral
-$claims_recipe_title_lootbox_chaos_chaotic_good=Title: Chaotic Good
-$claims_recipe_title_lootbox_chaos_chaotic_evil=Title: Chaotic Evil
-$claims_recipe_title_lootbox_chaos_pure_chaotic=Title: Pure Chaotic
-$claims_recipe_title_emoji_smile=Title: :)
-$claims_recipe_title_emoji_tongue=Title: :P
-$claims_recipe_title_emoji_happytears=Title: :")
-$claims_recipe_title_emoji_unamused=Title: :|
-$claims_recipe_title_emoji_annoyed=Title: :/
-$claims_recipe_title_emoji_frown=Title: :(
-$claims_recipe_title_emoji_cry=Title: :'(
-$claims_recipe_title_emoji_angry=Title: >:(
-$claims_recipe_title_emoji_angrytears=Title: >:'(
-$claims_recipe_title_emoji_cat=Title: :3
-$claims_recipe_title_emoji_smile_mirror=Title: (:
-$claims_recipe_title_emoji_tongue_mirror=Title: d:
-$claims_recipe_title_emoji_happytears_mirror=Title: (":
-$claims_recipe_title_emoji_unamused_mirror=Title: |:
-$claims_recipe_title_emoji_annoyed_mirror=Title: \:
-$claims_recipe_title_emoji_frown_mirror=Title: ):
-$claims_recipe_title_emoji_cry_mirror=Title: )':
-$claims_recipe_title_emoji_angry_mirror=Title: ):<
-$claims_recipe_title_emoji_angrytears_mirror=Title: )':<
-$claims_recipe_title_class_adventurer_30=Title: the Boomeranger
-$claims_recipe_title_class_bard_30=Title: the Bard
-$claims_recipe_title_class_candybarbarian_30=Title: the Candy Barbarian
-$claims_recipe_title_class_chloromancer_30=Title: the Chloromancer
-$claims_recipe_title_class_crimefighter_30=Title: the Vanguardian
-$claims_recipe_title_class_dinotamer_30=Title: the Dino Tamer
-$claims_recipe_title_class_dracolyte_30=Title: the Dracolyte
-$claims_recipe_title_class_faetrickster_30=Title: the Fae Trickster
-$claims_recipe_title_class_gunslinger_30=Title: the Gunslinger
-$claims_recipe_title_class_icemage_30=Title: the Ice Sage
-$claims_recipe_title_class_knight_30=Title: the Knight
-$claims_recipe_title_class_lunarlancer_30=Title: the Lunar Lancer
-$claims_recipe_title_class_neonninja_30=Title: the Neon Ninja
-$claims_recipe_title_class_piratelord_30=Title: the Pirate Captain
-$claims_recipe_title_class_shadowhunter_30=Title: the Shadow Hunter
-$claims_recipe_title_class_solarion_30=Title: the Solarion
-$claims_recipe_title_class_spirittank_30=Title: the Revenant
-$claims_recipe_title_class_tombraiser_30=Title: the Tomb Raiser
-$claims_recipe_title_class_adventurer_prime_primal=Title: Primal Boomeranger
-$claims_recipe_title_class_bard_prime_primal=Title: Primal Bard
-$claims_recipe_title_class_candybarbarian_prime_primal=Title: Primal Candy Barbarian
-$claims_recipe_title_class_chloromancer_prime_primal=Title: Primal Chloromancer
-$claims_recipe_title_class_crimefighter_prime_primal=Title: Primal Vanguardian
-$claims_recipe_title_class_dinotamer_prime_primal=Title: Primal Dino Tamer
-$claims_recipe_title_class_dracolyte_prime_primal=Title: Primal Dracolyte
-$claims_recipe_title_class_faetrickster_prime_primal=Title: Primal Fae Trickster
-$claims_recipe_title_class_gunslinger_prime_primal=Title: Primal Gunslinger
-$claims_recipe_title_class_icemage_prime_primal=Title: Primal Ice Sage
-$claims_recipe_title_class_knight_prime_primal=Title: Primal Knight
-$claims_recipe_title_class_lunarlancer_prime_primal=Title: Primal Lunar Lancer
-$claims_recipe_title_class_neonninja_prime_primal=Title: Primal Neon Ninja
-$claims_recipe_title_class_piratelord_prime_primal=Title: Primal Pirate Captain
-$claims_recipe_title_class_shadowhunter_prime_primal=Title: Primal Shadow Hunter
-$claims_recipe_title_class_solarion_prime_primal=Title: Primal Solarion
-$claims_recipe_title_class_spirittank_prime_primal=Title: Primal Revenant
-$claims_recipe_title_class_tombraiser_prime_primal=Title: Primal Tomb Raiser
-$claims_recipe_title_biome_highlands_highlander=Title: the Highlander
-$claims_recipe_title_biome_highlands_lord=Title: Lord
-$claims_recipe_title_biome_highlands_lady=Title: Lady
-$claims_recipe_title_biome_tundra_frozen=Title: the Frozen
-$claims_recipe_title_biome_undead_cursebreaker=Title: the Cursebreaker
-$claims_recipe_title_biome_frontier_sheriff=Title: Sheriff
-$claims_recipe_title_biome_fae_warden=Title: Warden
-$claims_recipe_title_biome_candy_chocoholic=Title: the Chocoholic
-$claims_recipe_title_biome_neon_binary=Title: the Binary
-$claims_recipe_title_biome_neon_nonbinary=Title: the Non-Binary
-$claims_recipe_title_biome_dinosaur_savage=Title: the Savage
-$claims_recipe_title_biome_dragon_molten=Title: Molten
-$claims_recipe_title_biome_spires_ancientempire=Title: of the Ancient Empire
-$claims_recipe_title_biome_giantlands_uplifted=Title: the Uplifted
-$claims_recipe_title_biome_giantlands_ashfallen=Title: the Ashfallen
-$claims_recipe_title_dragon_pumpkin_name=Seasonal Title: o-Lantern
-$claims_recipe_title_dragon_friend_03_name=Seasonal Title: the Immortal
-$claims_recipe_title_dragon_oldblue_03_name=Seasonal Title: the Blue
-$claims_recipe_title_dragon_neon_03_name=Seasonal Title: the Neolord
-$claims_recipe_title_dragon_beard_03_name=Seasonal Title: the Ancient
-$claims_recipe_title_dragon_lunar_03_name=Seasonal Title: the Enchanting
-$claims_recipe_title_dragon_bone_03_name=Seasonal Title: the Waiting Oblivion
-$claims_recipe_title_dragon_winter_2015_03_name=Seasonal Title: Primarch of Permafrost
-$claims_recipe_title_dragon_starlight_03_name=Seasonal Title: Charter of the Constellations
-$claims_recipe_title_dragon_mastery_03_male_name=Seasonal Title: King of Dragons
-$claims_recipe_title_dragon_mastery_03_female_name=Seasonal Title: Queen of Dragons
-$claims_recipe_title_dragon_qbthulhu_name=Seasonal Title: the Unwavering
-$claims_recipe_title_dragon_moonsilver_name=Seasonal Title: the Moonlit Muse
-$claims_recipe_title_dragon_amperium_name=Seasonal Title: Dissent's Roar
-$claims_recipe_title_dragon_resistor_name=Seasonal Title: Luminary of Hope
-$claims_recipe_title_dragon_flux_03_name=Seasonal Title: Scion of the Hoard
-$claims_recipe_title_dragonbug_beecat_name=Seasonal Title: of the Honeybees
-$claims_recipe_title_dragon_newyearblue_name=Seasonal Title: Sage of the Eastern Ranges
-$claims_recipe_title_dragon_chaos_name=Seasonal Title: the Chaos Dragon
-$claims_recipe_title_dragon_bomberroyale_sticky_name=Seasonal Title: the Fury
-$claims_recipe_title_dragon_stainedglass_name=Seasonal Title: the Ashen Reborn
-$claims_recipe_title_dragon_balefire_name=Seasonal Title: the Unforgiven
-$claims_recipe_title_dragon_bomber_name=Seasonal Title: the Herald of Battle
-$claims_recipe_title_dragon_music_name=Seasonal Title: Voice of Dawn
-$claims_recipe_title_dragon_newyear_name=Seasonal Title: the Celestial Storm
-$claims_recipe_title_dragon_darkpurple_name=Seasonal Title: the Dusk Shadow
-$claims_recipe_title_dragon_blacksilver_name=Seasonal Title: The Ironbolt
-$claims_recipe_title_dragon_infineon_name=Seasonal Title: Scourge of the Everdark
-$claims_recipe_title_dragon_pinata_name=Seasonal Title: the Partifier
-$claims_recipe_title_dragon_pirate_name=Seasonal Title: the Relentless
-$claims_recipe_title_dragon_toyblock_name=Seasonal Title: Patron of Playfulness
-$claims_recipe_title_dragon_choko_name=Seasonal Title: the Mellower
-$claims_recipe_title_dragon_goldblue_name=Seasonal Title: Flame of Enlightenment
-$claims_recipe_title_dragon_deepsea_name=Seasonal Title: Shaper of the Currents
-$claims_recipe_title_dragon_pinatatrove_name=Seasonal Title: Steward of New Beginnings
-$claims_recipe_title_dragon_christmas_2016_name=Seasonal Title: the Harbinger of Tidings
-$claims_recipe_title_dragon_mechshadow_name=Seasonal Title: The Crucible of Souls
-$claims_recipe_title_dragon_bismuth_name=Seasonal Title: the Shaper's Gift
-$claims_recipe_title_dragon_spider_name=Seasonal Title: the Silent Spectator
-$claims_recipe_title_dragon_flora_name=Seasonal Title: Nature's Beckoning
-$claims_recipe_title_dragon_green_name=Seasonal Title: the Primordial Preserver
-$claims_recipe_title_dragon_ice_name=Seasonal Title: Galenor's Pride
-$claims_recipe_title_dragon_bubble_name=Seasonal Title: The Pristine
-$claims_recipe_title_dragon_constellations_name=Seasonal Title: Host of Starfire
-$claims_recipe_title_dragon_artdeco_name=Seasonal Title: Keeper of Histories
-$claims_recipe_title_dragon_block_name=Seasonal Title: the Guardian Beyond the Sky
-$claims_recipe_title_dog_dracorgi_red_name=Seasonal Title: of the Western Peaks
-$claims_recipe_title_dragon_boltblade_name=Seasonal Title: the Lightning Blade
-$claims_recipe_title_dragon_jet_name=Seasonal Title: the Arc Tempest
-$claims_recipe_title_dragon_bird_name=Seasonal Title: Seraph of the Golden Vale
-$claims_recipe_title_dragon_lightspear_name=Seasonal Title: the Wayward Spear
-$claims_recipe_title_dragon_darkshield_name=Seasonal Title: the Sundered Shield
-$claims_recipe_title_dragon_twoheads_lightdark_name=Seasonal Title: Arms of the Goddess
-$claims_recipe_title_dragon_shpurple_name=Seasonal Title: Sower of the Sandsea
-$claims_recipe_title_dragon_twoheads_battle_name=Seasonal Title: the Twin Plagues
-$claims_recipe_title_dragon_garden_name=Seasonal Title: Warden of the Fields
-$claims_recipe_title_dragon_data_name=Seasonal Title: the Hexed
-$claims_recipe_title_dragon_steampunk_name=Seasonal Title: the Perpetual
-$claims_recipe_title_dragon_bomberroyale_name=Seasonal Title: the War Head
-$claims_recipe_title_dragonlong_marshmallow_name=Seasonal Title: the Ever-Puffed
-$claims_recipe_title_dragonserpent_ashen_name=Seasonal Title: the Forager
-$claims_recipe_title_dragon_sunseeker_name=Seasonal Title: the Eternal Irradiance
-$claims_recipe_title_dragon_capricorn_name=Seasonal Title: Risen from the Depths
-$claims_recipe_title_dragon_aquarus_male_name=Seasonal Title: the Aquarius Lord
-$claims_recipe_title_dragon_aquarus_female_name=Seasonal Title: the Aquarius Lady
-$claims_recipe_title_dragon_gemyellow_name=Seasonal Title: Spark of the Sky
-$claims_recipe_title_dragon_gemblue_name=Seasonal Title: Soul of the Sea
-$claims_recipe_title_dragon_gemred_name=Seasonal Title: Heart of the Flame
-$claims_recipe_title_dragon_gemopal_name=Seasonal Title: Progenitor of the Cosmos
-$Claims_sh_steps_01_description="We used to have a better ride, but Stampy lost the keys, unfortunately..."
-$Claims_renewus2024_main_quest_reward_01_desc=Good work Trovian, but don't stop there.\n - Garx, Heavyweight champion
-$Claims_renewus2024_main_quest_reward_02_desc=Good is fine, but great is better.\n - Garx, Heavyweight champion
-$Claims_renewus2024_main_quest_reward_03_desc=When you want to quit, that's when you start.\n - Garx, Heavyweight champion
-$Claims_renewus2024_main_quest_reward_04_desc=Mountains are hills you haven't crossed yet.\n - Garx, Heavyweight champion
-$Claims_renewus2024_main_quest_reward_05_desc=Don't stop, stopping is for losers.\n - Garx, Heavyweight champion
-$Claims_renewus2024_main_quest_reward_06_desc=The last steps are the hardest, and the sweetest.\n - Garx, Heavyweight champion
-$Claims_renewus2024_main_quest_reward_07_desc=And now the real challenge begins.\n - Garx, Heavyweight champion
-$Claims_renewus2024_daily_effort_reward_jump_desc=Win the crowd, win the day. Good job Trovian\n - Garx, Heavyweight champion
-$Claims_renewus2024_daily_effort_reward_walk_desc=You can't reach your goals till you move. Good job Trovian\n - Garx, Heavyweight champion
-$Claims_renewus2024_daily_effort_reward_dung_desc=Push through the pain, it's only a distraction.\n - Garx, Heavyweight champion
-$Claims_renewus2024_daily_effort_reward_kill_desc=One day, one task, one victory. Good job Trovian\n - Garx, Heavyweight champion
-$Claims_goldenthread_expertise_mysticism_mana_desc=Awarded for completing a step in the Mysticism Expertise quest thread
-$Claims_goldenthread_expertise_mysticism_mana_maximizer_desc=Awarded for completing the Mysticism Expertise quest thread
-$Claims_goldenthread_expertise_martialarts_positivekarma=Awarded for completing a step in the Martial Arts Expertise quest thread
-$Claims_goldenthread_expertise_martialarts_positivekarma_50=Awarded for completing the Martial Arts Expertise quest thread
+$quest_star_bar_description»Daily Star Bar reward
+$quest_star_bar_description_01»Daily Star Bar reward 1/5
+$quest_star_bar_description_02»Daily Star Bar reward 2/5
+$quest_star_bar_description_03»Daily Star Bar reward 3/5
+$quest_star_bar_description_04»Daily Star Bar reward 4/5
+$quest_star_bar_description_05»Daily Star Bar reward 5/5
+$quest_star_bar_tooltipDescription»Spawns a Starglint Pinata when thrown. Defeating it will give something good to the person who throws it and 7 other random people nearby.
+$quest_star_bar_patron_description»Daily Star Bar reward
+$challenge_level_1_reward»Challenge level 1 reward
+$challenge_level_2_reward»Challenge level 2 reward
+$challenge_level_3_reward»Challenge level 3 reward
+$challenge_level_4_reward»Challenge level 4 reward
+$geode_surface_5star_bronze_description»Geode 5-Star Dungeon Completion Reward (Bronze)
+$geode_surface_5star_silver_description»Geode 5-Star Dungeon Completion Reward (Silver)
+$geode_surface_5star_gold_description»Geode 5-Star Dungeon Completion Reward (Gold)
+$gl_5star_default_description»Sundered Uplands 5-Star Dungeon Completion Reward
+$giantlands_5star_giantlands_lootbox_tooltip»Awarded an unlimited number of times each day, open for valuable Sundered Uplands resources!
+$giantlands_5star_sundercharge_crystal_tooltip_p01»Sundered Uplands 5-Star Boss (Wave 2)
+$giantlands_5star_sundercharge_crystal_tooltip_p02»Sundered Uplands 5-Star Boss (Wave 3)
+$giantlands_5star_sundercharge_crystal_tooltip_p03»Sundered Uplands 5-Star Boss (Wave 5)
+$giantlands_5star_sundercharge_crystal_tooltip_p04»Sundered Uplands 5-Star Boss (Wave 7)
+$giantlands_5star_sundercharge_crystal_tooltip_p05»Sundered Uplands 5-Star Boss (Wave 11)
+$giantlands_5star_sundercharge_crystal_tooltip_p06»Sundered Uplands 5-Star Boss (Wave 13)
+$giantlands_5star_sundercharge_crystal_tooltip_p07»Sundered Uplands 5-Star Boss (Wave 17)
+$giantlands_5star_sundercharge_crystal_tooltip_p08»Sundered Uplands 5-Star Boss (Wave 19)
+$giantlands_5star_sundercharge_crystal_tooltip_p09»Sundered Uplands 5-Star Boss (Wave 23)
+$giantlands_5star_sundercharge_crystal_tooltip_p10»Sundered Uplands 5-Star Boss (Wave 29)
+$giantlands_5star_sundercharge_crystal_tooltip_p11»Sundered Uplands 5-Star Boss (Wave 31)
+$giantlands_5star_sundercharge_crystal_tooltip_p12»Sundered Uplands 5-Star Boss (Wave 37)
+$giantlands_5star_sundercharge_crystal_tooltip_p13»Sundered Uplands 5-Star Boss (Wave 41)
+$giantlands_5star_sundercharge_crystal_tooltip_p14»Sundered Uplands 5-Star Boss (Wave 43)
+$giantlands_5star_sundercharge_crystal_tooltip_p15»Sundered Uplands 5-Star Boss (Wave 47)
+$giantlands_5star_sundercharge_crystal_tooltip_p16»Sundered Uplands 5-Star Boss (Wave 53)
+$giantlands_5star_sundercharge_crystal_tooltip_p17»Sundered Uplands 5-Star Boss (Wave 59)
+$giantlands_5star_sundercharge_crystal_tooltip_p18»Sundered Uplands 5-Star Boss (Wave 61)
+$giantlands_5star_sundercharge_crystal_tooltip_p19»Sundered Uplands 5-Star Boss (Wave 67)
+$giantlands_5star_sundercharge_crystal_tooltip_p20»Sundered Uplands 5-Star Boss (Wave 71)
+$giantlands_5star_sundercharge_crystal_tooltip_p21»Sundered Uplands 5-Star Boss (Wave 73, Deep Fallow)
+$giantlands_5star_sundercharge_crystal_tooltip_p22»Sundered Uplands 5-Star Boss (Wave 79, Deep Fallow)
+$giantlands_5star_sundercharge_crystal_tooltip_p23»Sundered Uplands 5-Star Boss (Wave 83, Deep Fallow)
+$giantlands_5star_sundercharge_crystal_tooltip_p24»Sundered Uplands 5-Star Boss (Wave 89, Deep Fallow)
+$giantlands_5star_sundercharge_crystal_tooltip_p25»Sundered Uplands 5-Star Boss (Wave 97, Deep Fallow)
+$giantlands_5star_sundercharge_crystal_tooltip_p26»Sundered Uplands 5-Star Boss (Wave 101, Deep Fallow)
+$giantlands_5star_sundercharge_crystal_tooltip_p27»Sundered Uplands 5-Star Boss (Wave 103, Deep Fallow)
+$giantlands_5star_sundercharge_crystal_tooltip_p28»Sundered Uplands 5-Star Boss (Wave 107, Deep Fallow)
+$giantlands_5star_sundercharge_crystal_tooltip_p29»Sundered Uplands 5-Star Boss (Wave 109, Deep Fallow)
+$giantlands_5star_sundercharge_crystal_tooltip_p30»Sundered Uplands 5-Star Boss (Wave 113, Deep Fallow)
+$Claims_scramble2019_01»Good luck exploring. Love Mortsdot.
+$Claims_scramble2019_02»These critter treats are wrapped in blankets and covered in curing kits
+$Claims_Event_goldenthread_june2019»Thanks for the help, Trovian!
+$Claims_event_adventurecrystal_auto_24»This activity is available in the Events tab of the Adventure Journal for 24 hours.
+$Claims_adventurecrystal_complete»Daily Adventure Completion Reward
+$Claims_may2019_daily_adventure_breadcrumb»Check the Adventure Journal Events tab for Luxion's Spring Cleaning Daily Adventures!
+$Claims_june2019_daily_adventure_breadcrumb»Check the Adventure Journal Events tab for Splendid Summer Daily Adventures!
+$Claims_july2019_daily_adventure_breadcrumb»Check the Adventure Journal Events tab for Sunfest Daily Adventures!
+$Claims_july2019_quest_start_breadcrumb»Spend this Token with Qubesly in the Hub to select a Sunfest House to represent!
+$Claims_aprilfools2021_quest_start_breadcrumb»... Fish?
+$Claims_Event_goldenthread_generic»Thanks for the help, Trovian!
+$Claims_generic_daily_adventure_breadcrumb»Check the Adventure Journal Events tab for bonus Daily Adventures!
+$Claims_recipe_prismatic_red_knowledge_name»Red Font of Knowledge
+$Claims_recipe_prismatic_red_knowledge_description»Teaches all there is know about the nature of Prismatic Red and allows your mind to reach towards Prismatic Orange through the consumption of Red Essences.
+$Claims_recipe_prismatic_red_knowledge_tooltipdescription»You can now craft Prismatic Red Essence at the Radiant Dayspring.
+$Claims_recipe_prismatic_blue_knowledge_name»Blue Font of Knowledge
+$Claims_recipe_prismatic_blue_knowledge_description»Teaches all there is know about the nature of Prismatic Blue and allows your mind to reach towards Prismatic Purple through the consumption of Blue Essences.
+$Claims_recipe_prismatic_blue_knowledge_tooltipdescription»You can now craft Prismatic Blue Essence at the Radiant Dayspring.
+$Claims_recipe_prismatic_purple_knowledge_name»Purple Font of Knowledge
+$Claims_recipe_prismatic_purple_knowledge_description»Teaches all there is know about the nature of Prismatic Purple and allows your mind to reach towards the Dazzling Core through the consumption of Purple Essences.
+$Claims_recipe_prismatic_purple_knowledge_tooltipdescription»You can now craft Prismatic Purple Essence at the Radiant Dayspring.
+$Claims_event_sunfest_daily_choice_coin_description»Can be traded to Qubesly to choose a Sunfest House, if you don't already have one.
+$Claims_Event_nov2020»Diggsly had the recipe!
+$Claims_GoldenThread_event_corruption_02»A Tip from Corruxion themselves.
+$Claims_Event_goldenthread_event_december2020_02_carpet_recipe»Trovian! This is one of the new recipes that requires a Glashadial Shard!
+$Claims_Event_goldenthread_event_december2020_03_library_matchmaker»These go in your BUILD INVENTORY! Place them to find your way into THE UNDERSTACKS!
+$Claims_GoldenThread_event_renewus2021_00»Rewarded from completing a Renewus Event Quest
+$Claims_GoldenThread_event_renewus2021_01»Rewarded from completing a Renewus Event Quest
+$Claims_GoldenThread_event_renewus2021_02»Rewarded from completing a Renewus Event Quest
+$Claims_GoldenThread_event_renewus2021_03»Rewarded from completing a Renewus Event Quest
+$Claims_GoldenThread_event_renewus2021_04»Rewarded from completing a Renewus Event Quest
+$Claims_GoldenThread_event_renewus2021_05»Rewarded from completing a Renewus Event Quest
+$Claims_GoldenThread_event_renewus2021_06»Rewarded from completing a Renewus Event Quest
+$Claims_GoldenThread_event_renewus2021_07»Rewarded from completing a Renewus Event Quest
+$Claims_GoldenThread_event_february2021_00»Rewarded from completing a Heckbugs in love Event Quest
+$Claims_GoldenThread_event_february2021_01»Equip and throw the Preserved Pow Meat
+$Claims_GoldenThread_event_march2021»Rewarded from completing a quest for the St. Qubeslick event
+$Claims_GoldenThread_event_april2021»A reward and thank-you from our Bun-frens!
+$Claims_GoldenThread_event_april2021_style»You can craft this Style at the Delve Workbench at your convenience!
+$Claims_GoldenThread_event_may2021»Here's a reward and please save the bees!!!
+$Claims_GoldenThread_event_june2021»Here's a reward from GM Qubesly!
+$Claims_GoldenThread_event_july2021_02»Nice work, Trovian, here's your reimbursement!
+$Claims_GoldenThread_event_july2021_05»Oh! We didn't know. Here's our fine! It's fine, right?
+$Claims_GoldenThread_event_july2021_06»Here is the Panatea fine! Thank you, Trovian, shop with us again!
+$Claims_GoldenThread_event_july2021_07»Tell Qubesly we're sorry. We probably won't do it again next year!
+$Claims_GoldenThread_event_july2021_08»Great work, Trovian! I also have this for you, thanks again!
+$Claims_GoldenThread_event_aug2021»Recieved By the Moon Goddess's Blessing.
+$Claims_GoldenThread_event_aug2021_0»Found by those hidden in the Void.
+$Claims_GoldenThread_event_september2021_qubes»Great work, Trovian! I also have this for you, thanks again!
+$Claims_GoldenThread_event_september2021_fprin»Thanks and commendations in recognition of your valor directly from the Fae Court.
+$Claims_GoldenThread_event_september2021_skeld»Hey boyo, thanks fa' doin ya' part against dem fae!
+$Claims_GoldenThread_event_july2022_pinzo»A Chuck Pinzo promise of value you can bank on.
+$Claims_GoldenThread_event_july2022_houses»A reward for enforcing the superiority of the Dragon Houses.
+$Claims_GoldenThread_event_july2022_monkey_chuckp»With your own patsy you're well on your way to becoming the next Chuck Pinzo!
+$Claims_GoldenThread_event_aug2022»A reward for fighting the Void during the Lunar Plunge 2022 event.
+$Claims_GoldenThread_event_aug2022_pet»With all the Alphas defeated there's plenty of puppys in the Everdark in need of a home.
+$Claims_GoldenThread_event_sep2022_dino»The Dinoboy's of the Jurassic Jungle roar with thanks.
+$Claims_GoldenThread_event_sep2022_cowboy»The Cowasaurs's of the Desert Frontier clamour with gratitude.
+$Claims_GoldenThread_event_oct2022_generic»A reward for taking part in the Shadow's Eve event.
+$Claims_GoldenThread_event_oct2022_wolf»With the Q'rse cured you can safely ride this. Maybe....
+$Claims_Event_goldenthread_november2022_qubesly_recipes»The recipe for one of Qubesly's Favorites.
+$Claims_Event_goldenthread_november2022_mains_recipes»The recipe for a Special Order.
+$Claims_Event_goldenthread_november2022_food_recipe»A recipe for one of the Friendsgiving 2022 foods and Trovian Bouillon.
+$Claims_Event_goldenthread_november2022_pinzo_thanks»Payment for a job well done.
+$Claims_Event_goldenthread_november2022_decoration_unlock»Pepares and sets the dish at the table, invites friends to the hub and unlocks the decoration recipes.
+$Claims_Event_goldenthread_november2022_sides_decoration_unlock»Pepares and sets the dish at the table and unlocks the decoration recipe for this dish.
+$Claims_Event_goldenthread_january2023_generic_reward»A reward from the Renewus 2023 event.
+$Claims_fishing_capricorn_fragment_description»A fragment of the Depths' power.
+$Claims_fishing_reward_hermitcrab_deltalith_description»The depths conquered the Delves and its inhabitants use the deltaliths as shells.
+$Claims_fishing_reward_howlug_snail_description»These creatures are the only light in the depths.
+$Claims_fishing_reward_hoppet_shark_description»Proof that the most terrifying predators are not the largest.
+$Claims_fishing_adv_reward_description»Freshwater Fran's payment for completing a special order.
+$Claims_fishing_tutorial_reward_description»Saltwater Sam's reward for learning to fish.
+$Claims_starchart_tutorial_reward_description»The Celestial's reward for studying the Constellations.
+$Claims_GoldenThread_event_april2023_reward»A reward for celebrating Bunfest!
+$Claims_GoldenThread_event_may2023»Thanks for getting back to the quack, and flinging for Spring Fling!
+$Claims_GoldenThread_event_ggj_2023»Excellent work, Trovian! Together we can keep Trove's ecosystem thriving!
+$Claims_GoldenThread_event_sunfest_2023_quest»Good job Trovian, with your help Sunfest will be a success!
+$Claims_GoldenThread_event_sunfest_2023_daily»Wonderful work Trovian, the Houses give thanks for your help!
+$Claims_GoldenThread_event_august_2023»Thank you for helping the Elysian Offensive.
+$Claims_GoldenThread_expertise_luxion»A reward from Luxion for working with Fluxion.
+$Claims_GoldenThread_event_september_2023_frost»Payment for serving the Rime Wardens.
+$Claims_GoldenThread_event_september_2023_fire»The Smoldering Clutch left this for you, who knows why?
+$Claims_GoldenThread_event_september_2023_neutral»A reward from the 2023 Battle of Fire and Ice event.
+$Claims_GoldenThread_event_october_2023_coin»A reward from the 2024 Shadow's Eve event.
+$Claims_GoldenThread_event_october_2023_effigy»A cleansed Pumpkin Effigy from Wolfsly.
+$claims_recipe_title_description_ends_spring»Remains available until SPRING (MAR 1st)
+$claims_recipe_title_description_ends_summer»Remains available until SUMMER (JUN 1st)
+$claims_recipe_title_description_ends_fall»Remains available until FALL (SEP 1st)
+$claims_recipe_title_description_ends_winter»Remains available until WINTER (DEC 1st)
+$claims_recipe_title_type_prefix»Prefix
+$claims_recipe_title_type_suffix»Suffix
+$claims_recipe_title_type_both»Prefix, Suffix
+$claims_recipe_title_meta_emoji_emotive»Title: the Emotive
+$claims_recipe_title_meta_emoji_chiral»Title: the Chiral
+$claims_recipe_title_lootbox_chaos_chaotic»Title: Chaotic
+$claims_recipe_title_lootbox_chaos_chaotic_neutral»Title: Chaotic Neutral
+$claims_recipe_title_lootbox_chaos_chaotic_good»Title: Chaotic Good
+$claims_recipe_title_lootbox_chaos_chaotic_evil»Title: Chaotic Evil
+$claims_recipe_title_lootbox_chaos_pure_chaotic»Title: Pure Chaotic
+$claims_recipe_title_emoji_smile»Title: :)
+$claims_recipe_title_emoji_tongue»Title: :P
+$claims_recipe_title_emoji_happytears»Title: :")
+$claims_recipe_title_emoji_unamused»Title: :|
+$claims_recipe_title_emoji_annoyed»Title: :/
+$claims_recipe_title_emoji_frown»Title: :(
+$claims_recipe_title_emoji_cry»Title: :'(
+$claims_recipe_title_emoji_angry»Title: >:(
+$claims_recipe_title_emoji_angrytears»Title: >:'(
+$claims_recipe_title_emoji_cat»Title: :3
+$claims_recipe_title_emoji_smile_mirror»Title: (:
+$claims_recipe_title_emoji_tongue_mirror»Title: d:
+$claims_recipe_title_emoji_happytears_mirror»Title: (":
+$claims_recipe_title_emoji_unamused_mirror»Title: |:
+$claims_recipe_title_emoji_annoyed_mirror»Title: \:
+$claims_recipe_title_emoji_frown_mirror»Title: ):
+$claims_recipe_title_emoji_cry_mirror»Title: )':
+$claims_recipe_title_emoji_angry_mirror»Title: ):<
+$claims_recipe_title_emoji_angrytears_mirror»Title: )':<
+$claims_recipe_title_class_adventurer_30»Title: the Boomeranger
+$claims_recipe_title_class_bard_30»Title: the Bard
+$claims_recipe_title_class_candybarbarian_30»Title: the Candy Barbarian
+$claims_recipe_title_class_chloromancer_30»Title: the Chloromancer
+$claims_recipe_title_class_crimefighter_30»Title: the Vanguardian
+$claims_recipe_title_class_dinotamer_30»Title: the Dino Tamer
+$claims_recipe_title_class_dracolyte_30»Title: the Dracolyte
+$claims_recipe_title_class_faetrickster_30»Title: the Fae Trickster
+$claims_recipe_title_class_gunslinger_30»Title: the Gunslinger
+$claims_recipe_title_class_icemage_30»Title: the Ice Sage
+$claims_recipe_title_class_knight_30»Title: the Knight
+$claims_recipe_title_class_lunarlancer_30»Title: the Lunar Lancer
+$claims_recipe_title_class_neonninja_30»Title: the Neon Ninja
+$claims_recipe_title_class_piratelord_30»Title: the Pirate Captain
+$claims_recipe_title_class_shadowhunter_30»Title: the Shadow Hunter
+$claims_recipe_title_class_solarion_30»Title: the Solarion
+$claims_recipe_title_class_spirittank_30»Title: the Revenant
+$claims_recipe_title_class_tombraiser_30»Title: the Tomb Raiser
+$claims_recipe_title_class_adventurer_prime_primal»Title: Primal Boomeranger
+$claims_recipe_title_class_bard_prime_primal»Title: Primal Bard
+$claims_recipe_title_class_candybarbarian_prime_primal»Title: Primal Candy Barbarian
+$claims_recipe_title_class_chloromancer_prime_primal»Title: Primal Chloromancer
+$claims_recipe_title_class_crimefighter_prime_primal»Title: Primal Vanguardian
+$claims_recipe_title_class_dinotamer_prime_primal»Title: Primal Dino Tamer
+$claims_recipe_title_class_dracolyte_prime_primal»Title: Primal Dracolyte
+$claims_recipe_title_class_faetrickster_prime_primal»Title: Primal Fae Trickster
+$claims_recipe_title_class_gunslinger_prime_primal»Title: Primal Gunslinger
+$claims_recipe_title_class_icemage_prime_primal»Title: Primal Ice Sage
+$claims_recipe_title_class_knight_prime_primal»Title: Primal Knight
+$claims_recipe_title_class_lunarlancer_prime_primal»Title: Primal Lunar Lancer
+$claims_recipe_title_class_neonninja_prime_primal»Title: Primal Neon Ninja
+$claims_recipe_title_class_piratelord_prime_primal»Title: Primal Pirate Captain
+$claims_recipe_title_class_shadowhunter_prime_primal»Title: Primal Shadow Hunter
+$claims_recipe_title_class_solarion_prime_primal»Title: Primal Solarion
+$claims_recipe_title_class_spirittank_prime_primal»Title: Primal Revenant
+$claims_recipe_title_class_tombraiser_prime_primal»Title: Primal Tomb Raiser
+$claims_recipe_title_biome_highlands_highlander»Title: the Highlander
+$claims_recipe_title_biome_highlands_lord»Title: Lord
+$claims_recipe_title_biome_highlands_lady»Title: Lady
+$claims_recipe_title_biome_tundra_frozen»Title: the Frozen
+$claims_recipe_title_biome_undead_cursebreaker»Title: the Cursebreaker
+$claims_recipe_title_biome_frontier_sheriff»Title: Sheriff
+$claims_recipe_title_biome_fae_warden»Title: Warden
+$claims_recipe_title_biome_candy_chocoholic»Title: the Chocoholic
+$claims_recipe_title_biome_neon_binary»Title: the Binary
+$claims_recipe_title_biome_neon_nonbinary»Title: the Non-Binary
+$claims_recipe_title_biome_dinosaur_savage»Title: the Savage
+$claims_recipe_title_biome_dragon_molten»Title: Molten
+$claims_recipe_title_biome_spires_ancientempire»Title: of the Ancient Empire
+$claims_recipe_title_biome_giantlands_uplifted»Title: the Uplifted
+$claims_recipe_title_biome_giantlands_ashfallen»Title: the Ashfallen
+$claims_recipe_title_dragon_pumpkin_name»Seasonal Title: o-Lantern
+$claims_recipe_title_dragon_friend_03_name»Seasonal Title: the Immortal
+$claims_recipe_title_dragon_oldblue_03_name»Seasonal Title: the Blue
+$claims_recipe_title_dragon_neon_03_name»Seasonal Title: the Neolord
+$claims_recipe_title_dragon_beard_03_name»Seasonal Title: the Ancient
+$claims_recipe_title_dragon_lunar_03_name»Seasonal Title: the Enchanting
+$claims_recipe_title_dragon_bone_03_name»Seasonal Title: the Waiting Oblivion
+$claims_recipe_title_dragon_winter_2015_03_name»Seasonal Title: Primarch of Permafrost
+$claims_recipe_title_dragon_starlight_03_name»Seasonal Title: Charter of the Constellations
+$claims_recipe_title_dragon_mastery_03_male_name»Seasonal Title: King of Dragons
+$claims_recipe_title_dragon_mastery_03_female_name»Seasonal Title: Queen of Dragons
+$claims_recipe_title_dragon_qbthulhu_name»Seasonal Title: the Unwavering
+$claims_recipe_title_dragon_moonsilver_name»Seasonal Title: the Moonlit Muse
+$claims_recipe_title_dragon_amperium_name»Seasonal Title: Dissent's Roar
+$claims_recipe_title_dragon_resistor_name»Seasonal Title: Luminary of Hope
+$claims_recipe_title_dragon_flux_03_name»Seasonal Title: Scion of the Hoard
+$claims_recipe_title_dragonbug_beecat_name»Seasonal Title: of the Honeybees
+$claims_recipe_title_dragon_newyearblue_name»Seasonal Title: Sage of the Eastern Ranges
+$claims_recipe_title_dragon_chaos_name»Seasonal Title: the Chaos Dragon
+$claims_recipe_title_dragon_bomberroyale_sticky_name»Seasonal Title: the Fury
+$claims_recipe_title_dragon_stainedglass_name»Seasonal Title: the Ashen Reborn
+$claims_recipe_title_dragon_balefire_name»Seasonal Title: the Unforgiven
+$claims_recipe_title_dragon_bomber_name»Seasonal Title: the Herald of Battle
+$claims_recipe_title_dragon_music_name»Seasonal Title: Voice of Dawn
+$claims_recipe_title_dragon_newyear_name»Seasonal Title: the Celestial Storm
+$claims_recipe_title_dragon_darkpurple_name»Seasonal Title: the Dusk Shadow
+$claims_recipe_title_dragon_blacksilver_name»Seasonal Title: The Ironbolt
+$claims_recipe_title_dragon_infineon_name»Seasonal Title: Scourge of the Everdark
+$claims_recipe_title_dragon_pinata_name»Seasonal Title: the Partifier
+$claims_recipe_title_dragon_pirate_name»Seasonal Title: the Relentless
+$claims_recipe_title_dragon_toyblock_name»Seasonal Title: Patron of Playfulness
+$claims_recipe_title_dragon_choko_name»Seasonal Title: the Mellower
+$claims_recipe_title_dragon_goldblue_name»Seasonal Title: Flame of Enlightenment
+$claims_recipe_title_dragon_deepsea_name»Seasonal Title: Shaper of the Currents
+$claims_recipe_title_dragon_pinatatrove_name»Seasonal Title: Steward of New Beginnings
+$claims_recipe_title_dragon_christmas_2016_name»Seasonal Title: the Harbinger of Tidings
+$claims_recipe_title_dragon_mechshadow_name»Seasonal Title: The Crucible of Souls
+$claims_recipe_title_dragon_bismuth_name»Seasonal Title: the Shaper's Gift
+$claims_recipe_title_dragon_spider_name»Seasonal Title: the Silent Spectator
+$claims_recipe_title_dragon_flora_name»Seasonal Title: Nature's Beckoning
+$claims_recipe_title_dragon_green_name»Seasonal Title: the Primordial Preserver
+$claims_recipe_title_dragon_ice_name»Seasonal Title: Galenor's Pride
+$claims_recipe_title_dragon_bubble_name»Seasonal Title: The Pristine
+$claims_recipe_title_dragon_constellations_name»Seasonal Title: Host of Starfire
+$claims_recipe_title_dragon_artdeco_name»Seasonal Title: Keeper of Histories
+$claims_recipe_title_dragon_block_name»Seasonal Title: the Guardian Beyond the Sky
+$claims_recipe_title_dog_dracorgi_red_name»Seasonal Title: of the Western Peaks
+$claims_recipe_title_dragon_boltblade_name»Seasonal Title: the Lightning Blade
+$claims_recipe_title_dragon_jet_name»Seasonal Title: the Arc Tempest
+$claims_recipe_title_dragon_bird_name»Seasonal Title: Seraph of the Golden Vale
+$claims_recipe_title_dragon_lightspear_name»Seasonal Title: the Wayward Spear
+$claims_recipe_title_dragon_darkshield_name»Seasonal Title: the Sundered Shield
+$claims_recipe_title_dragon_twoheads_lightdark_name»Seasonal Title: Arms of the Goddess
+$claims_recipe_title_dragon_shpurple_name»Seasonal Title: Sower of the Sandsea
+$claims_recipe_title_dragon_twoheads_battle_name»Seasonal Title: the Twin Plagues
+$claims_recipe_title_dragon_garden_name»Seasonal Title: Warden of the Fields
+$claims_recipe_title_dragon_data_name»Seasonal Title: the Hexed
+$claims_recipe_title_dragon_steampunk_name»Seasonal Title: the Perpetual
+$claims_recipe_title_dragon_bomberroyale_name»Seasonal Title: the War Head
+$claims_recipe_title_dragonlong_marshmallow_name»Seasonal Title: the Ever-Puffed
+$claims_recipe_title_dragonserpent_ashen_name»Seasonal Title: the Forager
+$claims_recipe_title_dragon_sunseeker_name»Seasonal Title: the Eternal Irradiance
+$claims_recipe_title_dragon_capricorn_name»Seasonal Title: Risen from the Depths
+$claims_recipe_title_dragon_aquarus_male_name»Seasonal Title: the Aquarius Lord
+$claims_recipe_title_dragon_aquarus_female_name»Seasonal Title: the Aquarius Lady
+$claims_recipe_title_dragon_gemyellow_name»Seasonal Title: Spark of the Sky
+$claims_recipe_title_dragon_gemblue_name»Seasonal Title: Soul of the Sea
+$claims_recipe_title_dragon_gemred_name»Seasonal Title: Heart of the Flame
+$claims_recipe_title_dragon_gemopal_name»Seasonal Title: Progenitor of the Cosmos
+$Claims_sh_steps_01_description»"We used to have a better ride, but Stampy lost the keys, unfortunately..."
+$Claims_renewus2024_main_quest_reward_01_desc»Good work Trovian, but don't stop there.\n - Garx, Heavyweight champion
+$Claims_renewus2024_main_quest_reward_02_desc»Good is fine, but great is better.\n - Garx, Heavyweight champion
+$Claims_renewus2024_main_quest_reward_03_desc»When you want to quit, that's when you start.\n - Garx, Heavyweight champion
+$Claims_renewus2024_main_quest_reward_04_desc»Mountains are hills you haven't crossed yet.\n - Garx, Heavyweight champion
+$Claims_renewus2024_main_quest_reward_05_desc»Don't stop, stopping is for losers.\n - Garx, Heavyweight champion
+$Claims_renewus2024_main_quest_reward_06_desc»The last steps are the hardest, and the sweetest.\n - Garx, Heavyweight champion
+$Claims_renewus2024_main_quest_reward_07_desc»And now the real challenge begins.\n - Garx, Heavyweight champion
+$Claims_renewus2024_daily_effort_reward_jump_desc»Win the crowd, win the day. Good job Trovian\n - Garx, Heavyweight champion
+$Claims_renewus2024_daily_effort_reward_walk_desc»You can't reach your goals till you move. Good job Trovian\n - Garx, Heavyweight champion
+$Claims_renewus2024_daily_effort_reward_dung_desc»Push through the pain, it's only a distraction.\n - Garx, Heavyweight champion
+$Claims_renewus2024_daily_effort_reward_kill_desc»One day, one task, one victory. Good job Trovian\n - Garx, Heavyweight champion
+$Claims_goldenthread_expertise_mysticism_mana_desc»Awarded for completing a step in the Mysticism Expertise quest thread
+$Claims_goldenthread_expertise_mysticism_mana_maximizer_desc»Awarded for completing the Mysticism Expertise quest thread
+$Claims_goldenthread_expertise_martialarts_positivekarma»Awarded for completing a step in the Martial Arts Expertise quest thread
+$Claims_goldenthread_expertise_martialarts_positivekarma_50»Awarded for completing the Martial Arts Expertise quest thread
+$Claims_gearcrafting_progression_generic»Awarded for UNLOCKING a node at the Gearcrafter's Terminus
+$Claims_GoldenThread_expertise_gearcrafting»Awarded for completion of a Gearcrafting Expertise step!
+$Claims_september2024_adventure_up_reward_description»Great work, Trovian-friend! Have some exceptionally decadent desserts as a reward!
+$Claims_september2024_adventure_down_reward_description»Great work, Trovian-friend! Have some exceptionally healthy breakfasts as a reward!
+$Claims_depths_generic_reward_description»Thanks for helping the cause, Trovian!
+$Claims_GoldenThread_event_october_2024_cat_witch»Just a little something to remember me by.
+$Claims_event_feb2025_12»I stole these from those H.E.C.K. geeks, you can probably find a use for 'em!
+$Claims_event_feb2025_capybara_04»A bunch of other Trovians have been bringing me these coins... You and Marquitillo can probably do something with them!
+$Claims_event_feb2025_capybara_04_title»I can never thank you enough, Trovian. You're one of us, now. You're family!

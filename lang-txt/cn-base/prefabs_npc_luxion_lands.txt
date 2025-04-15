@@ -1,0 +1,3 @@
+$prefabs_npc_luxion_lands_merchant_hub_sign_title»灵魂清算师苏芮
+$prefabs_npc_luxion_lands_merchant_hub_sign_content»负责核算奢龙灵魂收藏的盈亏。按 [HK:Loot] 进行交易
+$prefabs_npc_luxion_lands_adventure_complete_craftingstation_name»傲奢大人

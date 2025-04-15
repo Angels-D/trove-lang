@@ -1,1 +1,1 @@
-$LanguageName=Zhongwen
+$LanguageName»Zhongwen

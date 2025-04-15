@@ -1,88 +1,92 @@
-$prefabs_skins_secondary_bomberroyale_rubberbomb_pumpkin_name=Smashing Pumpkin Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_pumpkin_description=Leave your opponents in infinite sadness after this melon floats like a butterfly and stings like a bullet.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_howlughead_name=Howlug Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_howlughead_description=AHHHHHHHHH!
-$prefabs_skins_secondary_bomberroyale_rubberbomb_buggoo_name=Sticky Ichor Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_buggoo_description=Some potions are more explosive than others.
-$prefabs_skins_secondary_bomberroyale_stickybomb_jackolantern_name=Jack O' Lantern Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_jackolantern_description=This pumpkin's ghastly grin hides an explosive secret.
-$prefabs_skins_secondary_bomberroyale_stickybomb_geodeflower_name=Blastflower Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_geodeflower_description=Harvested from Moonglow Grotto.
-$prefabs_skins_secondary_bomberroyale_stickybomb_bigbomb_name=Big Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_bigbomb_description=He mustache your opponents a volatile question.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_cabbage_name=Qubbage Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_corn_name=Corn on the Cube Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_eggplant_name=Uggplant Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_grape_name=Purp'lil Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_leek_name=Onionito Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_potato_name=Totter Tate Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_tomato_name=Qumato Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_watermelon_name=Cinnamellon Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_cabbage_description=This durable Qubbage can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Qubbage.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_corn_description=This durable Corn on the Cube can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Corn on the Cube.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_eggplant_description=This durable Uggplant can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Uggplant.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_grape_description=This durable Purp'lil can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Purp'lil.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_leek_description=This durable Onionito can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Onionito.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_potato_description=This durable Totter Tate can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Totter Tate.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_tomato_description=This durable Qumato can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Qumato.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_watermelon_description=This durable Cinnamellon can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Cinnamellon.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_lunar_description=This durable Lunar Bomb can be used to change the appearance of your Rubber Bombs in Bomber Royale.
-$prefabs_skins_secondary_bomberroyale_stickybomb_lunar_description=This durable Lunar Bomb can be used to change the appearance of your Sticky Bombs in Bomber Royale.
-$prefabs_skins_secondary_bomberroyale_stickybomb_adventurerchaotic_name=Chaotic Observer Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_adventurerchaotic_description=As creepy as it looks.\n\nUnlocked via the Chaotic Wanderer costume for the Boomeranger class.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_lunar_name=Lunar Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_lunar_name=Lunar Sticky Bomb
-$prefabs_skins_secondary_bomberroyale_bomb_lunar_desc=Faith in the Moon Goddess is the ultimate weapon. That said, bombs are definitely the penultimate weapon.
-$prefabs_skins_secondary_bomberroyale_stickybomb_bunfest_bounty_name=Bunfest Blasting Bounty
-$prefabs_skins_secondary_bomberroyale_stickybomb_bunfest_bounty_desc=How could chocolate eggs possibly hurt you?
-$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_01_name=Bunfest Surprise: Avacado
-$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_01_desc=Its got what bunnies crave, chocolate... and explosions.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_02_name=Bunfest Surprise: Howlug
-$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_02_desc=Easily the cutest thing that could blow you bits.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_03_name=Bunfest Surprise: Luniopolegg
-$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_03_desc=Proof that everything is better with RGB.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_04_name=Bunfest Surprise: Peaceful Spires
-$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_04_desc=A calming snack in the busy world of the Forbidden Spires.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_patchwork_name=Patchwork Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_patchwork_golden_name=Golden: Patchwork Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_patchwork_item_name=Item: Patchwork Rubber Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_patchwork_desc=The trick isn't getting to explode, it's getting it to bounce before it does.
-$prefabs_skins_secondary_bomberroyale_stickybomb_patchwork_name=Patchwork Sticky Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_patchwork_golden_name=Golden: Patchwork Sticky Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_patchwork_item_name=Item: Patchwork Sticky Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_patchwork_desc=The danger is not quite knowing if it's a dud or just a too long fuse.
-$prefabs_skins_secondary_bomberroyale_stickybomb_s3_dragon_name=Zyntryn's Sticky Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_s3_dragon_golden_name=Golden: Zyntryn's Sticky Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_s3_dragon_item_name=Item: Zyntryn's Sticky Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_s3_dragon_desc=Zyntryn's favorite bombs resemble his favorite dragon, him.
-$prefabs_skins_secondary_bomberroyale_beetlebomb_patchwork_golden_name=Golden: Critter Bomb
-$prefabs_skins_secondary_bomberroyale_beetlebomb_patchwork_desc=Danger: Explodes if dropped.
-$prefabs_skins_secondary_bomberroyale_beartrapbomb_patchwork_golden_name=Golden: Trap Bomb
-$prefabs_skins_secondary_bomberroyale_beartrapbomb_patchwork_desc=Allied target recognition is 99.74% effective.
-$prefabs_skins_secondary_bomberroyale_beetlebomb_wolf_name=Q'rsed Critter Bomb
-$prefabs_skins_secondary_bomberroyale_beartrapbomb_wolf_name=Q'rsed Trap Bomb
-$prefabs_skins_secondary_bomberroyale_beartrapbomb_pumpkin_name=Pumpkin Patch Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_cranberry_name=Bouncing Cranberry Sauce
-$prefabs_skins_secondary_bomberroyale_rubberbomb_cranberry_desc=It was so bouncy normally, but who would have thought it was combustive?
-$prefabs_skins_secondary_bomberroyale_stickybomb_turkey_name=Gobbler Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_turkey_desc=Capitalizing on those that have to be first to the table.
-$prefabs_skins_secondary_bomberroyale_stickybomb_lucky_stone_name=Sir O'Unlucky's Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_lucky_stone_item_name=Bomber Royale: Sir O'Unlucky's Bomb
-$prefabs_skins_secondary_bomberroyale_stickybomb_lucky_stone_desc=Hard to think of a bomb as anything but unlucky.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_ornament_name=Jingle Bomb
-$prefabs_skins_secondary_bomberroyale_rubberbomb_ornament_desc=What's a little holiday cheer without an explosion?
-$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_a_name=Mystical Heckbug Egg
-$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_a_item_name=Bomber Royale: Mystical Heckbug Egg
-$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_a_desc=Cracking one of these is bad luck for a year, that's almost worse than the explosion!
-$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_b_name=Heckbug Egg
-$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_b_item_name=Bomber Royale: Heckbug Egg
-$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_b_desc=Explosions are just par for the course for a creature native to the Dragonfire Peaks.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_c_name=Heckbug-Hybrid Egg
-$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_c_item_name=Bomber Royale: Heckbug-Hybrid Egg
-$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_c_desc=Twice the ferociousness, twice the explosion!
-$prefabs_skins_secondary_bomberroyale_rubberbomb_lucky_star_name=Unlucky Star
-$prefabs_skins_secondary_bomberroyale_rubberbomb_lucky_star_item_name=Bomber Royale: Unlucky Star
-$prefabs_skins_secondary_bomberroyale_rubberbomb_lucky_star_desc=Explosions are nearly always unlucky... for those nearby.
-$prefabs_skins_secondary_bomberroyale_rubberbomb_pot_of_gold_name=Pot o' Bombs
-$prefabs_skins_secondary_bomberroyale_rubberbomb_pot_of_gold_item_name=Bomber Royale: Pot o' Bombs
-$prefabs_skins_secondary_bomberroyale_rubberbomb_pot_of_gold_desc=Why buy bombs when your money can just be bombs?!
+$prefabs_skins_secondary_bomberroyale_rubberbomb_pumpkin_name»Smashing Pumpkin Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_pumpkin_description»Leave your opponents in infinite sadness after this melon floats like a butterfly and stings like a bullet.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_howlughead_name»Howlug Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_howlughead_description»AHHHHHHHHH!
+$prefabs_skins_secondary_bomberroyale_rubberbomb_buggoo_name»Sticky Ichor Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_buggoo_description»Some potions are more explosive than others.
+$prefabs_skins_secondary_bomberroyale_stickybomb_jackolantern_name»Jack O' Lantern Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_jackolantern_description»This pumpkin's ghastly grin hides an explosive secret.
+$prefabs_skins_secondary_bomberroyale_stickybomb_geodeflower_name»Blastflower Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_geodeflower_description»Harvested from Moonglow Grotto.
+$prefabs_skins_secondary_bomberroyale_stickybomb_bigbomb_name»Big Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_bigbomb_description»He mustache your opponents a volatile question.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_cabbage_name»Qubbage Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_corn_name»Corn on the Cube Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_eggplant_name»Uggplant Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_grape_name»Purp'lil Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_leek_name»Onionito Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_potato_name»Totter Tate Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_tomato_name»Qumato Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_watermelon_name»Cinnamellon Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_cabbage_description»This durable Qubbage can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Qubbage.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_corn_description»This durable Corn on the Cube can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Corn on the Cube.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_eggplant_description»This durable Uggplant can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Uggplant.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_grape_description»This durable Purp'lil can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Purp'lil.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_leek_description»This durable Onionito can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Onionito.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_potato_description»This durable Totter Tate can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Totter Tate.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_tomato_description»This durable Qumato can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Qumato.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_watermelon_description»This durable Cinnamellon can be used to change the appearance of your Rubber Bombs in Bomber Royale.\n\nFound rarely when harvesting Cinnamellon.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_lunar_description»This durable Lunar Bomb can be used to change the appearance of your Rubber Bombs in Bomber Royale.
+$prefabs_skins_secondary_bomberroyale_stickybomb_lunar_description»This durable Lunar Bomb can be used to change the appearance of your Sticky Bombs in Bomber Royale.
+$prefabs_skins_secondary_bomberroyale_stickybomb_adventurerchaotic_name»Chaotic Observer Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_adventurerchaotic_description»As creepy as it looks.\n\nUnlocked via the Chaotic Wanderer costume for the Boomeranger class.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_lunar_name»Lunar Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_lunar_name»Lunar Sticky Bomb
+$prefabs_skins_secondary_bomberroyale_bomb_lunar_desc»Faith in the Moon Goddess is the ultimate weapon. That said, bombs are definitely the penultimate weapon.
+$prefabs_skins_secondary_bomberroyale_stickybomb_bunfest_bounty_name»Bunfest Blasting Bounty
+$prefabs_skins_secondary_bomberroyale_stickybomb_bunfest_bounty_desc»How could chocolate eggs possibly hurt you?
+$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_01_name»Bunfest Surprise: Avacado
+$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_01_desc»Its got what bunnies crave, chocolate... and explosions.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_02_name»Bunfest Surprise: Howlug
+$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_02_desc»Easily the cutest thing that could blow you bits.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_03_name»Bunfest Surprise: Luniopolegg
+$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_03_desc»Proof that everything is better with RGB.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_04_name»Bunfest Surprise: Peaceful Spires
+$prefabs_skins_secondary_bomberroyale_rubberbomb_bunfest_egg_04_desc»A calming snack in the busy world of the Forbidden Spires.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_patchwork_name»Patchwork Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_patchwork_golden_name»Golden: Patchwork Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_patchwork_item_name»Item: Patchwork Rubber Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_patchwork_desc»The trick isn't getting to explode, it's getting it to bounce before it does.
+$prefabs_skins_secondary_bomberroyale_stickybomb_patchwork_name»Patchwork Sticky Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_patchwork_golden_name»Golden: Patchwork Sticky Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_patchwork_item_name»Item: Patchwork Sticky Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_patchwork_desc»The danger is not quite knowing if it's a dud or just a too long fuse.
+$prefabs_skins_secondary_bomberroyale_stickybomb_s3_dragon_name»Zyntryn's Sticky Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_s3_dragon_golden_name»Golden: Zyntryn's Sticky Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_s3_dragon_item_name»Item: Zyntryn's Sticky Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_s3_dragon_desc»Zyntryn's favorite bombs resemble his favorite dragon, him.
+$prefabs_skins_secondary_bomberroyale_beetlebomb_patchwork_golden_name»Golden: Critter Bomb
+$prefabs_skins_secondary_bomberroyale_beetlebomb_patchwork_desc»Danger: Explodes if dropped.
+$prefabs_skins_secondary_bomberroyale_beartrapbomb_patchwork_golden_name»Golden: Trap Bomb
+$prefabs_skins_secondary_bomberroyale_beartrapbomb_patchwork_desc»Allied target recognition is 99.74% effective.
+$prefabs_skins_secondary_bomberroyale_beetlebomb_wolf_name»Q'rsed Critter Bomb
+$prefabs_skins_secondary_bomberroyale_beartrapbomb_wolf_name»Q'rsed Trap Bomb
+$prefabs_skins_secondary_bomberroyale_beartrapbomb_pumpkin_name»Pumpkin Patch Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_cranberry_name»Bouncing Cranberry Sauce
+$prefabs_skins_secondary_bomberroyale_rubberbomb_cranberry_desc»It was so bouncy normally, but who would have thought it was combustive?
+$prefabs_skins_secondary_bomberroyale_stickybomb_turkey_name»Gobbler Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_turkey_desc»Capitalizing on those that have to be first to the table.
+$prefabs_skins_secondary_bomberroyale_stickybomb_lucky_stone_name»Sir O'Unlucky's Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_lucky_stone_item_name»Bomber Royale: Sir O'Unlucky's Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_lucky_stone_desc»Hard to think of a bomb as anything but unlucky.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_ornament_name»Jingle Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_ornament_desc»What's a little holiday cheer without an explosion?
+$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_a_name»Mystical Heckbug Egg
+$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_a_item_name»Bomber Royale: Mystical Heckbug Egg
+$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_a_desc»Cracking one of these is bad luck for a year, that's almost worse than the explosion!
+$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_b_name»Heckbug Egg
+$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_b_item_name»Bomber Royale: Heckbug Egg
+$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_b_desc»Explosions are just par for the course for a creature native to the Dragonfire Peaks.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_c_name»Heckbug-Hybrid Egg
+$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_c_item_name»Bomber Royale: Heckbug-Hybrid Egg
+$prefabs_skins_secondary_bomberroyale_rubberbomb_heckbug_cave_c_desc»Twice the ferociousness, twice the explosion!
+$prefabs_skins_secondary_bomberroyale_rubberbomb_lucky_star_name»Unlucky Star
+$prefabs_skins_secondary_bomberroyale_rubberbomb_lucky_star_item_name»Bomber Royale: Unlucky Star
+$prefabs_skins_secondary_bomberroyale_rubberbomb_lucky_star_desc»Explosions are nearly always unlucky... for those nearby.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_pot_of_gold_name»Pot o' Bombs
+$prefabs_skins_secondary_bomberroyale_rubberbomb_pot_of_gold_item_name»Bomber Royale: Pot o' Bombs
+$prefabs_skins_secondary_bomberroyale_rubberbomb_pot_of_gold_desc»Why buy bombs when your money can just be bombs?!
+$prefabs_skins_secondary_bomberroyale_stickybomb_october2024_name»Witch's Brew Bomb
+$prefabs_skins_secondary_bomberroyale_stickybomb_october2024_desc»Don't ask what's being made in it. You don't want to know.
+$prefabs_skins_secondary_bomberroyale_rubberbomb_october2024_name»Witch Hat Bomb
+$prefabs_skins_secondary_bomberroyale_rubberbomb_october2024_desc»Explodes with a cackling wail.
