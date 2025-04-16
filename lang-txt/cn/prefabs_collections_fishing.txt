@@ -1,0 +1,14 @@
+$prefabs_collections_fishing_crab_pole_name»暗流印记商人的钓竿
+$prefabs_collections_fishing_crab_pole_item_name»钓竿: 暗流印记商人的钓竿
+$prefabs_collections_fishing_crab_pole_description»能在满是泥泞的水中或巧克力中找到任何鱼。\n\n能够从鱼池中捕捉被深渊影响较小的稀有鱼类。\n\n由主城中钓鱼区的暗流印记商人出售。
+$prefabs_collections_fishing_turtle_pole_name»海龟拖杆
+$prefabs_collections_fishing_turtle_pole_item_name»钓竿: 海龟拖杆
+$prefabs_collections_fishing_turtle_pole_description»我喜欢乌龟。乌龟喜欢披萨。不知道为何这样都可以钓鱼。\n\n能够在特定区域捕捉到乌龟。\n\n由托马斯乌龟先生出售。
+$prefabs_collections_fishing_bone_pole_name»阿尔法垂钓者
+$prefabs_collections_fishing_bone_pole_item_name»钓竿: 阿尔法垂钓者
+$prefabs_collections_fishing_bone_pole_description»最好不要去想它的骨头是从哪里来的。\n\n能够从暗影海岸的方尖碑的鱼池中捕捉到稀有鱼类，在早期被归为活动鱼。
+$prefabs_collections_fishing_elysia_pole_name»艾莉西亚钓竿
+$prefabs_collections_fishing_elysia_pole_item_name»钓竿: 艾莉西亚钓竿
+$prefabs_collections_fishing_elysia_pole_description»即使是战士也需要偶尔放松一下，即便太黑了看不清楚，也要欣赏一下风景......。\n\n能够从暗影海岸的方尖碑的鱼池中捕捉到稀有鱼类，在早期被归为活动鱼。
+$prefabs_collections_fishing_depths_pole_name»深渊钓竿
+$prefabs_collections_fishing_depths_pole_description»尽管暗流印记商人声称，这根钓竿绝对钓不到利维坦。\n\n能够从幽影(U12)世界的水鱼池中钓出被深渊影响较大的稀有鱼类。

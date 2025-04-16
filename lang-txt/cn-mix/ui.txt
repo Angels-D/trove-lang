@@ -1331,7 +1331,7 @@ $PersonalChest_WinTitle»私人宝箱
 $PersonalChest_UnlockMsg»你可以为你的私人宝箱解锁更多空间！
 $HourlyChallengeTitle»每小时挑战，快点上我
 $ChallengeCollectTitle»收集挑战
-$ChallengeCollectDescription»收集硬币并获得奖励！\n通过访问主城中的临时传送门来参与此挑战。\n再不去就没龙币咯~
+$ChallengeCollectDescription»收集硬币以获得奖励！\n通过访问主城中心的临时传送门来参与此挑战。\n再不去就没龙币咯~
 $ChallengeTargetTitle»瞄准挑战
 $ChallengeTargetDescription»射击目标，赢得奖励！\n可通过使用主城的临时传送门参与此挑战。
 $ChallengeRaceTitle»竞速挑战
