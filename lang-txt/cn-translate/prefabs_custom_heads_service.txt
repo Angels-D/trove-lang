@@ -1,0 +1,2 @@
+$CustomHead_Piece_C_P_hair_braided_half_ponytail[Erythra]»马尾辫公主(Ponytail Princess)
+$CustomHead_Piece_C_P_hair_curly[Erythra]»立方卷曲(Cubic Curls)

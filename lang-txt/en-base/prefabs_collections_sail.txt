@@ -172,3 +172,9 @@ $prefabs_collections_sail_tysorion_name»House Tysorion Sail
 $prefabs_collections_sail_tysorion_description»Good Trovians fly their house's flag higher than anyone else's.
 $prefabs_collections_sail_davinci_name»Vitrovian Man Sail
 $prefabs_collections_sail_davinci_description»The more hands on deck, the better you'll sail!
+$prefabs_collections_sail_watermelon_name»Paquan Sail
+$prefabs_collections_sail_watermelon_description»Show the seas that you're all about the Vitamin C.
+$prefabs_collections_sail_peach_name»Peachy Sail
+$prefabs_collections_sail_peach_description»When life is just peachy, hoist this sail.
+$prefabs_collections_sail_lemonade_name»Zesty Sail
+$prefabs_collections_sail_lemonade_description»The sail to go with a glass of freshly sqeezed lemonade.

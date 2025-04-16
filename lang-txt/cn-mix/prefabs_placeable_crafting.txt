@@ -318,6 +318,7 @@ $prefabs_placeable_crafting_workbench_geodehub_deco_category_1_name»晶洞植�
 $prefabs_placeable_crafting_workbench_geodehub_deco_category_2_name»晶洞家具
 $prefabs_placeable_crafting_workbench_geodehub_deco_category_3_name»寻日者装饰品（高级）
 $prefabs_placeable_crafting_workbench_geodehub_deco_category_4_name»晶洞框架
+$prefabs_placeable_crafting_workbench_geodehub_deco_category_5_name»交互式大地测量对象(Interactive Geodian Objects)
 $prefabs_placeable_crafting_workbench_geode_interactive_craftingstation_name»晶洞工作台
 $prefabs_placable_crafting_workbench_geodehub_name»晶洞工作台
 $prefabs_placable_crafting_workbench_geodehub_description»用于制作晶洞的奇特物品。
@@ -471,6 +472,7 @@ $prefabs_placeable_crafting_deconstructor_martialarts_item_description»武术�
 $prefabs_placeable_crafting_workbench_gearcrafting_interactive_craftingstation_name»装备锻造炉
 $prefabs_placeable_crafting_workbench_gearcrafting_item_description»允许制作帽子、面具和武器装备。
 $prefabs_placeable_crafting_workbench_gearcrafting_progression_name»装备锻造终端
+$prefabs_placeable_crafting_workbench_gearcrafting_progression_desc»投资建造终点站，提升您的装备制造能力。最多只能同时启用6个不同的节点！(Increase your Gearcrafting power by investing in the Terminus. Only up to 6 different nodes can be enabled at the same time!)
 $prefabs_placeable_crafting_workbench_runecrafting_progression_name»符文铁砧
 $prefabs_placeable_crafting_workbench_runecrafting_progression_description»让有经验的符文制作师用来磨练和提升自己的才能！
 $prefabs_placeable_crafting_invader_obelisk_interactive_craftingstation_name»深渊入侵者碑

@@ -213,6 +213,8 @@ $prefabs_npc_merchant_neowiz_sign_title»元素商人
 $prefabs_npc_merchant_neowiz_sign_content»按 [HK:Loot] 查看商人的物品
 $prefabs_npc_event_boss_beehive_bee_waspspider_name»黄蜂
 $prefabs_npc_event_boss_beehive_bee_buddy_name»蜜蜂伙伴
+$waspider_shadow_boss»胡蜂至尊(Waspider Prime)
+$waspider_shadow»胡蜂阿尔法(Waspider Alpha)
 $npc_event_september2021_biped_skeleton_bare»墓穴骷髅
 $npc_event_september2021_biped_skeleton_knight»墓穴骷髅骑士
 $npc_event_september2021_biped_skeleton_noble»墓穴骷髅贵族

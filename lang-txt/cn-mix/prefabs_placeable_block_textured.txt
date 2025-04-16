@@ -49,3 +49,6 @@ $prefabs_placeable_block_textured_brick_bigstone_item_name»基础砖块
 $prefabs_placeable_block_textured_leaf_pink_item_name»樱花方块
 $prefabs_placeable_block_textured_leaf_green_item_name»茂盛树叶
 $prefabs_placeable_block_textured_magma_item_name»焦化熔岩
+$prefabs_placeable_block_textured_leaf_orange_item_name»琥珀叶(Amber Leaf)
+$prefabs_placeable_block_textured_mushroom_red_item_name»红菇(Red Shroom)
+$prefabs_placeable_block_textured_water_item_name»平静的水面(Still Water)

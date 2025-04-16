@@ -1,0 +1,2 @@
+$prefabs_placeable_crafting_workbench_geodehub_deco_category_5_name»交互式大地测量对象(Interactive Geodian Objects)
+$prefabs_placeable_crafting_workbench_gearcrafting_progression_desc»投资建造终点站，提升您的装备制造能力。最多只能同时启用6个不同的节点！(Increase your Gearcrafting power by investing in the Terminus. Only up to 6 different nodes can be enabled at the same time!)

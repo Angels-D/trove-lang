@@ -1,0 +1,2 @@
+$prefabs_collections_wings_honeybee_name»双B翼(Twin B-Wings)
+$prefabs_collections_wings_honeybee_description»蜜蜂的祝福。\n<font color="#cccccc">Blessed by bees.</font>

@@ -127,7 +127,7 @@ $meta_rewardId_250444_description»Golden Dragon Effigy
 $meta_rewardId_260_description»3 Golden Chaos Chests
 $meta_rewardId_260444_description»Goldwing Falkanzer Cub
 $meta_rewardId_270_description»+5% Damage
-$meta_rewardId_270444_description»Delve Shadowkey Codex
+$meta_rewardId_270444_description»Locksmith's Lexicon
 $meta_rewardId_280_description»Mastery Pinata Manuscript
 $meta_rewardId_290_description»Mark of Mastery
 $meta_rewardId_300_description»Valkizer, King of Dragons

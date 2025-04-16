@@ -159,3 +159,5 @@ $prefabs_collections_wings_holly_name»Supernatural Holly
 $prefabs_collections_wings_holly_description»Enchanted. Enhanced. Extra.
 $prefabs_collections_wings_magic_engines_name»Magical Engines
 $prefabs_collections_wings_magic_engines_description»Nobody knows how they work!
+$prefabs_collections_wings_honeybee_name»Twin B-Wings
+$prefabs_collections_wings_honeybee_description»Blessed by bees.

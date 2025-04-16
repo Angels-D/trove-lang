@@ -3329,3 +3329,19 @@ $prefabs_placeable_deco_smallground_green_01_item_name»有机水晶鲜花
 $prefabs_placeable_deco_smallground_green_02_item_name»有机水晶绿植
 $prefabs_placeable_deco_smallground_green_03_item_name»有机水晶茎杖
 $prefabs_placeable_deco_smallground_green_04_item_name»有机水晶嫩芽
+$prefabs_placeable_deco_dino_mossyegg_name»青苔蛋(Mossy Egg)
+$prefabs_placeable_deco_dino_trog_skeleton_name»来自沼泽的骷髅(Skeleton From the Swamp)
+$prefabs_placeable_deco_dino_trog_skull_name»来自沼泽的头骨(Skull From the Swamp)
+$prefabs_placeable_deco_dragon_dragonling_dusk_name»Li'l Dusk Drake(Li'l Dusk Drake)
+$prefabs_placeable_deco_dragon_dragonling_preserver_name»Li'l Preserver Drake(Li'l Preserver Drake)
+$prefabs_placeable_deco_dragon_dragonling_siege_name»Li'l Siege Drake(Li'l Siege Drake)
+$prefabs_placeable_deco_dragon_dragonling_wisdom_name»Li'l Wisdom Drake(Li'l Wisdom Drake)
+$prefabs_placeable_deco_fae_fence_name»魔法篱笆(Enchanted Fence)
+$prefabs_placeable_deco_highlands_royal_pedestal_name»皇家基座(Royal Pedestal)
+$prefabs_placeable_deco_neon_glass_panel_name»现代玻璃面板(Modern Glass Panel)
+$prefabs_placeable_deco_neon_modern_stairs_name»现代白色楼梯(Modern White Stairs)
+$prefabs_placeable_deco_neon_red_button_name»红色按钮(Red Button)
+$prefabs_placeable_deco_neon_warning_name»三角形警告标志(Triangle Warning Sign)
+$prefabs_placeable_deco_isletreasure_door_bottom_name»时尚木门把手免费(Stylish Wooden Door Handle Free)
+$prefabs_placeable_deco_isletreasure_door_middle_name»时尚木门中段(Stylish Wooden Door Middle Section)
+$prefabs_placeable_deco_isletreasure_door_circle_name»时尚木制圆窗(Stylish Wooden Round Window)

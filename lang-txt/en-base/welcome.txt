@@ -139,3 +139,6 @@ $Welcome_february_2025_capybara_description»Captain Markos Ybarra's nephew, Mar
 $Welcome_luxion_lands_name»Trials of Luxion!
 $Welcome_luxion_lands_subtitle»To all noteworthy Trovians: visit Light's Den in the Hub to begin the Trials of Luxion!
 $Welcome_luxion_lands_description»Earn Venturine in the Trials of Luxion to get access to Luxion's hoard!
+$Welcome_fri_13»Friday the 13th!
+$Welcome_fri_13_subtitle»Have a happy and spooky Friday the 13th! Enjoy bonus experience this weekend... and look out for ghosts!
+$Welcome_fri_13_description»The Bamboo Dragon Pack is available for purchase, and Bamboo Shoots can be found in the Forbidden Spires!

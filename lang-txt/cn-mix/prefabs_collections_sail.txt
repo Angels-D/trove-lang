@@ -172,3 +172,9 @@ $prefabs_collections_sail_tysorion_name»泰索里昂之家船帆
 $prefabs_collections_sail_tysorion_description»优秀的泰索里昂人将自己家族的旗帜插得比任何人都高。
 $prefabs_collections_sail_davinci_name»维特鲁威人形船
 $prefabs_collections_sail_davinci_description»人手越多，航行越稳！
+$prefabs_collections_sail_watermelon_name»帕泉帆(Paquan Sail)
+$prefabs_collections_sail_watermelon_description»向大海展示您对维生素C的热爱。\n<font color="#cccccc">Show the seas that you're all about the Vitamin C.</font>
+$prefabs_collections_sail_peach_name»Peachy Sail
+$prefabs_collections_sail_peach_description»当生活充满桃花时，吊起这艘帆。\n<font color="#cccccc">When life is just peachy, hoist this sail.</font>
+$prefabs_collections_sail_lemonade_name»Zesty帆船之旅(Zesty Sail)
+$prefabs_collections_sail_lemonade_description»船帆搭配一杯鲜榨柠檬水。\n<font color="#cccccc">The sail to go with a glass of freshly sqeezed lemonade.</font>

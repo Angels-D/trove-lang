@@ -1,0 +1,3 @@
+$Welcome_fri_13»13号星期五(Friday the 13th!)
+$Welcome_fri_13_subtitle»祝您13号星期五愉快又诡异！享受本周末的额外体验...并留意鬼魂！(Have a happy and spooky Friday the 13th! Enjoy bonus experience this weekend... and look out for ghosts!)
+$Welcome_fri_13_description»竹龙礼包可供购买，禁忌尖塔中可以找到竹笋！(The Bamboo Dragon Pack is available for purchase, and Bamboo Shoots can be found in the Forbidden Spires!)

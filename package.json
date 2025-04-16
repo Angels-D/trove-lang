@@ -16,7 +16,7 @@
     "@thestarweb/trove-lang-tool": "^1.0.0-test2"
   },
   "devDependencies": {
-    "@types/node": "^22.14.1",
+    "@types/node": "^22.15.21",
     "jszip": "^3.10.1",
     "typescript": "^5.8.3",
     "ts-node": "^10.9.2"

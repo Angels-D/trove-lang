@@ -1,0 +1,3 @@
+$Welcome_WindowName»此为免费汉化
+$ChallengeCollectTitle»收集挑战
+$ChallengeCollectDescription»收集硬币以获得奖励！\n通过访问主城中心的临时传送门来参与此挑战。\n再不去就没龙币咯~

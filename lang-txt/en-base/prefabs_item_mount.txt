@@ -963,3 +963,5 @@ $prefabs_item_mount_dog_husky_item_description»Hello, new friend! IS THAT SNOW?
 $prefabs_item_mount_wood_snake_newyear_2025_name»Golden Dormant Mythical Wooden Egg
 $prefabs_item_mount_wood_snake_newyear_2025_description»Consume to unlock the Dragon: She'xia, the Mythical!
 $prefabs_item_mount_ufo_flying_gym_item_name»Mount: All in One Flying Gym
+$prefabs_collections_mount_dragonserpent_waspider_shadow_item_name»Mounted Waspider Alpha
+$prefabs_collections_mount_dragonserpent_waspider_shadow_desc»Only a strong will can befriend an Alpha.

@@ -1558,3 +1558,46 @@ $prefabs_loot_equipment_helm_fae_trickster_environment_name»Guardian of Lands H
 $prefabs_loot_equipment_weapon_staff_fae_trickster_environment_name»Guardian of Lands Staff
 $prefabs_loot_equipment_helm_bard_asteroid_name»Asteroid Space Helmet
 $prefabs_loot_equipment_weapon_fist_bard_asteroid_name»Asteroid Space Fist
+$prefabs_loot_equipment_helm_candybarbarian_cheeseday_name»Brie Anne of Tart Wig
+$prefabs_loot_equipment_weapon_sword_candybarbarian_cheeseday_name»Brie Anne of Tart Sword
+$prefabs_loot_Hat_equipment_helm_pinata_moontouched[Vizorkid]_name»Moontouched Pin Head
+$prefabs_loot_Hat_equipment_helm_goat[TheLoveDr]_name»Masked Markhor
+$prefabs_loot_Hat_equipment_helm_iguana[PROfessOriginal]_name»Emerald Eft
+$prefabs_loot_Hat_equipment_helm_jumpingspider[Grumpsa]_name»Mr. Webs
+$prefabs_loot_Hat_equipment_helm_neonhound[xXx_akumi_xXx]_name»Neon Hound
+$prefabs_loot_equipment_weapon_fist_castle[Tellador]_name»Towering Throw
+$prefabs_loot_equipment_weapon_fist_castle[Tellador]_desc»When masonry meets ballistics.
+$prefabs_loot_equipment_weapon_fist_sporespike[Tellador]_name»Spore Spike
+$prefabs_loot_equipment_weapon_fist_sporespike[Tellador]_desc»Every Darkshroom wishes they had one of these.
+$prefabs_loot_equipment_weapon_fist_ashen[Tellador]_name»Ashen Punch
+$prefabs_loot_equipment_weapon_fist_ashen[Tellador]_desc»Meet your Irradiant enemies fist to face.
+$prefabs_loot_equipment_weapon_fist_irradiant[Tellador]_name»Irradiant Punch
+$prefabs_loot_equipment_weapon_fist_irradiant[Tellador]_desc»Meet your Ashen enemies fist to face.
+$prefabs_loot_Weapon_Bow_equipment_weapon_bow_demoniac[Marzes]_name»Demonic Dragon Wing
+$prefabs_loot_Weapon_Bow_equipment_weapon_bow_demoniac[Marzes]_desc»Burns your fingers.
+$prefabs_loot_equipment_weapon_bow_veil[Tellador]_name»Crystal Veil
+$prefabs_loot_equipment_weapon_bow_veil[Tellador]_desc»Stories claim that this bow can let you see the future.
+$prefabs_loot_equipment_weapon_bow_horizon[Tellador]_name»Sunrise Horizon
+$prefabs_loot_equipment_weapon_bow_horizon[Tellador]_desc»Turns your morning blues into destruction.
+$prefabs_loot_equipment_weapon_bow_corrupted_radiant[zozhko]_name»Corrupted Radiant Bow
+$prefabs_loot_equipment_weapon_bow_corrupted_radiant[zozhko]_desc»An incredible beauty born of two worlds.
+$prefabs_loot_Weapon_Bow_equipment_weapon_bow_willow[Tellador]_name»Midnight Willow
+$prefabs_loot_Weapon_Bow_equipment_weapon_bow_willow[Tellador]_desc»A mighty twig, shrouded in legends of magic and power.
+$prefabs_loot_Weapon_Bow_equipment_weapon_bow_flowerdarter[Dynamo160120]_name»Flower Darter
+$prefabs_loot_Weapon_Bow_equipment_weapon_bow_flowerdarter[Dynamo160120]_desc»Even the most beautiful flowers can have thorns.
+$prefabs_loot_Weapon_Bow_equipment_weapon_bow_frankhurter[Dynamo160120]_name»Frankhurter
+$prefabs_loot_Weapon_Bow_equipment_weapon_bow_frankhurter[Dynamo160120]_desc»What could possibly be better than this?!
+$prefabs_loot_equipment_weapon_1h_sword_ancient[Cyekie]_name»Anciet Sunseeker Sword
+$prefabs_loot_equipment_weapon_1h_sword_ancient[Cyekie]_desc»Removes corruption with a touch of a blade.
+$prefabs_loot_equipment_weapon_1h_sword_corrupted_radiant[zozhko]_name»Corrupted Radiant Scimitar
+$prefabs_loot_equipment_weapon_1h_sword_corrupted_radiant[zozhko]_desc»Elegant and deadly.
+$prefabs_loot_equipment_weapon_1h_sword_doomstar[Punkmonkey]_name»Everdark Star
+$prefabs_loot_equipment_weapon_1h_sword_doomstar[Punkmonkey]_desc»This mace was forged in the deepest depths of the darkest darkness.
+$prefabs_loot_equipment_weapon_1h_sword_silverspoon[LOWERCASED]_name»Gigantic Silver Spoon
+$prefabs_loot_equipment_weapon_1h_sword_silverspoon[LOWERCASED]_desc»Nobody wants to be born with this one in their mouth.
+$prefabs_loot_equipment_weapon_1h_sword_bonk[Sergetoo]_name»Bonk
+$prefabs_loot_equipment_weapon_1h_sword_bonk[Sergetoo]_desc»BONK! To the jail you go.
+$prefabs_loot_equipment_weapon_1h_sword_rose_spike[Korioissant]_name»Rosenthorn
+$prefabs_loot_equipment_weapon_1h_sword_rose_spike[Korioissant]_desc»Is in full bloom.
+$prefabs_loot_equipment_weapon_1h_sword_pixel[Nezz]_name»Flowery Fae
+$prefabs_loot_equipment_weapon_1h_sword_pixel[Nezz]_desc»Hides a few mysteries.

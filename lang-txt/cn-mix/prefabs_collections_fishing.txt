@@ -31,13 +31,13 @@ $prefabs_collections_fishing_irradiant_pole_item_name»钓竿: 镭射鱼竿
 $prefabs_collections_fishing_irradiant_pole_description»它到底是在钓鱼还是在骗鱼儿浮上水面？
 $prefabs_collections_fishing_crab_pole_name»暗流印记商人的钓竿
 $prefabs_collections_fishing_crab_pole_item_name»钓竿: 暗流印记商人的钓竿
-$prefabs_collections_fishing_crab_pole_description»能在满是泥泞的水中或巧克力中找到任何鱼。\n\n能够从鱼池中捕捉深渊中稀有的鱼。\n\n由主城中钓鱼区的暗流印记商人出售。
+$prefabs_collections_fishing_crab_pole_description»能在满是泥泞的水中或巧克力中找到任何鱼。\n\n能够从鱼池中捕捉被深渊影响较小的稀有鱼类。\n\n由主城中钓鱼区的暗流印记商人出售。
 $prefabs_collections_fishing_stars_pole_name»探鱼仪
 $prefabs_collections_fishing_stars_pole_item_name»钓竿: 探鱼仪
 $prefabs_collections_fishing_stars_pole_description»在寻找大多数鱼方面的最佳选择。
 $prefabs_collections_fishing_turtle_pole_name»海龟拖杆
 $prefabs_collections_fishing_turtle_pole_item_name»钓竿: 海龟拖杆
-$prefabs_collections_fishing_turtle_pole_description»我喜欢乌龟。乌龟喜欢披萨。不知道为何这样都可以钓鱼。\n\n能够从深渊中捕捉到入侵的乌龟。\n\n由托马斯乌龟先生出售。
+$prefabs_collections_fishing_turtle_pole_description»我喜欢乌龟。乌龟喜欢披萨。不知道为何这样都可以钓鱼。\n\n能够在特定区域捕捉到乌龟。\n\n由托马斯乌龟先生出售。
 $prefabs_collections_fishing_bird_pole_name»头条拖网钓竿
 $prefabs_collections_fishing_bird_pole_item_name»钓竿: 头条拖网钓竿
 $prefabs_collections_fishing_bird_pole_description»专业的拖网渔船通常以使用这样的捕鱼工具而闻名--有时它被称为鸣叫。
@@ -60,4 +60,4 @@ $prefabs_collections_fishing_eggman_pole_name»埃贡国王的皇家钓竿
 $prefabs_collections_fishing_eggman_pole_item_name»钓竿: 埃贡国王的皇家钓竿
 $prefabs_collections_fishing_eggman_pole_description»任何人包括所有的蛋人或寻宝者，只要被发现拥有这个或任何埃贡国王的其他王室财产，将会被立即处决。国王如是说道。
 $prefabs_collections_fishing_depths_pole_name»深渊钓竿
-$prefabs_collections_fishing_depths_pole_description»尽管暗流印记商人声称，这根钓竿绝对钓不到利维坦。\n\n但是能够从幽影(U12)世界的水鱼池中钓出稀有的深渊鱼。
+$prefabs_collections_fishing_depths_pole_description»尽管暗流印记商人声称，这根钓竿绝对钓不到利维坦。\n\n能够从幽影(U12)世界的水鱼池中钓出被深渊影响较大的稀有鱼类。
