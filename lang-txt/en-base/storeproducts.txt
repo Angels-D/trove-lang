@@ -584,13 +584,13 @@ $StoreProduct_tome_gems_empowered_legendary_description»Once a week use this to
 $StoreProduct_tome_booster_jadeclover_legendary_name»Jade Clover Journal
 $StoreProduct_tome_booster_jadeclover_legendary_description»Once a week use this tome to gain 100 Jade Clovers.
 $StoreProduct_tome_builderite_legendary_name»Builderite Booklet
-$StoreProduct_tome_builderite_legendary_description»Once a week use this tome to gain 35 Builderite.
+$StoreProduct_tome_builderite_legendary_description»Once a week use this tome to gain 75 Builderite.
 $StoreProduct_tome_moonlitmoss_legendary_name»Moonlit Moss Glossary
-$StoreProduct_tome_moonlitmoss_legendary_description»Once a week use this tome to gain 25 Moonlit Moss.
+$StoreProduct_tome_moonlitmoss_legendary_description»Once a week use this tome to gain 50 Moonlit Moss.
 $StoreProduct_tome_ancientgears_legendary_name»Ancient Gear Archive
-$StoreProduct_tome_ancientgears_legendary_description»Once a week use this tome to gain 35 Ancient Gears.
+$StoreProduct_tome_ancientgears_legendary_description»Once a week use this tome to gain 75 Ancient Gears.
 $StoreProduct_tome_wallflowers_legendary_name»Pressed Wallflowers
-$StoreProduct_tome_wallflowers_legendary_description»Once a week use this tome to gain 25 Wallflowers.
+$StoreProduct_tome_wallflowers_legendary_description»Once a week use this tome to gain 50 Wallflowers.
 $StoreProduct_tome_chaoschest_name»Chaos Codex
 $StoreProduct_tome_chaoschest_description»Once a week use this tome to gain 10 Chaos Chests.
 $StoreProduct_tome_instagrower_name»Insta-Grower Informational
@@ -865,9 +865,9 @@ $StoreProduct_gearcrafters_collection_pack_description»Gear up for adventure wi
 $StoreProduct_davinci_collection_pack_name»Creator's Collection
 $StoreProduct_davinci_collection_pack_description»Show off your inventiveness with this look!\n\nIncludes:\nAlly: Creator's Protected Wagon\nMount: Creator's Flying Machine\nBoat: Gallivanting Galleon\nPirate Captain Costume: Cubical Creator
 $StoreProduct_environment_collection_pack_name»Environment Pack
-$StoreProduct_environment_collection_pack_description»Includes everything you need to scavenge the wastelands!\n\nIncludes:\nAllies: Cranky Croaker, Symbiotic Fishsnail, Two-faced Crustacean\nMounts: Big Smiler, Runny Runner\nDracolyte Costume: Scavenging Stalker and Gunslinger Costume: Desert Hunter
+$StoreProduct_environment_collection_pack_description»Take a virtual walk in the woods with this limited time pack!\n\nIncludes:\nAllies: Mindful Mountain Dino, Invigorating Icy Flying Fish\nMounts: Prickly Cactus Wyvern, Tenderhearted Tree House\nFae Trickster Costume: Guardian of Lands
 $StoreProduct_scavenger_collection_pack_name»Scavenger Pack
-$StoreProduct_scavenger_collection_pack_description»Take a virtual walk in the woods with this limited time pack!\n\nIncludes:\nAllies: Mindful Mountain Dino, Invigorating Icy Flying Fish\nMounts: Prickly Cactus Wyvern, Tenderhearted Tree House\nFae Trickster Costume: Guardian of Lands
+$StoreProduct_scavenger_collection_pack_description»Includes everything you need to scavenge the wastelands!\n\nIncludes:\nAllies: Cranky Croaker, Symbiotic Fishsnail, Two-faced Crustacean\nMounts: Big Smiler, Runny Runner\nDracolyte Costume: Scavenging Stalker and Gunslinger Costume: Desert Hunter
 $StoreProduct_fate_collection_pack_name»FATE Celebration Pack
 $StoreProduct_fate_collection_pack_name_alt»Dungeon Explorer Pack
 $StoreProduct_fate_collection_pack_description»To celebrate the release of FATE: Reawakened, we are offering a pack full of FATE goodies!\n\nIncludes:\nAllies: Fateful Milo, Fateful Brainbeast, Fateful Mimic\nMounts: Fateful Venom Drake, Fateful Armored Sharphorn\nSolarian Costume: Fateful Elphame Armor and Tombraiser: Fateful Reaper

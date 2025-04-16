@@ -1579,19 +1579,21 @@ $Quest_GoldenThread_event_may2022_07_Description»Spring Fling 7/8 QUACK! QUACK!
 $Quest_GoldenThread_Event_may2022_08_Name»Collect a rare treasure from Waspiders in Permafrost
 $Quest_GoldenThread_event_may2022_08_Description»Spring Fling 8/8 Hey, thanks for all the help. Now, go spread more flowers and continue to help save the bees. While you're hunting Waspiders they may drop a pet or two. You should grab one from the Permafrost before they melt!
 $Quest_GoldenThread_Event_june2022_01_Name»Visit GMQubesly in the Hub.
-$Quest_GoldenThread_event_june2022_01_Description»Splendid Summer 1/7:  Hello Trovian! Come check out my colorful wares! A celebration of being a prideful Trovian!
+$Quest_GoldenThread_event_june2022_01_Description»Splendid Summer 1/8:  Hello Trovian! Come check out my colorful wares! A celebration of being a prideful Trovian!
 $Quest_GoldenThread_Event_june2022_02_Name»Spend some Valor Coins
-$Quest_GoldenThread_event_june2022_02_Description»Splendid Summer 2/7: Collect your Valor Coins from the Claims Menu to purchase a reward.
+$Quest_GoldenThread_event_june2022_02_Description»Splendid Summer 2/8: Collect your Valor Coins from the Claims Menu to purchase a reward.
 $Quest_GoldenThread_Event_june2022_03_Name»Defend your fellow Trovians!
-$Quest_GoldenThread_event_june2022_03_Description»Splendid Summer 3/7: Your next quest requires your might, defeat 3 Star Dungeons and gather more Valor Coins for more rewards from my shop!
+$Quest_GoldenThread_event_june2022_03_Description»Splendid Summer 3/8: Your next quest requires your might, defeat 3 Star Dungeons and gather more Valor Coins for more rewards from my shop!
 $Quest_GoldenThread_Event_june2022_04_Name»Return to GMQubesly in the hub!
-$Quest_GoldenThread_event_june2022_04_Description»Splendid Summer 4/7: Visit me in the hub! As the Grand Marshal, your many Valor Coins will grant access to more rewards! Come see!
+$Quest_GoldenThread_event_june2022_04_Description»Splendid Summer 4/8: Visit me in the hub! As the Grand Marshal, your many Valor Coins will grant access to more rewards! Come see!
 $Quest_GoldenThread_Event_june2022_05_Name»Show off your new gear and jump in the Hub!
-$Quest_GoldenThread_event_june2022_05_Description»Splendid Summer 5/7:  Show your valor all month long! This month is a reminder of supporting, encouraging, and showing love in more ways than one. Share that with your fellow Trovians.
+$Quest_GoldenThread_event_june2022_05_Description»Splendid Summer 5/8:  Show your valor all month long! This month is a reminder of supporting, encouraging, and showing love in more ways than one. Share that with your fellow Trovians.
 $Quest_GoldenThread_Event_june2022_06_Name»Defeat 3 Star Dungeons
-$Quest_GoldenThread_event_june2022_06_Description»Splendid Summer 6/7: Celebrate your power and strength Trovian! Your strength is beyond compare of the void that we live in. Show your true might in this realm and in the next to bring down powerful enemies!! 
-$Quest_GoldenThread_Event_june2022_07_Name»Topple your enemy and rise above the struggle!
-$Quest_GoldenThread_event_june2022_07_Description»Splendid Summer 7/7:  This month is about loving yourself and encouraging others that your true self is the best you can be. Share the love, encourage others, and have fun Trovians!
+$Quest_GoldenThread_event_june2022_06_Description»Splendid Summer 6/8: Celebrate your power and strength Trovian! Your strength is beyond compare of the void that we live in. Show your true might in this realm and in the next to bring down powerful enemies!! 
+$Quest_GoldenThread_Event_june2022_07_Name»Complete CHALLENGES and make friends with everyone!
+$Quest_GoldenThread_event_june2022_07_Description»Splendid Summer 7/8: This month is about being a part of a whole! To take pride in solving the world's problems together! Join CHALLENGES and embark on a journey with others and learn how it is to be a community!
+$Quest_GoldenThread_Event_june2022_08_Name»Protect your friends from harm and defeat their foes!
+$Quest_GoldenThread_event_june2022_08_Description»Splendid Summer 8/8:  This month is about being yourself, and allowing people to be their true selves. Protect your friends from enemies that prevent that. Share the love, encourage others, and have fun Trovians!
 $Quest_GoldenThread_Event_july2022_01_Name»Meet Chuck Pinzo
 $Quest_GoldenThread_event_july2022_01_Description»Sunfest 1/11 : Attention Trovians. I won't mince words, Trove is about to change forever. If you want to get in on the ground floor of the next big thing in Trove, meet me by the Events Area in the hub where I'll be waiting with pizza. Pizza is first come first served, so I'd hurry!\n\nPress [HK:Loot] to interact.
 $Quest_GoldenThread_Event_july2022_02_Name»Craft the Chuck Pinzo Mining Banner.
@@ -1810,8 +1812,8 @@ $Quest_GoldenThread_starchart_tutorial_04_name»Acquire Astral Echoes
 $Quest_GoldenThread_starchart_tutorial_04_desc»5/12: Fantastic, I can already see you growing more powerful. However, I will not be selling all my Celestial Spheres for cheap, as they are limited. In exchange for future Celestial Spheres, I will ask for Astral Echoes. For now, finding any will prove to me you are capable. They can be found in dungeons, delves, or from my 2nd Cousin Starbert who stays on the roof. If you have trouble getting any, take a break from adventuring before trying again.
 $Quest_GoldenThread_starchart_tutorial_05_name»Talk to the Celestial
 $Quest_GoldenThread_starchart_tutorial_05_desc»6/12: Now that you have proven you can provide me with Astral Echoes, I would like you to come back and visit me in the hub for your next lesson.\n\nPress [HK:Loot] to interact.
-$Quest_GoldenThread_starchart_tutorial_06_name»Get a Celestial Key
-$Quest_GoldenThread_starchart_tutorial_06_desc»7/12: Another important item for your growth through the Star Chart is the Celestial Key. Once again, I fortunately have some in stock, but not many. If you want more, you will have to find an entity even greater than myself that can provide them.\n\nBuy a Constellation Key from the Celestial or from the Store.
+$Quest_GoldenThread_starchart_tutorial_06_name»Get a Constellation Key
+$Quest_GoldenThread_starchart_tutorial_06_desc»7/12: Another important item for your growth through the Star Chart is the Constellation Key. Once again, I fortunately have some in stock, but not many. If you want more, you will have to find an entity even greater than myself that can provide them.\n\nBuy a Constellation Key from the Celestial or from the Store.
 $Quest_GoldenThread_starchart_tutorial_07_name»Interact with the Grand Orrery
 $Quest_GoldenThread_starchart_tutorial_07_desc»8/12: Truly excellent. The power of the Constellations will be yours before too long. With the Constellation Key in hand, visit the Grand Orrery for your next step.
 $Quest_GoldenThread_starchart_tutorial_08_name»Unlock a Major Star
@@ -2397,3 +2399,19 @@ $Quest_luxion_lands_daily_mine_name»Mine Venturine Ore
 $Quest_luxion_lands_daily_mine_desc»...
 $Quest_luxion_lands_daily_donate_name»Donate at Luxion's Long Shots
 $Quest_luxion_lands_daily_donate_desc»How did I get so rich? Luxion's Long Shots, of course! Give it a shot, maybe you'll get lucky, like me!
+$Quest_GoldenThread_Event_may2025_01_Name»Talk to Sir Dapper Duckington Esquire
+$Quest_GoldenThread_event_may2025_01_Description»Spring Sting 2025 1/8: QUACK, QUACK, QUACK! THAT'S RIGHT TROVIAN YOU HEAR THE QUACK YOU KNOW I'M BACK. QUACK! COME ON OVER FOR A QUACK.
+$Quest_GoldenThread_Event_may2025_02_Name»Fling Spring Flingers
+$Quest_GoldenThread_event_may2025_02_Description»Spring Sting 2025 2/8: QUACK! I AM SIR DAPPER DUCKINGTON ESQUIRE! QUACK! OF COURSE YOU KNOW THIS ALREADY, QUACK, AND IF YOU KNOW THAT YOU KNOW THAT IF IT'S SPRING YOU MUST FLING. QUACK! LUCKILY FOR YOU I HAPPEN TO HAVE SOME SPRING FLINGERS, QUACK, SO LET THE FLINGING BEGIN! QUACK!
+$Quest_GoldenThread_Event_may2025_03_Name»Defeat Waspiders in Medieval Highlands, Permafrost, or Neon City
+$Quest_GoldenThread_event_may2025_03_Description»Spring Sting 2025 3/8: QUACK, SEE HOW MUCH FUN IT IS! QUACK! YOU KNOW WHAT'S NOT FUN, WASPIDERS! QUACK! WASPIDERS HARASS BEES AND RUIN FUN, QUACK! HEAD ON OVER TO THE MEDIEVAL HIGHLANDS, THE PERMAFROST, OR NEON CITY AND FIGHT THEM, QUACK! \n\nDON'T FORGET, YOU'LL NEED SPRING FLINGERS TO SUMMON BEES TO HELP YOU, QUACK! OTHERWISE YOU WON'T EVEN BE ABLE TO HURT THE WASPIDERS, QUACK!
+$Quest_GoldenThread_Event_may2025_04_Name»Fill Beehives with Bees
+$Quest_GoldenThread_event_may2025_04_Description»Spring Sting 2025 4/8: QUACK! SPRING FLINGERS CAN DO MORE THAN HELP DEFEAT WASPIDERS, QUACK! FIND A BEEHIVE IN THE FAE FOREST OR NEON CITY AND THROW FLINGERS AT THEM TO FILL THEM UP, QUACK!
+$Quest_GoldenThread_Event_may2025_05_Name»Defeat 1 Star Dungeons for Qubesly
+$Quest_GoldenThread_event_may2025_05_Description»Spring Sting 2025 5/8: Excuse me Trovian, sorry to interrupt the quacking and the flinging but those dungeons won't clear themselves. Could you please get back to the everyday tasks before resuming the Spring Fling activities?\n\nDefeat 1 Star Dungeons for Qubesly.
+$Quest_GoldenThread_Event_may2025_06_Name»Collect an Item from a Beehive
+$Quest_GoldenThread_event_may2025_06_Description»Spring Sting 2025 6/8: QUACK! TROVIAN, PLEASE DISREGARD ANY REQUESTS FROM QUBESLY DURING SPRING FLING, QUACK! I HAVE SERVED HIM WITH AN OFFICIAL CEASE AND DESIST. QUACK! I STLL NEED ONEMORE THING FROM YOU, QUACK! FIND MORE BEEHIVES AND THROW SPRING FLINGERS AT THEM AND WHO KNOWS, QUACK, YOU MIGHT FIND SOMETHING SPECIAL! DO THAT AND THE BEES MIGHT SEND YOU A GIFT, QUACK! SERIOUSLY, THAN-CKS FOR HELPING OUT WITH THE BEES AND THE WASPIDERS, QUACK! IT MEANS A LOT. QUACK!
+$Quest_GoldenThread_Event_may2025_07_Name»Defeat the Waspider Alpha In Fae Wilds and Neon City
+$Quest_GoldenThread_event_may2025_07_Description»Spring Sting 2025 7/8: QUACK! TROVIAN! ALERT! ALERT! WE'VE SPOTTED THEM! THE WASPIDER HIVES! IT'S TIME TO END THIS FEUD ONCE AND FOR ALL TROVIAN! DIVE DEEP INTO THEIR HIVES AND DRIVE THEM OUT. FLINGERS WONT HELP IN THIS ONE. BE READY.
+$Quest_GoldenThread_Event_may2025_08_Name»Return to Sir Dapper Duckington for Your Reward
+$Quest_GoldenThread_event_may2025_08_Description»Spring Sting 2025 8/8: QUACK! TROVIAN! YOU DID IT! YOU BESTED THE WASPIDERS! THE BEES HAVE SENT AN ESTEEMED EMISSARY TO ASSIST YOU IN YOUR BATTLES FROM HENCEFORTH!

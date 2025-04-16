@@ -159,3 +159,5 @@ $prefabs_collections_wings_holly_name»超自然冬青
 $prefabs_collections_wings_holly_description»附魔过。强化过。有附加效果。
 $prefabs_collections_wings_magic_engines_name»魔法引擎
 $prefabs_collections_wings_magic_engines_description»没人知道它们的原理！
+$prefabs_collections_wings_honeybee_name»双B翼(Twin B-Wings)
+$prefabs_collections_wings_honeybee_description»蜜蜂的祝福。\n<font color="#cccccc">Blessed by bees.</font>

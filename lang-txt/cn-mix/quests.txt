@@ -1592,6 +1592,8 @@ $Quest_GoldenThread_Event_june2022_06_Name»清除3星地下城
 $Quest_GoldenThread_event_june2022_06_Description»灿烂夏日 6/7: 庆祝你的力量和勇气! 你的力量是我们所处的虚空无法比拟的。在这个领域和下一个领域展现你真正的威力，打倒强大的敌人!!
 $Quest_GoldenThread_Event_june2022_07_Name»颠覆你的敌人，在战斗中崛起!
 $Quest_GoldenThread_event_june2022_07_Description»灿烂夏日 7/7:  这个月是关于爱自己和鼓励别人，你的真实自我是你能成为的最好的。分享爱，鼓励他人，并享受寻宝者的乐趣。
+$Quest_GoldenThread_Event_june2022_08_Name»保护您的朋友免受伤害，击败他们的敌人！(Protect your friends from harm and defeat their foes!)
+$Quest_GoldenThread_event_june2022_08_Description»灿烂的夏天8/8 ：这个月是关于做你自己，让人们成为真正的自己。保护您的朋友免受阻止这种情况的敌人的伤害。分享爱，鼓励他人，享受Trovian的乐趣！(Splendid Summer 8/8:  This month is about being yourself, and allowing people to be their true selves. Protect your friends from enemies that prevent that. Share the love, encourage others, and have fun Trovians!)
 $Quest_GoldenThread_Event_july2022_01_Name»认识查克,平索
 $Quest_GoldenThread_event_july2022_01_Description»太阳庆典 1/11 : 寻宝者注意了。我不会拐弯抹角的，Trove将永远改变。如果你想了解Trove的下一个大事件的情况，请到主城的活动区来找我，我会带着披萨在那里等候。披萨是先到先得的，所以你得抓紧时间来找我。\n\n按[HK:Loot]进行互动。
 $Quest_GoldenThread_Event_july2022_02_Name»制作查克,平索采矿旗
@@ -2397,6 +2399,22 @@ $Quest_luxion_lands_daily_mine_name»挖掘金粉矿
 $Quest_luxion_lands_daily_mine_desc»...
 $Quest_luxion_lands_daily_donate_name»在奢龙的豪赌中进行捐赠
 $Quest_luxion_lands_daily_donate_desc»我是怎么变得如此富有的？当然是因为奢龙的豪赌！去试试看吧，也许你也会和我一样走运！
+$Quest_GoldenThread_Event_may2025_01_Name»与Dapper Duckington Esquire爵士交谈(Talk to Sir Dapper Duckington Esquire)
+$Quest_GoldenThread_event_may2025_01_Description»Spring Sting 2025 1/8 ：嘎嘎，嘎嘎，嘎嘎！没错，TROVIAN，你听到嘎嘎声，你知道我回来了。嘎嘎！过来嘎嘎。(Spring Sting 2025 1/8: QUACK, QUACK, QUACK! THAT'S RIGHT TROVIAN YOU HEAR THE QUACK YOU KNOW I'M BACK. QUACK! COME ON OVER FOR A QUACK.)
+$Quest_GoldenThread_Event_may2025_02_Name»投掷弹簧投掷器(Fling Spring Flingers)
+$Quest_GoldenThread_event_may2025_02_Description»弹簧叮刺2025 2/8 ：嘎嘎！我是Duckington ESQUIRE先生！嘎嘎！当然，你已经知道这一点了，嘎嘎，如果你知道你知道如果是春天，你必须扔。嘎嘎！幸运的是，我碰巧有一些春花，嘎嘎，所以让我们开始吧！嘎嘎！(Spring Sting 2025 2/8: QUACK! I AM SIR DAPPER DUCKINGTON ESQUIRE! QUACK! OF COURSE YOU KNOW THIS ALREADY, QUACK, AND IF YOU KNOW THAT YOU KNOW THAT IF IT'S SPRING YOU MUST FLING. QUACK! LUCKILY FOR YOU I HAPPEN TO HAVE SOME SPRING FLINGERS, QUACK, SO LET THE FLINGING BEGIN! QUACK!)
+$Quest_GoldenThread_Event_may2025_03_Name»在中世纪高地、永冻层或霓虹城击败野人(Defeat Waspiders in Medieval Highlands, Permafrost, or Neon City)
+$Quest_GoldenThread_event_may2025_03_Description»2025年春季刺痛3/8 ：嘎嘎作响，看看它有多有趣！嘎嘎！你知道什么不好玩，胡蜂！嘎嘎！胡蜂骚扰蜜蜂，破坏乐趣，嘎嘎！前往中世纪高地、永久冻土或霓虹城，与他们作战，嘎嘎！(Spring Sting 2025 3/8: QUACK, SEE HOW MUCH FUN IT IS! QUACK! YOU KNOW WHAT'S NOT FUN, WASPIDERS! QUACK! WASPIDERS HARASS BEES AND RUIN FUN, QUACK! HEAD ON OVER TO THE MEDIEVAL HIGHLANDS, THE PERMAFROST, OR NEON CITY AND FIGHT THEM, QUACK! )\n\n别忘了，你需要弹簧飞手来召唤蜜蜂来帮助你，嘎嘎！否则你甚至无法伤害蜘蛛，嘎嘎！(DON'T FORGET, YOU'LL NEED SPRING FLINGERS TO SUMMON BEES TO HELP YOU, QUACK! OTHERWISE YOU WON'T EVEN BE ABLE TO HURT THE WASPIDERS, QUACK!)
+$Quest_GoldenThread_Event_may2025_04_Name»用蜜蜂填满蜂巢(Fill Beehives with Bees)
+$Quest_GoldenThread_event_may2025_04_Description»弹簧叮刺2025 4/8 ：嘎嘎！春天的飞人可以做的不仅仅是帮助击败胡蜂，嘎嘎！在FAE森林或霓虹城找到一个蜂巢，向他们投掷飞镖来填满它们，嘎嘎！(Spring Sting 2025 4/8: QUACK! SPRING FLINGERS CAN DO MORE THAN HELP DEFEAT WASPIDERS, QUACK! FIND A BEEHIVE IN THE FAE FOREST OR NEON CITY AND THROW FLINGERS AT THEM TO FILL THEM UP, QUACK!)
+$Quest_GoldenThread_Event_may2025_05_Name»为库贝斯利击败1星地牢(Defeat 1 Star Dungeons for Qubesly)
+$Quest_GoldenThread_event_may2025_05_Description»Spring Sting 2025 5/8 ：对不起，Trovian，很抱歉打断了嘎嘎声和甩甩声，但那些地牢不会自己清理。在恢复Spring Fling活动之前，您能回到日常任务吗？(Spring Sting 2025 5/8: Excuse me Trovian, sorry to interrupt the quacking and the flinging but those dungeons won't clear themselves. Could you please get back to the everyday tasks before resuming the Spring Fling activities?)\n\n为库贝斯利击败1个星际地牢。(Defeat 1 Star Dungeons for Qubesly.)
+$Quest_GoldenThread_Event_may2025_06_Name»从蜂巢中收集道具(Collect an Item from a Beehive)
+$Quest_GoldenThread_event_may2025_06_Description»Spring Sting 2025 6/8 ：嘎嘎！TROVIAN，请忽略QUBESLY在春季期间提出的任何要求，嘎嘎！我已经正式停止向他提供服务。嘎嘎！嘎嘎，我只需要你记住一件事！找到更多的蜂巢，向他们投掷春天飞人，谁知道呢，嘎嘎，你可能会发现一些特别的东西！这样做，蜜蜂可能会送你一份礼物，嘎嘎！说真的，THAN-CKS帮忙处理蜜蜂和蜘蛛，嘎嘎！这意味着很多。嘎嘎！(Spring Sting 2025 6/8: QUACK! TROVIAN, PLEASE DISREGARD ANY REQUESTS FROM QUBESLY DURING SPRING FLING, QUACK! I HAVE SERVED HIM WITH AN OFFICIAL CEASE AND DESIST. QUACK! I STLL NEED ONEMORE THING FROM YOU, QUACK! FIND MORE BEEHIVES AND THROW SPRING FLINGERS AT THEM AND WHO KNOWS, QUACK, YOU MIGHT FIND SOMETHING SPECIAL! DO THAT AND THE BEES MIGHT SEND YOU A GIFT, QUACK! SERIOUSLY, THAN-CKS FOR HELPING OUT WITH THE BEES AND THE WASPIDERS, QUACK! IT MEANS A LOT. QUACK!)
+$Quest_GoldenThread_Event_may2025_07_Name»在FAE Wilds和霓虹城击败Waspider Alpha(Defeat the Waspider Alpha In Fae Wilds and Neon City)
+$Quest_GoldenThread_event_may2025_07_Description»Spring Sting 2025 7/8 ：嘎嘎！特洛维安！警报！警报！我们发现了他们！蜘蛛巢穴！是时候一劳永逸地结束这场争斗了，TROVIAN！深入他们的荨麻疹，把他们赶出去。FLINGERS不会在这方面提供帮助。做好准备。(Spring Sting 2025 7/8: QUACK! TROVIAN! ALERT! ALERT! WE'VE SPOTTED THEM! THE WASPIDER HIVES! IT'S TIME TO END THIS FEUD ONCE AND FOR ALL TROVIAN! DIVE DEEP INTO THEIR HIVES AND DRIVE THEM OUT. FLINGERS WONT HELP IN THIS ONE. BE READY.)
+$Quest_GoldenThread_Event_may2025_08_Name»返回Dapper Duckington爵士领取奖励(Return to Sir Dapper Duckington for Your Reward)
+$Quest_GoldenThread_event_may2025_08_Description»Spring Sting 2025 8/8 ：嘎嘎！TROVIAN！你做到了！你击败了胡蜂！蜜蜂派遣了一位尊敬的使者来协助你从此后的战斗！(Spring Sting 2025 8/8: QUACK! TROVIAN! YOU DID IT! YOU BESTED THE WASPIDERS! THE BEES HAVE SENT AN ESTEEMED EMISSARY TO ASSIST YOU IN YOUR BATTLES FROM HENCEFORTH!)
 $Quest_GoldenThread_golden_thread_04_interact_controller»这是一个伟大的地下城旅行，你现在看起来已经更加强大了。按下 [HK:Homeworld] 回到主城与我会合。我想带你四处转转！我就在主城平台南面的太阳女神像旁边。\n\n请查看屏幕上方的指南针，往南面的方向走动！
 $Quest_GoldenThread_LockItemDeconstructor_Description_controller»按[HK:Loot]开启分解工作台， \n然后按[HK:UIControllerButtonX].来锁定物品不被兑换。
 $Quest_GoldenThread_PickAWeaponStyle_Description_Console»改变你的外观！\n\n按[HK:CharacterSheet]，再按武器槽位图标上的[HK:UIControllerButtonA]即可从收藏物中选择一种新外观。

@@ -1,0 +1,2 @@
+$prefabs_skins_candybarbarian_cheeseday_skinset_name»Brie Anne of Tart
+$prefabs_skins_candybarbarian_cheeseday_skinset_description»糖果野蛮人的服装。\n<font color="#cccccc">A costume for the Candy Barbarian.</font>\n\n传奇乳制品防御者！\n<font color="#cccccc">The legendary Dairy Defender!</font>

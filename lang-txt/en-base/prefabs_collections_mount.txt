@@ -2149,3 +2149,9 @@ $prefabs_collections_mount_board_asteroid_name»Spacey Synthesizer
 $prefabs_collections_mount_board_asteroid_description»Its keys lighting up, taking you on an intergalactic ride!
 $prefabs_collections_mount_griffon_asteroid_name»Watchful Spaceguard
 $prefabs_collections_mount_griffon_asteroid_description»Your personal bodyguard, ready to protect you from any space debris or asteroid dangers!
+$prefabs_collections_mount_butterfly_cheeseday_name»Peckorino
+$prefabs_collections_mount_butterfly_cheeseday_description»This fancy fowl flies through the air in haute couture, cheese firmly in its beak.
+$prefabs_collections_mount_board_cheeseday_name»Overflowing Mozzarella Bundt Cake
+$prefabs_collections_mount_board_cheeseday_description»A melting monstrosity of dairy and bacon.
+$prefabs_collections_mount_dragonserpent_waspider_shadow_name»Mounted Waspider Alpha
+$prefabs_collections_mount_dragonserpent_waspider_shadow_description»Only a strong will can befriend an Alpha.

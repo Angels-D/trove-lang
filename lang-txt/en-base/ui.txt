@@ -1285,6 +1285,8 @@ $Crafting_ProfessionSkillTitle_Crystallogist»Crystallogist
 $Crafting_ProfessionSkillTitle_Geodemancer»Geodemancer
 $Crafting_ProfessionSkillTitle_Bardmancologist»Bardmancologist
 $Crafting_Recipes»Recipes
+$Crafting_LimitedTime»Limited Time Recipe!
+$Crafting_LimitedTime_Tooltip»This recipe is only available for the next {0}.
 $Crafting_Progress»Crafting in Progress...
 $Crafting_Complete»Finished crafting
 $Crafting_FailureReason_NotFound»Cannot find recipe.

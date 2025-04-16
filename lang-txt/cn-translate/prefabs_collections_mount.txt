@@ -1,0 +1,6 @@
+$prefabs_collections_mount_butterfly_cheeseday_name»Peckorino
+$prefabs_collections_mount_butterfly_cheeseday_description»这只花哨的鸟穿着高级时装在空中飞翔，奶酪紧紧地夹在嘴里。\n<font color="#cccccc">This fancy fowl flies through the air in haute couture, cheese firmly in its beak.</font>
+$prefabs_collections_mount_board_cheeseday_name»溢出马苏里拉奶酪捆绑蛋糕(Overflowing Mozzarella Bundt Cake)
+$prefabs_collections_mount_board_cheeseday_description»乳制品和培根融化的怪物。\n<font color="#cccccc">A melting monstrosity of dairy and bacon.</font>
+$prefabs_collections_mount_dragonserpent_waspider_shadow_name»坐骑：黄蜂阿尔法(Mounted Waspider Alpha)
+$prefabs_collections_mount_dragonserpent_waspider_shadow_description»只有意志坚强的人才能成为阿尔法的朋友。\n<font color="#cccccc">Only a strong will can befriend an Alpha.</font>

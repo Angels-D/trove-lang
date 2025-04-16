@@ -111,7 +111,7 @@ $runecrafting.water_node_6_description»You have a chance to craft extra rune sl
 $runecrafting.water_node_6_details»The greatest slatesmiths are coveted. Every artist desires the perfect palette.
 $runecrafting.water_node_7_name»Abyssal Scribe
 $runecrafting.water_node_7_description»You have a chance to craft extra leaflets.
-$runecrafting.water_node_7_details»Text's don't last long under water, best to read them quickly.
+$runecrafting.water_node_7_details»Texts don't last long under water, best to read them quickly.
 $runecrafting.water_node_8_name»Abyssal Runesmith
 $runecrafting.water_node_8_description»You have a chance to craft extra runes.
 $runecrafting.water_node_8_details»In times of great need quality wane in favor of quantity.

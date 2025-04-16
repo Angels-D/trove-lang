@@ -1,0 +1,2 @@
+$prefabs_collections_mount_dragonserpent_waspider_shadow_item_name»坐骑：黄蜂阿尔法(Mounted Waspider Alpha)
+$prefabs_collections_mount_dragonserpent_waspider_shadow_desc»只有意志坚强的人才能成为阿尔法的朋友。(Only a strong will can befriend an Alpha.)

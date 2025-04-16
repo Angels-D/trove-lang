@@ -1,0 +1,2 @@
+$prefabs_collections_pet_dragonfly_waspider_shadow_item_name»盟友：胡蜂阿尔法小矮人(Ally: Waspider Alpha Whelp)
+$prefabs_collections_pet_dragonfly_waspider_shadow_item_desc»你知道，他们站在你这边的时候很可爱。(You know, they're pretty cute when they're on your side.)

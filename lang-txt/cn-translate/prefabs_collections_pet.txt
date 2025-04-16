@@ -1,0 +1,24 @@
+$prefabs_collections_pet_tato_cheeseday_name»火锅追随者(Fondue Follower)
+$prefabs_collections_pet_tato_cheeseday_description»一壶奶酪般的美味泡沫，一只幸福的老鼠浸泡在时尚中。\n<font color="#cccccc">A bubbling pot of cheesy goodness with a blissed-out mouse soaking in style.</font>
+$prefabs_collections_pet_tentacle_cheeseday_name»Rattabrouille
+$prefabs_collections_pet_tentacle_cheeseday_description»一堆不稳定的美食混乱。\n<font color="#cccccc">An unstable stack of gourmet chaos.</font>
+$prefabs_collections_pet_biped_postal_name»Stampette小姐(Miss Stampette)
+$prefabs_collections_pet_biped_postal_description»在风格和邮费方面达成协议。\n<font color="#cccccc">Sealing the deal with style and postage.</font>
+$prefabs_collections_pet_dog_postal_name»Maildog Max
+$prefabs_collections_pet_dog_postal_description»守护字母，就像守护传奇战利品一样！\n<font color="#cccccc">Guarding letters like they’re legendary loot!</font>
+$prefabs_collections_pet_flytoaster_postal_name»邮箱Pete(Postbox Pete)
+$prefabs_collections_pet_flytoaster_postal_description»雨、雪或邪恶的敌人！？Pete提供服务！\n<font color="#cccccc">Rain, snow, or evil enemies!? Pete delivers!</font>
+$prefabs_collections_pet_rooster_postal_name»Air Mail Gulliver
+$prefabs_collections_pet_rooster_postal_description»以航空邮件的速度俯冲而来。\n<font color="#cccccc">Swooping in with the speed of airmail.</font>
+$prefabs_collections_pet_stack_postal_name»Stackston the Parcel Pal
+$prefabs_collections_pet_stack_postal_description»小心翼翼地平衡……主要是。\n<font color="#cccccc">Carefully balanced... mostly.</font>
+$prefabs_collections_pet_wheel_postal_name»Boxy the Post机器人(Boxy the Post Bot)
+$prefabs_collections_pet_wheel_postal_description»3... 2... 1... zoom认证交付！\n<font color="#cccccc">Certified delivery in 3... 2... 1... zoom!</font>
+$prefabs_collections_pet_froleek_watermelon_name»西瓜沃尔特·梅尔·约翰(Walter Mel John the Watermelon)
+$prefabs_collections_pet_froleek_watermelon_description»当炎热时，您的水果伴侣。\n<font color="#cccccc">Your fruity sidekick when the heat gets blazing hot.</font>
+$prefabs_collections_pet_egg_lemonade_name»柠檬水纳多豪华轿车(Limo Nado the Lemondade)
+$prefabs_collections_pet_egg_lemonade_description»始终是您的朋友，无论是厚还是薄，无论是热还是冷。\n<font color="#cccccc">Always your friend through thick and thin, hot and cold.</font>
+$prefabs_collections_pet_ball_bee_name»Bouncee the Bee
+$prefabs_collections_pet_ball_bee_description»它会飞，它更喜欢反弹。\n<font color="#cccccc">It flies, it just prefers to bounce.</font>
+$prefabs_collections_pet_dragonfly_waspider_shadow_name»Waspider Alpha Whelp
+$prefabs_collections_pet_dragonfly_waspider_shadow_desc»训练中的α型黄蜂。好好辅导它。(An alpha waspider in training. Tutor it well.)

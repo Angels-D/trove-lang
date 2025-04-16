@@ -462,3 +462,5 @@ $prefabs_item_pet_zepperay_shark_description»They're actually a loyal protector
 $prefabs_item_pet_stack_pinzoins_item_name»Ally: Pinzoin Pile
 $prefabs_item_pet_fish_depths_random_name»Fresh, Salty Fish Egg
 $prefabs_item_pet_fish_depths_random_description»Unlocks one of the following Depths allies at random\n- Zephyr Flopper\n- Pyric Flopper\n- Abyssal Flopper
+$prefabs_collections_pet_dragonfly_waspider_shadow_item_name»Ally: Waspider Alpha Whelp
+$prefabs_collections_pet_dragonfly_waspider_shadow_item_desc»You know, they're pretty cute when they're on your side.

@@ -839,3 +839,5 @@ $prefabs_skins_fae_trickster_environment_skinset_name»原野守护者
 $prefabs_skins_fae_trickster_environment_skinset_description»妖精诡术师的服饰。\n\n\n保护万物，守护一切。
 $prefabs_skins_bard_asteroid_skinset_name»行星太空吟游诗人
 $prefabs_skins_bard_asteroid_skinset_description»吟游诗人的服饰。\n\n\n吉他一把行天下，最燃乐章留人间！
+$prefabs_skins_candybarbarian_cheeseday_skinset_name»Brie Anne of Tart
+$prefabs_skins_candybarbarian_cheeseday_skinset_description»糖果野蛮人的服装。\n<font color="#cccccc">A costume for the Candy Barbarian.</font>\n\n传奇乳制品防御者！\n<font color="#cccccc">The legendary Dairy Defender!</font>

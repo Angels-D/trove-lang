@@ -213,6 +213,8 @@ $prefabs_npc_merchant_neowiz_sign_title»Neonium Merchant
 $prefabs_npc_merchant_neowiz_sign_content»Use [HK:Loot] to view merchant's wares
 $prefabs_npc_event_boss_beehive_bee_waspspider_name»Waspspider
 $prefabs_npc_event_boss_beehive_bee_buddy_name»Buddy Bee
+$waspider_shadow_boss»Waspider Prime
+$waspider_shadow»Waspider Alpha
 $npc_event_september2021_biped_skeleton_bare»Tomb Skeleton
 $npc_event_september2021_biped_skeleton_knight»Tomb Skeleton Knight
 $npc_event_september2021_biped_skeleton_noble»Tomb Skeleton Noble

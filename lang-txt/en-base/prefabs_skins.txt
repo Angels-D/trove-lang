@@ -839,3 +839,5 @@ $prefabs_skins_fae_trickster_environment_skinset_name»Guardian of Lands
 $prefabs_skins_fae_trickster_environment_skinset_description»A costume for the Fae Trickster.\n\nProtects all things, big and small.
 $prefabs_skins_bard_asteroid_skinset_name»Asteroid Space Bard
 $prefabs_skins_bard_asteroid_skinset_description»A costume for the Bard.\n\nArmed with a guitar, preparing for an impact performance!
+$prefabs_skins_candybarbarian_cheeseday_skinset_name»Brie Anne of Tart
+$prefabs_skins_candybarbarian_cheeseday_skinset_description»A costume for the Candy Barbarian.\n\nThe legendary Dairy Defender!

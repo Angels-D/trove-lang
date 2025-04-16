@@ -297,8 +297,8 @@ $Event_aprilfools_pinzo_welcomescreen_name»Pinzo's Pinsly!
 $Event_aprilfools_pinzo_welcomescreen_desc»Pinzo's latest scheme is on the fritz in the Sundered Uplands.
 $Event_may2020_welcomescreen_name»Spring Fling
 $Event_may2020_welcomescreen_description»Fling pretty flowers!
-$Event_may2024_welcomescreen_name»Spring Fling: Neon City
-$Event_may2024_welcomescreen_description»The Bees took haven in the Neon City, and the Waspiders have followed.
+$Event_may2024_welcomescreen_name»Spring Sting
+$Event_may2024_welcomescreen_description»The Waspiders have returned! Help Sir Dapper Duckington save the bees!
 $Event_august2020_welcomescreen_name»Lunar Plunge
 $Event_august2020_welcomescreen_description»Stars are falling and its time to make a wish!
 $Event_september2020_welcomescreen_name»Pirates vs Ninjas

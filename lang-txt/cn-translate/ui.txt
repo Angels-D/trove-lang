@@ -1,0 +1,2 @@
+$Crafting_LimitedTime»限时食谱！(Limited Time Recipe!)
+$Crafting_LimitedTime_Tooltip»此配方仅适用于下一个 {0}。(This recipe is only available for the next {0}.)

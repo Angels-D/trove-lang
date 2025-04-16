@@ -1146,7 +1146,7 @@ $StoreProduct_trove_celebration_collection_pack_description»这个限时包可�
 $StoreProduct_tome_progression_essence_legendary_name»星空回响年鉴
 $StoreProduct_tome_progression_essence_legendary_description»每周充能一次，使用这本书籍可以获得5000个星空回响。
 $StoreProduct_item_fishing_net_name»垂钓大师的渔网
-$StoreProduct_item_fishing_net_description»一张能同时捕获许多鱼的网。当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。
+$StoreProduct_item_fishing_net_description»一张能同时捕获许多鱼的网。当被扔进任何鱼池或可垂钓的液体时，能捕获5条鱼。\n\n需要玩家拥有已经激活的鱼饵层数Buff。
 $StoreProduct_item_currency_progression_progression_branch_unlock_name»星座钥匙
 $StoreProduct_item_currency_progression_progression_branch_unlock_description»星座钥匙可以在星图中使用，可以解锁分支或重置星图并返还所有已使用的天球。
 $StoreProduct_trove_heckbug_horde_pack_name»巨型的地狱虫群(2023)

@@ -1,0 +1,3 @@
+$prefabs_placeable_block_textured_leaf_orange_item_name»琥珀叶(Amber Leaf)
+$prefabs_placeable_block_textured_mushroom_red_item_name»红菇(Red Shroom)
+$prefabs_placeable_block_textured_water_item_name»平静的水面(Still Water)
