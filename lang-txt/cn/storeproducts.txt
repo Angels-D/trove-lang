@@ -1,0 +1,2 @@
+$StoreProduct_item_fishing_net_name»垂钓大师的渔网
+$StoreProduct_item_fishing_net_description»一张能同时捕获许多鱼的网。当被扔进任何鱼池或可垂钓的液体时，能捕获5条鱼。\n\n需要玩家拥有已经激活的鱼饵层数Buff。

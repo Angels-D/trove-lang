@@ -43,9 +43,9 @@ $prefabs_item_consumable_donation_auto_snowfest2022_donate_description»冰雪�
 $prefabs_item_consumable_donation_auto_snowfest2022_donate_coin_description»冰雪庆典是关于奉献的，所以要奉献! 每笔捐款都有一个 冰箱庆典2023宝箱!
 $prefabs_item_consumable_donation_auto_snowfest2022_donate_recipe_description»冰雪庆典是关于奉献的，所以要奉献! 每笔捐款都有一个 冰箱庆典2023宝箱!\n\n此捐赠不计入"冰雪庆典捐赠"每日排行榜。
 $prefabs_item_consumable_donation_fishing_bait_name»捐赠垂钓者印记 - 鱼饵
-$prefabs_item_consumable_donation_fishing_bait_description»在航海工具组装设备上捐赠垂钓者印记，以获得垂钓者鱼饵。
+$prefabs_item_consumable_donation_fishing_bait_description»在航海工具组装设备上捐赠垂钓者印记，有几率获得垂钓者的鱼饵。
 $prefabs_item_consumable_donation_fishing_crafting_name»捐赠垂钓者印记 - 鱼罐头
-$prefabs_item_consumable_donation_fishing_crafting_description»在航海工具组装设备上捐赠垂钓者印记，以获得优质鱼罐头。
+$prefabs_item_consumable_donation_fishing_crafting_description»在航海工具组装设备上捐赠垂钓者印记，有几率获得优质鱼罐头。
 $prefabs_item_consumable_donation_fishing_liquids_name»捐赠垂钓者印记 - 龟壳
 $prefabs_item_consumable_donation_fishing_liquids_description»在航海工具组装设备上捐赠垂钓者印记，有几率获得龟壳。
 $prefabs_item_consumable_donation_fish_paste_common_donation_name»捐赠基础鱼罐头 - 垂钓者印记

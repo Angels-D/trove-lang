@@ -1,0 +1,48 @@
+$fishing_crafting_4_1_name»加速度
+$fishing_crafting_4_1_desc»顺风顺水。
+$fishing_crafting_4_1_detail»你装备的所有船只将会获得加速度 +5。
+$fishing_crafting_6_name»配方: 垂钓大师的渔网(每周)
+$fishing_crafting_6_desc»一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可垂钓的液体时，能捕获5条鱼。\n\n需要玩家拥有已经激活的鱼饵层数Buff。
+$fishing_crafting_6_detail»在航海工具组装设备处解锁配方: 垂钓大师的渔网(每周)。如果你已经解锁了其他配方，那么你可以每周多制作一张网。
+$fishing_crafting_6_1_name»加速度
+$fishing_crafting_6_1_desc»顺风顺水。
+$fishing_crafting_6_1_detail»你装备的所有船只将会获得加速度 +5。
+$fishing_baits_2_1_name»加速度
+$fishing_baits_2_1_desc»顺风顺水。
+$fishing_baits_2_1_detail»你装备的所有船只将会获得加速度 +5。
+$fishing_baits_2_1_1_name»转向力
+$fishing_baits_2_1_1_desc»右舷是右边，左舷是左边。剩下的就很简单了。
+$fishing_baits_2_1_1_detail»你装备的所有船只将会获得转向力 +5。
+$fishing_baits_4_1_name»加速度
+$fishing_baits_4_1_desc»顺风顺水。
+$fishing_baits_4_1_detail»你装备的所有船只将会获得加速度 +5.
+$fishing_baits_4_1_1_name»转向力
+$fishing_baits_4_1_1_desc»右舷是右边，左舷是左边。剩下的就很简单了。
+$fishing_baits_4_1_1_detail»你装备的所有船只将会获得转向力 +5.
+$fishing_baits_6_name»加速度
+$fishing_baits_6_desc»顺风顺水。
+$fishing_baits_6_detail»你装备的所有船只将会获得加速度 +5.
+$fishing_baits_7_name»配方: 垂钓大师的渔网(每周)
+$fishing_baits_7_desc»一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可垂钓的液体时，能捕获5条鱼。\n\n需要玩家拥有已经激活的鱼饵层数Buff。
+$fishing_baits_7_detail»在航海工具组装设备处解锁配方: 垂钓大师的渔网(每周)。如果你已经解锁了其他配方，那么你可以每周多制作一张网。
+$fishing_liquids_1_name»巧克力专家
+$fishing_liquids_1_desc»恐惧不是淹没在巧克力中。而是没有机会先吃它。
+$fishing_liquids_1_detail»接触到巧克力液体后，增加5%攻击速度，持续10秒。
+$fishing_liquids_3_name»等离子能量
+$fishing_liquids_3_desc»如果你能承受痛苦，你就能把能量注入你的敌人身上。
+$fishing_liquids_3_detail»接触到等离子液体后，增加5%暴击率，持续10秒。
+$fishing_liquids_4_1_name»加速度
+$fishing_liquids_4_1_desc»顺风顺水。
+$fishing_liquids_4_1_detail»你装备的所有船只将会获得加速度 +5.
+$fishing_liquids_5_name»熔岩伤痕
+$fishing_liquids_5_desc»没有什么东西可以伤害到一个站在熔岩里的人。
+$fishing_liquids_5_detail»接触到岩浆液体后，所受伤害减少10%，持续10秒。
+$fishing_liquids_6_name»配方: 垂钓大师的渔网(每周)
+$fishing_liquids_6_desc»一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可垂钓的液体时，能捕获5条鱼。\n\n需要玩家拥有已经激活的鱼饵层数Buff。
+$fishing_liquids_6_detail»在航海工具组装设备处解锁配方: 垂钓大师的渔网(每周)。如果你已经解锁了其他配方，那么你可以每周多制作一张网。
+$fishing_liquids_6_1_name»转向力
+$fishing_liquids_6_1_desc»右舷是右边，左舷是左边。剩下的就很简单了。
+$fishing_liquids_6_1_detail»你装备的所有船只将会获得转向力 +5.
+$fishing_liquids_7_name»大海的愤怒
+$fishing_liquids_7_desc»一个战士可以通过观察海洋的宁静与混乱学到很多东西。
+$fishing_liquids_7_detail»接触到水液体后，增加5%暴击伤害，持续10秒。

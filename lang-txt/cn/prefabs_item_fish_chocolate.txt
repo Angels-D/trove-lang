@@ -13,7 +13,7 @@ $prefabs_item_fish_chocolate_common_06_item_description»常见的鱼。分解�
 $prefabs_item_fish_chocolate_common_07_item_name»暗礁烈鱼
 $prefabs_item_fish_chocolate_common_07_item_description»常见的鱼。分解即可获得资源并添加到你的收藏中。
 $prefabs_item_fish_chocolate_rare_ancient_item_name»远古巧克鮟鱇
-$prefabs_item_fish_chocolate_rare_ancient_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中。\n\n在高度「20<高度<199」且没有其他稀有鱼（巧克力）的世界:和平山丘、中世纪高原...等中的普通巧克力中垂钓才有几率可以钓到。
+$prefabs_item_fish_chocolate_rare_ancient_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中。\n\n在高度「20<高度<199」且没有其他稀有鱼（巧克力）的世界:和平山丘、中世纪高原等等中的普通巧克力中垂钓才有几率可以钓到。
 $prefabs_item_fish_chocolate_rare_chocodile_item_name»巧克鳄鱼
 $prefabs_item_fish_chocolate_rare_chocodile_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中。\n\n在任何世界，高度「20<高度<200」的普通巧克力中垂钓才有几率可以钓到。
 $prefabs_item_fish_chocolate_rare_cottoncandy_blue_item_name»蓝色棉花糖高飞鱼
