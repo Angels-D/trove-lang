@@ -1,168 +1,184 @@
-$prefabs_item_consumable_instagrower_item_name=Insta-Grower
-$prefabs_item_consumable_instagrower_item_description=Instantly Sprouts all plants in a large area around you. Hold down to use.
-$prefabs_item_consumable_credits250_name=Credit Pouch
-$prefabs_item_consumable_credits250_description=Can be sold in the Marketplace for flux. The auction buyer will automatically redeem it for 250 credits.
-$prefabs_item_consumable_credits250_noauction_description=Can be consumed for 250 credits.
-$prefabs_item_consumable_bigxp_name=Experience Vial
-$prefabs_item_consumable_bigxp_description=__TEST_ONLY__ Grants 10000 XP
-$prefabs_item_consumable_xp_name=Experience Vial
-$prefabs_item_consumable_xp_description=__TEST_ONLY__ Grants 130 XP
-$prefabs_item_consumable_xp_level_10_name=Minor Experience Coin
-$prefabs_item_consumable_xp_level_10_description=Grants enough experience to take a class from level 1 to 10!
-$prefabs_item_consumable_xp_level_20_name=Major Experience Coin
-$prefabs_item_consumable_xp_level_20_description=Grants enough experience to take a class from level 1 to 20!
-$prefabs_item_consumable_xp_level_25_name=PTS Experience - Level 25
-$prefabs_item_consumable_xp_level_25_description=Grants enough experience to take a Trovian from level 1 to 25!
-$prefabs_item_consumable_xp_level_25_set_name=Class Boost: Level 25
-$prefabs_item_consumable_xp_level_25_set_description=Sets your current class to level 25!\n\nClass Boosts can only be used on unlocked classes.
-$prefabs_item_consumable_xp_level_5_set_name=Class Boost: Level 5
-$prefabs_item_consumable_xp_level_5_set_description=Sets your current class to level 5!\n\nClass Boosts can only be used on unlocked classes.
-$prefabs_item_consumable_pinataball_name=Confetti Ball
-$prefabs_item_consumable_pinataball_description=Fling this figment of fun into your friends' faces. Hold down button to aim.
-$prefabs_item_consumable_xp_double_name=Double Experience Potion
-$prefabs_item_consumable_xp_double_description=Double your experience earned for the next hour!
-$prefabs_item_consumable_adventurine_20_name=+20% Adventurine Potion
-$prefabs_item_consumable_adventurine_20_description=Earn 20% more Adventurine for the next hour!\n\nCrafted at the Resistor Workbench in Neon City, Luminopolis.
-$prefabs_item_consumable_adventurine_50_name=+50% Adventurine Potion
-$prefabs_item_consumable_adventurine_50_description=Earn 50% more Adventurine for the next hour!\n\nCrafted at the Resistor Workbench in Neon City, Luminopolis.
-$prefabs_item_consumable_beacon_01_name=C455-Andra Beacon
-$prefabs_item_consumable_beacon_01_description=Use this to call forth a proxy of C455-Andra.\n\nOnly works in club worlds. Crafted at the Resistor Workbench in Neon City, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
-$prefabs_item_consumable_beacon_02_name=Tentakiller Beacon
-$prefabs_item_consumable_beacon_02_description=Use this to call forth a Titantic Tentakiller.\n\nOnly works in club worlds. Crafted at the Resistor Workbench in Neon City, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
-$prefabs_item_consumable_beacon_03_name=Trojan Beacon
-$prefabs_item_consumable_beacon_03_description=Use this to call forth a Trojan Propagator.\n\nOnly works in club worlds. Crafted at the Resistor Workbench in Neon City, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
-$prefabs_item_consumable_beacon_01_auto_name=Summon Proxy of C455-Andra
-$prefabs_item_consumable_beacon_01_auto_description=Immediately calls a proxy of C455-Andra to the summoner's location and grants them a Sentience Shard.\n\nMassive World Bosses despawn after 15 minutes.
-$prefabs_item_consumable_beacon_02_auto_name=Summon Titantic Tentakiller
-$prefabs_item_consumable_beacon_02_auto_description=Immediately calls forth a Titantic Tentakiller to the summoner's locationand grants them a Sentience Shard.\n\nMassive World Bosses despawn after 15 minutes.
-$prefabs_item_consumable_beacon_03_auto_name=Summon Trojan Propagator
-$prefabs_item_consumable_beacon_03_auto_description=Immediately calls forth a Trojan Propagator to the summoner's locationand grants them a Sentience Shard.\n\nMassive World Bosses despawn after 15 minutes.
-$prefabs_item_consumable_beacon_geode_lobsterchamp_name=Brawlobster Beacon
-$prefabs_item_consumable_beacon_geode_lobsterchamp_description=Use this to call forth a Shadow Brawlobster.\n\nOnly works in club worlds. Crafted at the Geode Workbench in the Geode Hub, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
-$prefabs_item_consumable_beacon_geode_jellyfish_name=Jealousfish Beacon
-$prefabs_item_consumable_beacon_geode_jellyfish_description=Use this to call forth a Giant Jealousfish.\n\nOnly works in club worlds. Crafted at the Geode Workbench in the Geode Hub, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
-$prefabs_item_consumable_beacon_geode_manta_name=Mean Manta Beacon
-$prefabs_item_consumable_beacon_geode_manta_description=Use this to call forth a Mean Manta.\n\nOnly works in club worlds. Crafted at the Geode Workbench in the Geode Hub, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
-$prefabs_item_consumable_magicfind_name=Sunseeker Elixir
-$prefabs_item_consumable_magicfind_description=Increases Magic Find by 75 for 1 hour.\n\nObtained through the Rise of the Sunseeker events and adventures.
-$prefabs_item_consumable_crystal_20_name=+20% Crystal Gathering Potion
-$prefabs_item_consumable_crystal_20_description=Increases Crystal Gathering from all sources by 20% for the next hour!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_crystal_50_name=+50% Crystal Gathering Potion
-$prefabs_item_consumable_crystal_50_description=Increases Crystal and Shadow Shard Gathering from all sources by 50% for the next hour!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_crystallogy_simple_01_name=Adventure Crystal - Defeat Bosses
-$prefabs_item_consumable_crystallogy_simple_01_description=Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_crystallogy_simple_02_name=Adventure Crystal - Mine Primordial Flame
-$prefabs_item_consumable_crystallogy_simple_02_description=Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_crystallogy_simple_03_name=Adventure Crystal - Complete 3-Star Dungeons
-$prefabs_item_consumable_crystallogy_simple_03_description=Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_crystallogy_simple_04_name=Adventure Crystal - Mine Shapestone
-$prefabs_item_consumable_crystallogy_simple_04_description=Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_crystallogy_simple_05_name=Adventure Crystal - Defeat Enemies
-$prefabs_item_consumable_crystallogy_simple_05_description=Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_crystallogy_advanced_01_name=Advanced Adventure Crystal - Mine Trovian Ore
-$prefabs_item_consumable_crystallogy_advanced_01_description=Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_crystallogy_advanced_02_name=Advanced Adventure Crystal - Mine Cinnabar
-$prefabs_item_consumable_crystallogy_advanced_02_description=Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_crystallogy_advanced_03_name=Advanced Adventure Crystal - Acquire Gem Boxes
-$prefabs_item_consumable_crystallogy_advanced_03_description=Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_crystallogy_advanced_04_name=Advanced Adventure Crystal - Defeat Bosses
-$prefabs_item_consumable_crystallogy_advanced_04_description=Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
-$prefabs_item_consumable_event_luckyclover_item_name=Lucky Clover
-$prefabs_item_consumable_event_luckyclover_item_description=Increases Magic Find by 50 for 1 hour.
-$prefab_item_consumable_dragoncoin_double_10_temp_name=Temporary 10 Dragon Coin Boost
-$prefab_item_consumable_dragoncoin_double_10_temp_description=Get double the Dragon Coins for your next 10 coins! This effect lasts 7 days.
-$prefabs_item_consumable_gardening_popper_01_item_name=Bobble Pod
-$prefabs_item_consumable_gardening_popper_01_item_description=Spawns a Bobble Pod when thrown. Defeating it will give something good to the person who throws it and 7 other random people nearby.
-$prefabs_item_consumable_adv_auto_24hour_keyfrag_01_name=Daily Adventure: Gather a Key Fragment
-$prefabs_item_consumable_adv_auto_24hour_ore_01_name=Daily Adventure: Gather an Ore
-$prefabs_item_consumable_adv_auto_24hour_gemupgrades_01_name=Daily Adventure: Upgrade a Gem
-$prefabs_item_consumable_adv_auto_24hour_adventure_01_name=Daily Adventure: Complete an Adventure
-$prefabs_item_consumable_adv_auto_24hour_challenge_01_name=Daily Adventure: Complete a Challenge
-$prefabs_item_consumable_adv_auto_24hour_dungeons_01_name=Daily Adventure: Complete a Dungeon
-$prefabs_item_consumable_adv_auto_24hour_magicfind_01_name=Daily Adventure: Trigger Magic Find
-$prefabs_item_consumable_head_big_name=Ego Potion
-$prefabs_item_consumable_head_big_description=Increases the size of your head for 1 minute.
-$prefabs_item_consumable_happiness_name=Warm Fuzzy Feeling
-$prefabs_item_consumable_happiness_description=Use to gain a Warm Fuzzy Feeling.
-$prefab_item_consumable_dragoncoin_double_25_temp_name=Temporary 25 Dragon Coin Boost
-$prefab_item_consumable_dragoncoin_double_25_temp_description=Get double the Dragon Coins for your next 25 coins! This effect lasts 72 hours.
-$prefabs_item_consumable_event_luckystar_2020_name=Lucky Star
-$prefabs_item_consumable_event_luckystar_2020_description=Creates a burst of luck when thrown! Increases the Hue and Magic Find of the person who throws it and 7 other random people nearby. This luck lasts for 5 minutes, or until you switch worlds.\n\nLucky Stars will vanish at the end of St. Qubeslick 2020.
-$prefabs_item_consumable_flowerball_name=Spring Flingers
-$prefabs_item_consumable_flowerball_description=Fling this to plant flowers! Hold down button to aim.
-$prefabs_item_consumable_flowerball_blue_name=Spring Flingers
-$prefabs_item_consumable_flowerball_blue_description=Fling this to plant flowers! Hold down button to aim.
-$prefabs_item_consumable_flowerball_green_name=Spring Flingers
-$prefabs_item_consumable_flowerball_green_description=Fling this to plant flowers! Hold down button to aim.
-$prefabs_item_consumable_flowerball_purple_name=Spring Flingers
-$prefabs_item_consumable_flowerball_purple_description=Fling this to plant flowers! Hold down button to aim.
-$prefabs_item_consumable_flowerball_yellow_name=Spring Flingers
-$prefabs_item_consumable_flowerball_yellow_description=Fling this to plant flowers! Hold down button to aim.
-$prefabs_item_consumable_flowerball_orange_name=Spring Flingers
-$prefabs_item_consumable_flowerball_orange_description=Fling this to plant flowers! Hold down button to aim.
-$prefabs_item_consumable_prismatic_start_name=Prismatic Essence
-$prefabs_item_consumable_prismatic_start_description=The very essence of color. Consume this essence to learn a hint about the nature of Prismatic Red and interact with its presence for 30 seconds or until you switch worlds.
-$prefabs_item_consumable_prismatic_red_name=Red Essence
-$prefabs_item_consumable_prismatic_red_description=The very essence of Red-ness. Consume this essence to learn a hint about the nature of Prismatic Orange and interact with its presence for 30 seconds or until you switch worlds.
-$prefabs_item_consumable_prismatic_orange_name=Orange Essence
-$prefabs_item_consumable_prismatic_orange_description=The very essence of Orange-ness. Consume this essence to learn a hint about the nature of Prismatic Yellow and interact with its presence for 30 seconds or until you switch worlds.
-$prefabs_item_consumable_prismatic_yellow_name=Yellow Essence
-$prefabs_item_consumable_prismatic_yellow_description=The very essence of Yellow-ness. Consume this essence to learn a hint about the nature of Prismatic Green and interact with its presence for 30 seconds or until you switch worlds.
-$prefabs_item_consumable_prismatic_green_name=Green Essence
-$prefabs_item_consumable_prismatic_green_description=The very essence of Green-ness. Consume this essence to learn a hint about the nature of Prismatic Blue and interact with its presence for 30 seconds or until you switch worlds.
-$prefabs_item_consumable_prismatic_blue_name=Blue Essence
-$prefabs_item_consumable_prismatic_blue_description=The very essence of Blue-ness. Consume this essence to learn a hint about the nature of Prismatic Purple and interact with its presence for 30 seconds or until you switch worlds.
-$prefabs_item_consumable_prismatic_purple_name=Purple Essence
-$prefabs_item_consumable_prismatic_purple_description=The very essence of Purple-ness. Consume this essence to learn a hint about the nature of Pure Prismatic Energy and interact with its presence for 30 seconds or until you switch worlds.
-$prefabs_item_consumable_event_wishscroll_01_name=Wish Scroll: Jump
-$prefabs_item_consumable_event_wishscroll_01_description=Pray with this scroll to gain a blessing from the Goddesses for an extra 2 jumps for 30 minutes.\n\nThe scroll's magic is ephemeral and it will vanish at the end of 2020.
-$prefabs_item_consumable_event_wishscroll_02_name=Wish Scroll: Flask
-$prefabs_item_consumable_event_wishscroll_02_description=Pray with this scroll to gain a blessing from the Goddesses for an extra flask for 30 minutes.\n\nThe scroll's magic is ephemeral and it will vanish at the end of 2020.
-$prefabs_item_consumable_event_wishscroll_03_name=Wish Scroll: Damage Avoidance
-$prefabs_item_consumable_event_wishscroll_03_description=Pray with this scroll to gain a blessing from the Goddesses to take 1% less damage for 30 minutes.\n\nThe scroll's magic is ephemeral and it will vanish at the end of 2020.
-$prefabs_item_consumable_ally_big_name=Ally Up
-$prefabs_item_consumable_ally_big_description=Increases the size of your Ally for five minutes.
-$prefabs_item_consumable_xp_10000_1day_name=XP Coin
-$prefabs_item_consumable_xp_10000_1day_description=When consumed, immediately grants 10,000 Experience Points to your currently active class
-$prefabs_item_consumable_magicfind_1000_name=Magic Find Elixir
-$prefabs_item_consumable_magicfind_1000_description=Increases Magic Find by 1000 for 1 hour.
-$prefabs_item_consumable_xp_double_bomberroyale_name=Double Experience Potion
-$prefabs_item_consumable_xp_double_bomberroyale_description=Double your experience earned for the next hour!
-$prefabs_item_consumable_jan2023_renewus_name=Lucky Doubloon
-$prefabs_item_consumable_jan2023_renewus_description=On use, increases your Magic Find by 50, Physical Damage by 10%, and Magical Damage by 10% for one hour.\n\nDropped by Pirrots defeated in the Neon City and Luminopolis.
-$prefabs_item_consumable_meta_800_name=Oil-free Downfeather
-$prefabs_item_consumable_meta_800_description=National currency of the Commonwealth of Ducks-most-Noble-and-Attractive & other Fowl of varying Regality, the quality is unmistakable.\n\nUsed for temporary enhancements at the MASTER'S AUTOSCRIPTOR, or consumable for 30s of +100 jump in ADVENTURE WORLDS!
-$prefabs_item_consumable_meta_800_use_requirement=This item can only be used in Adventure Worlds.
-$prefabs_item_consumable_ggj_binchicken_food_name=Cruftcake
-$prefabs_item_consumable_ggj_binchicken_food_description=A Bin Chicken delicacy.\n\nEquip in your hotbar (like a bomb!), then throw near a HUNGRY BIN CHICKEN in the FAE FOREST.
-$prefabs_item_consumable_tome_catastrophe_autoconsume_name=Gravesight
-$prefabs_item_consumable_tome_catastrophe_autoconsume_description=Allows you to see Fiona Catastra, sometimes found near Adventure Shrines.
-$prefabs_item_consumable_xp_10000_1day_calculator_name=Math Lesson
-$prefabs_item_consumable_xp_10000_1day_calculator_description=The tome contains only 0's and 1's.\n\nGrants 10,000 experience.
-$prefabs_item_consumable_xp_10000_1day_books_name=Studies Textbook
-$prefabs_item_consumable_xp_10000_1day_books_description=Before one ponders the infinite, they must first ponder the finite.\n\nGrants 10,000 experience.
-$prefabs_item_consumable_xp_10000_1day_locker_name=Gym Textbook
-$prefabs_item_consumable_xp_10000_1day_locker_description=This text ponders the age old question, 'What is it to even lift?'\n\nGrants 10,000 experience.
-$prefabs_item_consumable_xp_10000_1day_lunchbox_name=Cooking Textbook
-$prefabs_item_consumable_xp_10000_1day_lunchbox_description=Three easy steps to decipher if the meal is finished cooking or not.\n\nGrants 10,000 experience.
-$prefabs_item_consumable_xp_10000_1day_snake_name=History Textbook
-$prefabs_item_consumable_xp_10000_1day_snake_description=Reading a text written by sssnakes isssn't the easssiessst.\n\nGrants 10,000 experience.
-$prefabs_item_consumable_xp_10000_1day_stapler_name=Omni Textbook
-$prefabs_item_consumable_xp_10000_1day_stapler_description=The only textbook you'll ever need, at least for the rest of the day.\n\nGrants 25,000 experience.
-$prefabs_item_consumable_exp_ally_book_calculator_name=Math Lesson
-$prefabs_item_consumable_exp_ally_book_calculator_description=1 + 2 is 3 that's quick maths.\n\nConsuming enough Math Lessons grants the Math Textbook once each day.
-$prefabs_item_consumable_exp_ally_book_books_name=Study Textbook
-$prefabs_item_consumable_exp_ally_book_books_description=The only thing better than learning is the homework afterward!\n\nConsuming enough Study Lessons in the same day grants the Study Textbook.
-$prefabs_item_consumable_exp_ally_book_locker_name=Gym Lesson
-$prefabs_item_consumable_exp_ally_book_locker_description=A detailed lesson on grass and how to touch it.\n\nConsuming enough Gym Lessons grants the Gym Textbook once each day.
-$prefabs_item_consumable_exp_ally_book_lunchbox_name=Cooking Lesson
-$prefabs_item_consumable_exp_ally_book_lunchbox_description=Tips, tricks, and recipes that all fit inside a lunchbox!\n\nConsuming enough Cooking Lessons grants the Cooking Textbook once each day.
-$prefabs_item_consumable_exp_ally_book_snake_name=History Lesson
-$prefabs_item_consumable_exp_ally_book_snake_description=Hissstory lesssonsss taught by a ssslithering professsor.\n\nConsuming enough History Lessons grants the History Textbook once each day.
-$prefabs_item_consumable_exp_ally_book_stapler_name=Omni Lesson
-$prefabs_item_consumable_exp_ally_book_stapler_description=These lessons will be useful everywhere all the time always.\n\nConsuming enough Omni Lessons grants the Omni Textbook once each day.
-$prefabs_item_consumable_adv_auto_24hour_rewnewus2024_training_walk_name=Training Regimen: Go for a Walk
-$prefabs_item_consumable_adv_auto_24hour_rewnewus2024_training_jump_name=Training Regimen: Jump Around
-$prefabs_item_consumable_adv_auto_24hour_rewnewus2024_training_kill_name=Training Regimen: Defeat Enemies
-$prefabs_item_consumable_adv_auto_24hour_rewnewus2024_training_dung_name=Training Regimen: Defeat Dungeons
-$prefabs_item_consumable_adv_auto_24hour_rewnewus2024_training_desc=Crafting this will give you an activity in the Events tab of the Activity Journal. The activity will remain for 24 hours.\n\nCompleting these activities will give you Effort of Champions.
+$prefabs_item_consumable_instagrower_item_name»Insta-Grower
+$prefabs_item_consumable_instagrower_item_description»Instantly Sprouts all plants in a large area around you. Hold down to use.
+$prefabs_item_consumable_credits250_name»Credit Pouch
+$prefabs_item_consumable_credits250_description»Can be sold in the Marketplace for flux. The auction buyer will automatically redeem it for 250 credits.
+$prefabs_item_consumable_credits250_noauction_description»Can be consumed for 250 credits.
+$prefabs_item_consumable_bigxp_name»Experience Vial
+$prefabs_item_consumable_bigxp_description»__TEST_ONLY__ Grants 10000 XP
+$prefabs_item_consumable_xp_name»Experience Vial
+$prefabs_item_consumable_xp_description»__TEST_ONLY__ Grants 130 XP
+$prefabs_item_consumable_xp_level_10_name»Minor Experience Coin
+$prefabs_item_consumable_xp_level_10_description»Grants enough experience to take a class from level 1 to 10!
+$prefabs_item_consumable_xp_level_20_name»Major Experience Coin
+$prefabs_item_consumable_xp_level_20_description»Grants enough experience to take a class from level 1 to 20!
+$prefabs_item_consumable_xp_level_25_name»PTS Experience - Level 25
+$prefabs_item_consumable_xp_level_25_description»Grants enough experience to take a Trovian from level 1 to 25!
+$prefabs_item_consumable_xp_level_25_set_name»Class Boost: Level 25
+$prefabs_item_consumable_xp_level_25_set_description»Sets your current class to level 25!\n\nClass Boosts can only be used on unlocked classes.
+$prefabs_item_consumable_xp_level_5_set_name»Class Boost: Level 5
+$prefabs_item_consumable_xp_level_5_set_description»Sets your current class to level 5!\n\nClass Boosts can only be used on unlocked classes.
+$prefabs_item_consumable_pinataball_name»Confetti Ball
+$prefabs_item_consumable_pinataball_description»Fling this figment of fun into your friends' faces. Hold down button to aim.
+$prefabs_item_consumable_xp_double_name»Double Experience Potion
+$prefabs_item_consumable_xp_double_description»Double your experience earned for the next hour!
+$prefabs_item_consumable_adventurine_20_name»+20% Adventurine Potion
+$prefabs_item_consumable_adventurine_20_description»Earn 20% more Adventurine for the next hour!\n\nCrafted at the Resistor Workbench in Neon City, Luminopolis.
+$prefabs_item_consumable_adventurine_50_name»+50% Adventurine Potion
+$prefabs_item_consumable_adventurine_50_description»Earn 50% more Adventurine for the next hour!\n\nCrafted at the Resistor Workbench in Neon City, Luminopolis.
+$prefabs_item_consumable_beacon_01_name»C455-Andra Beacon
+$prefabs_item_consumable_beacon_01_description»Use this to call forth a proxy of C455-Andra.\n\nOnly works in club worlds. Crafted at the Resistor Workbench in Neon City, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
+$prefabs_item_consumable_beacon_02_name»Tentakiller Beacon
+$prefabs_item_consumable_beacon_02_description»Use this to call forth a Titantic Tentakiller.\n\nOnly works in club worlds. Crafted at the Resistor Workbench in Neon City, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
+$prefabs_item_consumable_beacon_03_name»Trojan Beacon
+$prefabs_item_consumable_beacon_03_description»Use this to call forth a Trojan Propagator.\n\nOnly works in club worlds. Crafted at the Resistor Workbench in Neon City, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
+$prefabs_item_consumable_beacon_01_auto_name»Summon Proxy of C455-Andra
+$prefabs_item_consumable_beacon_01_auto_description»Immediately calls a proxy of C455-Andra to the summoner's location and grants them a Sentience Shard.\n\nMassive World Bosses despawn after 15 minutes.
+$prefabs_item_consumable_beacon_02_auto_name»Summon Titantic Tentakiller
+$prefabs_item_consumable_beacon_02_auto_description»Immediately calls forth a Titantic Tentakiller to the summoner's locationand grants them a Sentience Shard.\n\nMassive World Bosses despawn after 15 minutes.
+$prefabs_item_consumable_beacon_03_auto_name»Summon Trojan Propagator
+$prefabs_item_consumable_beacon_03_auto_description»Immediately calls forth a Trojan Propagator to the summoner's locationand grants them a Sentience Shard.\n\nMassive World Bosses despawn after 15 minutes.
+$prefabs_item_consumable_beacon_geode_lobsterchamp_name»Brawlobster Beacon
+$prefabs_item_consumable_beacon_geode_lobsterchamp_description»Use this to call forth a Shadow Brawlobster.\n\nOnly works in club worlds. Crafted at the Geode Workbench in the Geode Hub, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
+$prefabs_item_consumable_beacon_geode_jellyfish_name»Jealousfish Beacon
+$prefabs_item_consumable_beacon_geode_jellyfish_description»Use this to call forth a Giant Jealousfish.\n\nOnly works in club worlds. Crafted at the Geode Workbench in the Geode Hub, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
+$prefabs_item_consumable_beacon_geode_manta_name»Mean Manta Beacon
+$prefabs_item_consumable_beacon_geode_manta_description»Use this to call forth a Mean Manta.\n\nOnly works in club worlds. Crafted at the Geode Workbench in the Geode Hub, Luminopolis.\n\nMassive World Bosses despawn after 15 minutes.
+$prefabs_item_consumable_magicfind_name»Sunseeker Elixir
+$prefabs_item_consumable_magicfind_description»Increases Magic Find by 75 for 1 hour.\n\nObtained through the Rise of the Sunseeker events and adventures.
+$prefabs_item_consumable_crystal_20_name»+20% Crystal Gathering Potion
+$prefabs_item_consumable_crystal_20_description»Increases Crystal Gathering from all sources by 20% for the next hour!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_crystal_50_name»+50% Crystal Gathering Potion
+$prefabs_item_consumable_crystal_50_description»Increases Crystal and Shadow Shard Gathering from all sources by 50% for the next hour!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_crystallogy_simple_01_name»Adventure Crystal - Defeat Bosses
+$prefabs_item_consumable_crystallogy_simple_01_description»Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_crystallogy_simple_02_name»Adventure Crystal - Mine Primordial Flame
+$prefabs_item_consumable_crystallogy_simple_02_description»Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_crystallogy_simple_03_name»Adventure Crystal - Complete 3-Star Dungeons
+$prefabs_item_consumable_crystallogy_simple_03_description»Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_crystallogy_simple_04_name»Adventure Crystal - Mine Shapestone
+$prefabs_item_consumable_crystallogy_simple_04_description»Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_crystallogy_simple_05_name»Adventure Crystal - Defeat Enemies
+$prefabs_item_consumable_crystallogy_simple_05_description»Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_crystallogy_advanced_01_name»Advanced Adventure Crystal - Mine Trovian Ore
+$prefabs_item_consumable_crystallogy_advanced_01_description»Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_crystallogy_advanced_02_name»Advanced Adventure Crystal - Mine Cinnabar
+$prefabs_item_consumable_crystallogy_advanced_02_description»Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_crystallogy_advanced_03_name»Advanced Adventure Crystal - Acquire Gem Boxes
+$prefabs_item_consumable_crystallogy_advanced_03_description»Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_crystallogy_advanced_04_name»Advanced Adventure Crystal - Defeat Bosses
+$prefabs_item_consumable_crystallogy_advanced_04_description»Consume to embark on a new Crystallogy Adventure!\n\nCrafted at the Crystology Workbench.
+$prefabs_item_consumable_event_luckyclover_item_name»Lucky Clover
+$prefabs_item_consumable_event_luckyclover_item_description»Increases Magic Find by 50 for 1 hour.
+$prefab_item_consumable_dragoncoin_double_10_temp_name»Temporary 10 Dragon Coin Boost
+$prefab_item_consumable_dragoncoin_double_10_temp_description»Get double the Dragon Coins for your next 10 coins! This effect lasts 7 days.
+$prefabs_item_consumable_gardening_popper_01_item_name»Bobble Pod
+$prefabs_item_consumable_gardening_popper_01_item_description»Spawns a Bobble Pod when thrown. Defeating it will give something good to the person who throws it and 7 other random people nearby.\nMaximum: 300
+$prefabs_item_consumable_adv_auto_24hour_keyfrag_01_name»Daily Adventure: Gather a Key Fragment
+$prefabs_item_consumable_adv_auto_24hour_ore_01_name»Daily Adventure: Gather an Ore
+$prefabs_item_consumable_adv_auto_24hour_gemupgrades_01_name»Daily Adventure: Upgrade a Gem
+$prefabs_item_consumable_adv_auto_24hour_adventure_01_name»Daily Adventure: Complete an Adventure
+$prefabs_item_consumable_adv_auto_24hour_challenge_01_name»Daily Adventure: Complete a Challenge
+$prefabs_item_consumable_adv_auto_24hour_dungeons_01_name»Daily Adventure: Complete a Dungeon
+$prefabs_item_consumable_adv_auto_24hour_magicfind_01_name»Daily Adventure: Trigger Magic Find
+$prefabs_item_consumable_head_big_name»Ego Potion
+$prefabs_item_consumable_head_big_description»Increases the size of your head for 1 minute.
+$prefabs_item_consumable_happiness_name»Warm Fuzzy Feeling
+$prefabs_item_consumable_happiness_description»Use to gain a Warm Fuzzy Feeling.
+$prefab_item_consumable_dragoncoin_double_25_temp_name»Temporary 25 Dragon Coin Boost
+$prefab_item_consumable_dragoncoin_double_25_temp_description»Get double the Dragon Coins for your next 25 coins! This effect lasts 72 hours.
+$prefabs_item_consumable_event_luckystar_2020_name»Lucky Star
+$prefabs_item_consumable_event_luckystar_2020_description»Creates a burst of luck when thrown! Increases the Hue and Magic Find of the person who throws it and 7 other random people nearby. This luck lasts for 5 minutes, or until you switch worlds.
+$prefabs_item_consumable_flowerball_name»Spring Flingers
+$prefabs_item_consumable_flowerball_description»Fling this to plant flowers! Hold down button to aim.
+$prefabs_item_consumable_flowerball_blue_name»Spring Flingers
+$prefabs_item_consumable_flowerball_blue_description»Fling this to plant flowers! Hold down button to aim.
+$prefabs_item_consumable_flowerball_green_name»Spring Flingers
+$prefabs_item_consumable_flowerball_green_description»Fling this to plant flowers! Hold down button to aim.
+$prefabs_item_consumable_flowerball_purple_name»Spring Flingers
+$prefabs_item_consumable_flowerball_purple_description»Fling this to plant flowers! Hold down button to aim.
+$prefabs_item_consumable_flowerball_yellow_name»Spring Flingers
+$prefabs_item_consumable_flowerball_yellow_description»Fling this to plant flowers! Hold down button to aim.
+$prefabs_item_consumable_flowerball_orange_name»Spring Flingers
+$prefabs_item_consumable_flowerball_orange_description»Fling this to plant flowers! Hold down button to aim.
+$prefabs_item_consumable_prismatic_start_name»Prismatic Essence
+$prefabs_item_consumable_prismatic_start_description»The very essence of color. Consume this essence to learn a hint about the nature of Prismatic Red and interact with its presence for 30 seconds or until you switch worlds.
+$prefabs_item_consumable_prismatic_red_name»Red Essence
+$prefabs_item_consumable_prismatic_red_description»The very essence of Red-ness. Consume this essence to learn a hint about the nature of Prismatic Orange and interact with its presence for 30 seconds or until you switch worlds.
+$prefabs_item_consumable_prismatic_orange_name»Orange Essence
+$prefabs_item_consumable_prismatic_orange_description»The very essence of Orange-ness. Consume this essence to learn a hint about the nature of Prismatic Yellow and interact with its presence for 30 seconds or until you switch worlds.
+$prefabs_item_consumable_prismatic_yellow_name»Yellow Essence
+$prefabs_item_consumable_prismatic_yellow_description»The very essence of Yellow-ness. Consume this essence to learn a hint about the nature of Prismatic Green and interact with its presence for 30 seconds or until you switch worlds.
+$prefabs_item_consumable_prismatic_green_name»Green Essence
+$prefabs_item_consumable_prismatic_green_description»The very essence of Green-ness. Consume this essence to learn a hint about the nature of Prismatic Blue and interact with its presence for 30 seconds or until you switch worlds.
+$prefabs_item_consumable_prismatic_blue_name»Blue Essence
+$prefabs_item_consumable_prismatic_blue_description»The very essence of Blue-ness. Consume this essence to learn a hint about the nature of Prismatic Purple and interact with its presence for 30 seconds or until you switch worlds.
+$prefabs_item_consumable_prismatic_purple_name»Purple Essence
+$prefabs_item_consumable_prismatic_purple_description»The very essence of Purple-ness. Consume this essence to learn a hint about the nature of Pure Prismatic Energy and interact with its presence for 30 seconds or until you switch worlds.
+$prefabs_item_consumable_event_wishscroll_01_name»Wish Scroll: Jump
+$prefabs_item_consumable_event_wishscroll_01_description»Pray with this scroll to gain a blessing from the Goddesses for an extra 2 jumps for 30 minutes.\n\nThe scroll's magic is ephemeral and it will vanish at the end of 2020.
+$prefabs_item_consumable_event_wishscroll_02_name»Wish Scroll: Flask
+$prefabs_item_consumable_event_wishscroll_02_description»Pray with this scroll to gain a blessing from the Goddesses for an extra flask for 30 minutes.\n\nThe scroll's magic is ephemeral and it will vanish at the end of 2020.
+$prefabs_item_consumable_event_wishscroll_03_name»Wish Scroll: Damage Avoidance
+$prefabs_item_consumable_event_wishscroll_03_description»Pray with this scroll to gain a blessing from the Goddesses to take 1% less damage for 30 minutes.\n\nThe scroll's magic is ephemeral and it will vanish at the end of 2020.
+$prefabs_item_consumable_ally_big_name»Ally Up
+$prefabs_item_consumable_ally_big_description»Increases the size of your Ally for five minutes.
+$prefabs_item_consumable_xp_10000_1day_name»XP Coin
+$prefabs_item_consumable_xp_10000_1day_description»When consumed, immediately grants 10,000 Experience Points to your currently active class
+$prefabs_item_consumable_magicfind_1000_name»Magic Find Elixir
+$prefabs_item_consumable_magicfind_1000_description»Increases Magic Find by 1000 for 1 hour.
+$prefabs_item_consumable_xp_double_bomberroyale_name»Double Experience Potion
+$prefabs_item_consumable_xp_double_bomberroyale_description»Double your experience earned for the next hour!
+$prefabs_item_consumable_jan2023_renewus_name»Lucky Doubloon
+$prefabs_item_consumable_jan2023_renewus_description»On use, increases your Magic Find by 50, Physical Damage by 10%, and Magical Damage by 10% for one hour.\n\nDropped by Pirrots defeated in the Neon City and Luminopolis.
+$prefabs_item_consumable_meta_800_name»Oil-free Downfeather
+$prefabs_item_consumable_meta_800_description»National currency of the Commonwealth of Ducks-most-Noble-and-Attractive & other Fowl of varying Regality, the quality is unmistakable.\n\nUsed for temporary enhancements at the MASTER'S AUTOSCRIPTOR, or consumable for 30s of +100 jump in ADVENTURE WORLDS!
+$prefabs_item_consumable_meta_800_use_requirement»This item can only be used in Adventure Worlds.
+$prefabs_item_consumable_ggj_binchicken_food_name»Cruftcake
+$prefabs_item_consumable_ggj_binchicken_food_description»A Bin Chicken delicacy.\n\nEquip in your hotbar (like a bomb!), then throw near a HUNGRY BIN CHICKEN in the FAE FOREST.
+$prefabs_item_consumable_tome_catastrophe_autoconsume_name»Gravesight
+$prefabs_item_consumable_tome_catastrophe_autoconsume_description»Allows you to see Fiona Catastra, sometimes found near Adventure Shrines.
+$prefabs_item_consumable_xp_10000_1day_calculator_name»Math Lesson
+$prefabs_item_consumable_xp_10000_1day_calculator_description»The tome contains only 0's and 1's.\n\nGrants 10,000 experience.
+$prefabs_item_consumable_xp_10000_1day_books_name»Studies Textbook
+$prefabs_item_consumable_xp_10000_1day_books_description»Before one ponders the infinite, they must first ponder the finite.\n\nGrants 10,000 experience.
+$prefabs_item_consumable_xp_10000_1day_locker_name»Gym Textbook
+$prefabs_item_consumable_xp_10000_1day_locker_description»This text ponders the age old question, 'What is it to even lift?'\n\nGrants 10,000 experience.
+$prefabs_item_consumable_xp_10000_1day_lunchbox_name»Cooking Textbook
+$prefabs_item_consumable_xp_10000_1day_lunchbox_description»Three easy steps to decipher if the meal is finished cooking or not.\n\nGrants 10,000 experience.
+$prefabs_item_consumable_xp_10000_1day_snake_name»History Textbook
+$prefabs_item_consumable_xp_10000_1day_snake_description»Reading a text written by sssnakes isssn't the easssiessst.\n\nGrants 10,000 experience.
+$prefabs_item_consumable_xp_10000_1day_stapler_name»Omni Textbook
+$prefabs_item_consumable_xp_10000_1day_stapler_description»The only textbook you'll ever need, at least for the rest of the day.\n\nGrants 25,000 experience.
+$prefabs_item_consumable_exp_ally_book_calculator_name»Math Lesson
+$prefabs_item_consumable_exp_ally_book_calculator_description»1 + 2 is 3 that's quick maths.\n\nConsuming enough Math Lessons grants the Math Textbook once each day.
+$prefabs_item_consumable_exp_ally_book_books_name»Study Textbook
+$prefabs_item_consumable_exp_ally_book_books_description»The only thing better than learning is the homework afterward!\n\nConsuming enough Study Lessons in the same day grants the Study Textbook.
+$prefabs_item_consumable_exp_ally_book_locker_name»Gym Lesson
+$prefabs_item_consumable_exp_ally_book_locker_description»A detailed lesson on grass and how to touch it.\n\nConsuming enough Gym Lessons grants the Gym Textbook once each day.
+$prefabs_item_consumable_exp_ally_book_lunchbox_name»Cooking Lesson
+$prefabs_item_consumable_exp_ally_book_lunchbox_description»Tips, tricks, and recipes that all fit inside a lunchbox!\n\nConsuming enough Cooking Lessons grants the Cooking Textbook once each day.
+$prefabs_item_consumable_exp_ally_book_snake_name»History Lesson
+$prefabs_item_consumable_exp_ally_book_snake_description»Hissstory lesssonsss taught by a ssslithering professsor.\n\nConsuming enough History Lessons grants the History Textbook once each day.
+$prefabs_item_consumable_exp_ally_book_stapler_name»Omni Lesson
+$prefabs_item_consumable_exp_ally_book_stapler_description»These lessons will be useful everywhere all the time always.\n\nConsuming enough Omni Lessons grants the Omni Textbook once each day.
+$prefabs_item_consumable_adv_auto_24hour_rewnewus2024_training_walk_name»Training Regimen: Go for a Walk
+$prefabs_item_consumable_adv_auto_24hour_rewnewus2024_training_jump_name»Training Regimen: Jump Around
+$prefabs_item_consumable_adv_auto_24hour_rewnewus2024_training_kill_name»Training Regimen: Defeat Enemies
+$prefabs_item_consumable_adv_auto_24hour_rewnewus2024_training_dung_name»Training Regimen: Defeat Dungeons
+$prefabs_item_consumable_adv_auto_24hour_rewnewus2024_training_desc»Crafting this will give you an activity in the Events tab of the Activity Journal. The activity will remain for 24 hours.\n\nCompleting these activities will give you Effort of Champions.
+$prefabs_item_consumable_gearcrafting_enhancer_name»Forge Enhancer Potion
+$prefabs_item_consumable_gearcrafting_enhancer_description»Makes any Gear crafted at the Gearcrafting Forge in the next 3 minutes more powerful!
+$prefabs_item_consumable_gearcrafting_dropbooster_name»Vault Magnet Potion
+$prefabs_item_consumable_gearcrafting_dropbooster_description»Makes more Gearcrafting Vaults drop from Dungeon Chests for the next hour!
+$prefabs_item_consumable_nitro_concentrated_mini_name»Nitro Decay Suspension Vault
+$prefabs_item_consumable_nitro_concentrated_mini_description»Geode-Age material, designed to allow storage of a reasonable amount of Nitro-Glitterine.\n\nConsume or Loot Collect to receive Nitro Glitterine.
+$prefabs_item_consumable_invader_coral_air_name»Depths: Maxie the Swift
+$prefabs_item_consumable_invader_coral_air_description»Summon Maxie the Swift, Zephyr Invader, guaranteed to drop a Depths Core, but enshrouded in Darkness, requiring additional LIGHT to defeat.\n\nReturns to the Depths after 5 minutes
+$prefabs_item_consumable_invader_coral_fire_name»Depths: Jellous
+$prefabs_item_consumable_invader_coral_fire_description»Summon Jellous, Pyric Invader, guaranteed to drop a Depths Core, but enshrouded in Darkness, requiring additional LIGHT to defeat.\n\nReturns to the Depths after 5 minutes.
+$prefabs_item_consumable_invader_coral_water_name»Depths: Shell Shock Shelton
+$prefabs_item_consumable_invader_coral_water_description»Summon Shell Shock Shelton, Abyssyal Invader, guaranteed to drop a Depths Core, but enshrouded in Darkness, requiring additional LIGHT to defeat.\n\nReturns to the Depths after 5 minutes
+$prefabs_item_consumable_tutorial_startingzone_horseshoes_name»Sebastian's Shoes
+$prefabs_item_consumable_tutorial_startingzone_horseshoes_description»Without these, Sebastian can barely run. With these, Sebastian can technically run...
+$prefabs_item_consumable_tutorial_startingzone_refill_trough_name»Refill Sebastian's Food
+$prefabs_item_consumable_tutorial_startingzone_refill_trough_description»Sebastian is unlikely to return until someone fills up his Feed Trough

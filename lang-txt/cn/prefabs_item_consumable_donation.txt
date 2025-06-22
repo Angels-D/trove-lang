@@ -1,0 +1,2 @@
+$prefabs_item_consumable_donation_fishing_bait_description»在航海工具组装设备上捐赠垂钓者印记，有几率获得垂钓者的鱼饵。
+$prefabs_item_consumable_donation_fishing_crafting_description»在航海工具组装设备上捐赠垂钓者印记，有几率获得优质鱼罐头。

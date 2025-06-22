@@ -1,219 +1,303 @@
-$prefabs_item_crafting_events_march2021_luckbeast_name=Luckbeast Haunch
-$prefabs_item_crafting_events_march2021_luckbeast_description=Key ingredeint for the extra-hearty Feast of St. Qubeslick at O'Lucky's Stones. Found by defeating Luckbeasts and Fluxbeasts in dungeons in the NEON CITY, LUMINOPOLIS, DESERT FRONTIER, and JURASSIC JUNGLE.
-$prefabs_item_crafting_events_march2024_snake_name=Bagged Lucksnake
-$prefabs_item_crafting_events_march2024_snake_desc=Sir O'Lucky collects the Lucksnakes each year and teaches them to defend themselves.\n\nCan be donated to Sir O'Lucky at the Mini-Pot o' Gold in the Events area of the hub for a chance at Fragments of Luck.
-$prefabs_item_crafting_events_march2021_sevenspice_name=St. Qubeslick's Sevenspice
-$prefabs_item_crafting_events_march2021_sevenspice_description=This might actually be Eightspice. Is salt a spice?\n\nObtained from Dungeons in the Treasure Isles biome, found in the Drowned World as well as other adventure worlds.
-$prefabs_item_crafting_events_april2021_chocolate_name=Bunfest Chocolate
-$prefabs_item_crafting_events_april2021_chocolate_description=Bunfest Chocolate is usually found hidden in eggs in the MEDIEVAL HIGHLANDS, FAE WILDS, CANDORIA, FORBIDDEN SPIRES, and GEODE TOPSIDE biomes.
-$prefabs_item_crafting_events_april2021_refinedchocolate_name=Refined Chocolate
-$prefabs_item_crafting_events_april2021_refinedchocolate_description=Used in many Bunfest recipes, this chocolate is rich, decadent, and smells like bunnies.
-$prefabs_item_crafting_events_april2021_token_name=Bunfest Token
-$prefabs_item_crafting_events_april2021_token_description=The only official token of Bunfest! Awarded for completing Daily Bunfest Adventures from the Hub
-$prefabs_item_crafting_events_july2021_carys_flux_name=Flux d'Cat
-$prefabs_item_crafting_events_july2021_carys_flux_description=The only flux with the right metallurgic properties to mint the CARYSIAN DUCAT, accept no substitutes!\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
-$prefabs_item_crafting_events_july2021_minercard_name=Royal Mining License
-$prefabs_item_crafting_events_july2021_minercard_description=Issued by the Consortium of Royal Dragon Houses only to accredited miners.\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
-$prefabs_item_crafting_events_july2021_ore_name=Rayoreum Ore
-$prefabs_item_crafting_events_july2021_ore_description=Qubesly's skeptical, but the Royal Houses say this is the REAL DEAL!\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
-$prefabs_item_crafting_events_july2021_panatea_flux_name=Fluxyattium
-$prefabs_item_crafting_events_july2021_panatea_flux_description=The unique mix of chemicals present in this flux is perfect for the forging of PANATEAN ANTES.\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
-$prefabs_item_crafting_events_july2021_tysorion_flux_name=Flux mk. II
-$prefabs_item_crafting_events_july2021_tysorion_flux_description=More fluxier than regular flux, this extra-fluxy flux is full of flux, which make it an idea candidate for the creation of MARKS OF TY.\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
-$prefabs_item_crafting_events_september2021_fae_token_name=Token of Fae Honor
-$prefabs_item_crafting_events_september2021_fae_token_description=Proof of Fae Honor! Gained from hunting Undead in the Fae Forest.\n\n<font color='#ff3030'>Disappears</font> at the end of the Fae Vs Undead event.
-$prefabs_item_crafting_events_september2021_undead_token_name=Token of Undead Honor
-$prefabs_item_crafting_events_september2021_undead_token_description=Proof of Undead Honor! Gained from hunting Fae in the Cursed Vale.\n\n<font color='#ff3030'>Disappears</font> at the end of the Fae Vs Undead event.
-$prefabs_item_crafting_events_november2021_3_house_turkey_currency_name=Spare Turkey Leg
-$prefabs_item_crafting_events_november2021_3_house_turkey_currency_desc=Where did it come from? Better not to ask.
-$prefabs_item_crafting_events_november2021_biscuits_currency_name=Heckbug Treats
-$prefabs_item_crafting_events_november2021_biscuits_currency_desc=They do eat anything, but they eat these first.
-$prefabs_item_crafting_events_november2021_bouillon_cube_currency_name=Trovian Bouillon
-$prefabs_item_crafting_events_november2021_bouillon_cube_currency_desc=Special bouillon for a special occasion.
-$prefabs_item_crafting_events_november2021_choco_egg_currency_name=Chocolate Egg
-$prefabs_item_crafting_events_november2021_choco_egg_currency_desc=Everyone loves a chocolate egg.
-$prefabs_item_crafting_events_november2021_frozen_punch_currency_name=Frozen Punch
-$prefabs_item_crafting_events_november2021_frozen_punch_currency_desc=How would you make ice punch without the punch?
-$prefabs_item_crafting_events_november2021_greens_currency_name=Raddish
-$prefabs_item_crafting_events_november2021_greens_currency_desc=Perfectly ripe. Raddishes can be ripe, right?
-$prefabs_item_crafting_events_november2021_moon_rolls_currency_name=Moon Wheat
-$prefabs_item_crafting_events_november2021_moon_rolls_currency_desc=Wheat grown soley in moonlight
-$prefabs_item_crafting_events_november2021_turkey_coin_currency_name=Friendsgiving Coin
-$prefabs_item_crafting_events_november2021_turkey_coin_currency_desc=The most premium of currencies for the most premium of friends. Used to craft items at the Turkeytopia Table workbench.
-$prefabs_item_crafting_events_november2021_3_house_turkey_inv_name=Special Order: Sunfest Houses Recipes
-$prefabs_item_crafting_events_november2021_3_house_turkey_inv_desc=Cooked Three House Turkey.
-$prefabs_item_crafting_events_november2021_3_house_turkey_inv_desc2=Teaches the ability to craft Three House Turkey decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_bunfest_egg_inv_name=Special Order: Bunfest Nobles Recipes
-$prefabs_item_crafting_events_november2021_bunfest_egg_inv_desc=Prepared Bunfest Bounty.
-$prefabs_item_crafting_events_november2021_bunfest_egg_inv_desc2=Teaches the recipe teaching the ability to craft the Bunfest Bounty decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_greens_inv_name=Special Order: Sir Dapper Duckington's Recipes
-$prefabs_item_crafting_events_november2021_greens_inv_desc=Prepared Raddish Salad.
-$prefabs_item_crafting_events_november2021_greens_inv_desc2=Teaches the recipe teaching the ability to craft the Raddish Salad decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_moon_rolls_inv_name=Special Order: High Priest's Recipes
-$prefabs_item_crafting_events_november2021_moon_rolls_inv_desc=Cooked Moon Rolls.
-$prefabs_item_crafting_events_november2021_moon_rolls_inv_desc2=Teaches the recipe teaching the ability to craft the Moon Rolls decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_punch_bowl_inv_name=Special Order: Snowfest Gang's Recipes
-$prefabs_item_crafting_events_november2021_punch_bowl_inv_desc=Prepared Ice Punch Bowl.
-$prefabs_item_crafting_events_november2021_punch_bowl_inv_desc2=Teaches the recipe teaching the ability to craft the Ice Punch Bowl decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_puppy_bowl_inv_name=Special Order: Heckbug Chow Recipes
-$prefabs_item_crafting_events_november2021_puppy_chow_inv_desc=Cooked Hecky Chow.
-$prefabs_item_crafting_events_november2021_puppy_chow_inv_desc2=Teaches the recipe teaching the ability to craft the Hecky Chow Bowl decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_qubes_recipes_name=Qubesly's Favorites 2021 Recipes
-$prefabs_item_crafting_events_november2021_qubes_recipes_desc=Teaches the recipes to craft all of Qubesly's Favorites from Friendsgiving 2021 as decoration blocks at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_sides_recipes_name=Sides Recipes
-$prefabs_item_crafting_events_november2021_sides_recipes_desc=Teaches the recipes to craft all of the Sides from Friendsgiving as decoration blocks at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_mains_recipes_name=Special Order 2021 Recipes
-$prefabs_item_crafting_events_november2021_mains_recipes_desc=Teaches the recipes to craft all of the Special Orders from Friendsgiving 2021 as decoration blocks at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_qubesly_invites_name=Qubesly's Favorites Recipes
-$prefabs_item_crafting_events_november2021_qubesly_invites_desc=Teaches the recipes to craft all of Qubesly's Favorites recipes at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_special_orders_name=Special Order Recipes
-$prefabs_item_crafting_events_november2021_special_orders_desc=Teaches the recipes to craft all of the Special Order recipes at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_sides_stuffing_name=Side: Stuffing
-$prefabs_item_crafting_events_november2021_sides_stuffing_desc=Cooked Stuffing.
-$prefabs_item_crafting_events_november2021_sides_stuffing_desc2=Teaches the recipe for the Stuffing Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_sides_corn_cob_name=Side: Corn Cob
-$prefabs_item_crafting_events_november2021_sides_corn_cob_desc=Cooked Corn Cob.
-$prefabs_item_crafting_events_november2021_sides_corn_cob_desc2=Teaches the recipe for the Corn Cob Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_sides_deviled_eggs_name=Side: Deviled Eggs
-$prefabs_item_crafting_events_november2021_sides_deviled_eggs_desc=Cooked Deviled Eggs.
-$prefabs_item_crafting_events_november2021_sides_deviled_eggs_desc2=Teaches the recipe for the Deviled Eggs Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_sides_green_beans_name=Side: Green Beans
-$prefabs_item_crafting_events_november2021_sides_green_beans_desc=Cooked Green Beans.
-$prefabs_item_crafting_events_november2021_sides_green_beans_desc2=Teaches the recipe for the Green Beans Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_sides_tater_totes_name=Side: Totter Tates
-$prefabs_item_crafting_events_november2021_sides_tater_totes_desc=Cooked Totter Tates.
-$prefabs_item_crafting_events_november2021_sides_tater_totes_desc2=Teaches the recipe for the Totter Tates Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_qubes_rib_roast_name=Qubesly's Favorites: Raw Rib Roast
-$prefabs_item_crafting_events_november2021_qubes_rib_roast_desc=Raw Rib Roast.
-$prefabs_item_crafting_events_november2021_qubes_rib_roast_desc2=Teaches the recipe for the Raw Rib Roast Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_qubes_patrol_pasta_name=Qubesly's Favorites: Pasta, Patrol Style
-$prefabs_item_crafting_events_november2021_qubes_patrol_pasta_desc=Cooked Pasta, Patrol Style.
-$prefabs_item_crafting_events_november2021_qubes_patrol_pasta_desc2=Teaches the recipe for the Pasta, Patrol Style Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_qubes_corned_beef_name=Qubesly's Favorites: Saintly Corned Beef
-$prefabs_item_crafting_events_november2021_qubes_corned_beef_desc=Cooked Saintly Corned Beef.
-$prefabs_item_crafting_events_november2021_qubes_corned_beef_desc2=Teaches the recipe for the Saintly Corned Beef Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_qubes_icecream_name=Qubesly's Favorites: Supreme Ice Cream Sundae
-$prefabs_item_crafting_events_november2021_qubes_icecream_desc=Prepared Supreme Ice Cream Sundae.
-$prefabs_item_crafting_events_november2021_qubes_icecream_desc2=Teaches the recipe for the Supreme Ice Cream Sundae Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_qubes_moonlight_juice_name=Qubesly's Favorites: Lunar Light Juice
-$prefabs_item_crafting_events_november2021_qubes_moonlight_juice_desc=Cooked Lunar Light Juice.
-$prefabs_item_crafting_events_november2021_qubes_moonlight_juice_desc2=Teaches the recipe for the Lunar Light Juice Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_qubes_egg_rolls_name=Qubesly's Favorites: Cube Rolls
-$prefabs_item_crafting_events_november2021_qubes_egg_rolls_desc=Cooked Cube Rolls.
-$prefabs_item_crafting_events_november2021_qubes_egg_rolls_desc2=Teaches the recipe for the Cube Rolls Decoration at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2021_bouillon_recipe_name=Recipe: Trove Bouillon
-$prefabs_item_crafting_events_november2021_bouillon_recipe_desc=One of the Qubesly's closest secrets.
-$prefabs_item_crafting_events_november2021_3_house_turkey_food_name=Food: Three House Turkey
-$prefabs_item_crafting_events_november2021_3_house_turkey_food_desc=The houses wanted a turkey with six legs and, boom! They got it
-$prefabs_item_crafting_events_november2021_bunfest_egg_food_name=Food: Bunfest Bounty
-$prefabs_item_crafting_events_november2021_bunfest_egg_food_desc=Chocolate Eggs may not be technically in season, but who really cares?
-$prefabs_item_crafting_events_november2021_greens_food_name=Food: Raddish Salad
-$prefabs_item_crafting_events_november2021_greens_food_desc=Ridiculously radical raddishes and resplendently refreshing!
-$prefabs_item_crafting_events_november2021_moon_rolls_food_name=Food: Moon Rolls
-$prefabs_item_crafting_events_november2021_moon_rolls_food_desc=You can taste the moon in every bite!
-$prefabs_item_crafting_events_november2021_punch_bowl_food_name=Food: Ice Punch Bowl
-$prefabs_item_crafting_events_november2021_punch_bowl_food_desc=You can't spike punch if it's frozen solid.
-$prefabs_item_crafting_events_november2021_puppy_chow_food_name=Food: Hecky Chow
-$prefabs_item_crafting_events_november2021_puppy_chow_food_desc=Chow fit for, well, bugs. But you can eat it too.
-$prefabs_item_unlocker_events_november2021_qubesly_table_name=Recipe: Friendsgiving Dinner Feast
-$prefabs_item_unlocker_events_november2021_qubesly_table_desc=Teaches the Recipe for the Friendsgiving Dinner Feast, craftable at the Turkeytopia Table.
-$prefabs_item_crafting_events_feb2022_heckbug_dummy_inv_name=Recipe: Heckbug Practice Dummy
-$prefabs_item_crafting_events_feb2022_heckbug_dummy_inv_desc=Teaches how to craft the Heckbug Practice Dummy at the Fun Factory.
-$prefabs_item_crafting_events_march2022_reusable_buff_name=Borrowed Luck
-$prefabs_item_crafting_events_march2022_reusable_buff_desc=This donation grants a buff of 250 Magic Find for 3 hours.\n\nDonations only accepted once each week.
-$prefabs_item_crafting_events_lucky_star_buff_name=Feelin' Lucky
-$prefabs_item_crafting_events_lucky_star_buff_desc=Increases your Magic Find by 25.
-$prefabs_item_crafting_events_olucky_buff_name=O'Lucky
-$prefabs_item_crafting_events_olucky_buff_desc=Allows you to see Sir O'Lucky.
-$prefabs_item_crafting_events_july2022_minercard_carys_name=Carysian Mining License
-$prefabs_item_crafting_events_july2022_minercard_carys_description=Issued by house Carys only to accredited miners.
-$prefabs_item_crafting_events_july2022_minercard_panatea_name=Panatean Mining License
-$prefabs_item_crafting_events_july2022_minercard_panatea_description=Issued by house Panatea only to accredited miners.
-$prefabs_item_crafting_events_july2022_minercard_tysorion_name=Tysorion Mining License
-$prefabs_item_crafting_events_july2022_minercard_tysorion_description=Issued by house Tysorion only to accredited miners.
-$prefabs_item_crafting_consumable_empower_devourer_name=Devourer Empowerment
-$prefabs_item_crafting_consumable_empower_devourer_desc=For the next hour Ashen Devourers you attack will become empowered. \n\nEmpowered Ashen Devourers deal more damage and use new attacks, and will always drop a Foraged Dragon Egg Fragment if defeated in an Uber-11 world.\n\nCrafting this while under its effects will refresh the duration of the buff granted to one hour.\n\nWARNING: Ashen Devourers below 75% health will not become empowered.
-$prefabs_item_crafting_consumable_empower_blastflower_name=Blastflower Empowerment
-$prefabs_item_crafting_consumable_empower_blastflower_desc=For the next hour Ashen Blastflowers you attack will become empowered. \n\nEmpowered Ashen Blastflowers will now sometimes spawn an Empowered Ashen Thresher. Defeating Empowered Ashen Thresher will always drop a Foraged Dragon Egg Fragment if defeated in an Uber-11 world.\n\nCrafting this while under its effects will refresh the duration of the buff granted to one hour.
-$prefabs_item_crafting_consumable_empower_admiral_name=Admiral Empowerment
-$prefabs_item_crafting_consumable_empower_admiral_desc=For the next hour Irradiant Sky Giant Admirals you attack will become empowered. \n\nEmpowered Irradiant Sky Giant Admirals deal more damage and use new attacks, and will always drop an Irradiant Dragon Egg Fragment if defeated in an Uber-11 world.\n\nCrafting this while under its effects will refresh the duration of the buff granted to one hour.\n\nWARNING: Irradiant Sky Giant Admirals below 75% health will not become empowered.
-$prefabs_item_crafting_events_october2022_seal_name=Q'rsed Seal
-$prefabs_item_crafting_events_october2022_seal_description=The Q'rse of the Wolves' Den can corrupt anything.\n\nUsed to craft Q'rsed Crates and other collectables during the Shadow's Eve 2022 Event.
-$prefabs_item_crafting_events_october2022_moonshard_name=Cleansing Moonshard
-$prefabs_item_crafting_events_october2022_moonshard_description=Belief in Elsphodel and the purity of Q'rsbane forged into a potent cure.\n\nConsuming the Cleansing Moonshard removes the Q'rsed Bite and grants them Elsphodel's protection. Elpshodel's Protection removes Q'rsed Bite, prevents its effects for its duration, and gives attacks the chance to summon a shard of the moon upon their enemies.
-$prefabs_item_crafting_events_october2022_vial_name=Vial of Q'rsed Essence
-$prefabs_item_crafting_events_october2022_vial_description=Those that suffer the Q'rse of Shadow's Eve know little reprieve, but no shadow is cast that cannot be dispelled by the light of Elsphodel.
-$prefabs_item_crafting_weeds_name=Unsightly Weed
-$prefabs_item_crafting_weeds_desc=Removing this unsightly weed will make all of Trove happy.
-$prefabs_item_crafting_events_november2022_dinosaur_inv_name=Special Order: Cacti Casserole
-$prefabs_item_crafting_events_november2022_dinosaur_inv_desc=Oven cooked Cacti Casserole.
-$prefabs_item_crafting_events_november2022_dinosaur_inv_desc2=Teaches the recipe teaching the ability to craft the Cacti Casserole decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_cowboy_inv_name=Special Order: Dino Detritus
-$prefabs_item_crafting_events_november2022_cowboy_inv_desc=Tossed Dino Detritus.
-$prefabs_item_crafting_events_november2022_cowboy_inv_desc2=Teaches the recipe teaching the ability to craft the Dino Detritus decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_pirate_inv_name=Special Order: Box of Oranges
-$prefabs_item_crafting_events_november2022_pirate_inv_desc=It's a box of oranges. That's it. Pirates are weird.
-$prefabs_item_crafting_events_november2022_pirate_inv_desc2=Teaches the recipe teaching the ability to craft the Box of Oranges decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_ninja_inv_name=Special Order: Data Rolls with Plasmium Tea
-$prefabs_item_crafting_events_november2022_ninja_inv_desc=Prepared Data Rolls with Plasmium Tea.
-$prefabs_item_crafting_events_november2022_ninja_inv_desc2=Teaches the recipe teaching the ability to craft the Data Rolls with Plasmium Tea decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_fae_inv_name=Special Order: Fae Sugar Cubes
-$prefabs_item_crafting_events_november2022_fae_inv_desc=Assorted Fae Sugar Cubes.
-$prefabs_item_crafting_events_november2022_fae_inv_desc2=Teaches the recipe teaching the ability to craft the Fae Sugar Cubes decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_undead_inv_name=Special Order: Bowl of Brain-a-tin
-$prefabs_item_crafting_events_november2022_undead_inv_desc=Chilled Bowl of Brain-a-tin.
-$prefabs_item_crafting_events_november2022_undead_inv_desc2=Teaches the recipe teaching the ability to craft the Bowl of Brain-a-tin decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_stqubes_inv_name=Qubesly's Favorites: Rainbow Soup
-$prefabs_item_crafting_events_november2022_stqubes_inv_desc=When St. Qubeslick said the rainbow tasted like cinnamon who would have believed it!
-$prefabs_item_crafting_events_november2022_stqubes_inv_desc2=Teaches the recipe teaching the ability to craft the Rainbow Soup decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_dinosly_inv_name=Qubesly's Favorites: Jungle Tea
-$prefabs_item_crafting_events_november2022_dinosly_inv_desc=Chefsly highly recommends skipping this one unless you enjoy the taste of rainwater steeped leaves with a light hint of dirt.
-$prefabs_item_crafting_events_november2022_dinosly_inv_desc2=Teaches the recipe teaching the ability to craft the Jungle Tea decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_sheriffsly_inv_name=Qubesly's Favorites: The Deputy
-$prefabs_item_crafting_events_november2022_sheriffsly_inv_desc=When Sheriffsly says he needs to get back with his Deputy, most in the frontier would expect he's talking about his co-worker. Most would be wrong.
-$prefabs_item_crafting_events_november2022_sheriffsly_inv_desc2=Teaches the recipe teaching the ability to craft the The Deputy decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_pinzo_inv_name=Special Order: Pinzham
-$prefabs_item_crafting_events_november2022_pinzo_inv_desc=Prepared(?) Pinzham.
-$prefabs_item_crafting_events_november2022_pinzo_inv_desc2=Teaches the recipe teaching the ability to craft the Pinzham decoration and food at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_dinosaur_food_name=Food: Cacti Casserole
-$prefabs_item_crafting_events_november2022_dinosaur_food_desc=The carnivores of the Jurassic Jungle should enjoy this well enough. Hopefully....
-$prefabs_item_crafting_events_november2022_cowboy_food_name=Food: Dino Detritus
-$prefabs_item_crafting_events_november2022_cowboy_food_desc=Many in the frontier have found an herbivorous diet difficult, but it beats eating nothing.
-$prefabs_item_crafting_events_november2022_fae_food_name=Food: Fae Sugar Cubes
-$prefabs_item_crafting_events_november2022_fae_food_desc=The Fae believe it's much quicker to get to desert if it's the main course. Just make sure to leave room for desert.
-$prefabs_item_crafting_events_november2022_undead_food_name=Food: Bowl of Brain-a-tin
-$prefabs_item_crafting_events_november2022_undead_food_desc=If it looks like gelatin, and it tastes like gelatin, it is gelatin, right?
-$prefabs_item_crafting_events_november2022_ninja_food_name=Food: Data Rolls with Plasmium Tea
-$prefabs_item_crafting_events_november2022_ninja_food_desc=A delicacy in Luminopolis. They key is to obtain the data fresh so that it rolls best.
-$prefabs_item_crafting_events_november2022_pirate_food_name=Food: Box of Oranges
-$prefabs_item_crafting_events_november2022_pirate_food_desc=It's quick, it's easy, and it fights scurvy. What could be better?
-$prefabs_item_crafting_events_november2022_pinzo_food_name=Food: Pinzham
-$prefabs_item_crafting_events_november2022_pinzo_food_desc=Chuck Pinzo's latest product, canned ham with the Pinzo guarantee that it will never spoil. Sure, it might taste terrible and cause your hair to turn blonde, but they're really minor side effects when you think about it.
-$prefabs_item_crafting_events_november2022_pinzo_currency_name=Can of Pinzham
-$prefabs_item_crafting_events_november2022_pinzo_currency_desc=Guaranteed to last a lifetime, yours or Chuck's at least, and that's a Chuck Pinzo guarantee!
-$prefabs_item_crafting_events_november2022_undead_currency_name=Brain Mold
-$prefabs_item_crafting_events_november2022_undead_currency_desc=Why you'd your gelatin shaped a brain, you'll have to ask the Undead.
-$prefabs_item_crafting_events_november2022_fae_currency_name=Fae Sugar
-$prefabs_item_crafting_events_november2022_fae_currency_desc=As long as the wild magic doesn't go too wild everything should be fine.
-$prefabs_item_crafting_events_november2022_ninja_currency_name=Plasma Cannister
-$prefabs_item_crafting_events_november2022_ninja_currency_desc=Perfect for cooking rice or brewing tea.
-$prefabs_item_crafting_events_november2022_pirate_currency_name=Orange
-$prefabs_item_crafting_events_november2022_pirate_currency_desc=Pirates are many things, but complicated isn't one of them.
-$prefabs_item_crafting_events_november2022_cowboy_currency_name=Dino Nugget
-$prefabs_item_crafting_events_november2022_cowboy_currency_desc=What better way to make a salad better than with some nuggets.
-$prefabs_item_crafting_events_november2022_dinosaur_currency_name=Fresh Cacti
-$prefabs_item_crafting_events_november2022_dinosaur_currency_desc=Nothing beats fresh picked cactus, as long as you can avoid getting picked by the cactus.
-$prefabs_item_crafting_events_november2022_mains_recipes_name=Special Order 2022 Recipes
-$prefabs_item_crafting_events_november2022_mains_recipes_desc=Teaches the recipes to craft all of the Special Orders from Friendsgiving 2022 as decoration blocks at the Friendsgiving Oven.
-$prefabs_item_crafting_events_november2022_qubes_recipes_name=Qubesly's Favorites 2022 Recipes
-$prefabs_item_crafting_events_november2022_qubes_recipes_desc=Teaches the recipes to craft all of Qubesly's Favorites from Friendsgiving 2022 as decoration blocks at the Friendsgiving Oven.
-$prefabs_item_crafting_events_august2023_saddle_name=Elysian Offensive Saddle
-$prefabs_item_crafting_events_august2023_saddle_description=Dropped by enemies in the Everdark that have kept it as a trophy, this reclaimed saddle can be used to claim your own mount or sold back to the Elysian Offensive.
-$prefabs_item_crafting_events_october2023_reusable_buff_name=Elsphodel's Blessing
-$prefabs_item_crafting_events_october2023_reusable_buff_desc=This offering grants Elsphodel's Blessing for 3 hours. Elsphodel's Blessing reduces damage taken by 10% and gives you a chance to spawn a moonshard when attacking enemies.\n\nPrevents and cures the Q'rse of Shadow's Eve that Q'berus can inflict.\n\nDonations only accepted once each week.
-$prefabs_item_crafting_events_renewus2024_effort_name=Effort of Champions
-$prefabs_item_crafting_events_renewus2024_effort_desc=One drop in the bucket of what builds a Champion.\n\nCan be used at the Championship Training Weights.
-$prefabs_item_crafting_events_february2024_heckbug_arm_name=Heckbug Pincer
-$prefabs_item_crafting_events_february2024_heckbug_arm_desc=Completely worthless, Who would want this?\n\nDropped by Heckbugs in the Dragonfire Peaks during the Heckbugs In Love event.
-$prefabs_item_crafting_events_october2022_wolfsbane_name=Q'rsebane
-$prefabs_item_crafting_events_october2022_wolfsbane_description=The Q'rse corrupts the body into twisted forms and breaks the mind. Q'rsbane can delay these effects and with the proper methods, may even be able to reverse them.
+$prefabs_item_crafting_events_march2021_luckbeast_name»Luckbeast Haunch
+$prefabs_item_crafting_events_march2021_luckbeast_description»Key ingredeint for the extra-hearty Feast of St. Qubeslick at O'Lucky's Stones. Found by defeating Luckbeasts and Fluxbeasts in dungeons in the NEON CITY, LUMINOPOLIS, DESERT FRONTIER, and JURASSIC JUNGLE.
+$prefabs_item_crafting_events_march2024_snake_name»Bagged Lucksnake
+$prefabs_item_crafting_events_march2024_snake_desc»Sir O'Lucky collects the Lucksnakes each year and teaches them to defend themselves.\n\nCan be donated to Sir O'Lucky at the Mini-Pot o' Gold in the Events area of the hub for a chance at Fragments of Luck.
+$prefabs_item_crafting_events_march2021_sevenspice_name»St. Qubeslick's Sevenspice
+$prefabs_item_crafting_events_march2021_sevenspice_description»This might actually be Eightspice. Is salt a spice?\n\nObtained from Dungeons in the Treasure Isles biome, found in the Drowned World as well as other adventure worlds.
+$prefabs_item_crafting_events_april2021_chocolate_name»Bunfest Chocolate
+$prefabs_item_crafting_events_april2021_chocolate_description»Bunfest Chocolate is usually found hidden in eggs in the MEDIEVAL HIGHLANDS, FAE WILDS, CANDORIA, FORBIDDEN SPIRES, and GEODE TOPSIDE biomes.
+$prefabs_item_crafting_events_april2021_refinedchocolate_name»Refined Chocolate
+$prefabs_item_crafting_events_april2021_refinedchocolate_description»Used in many Bunfest recipes, this chocolate is rich, decadent, and smells like bunnies.
+$prefabs_item_crafting_events_april2021_token_name»Bunfest Token
+$prefabs_item_crafting_events_april2021_token_description»The only official token of Bunfest! Awarded for completing Daily Bunfest Adventures from the Hub
+$prefabs_item_crafting_events_july2021_carys_flux_name»Flux d'Cat
+$prefabs_item_crafting_events_july2021_carys_flux_description»The only flux with the right metallurgic properties to mint the CARYSIAN DUCAT, accept no substitutes!\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_crafting_events_july2021_minercard_name»Royal Mining License
+$prefabs_item_crafting_events_july2021_minercard_description»Issued by the Consortium of Royal Dragon Houses only to accredited miners.\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_crafting_events_july2021_ore_name»Rayoreum Ore
+$prefabs_item_crafting_events_july2021_ore_description»Qubesly's skeptical, but the Royal Houses say this is the REAL DEAL!\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_crafting_events_july2021_panatea_flux_name»Fluxyattium
+$prefabs_item_crafting_events_july2021_panatea_flux_description»The unique mix of chemicals present in this flux is perfect for the forging of PANATEAN ANTES.\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_crafting_events_july2021_tysorion_flux_name»Flux mk. II
+$prefabs_item_crafting_events_july2021_tysorion_flux_description»More fluxier than regular flux, this extra-fluxy flux is full of flux, which make it an idea candidate for the creation of MARKS OF TY.\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_crafting_events_september2021_fae_token_name»Token of Fae Honor
+$prefabs_item_crafting_events_september2021_fae_token_description»Proof of Fae Honor! Gained from hunting Undead in the Fae Forest.\n\n<font color='#ff3030'>Disappears</font> at the end of the Fae Vs Undead event.
+$prefabs_item_crafting_events_september2021_undead_token_name»Token of Undead Honor
+$prefabs_item_crafting_events_september2021_undead_token_description»Proof of Undead Honor! Gained from hunting Fae in the Cursed Vale.\n\n<font color='#ff3030'>Disappears</font> at the end of the Fae Vs Undead event.
+$prefabs_item_crafting_events_november2021_3_house_turkey_currency_name»Spare Turkey Leg
+$prefabs_item_crafting_events_november2021_3_house_turkey_currency_desc»Where did it come from? Better not to ask.
+$prefabs_item_crafting_events_november2021_biscuits_currency_name»Heckbug Treats
+$prefabs_item_crafting_events_november2021_biscuits_currency_desc»They do eat anything, but they eat these first.
+$prefabs_item_crafting_events_november2021_bouillon_cube_currency_name»Trovian Bouillon
+$prefabs_item_crafting_events_november2021_bouillon_cube_currency_desc»Special bouillon for a special occasion.
+$prefabs_item_crafting_events_november2021_choco_egg_currency_name»Chocolate Egg
+$prefabs_item_crafting_events_november2021_choco_egg_currency_desc»Everyone loves a chocolate egg.
+$prefabs_item_crafting_events_november2021_frozen_punch_currency_name»Frozen Punch
+$prefabs_item_crafting_events_november2021_frozen_punch_currency_desc»How would you make ice punch without the punch?
+$prefabs_item_crafting_events_november2021_greens_currency_name»Raddish
+$prefabs_item_crafting_events_november2021_greens_currency_desc»Perfectly ripe. Raddishes can be ripe, right?
+$prefabs_item_crafting_events_november2021_moon_rolls_currency_name»Moon Wheat
+$prefabs_item_crafting_events_november2021_moon_rolls_currency_desc»Wheat grown soley in moonlight
+$prefabs_item_crafting_events_november2021_turkey_coin_currency_name»Friendsgiving Coin
+$prefabs_item_crafting_events_november2021_turkey_coin_currency_desc»The most premium of currencies for the most premium of friends. Used to craft items at the Turkeytopia Table workbench.
+$prefabs_item_crafting_events_november2021_3_house_turkey_inv_name»Special Order: Sunfest Houses Recipes
+$prefabs_item_crafting_events_november2021_3_house_turkey_inv_desc»Cooked Three House Turkey.
+$prefabs_item_crafting_events_november2021_3_house_turkey_inv_desc2»Teaches the ability to craft Three House Turkey decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_bunfest_egg_inv_name»Special Order: Bunfest Nobles Recipes
+$prefabs_item_crafting_events_november2021_bunfest_egg_inv_desc»Prepared Bunfest Bounty.
+$prefabs_item_crafting_events_november2021_bunfest_egg_inv_desc2»Teaches the recipe teaching the ability to craft the Bunfest Bounty decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_greens_inv_name»Special Order: Sir Dapper Duckington's Recipes
+$prefabs_item_crafting_events_november2021_greens_inv_desc»Prepared Raddish Salad.
+$prefabs_item_crafting_events_november2021_greens_inv_desc2»Teaches the recipe teaching the ability to craft the Raddish Salad decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_moon_rolls_inv_name»Special Order: High Priest's Recipes
+$prefabs_item_crafting_events_november2021_moon_rolls_inv_desc»Cooked Moon Rolls.
+$prefabs_item_crafting_events_november2021_moon_rolls_inv_desc2»Teaches the recipe teaching the ability to craft the Moon Rolls decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_punch_bowl_inv_name»Special Order: Snowfest Gang's Recipes
+$prefabs_item_crafting_events_november2021_punch_bowl_inv_desc»Prepared Ice Punch Bowl.
+$prefabs_item_crafting_events_november2021_punch_bowl_inv_desc2»Teaches the recipe teaching the ability to craft the Ice Punch Bowl decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_puppy_bowl_inv_name»Special Order: Heckbug Chow Recipes
+$prefabs_item_crafting_events_november2021_puppy_chow_inv_desc»Cooked Hecky Chow.
+$prefabs_item_crafting_events_november2021_puppy_chow_inv_desc2»Teaches the recipe teaching the ability to craft the Hecky Chow Bowl decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_recipes_name»Qubesly's Favorites 2021 Recipes
+$prefabs_item_crafting_events_november2021_qubes_recipes_desc»Teaches the recipes to craft all of Qubesly's Favorites from Friendsgiving 2021 as decoration blocks at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_recipes_name»Sides Recipes
+$prefabs_item_crafting_events_november2021_sides_recipes_desc»Teaches the recipes to craft all of the Sides from Friendsgiving as decoration blocks at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_mains_recipes_name»Special Order 2021 Recipes
+$prefabs_item_crafting_events_november2021_mains_recipes_desc»Teaches the recipes to craft all of the Special Orders from Friendsgiving 2021 as decoration blocks at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubesly_invites_name»Qubesly's Favorites Recipes
+$prefabs_item_crafting_events_november2021_qubesly_invites_desc»Teaches the recipes to craft all of Qubesly's Favorites recipes at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_special_orders_name»Special Order Recipes
+$prefabs_item_crafting_events_november2021_special_orders_desc»Teaches the recipes to craft all of the Special Order recipes at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_stuffing_name»Side: Stuffing
+$prefabs_item_crafting_events_november2021_sides_stuffing_desc»Cooked Stuffing.
+$prefabs_item_crafting_events_november2021_sides_stuffing_desc2»Teaches the recipe for the Stuffing Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_corn_cob_name»Side: Corn Cob
+$prefabs_item_crafting_events_november2021_sides_corn_cob_desc»Cooked Corn Cob.
+$prefabs_item_crafting_events_november2021_sides_corn_cob_desc2»Teaches the recipe for the Corn Cob Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_deviled_eggs_name»Side: Deviled Eggs
+$prefabs_item_crafting_events_november2021_sides_deviled_eggs_desc»Cooked Deviled Eggs.
+$prefabs_item_crafting_events_november2021_sides_deviled_eggs_desc2»Teaches the recipe for the Deviled Eggs Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_green_beans_name»Side: Green Beans
+$prefabs_item_crafting_events_november2021_sides_green_beans_desc»Cooked Green Beans.
+$prefabs_item_crafting_events_november2021_sides_green_beans_desc2»Teaches the recipe for the Green Beans Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_tater_totes_name»Side: Totter Tates
+$prefabs_item_crafting_events_november2021_sides_tater_totes_desc»Cooked Totter Tates.
+$prefabs_item_crafting_events_november2021_sides_tater_totes_desc2»Teaches the recipe for the Totter Tates Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_rib_roast_name»Qubesly's Favorites: Raw Rib Roast
+$prefabs_item_crafting_events_november2021_qubes_rib_roast_desc»Raw Rib Roast.
+$prefabs_item_crafting_events_november2021_qubes_rib_roast_desc2»Teaches the recipe for the Raw Rib Roast Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_patrol_pasta_name»Qubesly's Favorites: Pasta, Patrol Style
+$prefabs_item_crafting_events_november2021_qubes_patrol_pasta_desc»Cooked Pasta, Patrol Style.
+$prefabs_item_crafting_events_november2021_qubes_patrol_pasta_desc2»Teaches the recipe for the Pasta, Patrol Style Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_corned_beef_name»Qubesly's Favorites: Saintly Corned Beef
+$prefabs_item_crafting_events_november2021_qubes_corned_beef_desc»Cooked Saintly Corned Beef.
+$prefabs_item_crafting_events_november2021_qubes_corned_beef_desc2»Teaches the recipe for the Saintly Corned Beef Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_icecream_name»Qubesly's Favorites: Supreme Ice Cream Sundae
+$prefabs_item_crafting_events_november2021_qubes_icecream_desc»Prepared Supreme Ice Cream Sundae.
+$prefabs_item_crafting_events_november2021_qubes_icecream_desc2»Teaches the recipe for the Supreme Ice Cream Sundae Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_moonlight_juice_name»Qubesly's Favorites: Lunar Light Juice
+$prefabs_item_crafting_events_november2021_qubes_moonlight_juice_desc»Cooked Lunar Light Juice.
+$prefabs_item_crafting_events_november2021_qubes_moonlight_juice_desc2»Teaches the recipe for the Lunar Light Juice Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_egg_rolls_name»Qubesly's Favorites: Cube Rolls
+$prefabs_item_crafting_events_november2021_qubes_egg_rolls_desc»Cooked Cube Rolls.
+$prefabs_item_crafting_events_november2021_qubes_egg_rolls_desc2»Teaches the recipe for the Cube Rolls Decoration at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_bouillon_recipe_name»Recipe: Trove Bouillon
+$prefabs_item_crafting_events_november2021_bouillon_recipe_desc»One of the Qubesly's closest secrets.
+$prefabs_item_crafting_events_november2021_3_house_turkey_food_name»Food: Three House Turkey
+$prefabs_item_crafting_events_november2021_3_house_turkey_food_desc»The houses wanted a turkey with six legs and, boom! They got it
+$prefabs_item_crafting_events_november2021_bunfest_egg_food_name»Food: Bunfest Bounty
+$prefabs_item_crafting_events_november2021_bunfest_egg_food_desc»Chocolate Eggs may not be technically in season, but who really cares?
+$prefabs_item_crafting_events_november2021_greens_food_name»Food: Raddish Salad
+$prefabs_item_crafting_events_november2021_greens_food_desc»Ridiculously radical raddishes and resplendently refreshing!
+$prefabs_item_crafting_events_november2021_moon_rolls_food_name»Food: Moon Rolls
+$prefabs_item_crafting_events_november2021_moon_rolls_food_desc»You can taste the moon in every bite!
+$prefabs_item_crafting_events_november2021_punch_bowl_food_name»Food: Ice Punch Bowl
+$prefabs_item_crafting_events_november2021_punch_bowl_food_desc»You can't spike punch if it's frozen solid.
+$prefabs_item_crafting_events_november2021_puppy_chow_food_name»Food: Hecky Chow
+$prefabs_item_crafting_events_november2021_puppy_chow_food_desc»Chow fit for, well, bugs. But you can eat it too.
+$prefabs_item_unlocker_events_november2021_qubesly_table_name»Recipe: Friendsgiving Dinner Feast
+$prefabs_item_unlocker_events_november2021_qubesly_table_desc»Teaches the Recipe for the Friendsgiving Dinner Feast, craftable at the Turkeytopia Table.
+$prefabs_item_crafting_events_feb2022_heckbug_dummy_inv_name»Recipe: Heckbug Practice Dummy
+$prefabs_item_crafting_events_feb2022_heckbug_dummy_inv_desc»Teaches how to craft the Heckbug Practice Dummy at the Fun Factory.
+$prefabs_item_crafting_events_march2022_reusable_buff_name»Borrowed Luck
+$prefabs_item_crafting_events_march2022_reusable_buff_desc»This donation grants a buff of 250 Magic Find for 3 hours.\n\nDonations only accepted once each week.
+$prefabs_item_crafting_events_lucky_star_buff_name»Feelin' Lucky
+$prefabs_item_crafting_events_lucky_star_buff_desc»Increases your Magic Find by 25.
+$prefabs_item_crafting_events_olucky_buff_name»O'Lucky
+$prefabs_item_crafting_events_olucky_buff_desc»Allows you to see Sir O'Lucky.
+$prefabs_item_crafting_events_july2022_minercard_carys_name»Carysian Mining License
+$prefabs_item_crafting_events_july2022_minercard_carys_description»Issued by house Carys only to accredited miners.
+$prefabs_item_crafting_events_july2022_minercard_panatea_name»Panatean Mining License
+$prefabs_item_crafting_events_july2022_minercard_panatea_description»Issued by house Panatea only to accredited miners.
+$prefabs_item_crafting_events_july2022_minercard_tysorion_name»Tysorion Mining License
+$prefabs_item_crafting_events_july2022_minercard_tysorion_description»Issued by house Tysorion only to accredited miners.
+$prefabs_item_crafting_consumable_empower_devourer_name»Devourer Empowerment
+$prefabs_item_crafting_consumable_empower_devourer_desc»For the next hour Ashen Devourers you attack will become empowered. \n\nEmpowered Ashen Devourers deal more damage and use new attacks, and will always drop a Foraged Dragon Egg Fragment if defeated in an Deep Fallow (14) world.\n\nCrafting this while under its effects will refresh the duration of the buff granted to one hour.\n\nWARNING: Ashen Devourers below 75% health will not become empowered.
+$prefabs_item_crafting_consumable_empower_blastflower_name»Blastflower Empowerment
+$prefabs_item_crafting_consumable_empower_blastflower_desc»For the next hour Ashen Blastflowers you attack will become empowered. \n\nEmpowered Ashen Blastflowers will now sometimes spawn an Empowered Ashen Thresher. Defeating Empowered Ashen Thresher will always drop a Foraged Dragon Egg Fragment if defeated in an Deep Fallow (11) world.\n\nCrafting this while under its effects will refresh the duration of the buff granted to one hour.
+$prefabs_item_crafting_consumable_empower_admiral_name»Admiral Empowerment
+$prefabs_item_crafting_consumable_empower_admiral_desc»For the next hour Irradiant Sky Giant Admirals you attack will become empowered. \n\nEmpowered Irradiant Sky Giant Admirals deal more damage and use new attacks, and will always drop an Irradiant Dragon Egg Fragment if defeated in an Deep Fallow (11) world.\n\nCrafting this while under its effects will refresh the duration of the buff granted to one hour.\n\nWARNING: Irradiant Sky Giant Admirals below 75% health will not become empowered.
+$prefabs_item_crafting_events_october2022_seal_name»Q'rsed Seal
+$prefabs_item_crafting_events_october2022_seal_description»The Q'rse of the Wolves' Den can corrupt anything.\n\nUsed to craft Q'rsed Crates and other collectables during the Shadow's Eve 2022 Event.
+$prefabs_item_crafting_events_october2022_moonshard_name»Cleansing Moonshard
+$prefabs_item_crafting_events_october2022_moonshard_description»Belief in Elsphodel and the purity of Q'rsbane forged into a potent cure.\n\nConsuming the Cleansing Moonshard removes the Q'rsed Bite and grants them Elsphodel's protection. Elpshodel's Protection removes Q'rsed Bite, prevents its effects for its duration, and gives attacks the chance to summon a shard of the moon upon their enemies.
+$prefabs_item_crafting_events_october2022_vial_name»Vial of Q'rsed Essence
+$prefabs_item_crafting_events_october2022_vial_description»Those that suffer the Q'rse of Shadow's Eve know little reprieve, but no shadow is cast that cannot be dispelled by the light of Elsphodel.
+$prefabs_item_crafting_weeds_name»Unsightly Weed
+$prefabs_item_crafting_weeds_desc»Removing this unsightly weed will make all of Trove happy.
+$prefabs_item_crafting_events_november2022_dinosaur_inv_name»Special Order: Cacti Casserole
+$prefabs_item_crafting_events_november2022_dinosaur_inv_desc»Oven cooked Cacti Casserole.
+$prefabs_item_crafting_events_november2022_dinosaur_inv_desc2»Teaches the recipe teaching the ability to craft the Cacti Casserole decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_cowboy_inv_name»Special Order: Dino Detritus
+$prefabs_item_crafting_events_november2022_cowboy_inv_desc»Tossed Dino Detritus.
+$prefabs_item_crafting_events_november2022_cowboy_inv_desc2»Teaches the recipe teaching the ability to craft the Dino Detritus decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_pirate_inv_name»Special Order: Box of Oranges
+$prefabs_item_crafting_events_november2022_pirate_inv_desc»It's a box of oranges. That's it. Pirates are weird.
+$prefabs_item_crafting_events_november2022_pirate_inv_desc2»Teaches the recipe teaching the ability to craft the Box of Oranges decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_ninja_inv_name»Special Order: Data Rolls with Plasmium Tea
+$prefabs_item_crafting_events_november2022_ninja_inv_desc»Prepared Data Rolls with Plasmium Tea.
+$prefabs_item_crafting_events_november2022_ninja_inv_desc2»Teaches the recipe teaching the ability to craft the Data Rolls with Plasmium Tea decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_fae_inv_name»Special Order: Fae Sugar Cubes
+$prefabs_item_crafting_events_november2022_fae_inv_desc»Assorted Fae Sugar Cubes.
+$prefabs_item_crafting_events_november2022_fae_inv_desc2»Teaches the recipe teaching the ability to craft the Fae Sugar Cubes decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_undead_inv_name»Special Order: Bowl of Brain-a-tin
+$prefabs_item_crafting_events_november2022_undead_inv_desc»Chilled Bowl of Brain-a-tin.
+$prefabs_item_crafting_events_november2022_undead_inv_desc2»Teaches the recipe teaching the ability to craft the Bowl of Brain-a-tin decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_stqubes_inv_name»Qubesly's Favorites: Rainbow Soup
+$prefabs_item_crafting_events_november2022_stqubes_inv_desc»When St. Qubeslick said the rainbow tasted like cinnamon who would have believed it!
+$prefabs_item_crafting_events_november2022_stqubes_inv_desc2»Teaches the recipe teaching the ability to craft the Rainbow Soup decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_dinosly_inv_name»Qubesly's Favorites: Jungle Tea
+$prefabs_item_crafting_events_november2022_dinosly_inv_desc»Chefsly highly recommends skipping this one unless you enjoy the taste of rainwater steeped leaves with a light hint of dirt.
+$prefabs_item_crafting_events_november2022_dinosly_inv_desc2»Teaches the recipe teaching the ability to craft the Jungle Tea decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_sheriffsly_inv_name»Qubesly's Favorites: The Deputy
+$prefabs_item_crafting_events_november2022_sheriffsly_inv_desc»When Sheriffsly says he needs to get back with his Deputy, most in the frontier would expect he's talking about his co-worker. Most would be wrong.
+$prefabs_item_crafting_events_november2022_sheriffsly_inv_desc2»Teaches the recipe teaching the ability to craft the The Deputy decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_pinzo_inv_name»Special Order: Pinzham
+$prefabs_item_crafting_events_november2022_pinzo_inv_desc»Prepared(?) Pinzham.
+$prefabs_item_crafting_events_november2022_pinzo_inv_desc2»Teaches the recipe teaching the ability to craft the Pinzham decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_dinosaur_food_name»Food: Cacti Casserole
+$prefabs_item_crafting_events_november2022_dinosaur_food_desc»The carnivores of the Jurassic Jungle should enjoy this well enough. Hopefully....
+$prefabs_item_crafting_events_november2022_cowboy_food_name»Food: Dino Detritus
+$prefabs_item_crafting_events_november2022_cowboy_food_desc»Many in the frontier have found an herbivorous diet difficult, but it beats eating nothing.
+$prefabs_item_crafting_events_november2022_fae_food_name»Food: Fae Sugar Cubes
+$prefabs_item_crafting_events_november2022_fae_food_desc»The Fae believe it's much quicker to get to desert if it's the main course. Just make sure to leave room for desert.
+$prefabs_item_crafting_events_november2022_undead_food_name»Food: Bowl of Brain-a-tin
+$prefabs_item_crafting_events_november2022_undead_food_desc»If it looks like gelatin, and it tastes like gelatin, it is gelatin, right?
+$prefabs_item_crafting_events_november2022_ninja_food_name»Food: Data Rolls with Plasmium Tea
+$prefabs_item_crafting_events_november2022_ninja_food_desc»A delicacy in Luminopolis. They key is to obtain the data fresh so that it rolls best.
+$prefabs_item_crafting_events_november2022_pirate_food_name»Food: Box of Oranges
+$prefabs_item_crafting_events_november2022_pirate_food_desc»It's quick, it's easy, and it fights scurvy. What could be better?
+$prefabs_item_crafting_events_november2022_pinzo_food_name»Food: Pinzham
+$prefabs_item_crafting_events_november2022_pinzo_food_desc»Chuck Pinzo's latest product, canned ham with the Pinzo guarantee that it will never spoil. Sure, it might taste terrible and cause your hair to turn blonde, but they're really minor side effects when you think about it.
+$prefabs_item_crafting_events_november2022_pinzo_currency_name»Can of Pinzham
+$prefabs_item_crafting_events_november2022_pinzo_currency_desc»Guaranteed to last a lifetime, yours or Chuck's at least, and that's a Chuck Pinzo guarantee!
+$prefabs_item_crafting_events_november2022_undead_currency_name»Brain Mold
+$prefabs_item_crafting_events_november2022_undead_currency_desc»Why you'd your gelatin shaped a brain, you'll have to ask the Undead.
+$prefabs_item_crafting_events_november2022_fae_currency_name»Fae Sugar
+$prefabs_item_crafting_events_november2022_fae_currency_desc»As long as the wild magic doesn't go too wild everything should be fine.
+$prefabs_item_crafting_events_november2022_ninja_currency_name»Plasma Cannister
+$prefabs_item_crafting_events_november2022_ninja_currency_desc»Perfect for cooking rice or brewing tea.
+$prefabs_item_crafting_events_november2022_pirate_currency_name»Orange
+$prefabs_item_crafting_events_november2022_pirate_currency_desc»Pirates are many things, but complicated isn't one of them.
+$prefabs_item_crafting_events_november2022_cowboy_currency_name»Dino Nugget
+$prefabs_item_crafting_events_november2022_cowboy_currency_desc»What better way to make a salad better than with some nuggets.
+$prefabs_item_crafting_events_november2022_dinosaur_currency_name»Fresh Cacti
+$prefabs_item_crafting_events_november2022_dinosaur_currency_desc»Nothing beats fresh picked cactus, as long as you can avoid getting picked by the cactus.
+$prefabs_item_crafting_events_november2022_mains_recipes_name»Special Order 2022 Recipes
+$prefabs_item_crafting_events_november2022_mains_recipes_desc»Teaches the recipes to craft all of the Special Orders from Friendsgiving 2022 as decoration blocks at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2022_qubes_recipes_name»Qubesly's Favorites 2022 Recipes
+$prefabs_item_crafting_events_november2022_qubes_recipes_desc»Teaches the recipes to craft all of Qubesly's Favorites from Friendsgiving 2022 as decoration blocks at the Friendsgiving Oven.
+$prefabs_item_crafting_events_august2023_saddle_name»Elysian Offensive Saddle
+$prefabs_item_crafting_events_august2023_saddle_description»Dropped by enemies in the Everdark that have kept it as a trophy, this reclaimed saddle can be used to claim your own mount or sold back to the Elysian Offensive.
+$prefabs_item_crafting_events_october2023_reusable_buff_name»Elsphodel's Blessing
+$prefabs_item_crafting_events_october2023_reusable_buff_desc»This offering grants Elsphodel's Blessing for 3 hours. Elsphodel's Blessing reduces damage taken by 10% and gives you a chance to spawn a moonshard when attacking enemies.\n\nPrevents and cures the Q'rse of Shadow's Eve that Q'berus can inflict.\n\nDonations only accepted once each week.
+$prefabs_item_crafting_events_renewus2024_effort_name»Effort of Champions
+$prefabs_item_crafting_events_renewus2024_effort_desc»One drop in the bucket of what builds a Champion. Obtained from Dungeons during the Renewus 2025 event.\nCan be used at the Championship Training Weights.\n<font color='#ff3030'>Warning:</font> Will be removed at the end of the Renewus 2025 event!
+$prefabs_item_crafting_events_february2024_heckbug_arm_name»Heckbug Pincer
+$prefabs_item_crafting_events_february2024_heckbug_arm_desc»Completely worthless, Who would want this?\n\nDropped by Heckbugs in the Dragonfire Peaks during the Heckbugs In Love event.
+$prefabs_item_crafting_events_october2022_wolfsbane_name»Q'rsebane
+$prefabs_item_crafting_events_october2022_wolfsbane_description»The Q'rse corrupts the body into twisted forms and breaks the mind. Q'rsbane can delay these effects and with the proper methods, may even be able to reverse them.
+$prefabs_item_crafting_events_august2024_tainted_lunar_drop_name»Tainted Lunar Drop
+$prefabs_item_crafting_events_august2024_tainted_lunar_drop_description»Scrounged and kept by invading Chaos Wolves in CURSED VALE and SHORES of the EVERDARK.\n\nWarning: Clean before use!
+$prefabs_item_crafting_events_august2024_lunar_drop_name»Lunar Drop
+$prefabs_item_crafting_events_august2024_lunar_drop_description»Cleansed in the Moonlight Fountain in the Hub, and ready to help the cause!\n\nUsed to craft various Lunar Plunge recipes.
+$prefabs_item_crafting_events_august2024_lunar_drop_donate_name»Donate cleansed Lunar Drop
+$prefabs_item_crafting_events_august2024_lunar_drop_donate_description»Donate un-needed Lunar Drops to the cause, with gratitude from High Priest Lunavic\n\nDonating gives a slight chance to receive Chunks of Runic ore, or other 'Rising Tide' materials from The Depths.
+$prefabs_item_crafting_events_august2024_acolyte_armor_name»Acolyte Moonshadow Armor
+$prefabs_item_crafting_events_august2024_acolyte_armor_description»Outfit this year's crop of Lunar Acolytes, allowing them to fend off the invading Shadow & Chaos Wolves.
+$prefabs_item_crafting_events_august2024_shadow_armor_fragment_name»Lunar Armor Fragment
+$prefabs_item_crafting_events_august2024_shadow_armor_fragment_description»Found when defeating invading Shadow Wolves, said to be attracted to MAGIC...
+$prefabs_item_crafting_events_september2024_vote_up_name»Cast UP Vote!
+$prefabs_item_crafting_events_september2024_vote_up_description»Affirm your loyalty to the Cloud Layer... or, SOMEONE'S loyalty, anyway...
+$prefabs_item_crafting_events_september2024_vote_down_name»Cast DOWN Vote!
+$prefabs_item_crafting_events_september2024_vote_down_description»Affirm your loyalty to the Ashen Wastes... or, SOMEONE'S loyalty, anyway...
+$prefabs_item_crafting_events_september2024_donate_hamburger_name»Donate Delicious Burger
+$prefabs_item_crafting_events_september2024_donate_hamburger_description»The Cloud Layer delegate LOVES delicious, juicy hamburgers. Donate one to earn enough favor that he'll speak to you.\n\nJuicy Burgers are sold by Fungi Thingshapers in Cloud Layer Outposts in the SUNDERED UPLANDS biome.
+$prefabs_item_crafting_events_september2024_donate_broccoli_name»Donate Healthful Broccoli
+$prefabs_item_crafting_events_september2024_donate_broccoli_description»The Ashen Wastes delegate appreciates healthy, nutritious broccoli. Donate some to earn enough favor that he'll speak to you.\n\nHealthful Broccoli is sold by Fungi Thingshapers in Ashen Wastes Outposts in the SUNDERED UPLANDS biome.
+$prefabs_item_crafting_events_september2024_deliver_oatmeal_name»Deliver Oatmeal & Berries
+$prefabs_item_crafting_events_september2024_deliver_oatmeal_description»Ashen Wastes denizens know the importance of a filling, nutritious breakfast ... no matter what time of day it is!
+$prefabs_item_crafting_events_september2024_deliver_icecream_name»Deliver Ice Cream & Waffles
+$prefabs_item_crafting_events_september2024_deliver_icecream_description»All Cloud Layer denizens absolutely LOVE Ice Cream & Waffles, no matter the weather!
+$prefabs_item_crafting_events_september2024_deliver_hamburger_name»Deliver Delicious Burger
+$prefabs_item_crafting_events_september2024_deliver_hamburger_description»The best way to show favor to a Cloud Layer denizen is to give them a nice, juicy burger!
+$prefabs_item_crafting_events_september2024_deliver_broccoli_name»Deliver Healthful Broccoli
+$prefabs_item_crafting_events_september2024_deliver_broccoli_description»Nothing helps show your support for an Ashen Wastes denizen like healthy snack delivery!
+$prefabs_item_crafting_events_september2024_donate_ashfern_name»Donate Ashfern Sporelings
+$prefabs_item_crafting_events_september2024_donate_ashfern_description»To help Qubesly figure out the ins-and-outs of the UP-vs-DOWN election, you can donate Ashfern Sporelings–used by Qubesly to show his appreciation to the more talkative Fungi denizens of Sundered Uplands.
+$prefabs_item_crafting_events_september2024_vote_receipt_up_name»Proof of Vote: UP
+$prefabs_item_crafting_events_september2024_vote_receipt_up_description»Proves that the bearer utilized an UPLANDS BALLOT BOX to register a for for UP
+$prefabs_item_crafting_events_september2024_vote_receipt_down_name»Proof of Vote: DOWN
+$prefabs_item_crafting_events_september2024_vote_receipt_down_description»Proves that the bearer utilized an UPLANDS BALLOT BOX to register a for for DOWN
+$prefabs_item_crafting_events_september2024_ballot_up_name»Ballot: UP
+$prefabs_item_crafting_events_september2024_ballot_up_description»A ballot signifying an UP vote for the SUNDERED UPLANDS election.
+$prefabs_item_crafting_events_september2024_ballot_down_name»Ballot: DOWN
+$prefabs_item_crafting_events_september2024_ballot_down_description»A ballot signifying a DOWN vote for the SUNDERED UPLANDS election.
+$prefabs_item_crafting_events_september2024_refuse_up_name»Miffed
+$prefabs_item_crafting_events_september2024_refuse_up_description»This Delegate believes you are loyal to the ASHEN WASTES, not the CLOUD LAYER, and refuses to speak to you... at least for today.
+$prefabs_item_crafting_events_september2024_refuse_down_name»Miffed
+$prefabs_item_crafting_events_september2024_refuse_down_description»This Delegate believes you are loyal to the CLOUD LAYER, not the ASHEN WASTES, and refuses to speak to you... at least for today.
+$prefabs_item_crafting_events_october2024_donate_fishpaste_name»Donate Basic Canned Fish
+$prefabs_item_crafting_events_october2024_donate_fishpaste_description»Basic fish has the best protein score and all the good vitamins! Trust me, I tried all brands on the market.\n\nDonate Fish to feed the cats, and may be receive some Chunks of Runic Ore, Deepstone, Depths Core, Soul of the Depths or Titles in return.
+$prefabs_item_crafting_events_november2024_garx_food_name»Food: Mighty Lasagna
+$prefabs_item_crafting_events_november2024_garx_food_desc»The extra protein is what turns chumps into champs.
+$prefabs_item_crafting_events_november2024_septupdown_food_name»Food: Burgers and Broccoli
+$prefabs_item_crafting_events_november2024_septupdown_food_desc»Sometimes in life you have to make compromises, and sometimes those compromises involve smashing two things together.
+$prefabs_item_crafting_events_november2024_samcrew_food_name»Food: Kraken Soup
+$prefabs_item_crafting_events_november2024_samcrew_food_desc»Did that tentacle twitch just now?!
+$prefabs_item_crafting_events_november2024_octwitch_food_name»Food: Canned Tuna
+$prefabs_item_crafting_events_november2024_octwitch_food_desc»A true delicacy, so long as you're a cat.
+$prefabs_item_crafting_events_november2024_thehunter_food_name»Food: Heckbug Sashimi
+$prefabs_item_crafting_events_november2024_thehunter_food_desc»If you're killing them all anyway, might as well make good use of them.
+$prefabs_item_crafting_events_november2024_mysticism_food_name»Food: Suspicious Jello
+$prefabs_item_crafting_events_november2024_mysticism_food_desc»Almost definitely imbued with strange magic. Don't eat if you aren't ready to turn into a frog.
+$prefabs_item_crafting_events_november2024_martial_food_name»Food: Unseasoned Chicken and Rice
+$prefabs_item_crafting_events_november2024_martial_food_desc»Surely you could at least put salt on it, right?
+$prefabs_item_crafting_events_november2024_recipes_name»Friendsgiving 2024 Recipes
+$prefabs_item_crafting_events_november2024_recipes_desc»Teaches the recipes to craft all of the Main Dishes from Friendsgiving 2024 as decoration blocks at the Friendsgiving Oven.
+$prefabs_item_crafting_events_december2024_classic_snowman_requirements_failureLoc»Can only use when in a Permafrost biome.
+$prefabs_item_crafting_events_december2024_classic_snowman_rescue_name»Classic Snowman Rescue Badge
+$prefabs_item_crafting_events_december2024_classic_snowman_rescue_description»A gift from a grateful Snowman, happily at home in the frigid tundra.
+$prefabs_item_crafting_events_december2024_classic_snowman_name»Classic Snowman
+$prefabs_item_crafting_events_december2024_classic_snowman_description»A classic, Permafrost Snowman, ready to return to the comfortable frozen tundra.
+$prefabs_item_crafting_events_december2024_dyed_snowvader_remnants_name»Classic Snowman Gear
+$prefabs_item_crafting_events_december2024_dyed_snowvader_remnants_description»Repurposed remnants from a Snowvader, ready for use by true, classic Snowmen!
+$prefabs_item_crafting_events_december2024_pristine_snow_name»Pristine Snow
+$prefabs_item_crafting_events_december2024_pristine_snow_description»The purest snow, found in Tree Dungeons during Snowfest.
+$prefabs_item_crafting_events_december2024_snowvader_remnants_name»Snowvader Remnants
+$prefabs_item_crafting_events_december2024_snowvader_remnants_description»Remnants from a Snowman Invader
+$prefabs_item_crafting_events_december2024_bleached_snowvader_remnants_name»Bleached Snowvader Remnants
+$prefabs_item_crafting_events_december2024_bleached_snowvader_remnants_description»Remnants from a Snowman Invader, bleached by Qubesly.
+$prefabs_item_crafting_events_january2025_exercise_token_name»Garx Exercise Token
+$prefabs_item_crafting_events_january2025_exercise_token_description»Granted for completion of a Once-Per-Day Exercise from Garx' regimen.
+$prefabs_item_crafting_events_january2025_exercise_token_questline_description»Granted for progression in Garx' regimen.
+$prefabs_item_crafting_events_coin_newyear2025_name»Mythical Coin
+$prefabs_item_crafting_events_coin_newyear2025_description»Currency from a long-forgotten era, somehow retaining its polish and sheen.\n\nObtained rarely from Dungeons in the Forbidden Spires, but only if the 'She'xia - the Wood Snake Dragon' event is currently ACTIVE (check the /welcome screen! [HK:WelcomeScreen])
+$prefabs_item_crafting_events_coin_newyear2025_description_controller»Currency from a long-forgotten era, somehow retaining its polish and sheen.\n\nObtained rarely from Dungeons in the Forbidden Spires, but only if the 'She'xia - the Wood Snake Dragon' event is currently ACTIVE (check the /welcome screen! [HK:NavigationMenu])
+$prefabs_item_crafting_events_wood_newyear2025_name»Polished Mythical Wood
+$prefabs_item_crafting_events_wood_newyear2025_description»Beautifully polished hardwood, imbued with mythical energy.\n\nObtained occasionally from enemies in the Forbidden Spires, but only if the 'She'xia - the Wood Snake Dragon' event is currently ACTIVE (check the /welcome screen! [HK:WelcomeScreen])
+$prefabs_item_crafting_events_wood_newyear2025_description_controller»Beautifully polished hardwood, imbued with mythical energy.\n\nObtained occasionally from enemies in the Forbidden Spires, but only if the 'She'xia - the Wood Snake Dragon' event is currently ACTIVE (check the /welcome screen! [HK:NavigationMenu])
+$prefabs_item_crafting_events_february2025_token_name»H.E.C.K. Karma Token
+$prefabs_item_crafting_events_february2025_token_description»A token representing effort spent helping the Helpers of Exotic Creatures for Karma organization.
+$prefabs_item_crafting_events_february2025_capybara_token_name»Rubber Duckat
+$prefabs_item_crafting_events_february2025_capybara_token_description»Made from high quality rubber. Apparently utilized by some ancient culture!

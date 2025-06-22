@@ -1,0 +1,6 @@
+$prefabs_collections_pet_hermitcrab_beachparty_name»烧烤大师格里利(Grilly the Grillmaster)
+$prefabs_collections_pet_hermitcrab_beachparty_description»把嘶嘶声带到您的夏天！总是激发和翻转的乐趣。\n<font color="#cccccc">Bringing the sizzle to your summer! Always fired up and flipping fun.</font>
+$prefabs_collections_pet_joystick_beachparty_name»冰凉杯(Chilly Cup)
+$prefabs_collections_pet_joystick_beachparty_description»一个被困在酸奶桶里的勇敢的冰棒……他对此很冷静。\n<font color="#cccccc">A brave popsicle trapped in a yogurt tub… and he’s cool with it.</font>
+$prefabs_collections_pet_mimic_beachparty_name»Cakeling纪念馆(Cakeling Commemorator)
+$prefabs_collections_pet_mimic_beachparty_description»每一跳都是庆祝活动，每一步都是荣誉的糖霜。10日快乐，Trove！\n<font color="#cccccc">Every hop is a celebration, every step a frosting-smear of honor. Happy 10th, Trove!</font>

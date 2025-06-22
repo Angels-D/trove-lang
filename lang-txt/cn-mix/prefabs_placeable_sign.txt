@@ -1,0 +1,10 @@
+$prefabs_placeable_sign_lore_startingzone_item_name»标识01
+$prefabs_placeable_sign_lore_undead_item_name»标识01
+$prefabs_placeable_sign_tutorial_mining_placeable_entity_title»挖掘矿物
+$prefabs_placeable_sign_tutorial_mining_placeable_entity_text»要挖掘矿石或者其他方块时，按 [HK:SwitchInputMode] 切换到建造模式，然后在瞄准矿石时按住 [HK:BuildModeDestroy] 即可挖掘矿物！
+$prefabs_placeable_sign_tutorial_tips_placeable_entity_title»宝藏世界小提示
+$prefabs_placeable_sign_tutorial_tips_placeable_entity_text»宝藏世界的功能丰富和系统完善。您可以在收藏的用户界面 [HK:Collections]的“勋章和龙升天”>“提示”\n\n在这个类别下可以查看游戏技巧提示！
+$prefabs_placeable_sign_tutorial_tips_placeable_entity_text_controller»宝藏世界的功能丰富和系统完善。您可以在收藏的用户界面 [HK:Collections]的“勋章和龙升天”>“提示”\n\n在这个类别下可以查看游戏技巧提示！
+$prefabs_placeable_sign_tutorial_wings_placeable_entity_title»翅膀
+$prefabs_placeable_sign_tutorial_wings_placeable_entity_text»翅膀可以让你在空中滑翔，但随着时间的推移会慢慢下降。按 [HK:MoveBackward] 会减慢你的移动速度，而按 [HK:MoveForward] 会提高你滑翔的速度，但会让你更快的向下坠落！\n\n上升气流方块可以让你在空中停留更长时间！
+$prefabs_placeable_sign_tutorial_wings_placeable_entity_text_controller»翅膀可以让你在空中滑翔，但随着时间的推移会慢慢下降。向后移动会减慢你的移动速度，而向前移动会提高你滑翔的速度，但会让你更快的向下坠落！\n\n上升气流方块可以让你在空中停留更长时间！

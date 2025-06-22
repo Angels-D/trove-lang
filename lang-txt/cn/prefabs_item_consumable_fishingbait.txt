@@ -1,0 +1,12 @@
+$prefabs_item_consumable_fishingbait_rarity_01_description»略微增加你钓到罕见和稀有鱼的几率。\n\n维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_rarity_02_description»小幅增加你钓到罕见和稀有鱼的几率。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_rarity_03_description»大幅增加你钓到罕见和稀有鱼的几率。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_rarity_03_daily_description»大幅增加你钓到罕见和稀有鱼的几率。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_speed_01_description»略微增加你钓鱼的速度。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_speed_02_description»小幅增加你钓鱼的速度。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_speed_03_description»大幅增加你钓鱼的速度。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_speed_03_daily_description»大幅增加你钓鱼的速度。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_trophy_01_description»略微增加你钓到战利品鱼的几率。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_trophy_02_description»小幅增加你钓到战利品鱼的几率。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_trophy_03_description»大幅增加你钓到战利品鱼的几率。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。
+$prefabs_item_consumable_fishingbait_trophy_03_daily_description»大幅增加你钓到战利品鱼的几率。\n\维持2小时（玩家在线时长）或鱼饵层数消耗殆尽。

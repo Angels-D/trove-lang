@@ -1,0 +1,36 @@
+$depths_adventure_thread_00_name»在幽影(U12)世界中寻找盐水山姆
+$depths_adventure_thread_00_description»深渊入侵 1/13: 寻宝者深渊生物现在已经出现，我正在和我的船员们探索幽影(U12)世界，深渊生物现在无处不在！你准备好过来帮忙的时候，就到我们的飞船找我们吧！打开地图 [HK:Map] 可以看到我们的飞船。\n\n使用大地图 [HK:Atlas] 你可以在最左边找到幽影(U12)世界。只要有足够的光明和战斗力，你就可以进入并开始在世界上寻找盐水山姆。
+$depths_adventure_thread_01_name»击败来自深渊的居民
+$depths_adventure_thread_01_description»深渊入侵 2/13: 你看到他们了吗?来自深渊的敌人已经占领了幽影(U12)世界中的所有生态群系。我的团队正与克贝斯利—起研究并应对这—威胁，我们需要你的帮助!\n\n现在的首要目标就是，要反击他们!在整个幽影(U12)世界中寻找“深渊生物”，并将其消灭!
+$depths_adventure_thread_02_name»与淡水弗兰交谈
+$depths_adventure_thread_02_description»深渊入侵 3/13: 很好，看来他们并不难对付不是吗？在我专注于战斗策略的时候，淡水弗兰和克贝斯利一直在合作，试图找出更好的方案。她说她需要一些帮助。\n\n和她谈谈，看看她需要些什么，她现在就在我的船上！
+$depths_adventure_thread_03_name»收集深渊植物
+$depths_adventure_thread_03_description»深渊入侵 4/13: 你好，山姆说你也许能帮助我，不仅仅只有深渊中的生物入侵，还有深渊中的植物也在入侵，山姆说这并不重要，但我相信这里面有更多的内幕。\n\n你可以帮我研究深渊入侵的根本原因吗？去收集深渊特有的植物，就在幽影(U12)世界中。\n在幽影(U12)世界中的每个地形都会生长特定的深渊植物。
+$depths_adventure_thread_04_name»完成5星深渊地下城
+$depths_adventure_thread_04_description»深渊入侵 5/13: 你和弗兰的研究完成了吗？很好，不过我们现在有大麻烦了 我们在幽影(U12)世界中遇到了大型5星地下城，里面到处都是深渊生物。\n\n你知道该怎么做的，寻宝者去毁灭他们吧！
+$depths_adventure_thread_05_name»与淡水弗兰交谈
+$depths_adventure_thread_05_description»深渊入侵 6/13: 弗兰说她已经知道是什么造成了这种混乱。请与她联系，了解我们下一步该怎么做。
+$depths_adventure_thread_06_name»获得深度推进器: 深渊
+$depths_adventure_thread_06_description»深渊入侵 7/13: 又见面了！我很高兴你回来了。我目前有一个线索，我们可以与深渊海妖的使者交谈！\n\n他居住在深渊秘境里。你需要一个深度推进器: 深渊，进去后找到他。托马斯乌龟先生会出售这个传送门，但山姆说也可以在他的秘境工作台制作这个传送门。
+$depths_adventure_thread_07_name»寻找深渊海妖的使者
+$depths_adventure_thread_07_description»深渊入侵 8/13: 既然你已经得到了深度推进器: 深渊，就可以与深渊的真正决策者建立联系了。你可以在深渊的深处找到深渊海妖的使者。他就在符文深渊宝箱的旁边。去与使者交流吧！\n\n你需要连续完成3层当前进入的秘境，深渊海妖的使者才会出现。\n\n先去钓以下四条鱼或购买，再做这个任务（可避免在任务9的时候再打3层深渊秘境）。\n- 1个深渊鱿鱼\n- 1个海妖幼体\n- 1个燃火水母\n- 1个风化蝠鱼
+$depths_adventure_thread_08_name»向使者献礼
+$depths_adventure_thread_08_description»深渊入侵 9/13: 礼物？好吧....不过我想我们得玩一个游戏。\n\n至于怎么获得那些鱼，船上的暗流印记商人可能会帮助你，我们来到这里以来，他一直在不停地钓鱼！\n\n使用获得深度推进器: 深渊，找到深渊海妖的使者，并送给他要求的礼物：\n- 1个深渊鱿鱼\n- 1个海妖幼体\n- 1个燃火水母\n- 1个风化蝠鱼
+$depths_adventure_thread_09_name»幽影(U12)世界的地下城中消灭海妖的蛋
+$depths_adventure_thread_09_description»深渊入侵 10/13: 很高兴再次见面，你的献礼看起来有一定的作用，不过深渊目前还在持续不断得继续入侵。弗兰正在研究问题所在，但你和我都有一个新问题要处理。海妖的蛋不断在幽影(U12)世界的地下城中出现——这显然是入侵正在不断升级的标志，我们需要尽快摧毁它们！\n\n为了保证安全，你需要做时使用一些风化符文。
+$depths_adventure_thread_10_name»获取深度推进器: 深渊海妖
+$depths_adventure_thread_10_description»深渊入侵 11/13: 感谢你的努力，现在我们需要从源头上解决这一切了。没错我们是时候打败深渊海妖了，它生活在深渊最深处，传闻深渊海妖的使者和获得深度推进器有某种联系，除此之外我没有其他任何深度推进器: 深渊海妖的信息了。\n\n使用深度推进器: 深渊，进入深渊秘境找到深渊海妖的使者。
+$depths_adventure_thread_11_name»击杀深渊海妖
+$depths_adventure_thread_11_description»深渊入侵 12/13: 放置并使用深度推进器: 深渊海妖，然后进入秘境，找到深渊海妖......并击杀它。
+$depths_adventure_thread_12_name»返回幽影(U12)世界的船上找到盐水山姆
+$depths_adventure_thread_12_description»深渊入侵13/13: 奇迹啊，这对你来说就这就这么简单吗？请回到幽影(U12)世界中，找到我的飞船，我好给你一些奖励！
+$depths_adventure_thread_13_name»与淡水弗兰交谈
+$depths_adventure_thread_13_description»一个伟大的计划 1/5: 弗兰的工作还在继续，一旦你有空了就去和她交谈，她会告诉你现在最新进展。
+$depths_adventure_thread_14_name»收集苔藓石
+$depths_adventure_thread_14_description»一个伟大的计划 2/5: 尽管你们打败了深渊海妖，但入侵的根本原因仍未解决。我现在研究表明，在这么多年以来，寻日者在宝藏世界上的过度捕捞，导致深渊生物严重营养不良。\n\n虽然我不认为我能让暗流印记商人放下他的鱼竿，但你和我还是可以改变现状的......但我们需要一些苔藓石来开始行动！
+$depths_adventure_thread_15_name»制作藓苔海孢子
+$depths_adventure_thread_15_description»一个伟大的计划 3/5: 我们需要帮助宝藏世界的水域重新充满生机。许多低级鱼类以苔藓为食，而苔藓曾经只生长最深的水域。现在，随着深渊生物的增加，这种 “鱼食 ”也开始在浅水区出现。\n\n在船上的盐水山姆深渊工作台制作藓苔海孢子后，将一些孢子扔到任何水体中，帮助深渊生物恢复赖以生存的水生态系统。
+$depths_adventure_thread_16_name»将藓苔海孢子扔进鱼池中
+$depths_adventure_thread_16_description»一个伟大的计划 4/5: 制作完藓苔海孢子后，将一些孢子扔进幽影(U12)水域的鱼池中，帮助恢复深海生物赖以生存的生态系统。你每天都可以制作更多的孢子来推进这个工作。\n\n感谢你做了正确的事情！
+$depths_adventure_thread_17_name»返回淡水弗兰身边
+$depths_adventure_thread_17_description»一个伟大的计划 5/5: 这是伟大的第一步！你给了我解决这个问题的希望。\n我给你一些奖励，请继续为此努力吧！

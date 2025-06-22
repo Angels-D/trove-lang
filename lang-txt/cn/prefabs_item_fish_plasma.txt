@@ -1,0 +1,8 @@
+$prefabs_item_fish_plasma_rare_01_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在蓬丘仙境的普通等离子中垂钓才有几率可以钓到
+$prefabs_item_fish_plasma_rare_02_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在任何世界，高度「高度&lt;55」的普通等离子中垂钓才有几率可以钓到
+$prefabs_item_fish_plasma_rare_03_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在任何世界，高度「111&lt;高度&lt;255」的普通等离子中垂钓才有几率可以钓到
+$prefabs_item_fish_plasma_rare_04_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在任何世界，高度「55&lt;高度&lt;111」的普通等离子中垂钓才有几率可以钓到
+$prefabs_item_fish_plasma_rare_05_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在暗影塔大厅的普通等离子中垂钓才有几率可以钓到
+$prefabs_item_fish_plasma_plasma_swordfish_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在没有其他稀有鱼（等离子）的世界:晶洞地表...等中的普通等离子中垂钓才有几率可以钓到\n或许副本中有等离子呢 - MewsCat
+$prefabs_item_fish_plasma_uncommon_ore_nitro_glitterine_item_desc»罕见的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在晶洞地表的普通等离子中中垂钓才有几率可以钓到\n或许副本中有等离子呢 - MewsCat
+$prefabs_item_fish_plasma_rare_zebrafish_item_desc»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在永冻界中的普通等离子中垂钓才有几率可以钓到\n或许副本中有等离子呢，实在不行就把霓虹城的等离子引流到永冻界吧 - MewsCat

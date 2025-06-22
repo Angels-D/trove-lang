@@ -1,0 +1,5 @@
+$prefabs_loot_equipment_weapon_bow_solarion_beachparty_name»周日酷热之弓(Sun-Day Scorcher Bow)
+$prefabs_loot_equipment_helm_solarion_beachparty_name»Sun-Day Scorcher遮阳板(Sun-Day Scorcher Visor)
+$prefabs_loot_equipment_weapon_bow_adventurer_beachparty_name»沙滩球战士弓箭(Beachball Battler Bow)
+$prefabs_loot_equipment_helm_adventurer_beachparty_name»Beachball Battler棒球帽(Beachball Battler Baseball Cap)
+$prefabs_loot_equipment_weapon_sword_adventurer_beachparty_name»沙滩球格斗者泳池面条(Beachball Battler Pool Noodle)

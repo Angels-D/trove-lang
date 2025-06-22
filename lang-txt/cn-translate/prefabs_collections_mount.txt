@@ -1,0 +1,6 @@
+$prefabs_collections_mount_ball_beachparty_name»菠萝捣碎机(Pineapple Pounder)
+$prefabs_collections_mount_ball_beachparty_description»外面很甜，骑行很狂野！保证留下羽毛和果汁。\n<font color="#cccccc">Sweet on the outside, wild on the ride! Guaranteed to leave feathers and fruit juice.</font>
+$prefabs_collections_mount_carpet_beachparty_name»漂浮派对鳄鱼(Floaty the Party Gator)
+$prefabs_collections_mount_carpet_beachparty_description»充气、不可阻挡，随时准备迎接您的派对。\n<font color="#cccccc">Inflatable, unstoppable, and always ready to crash your party.</font>
+$prefabs_collections_mount_kangaroo_beachparty_name»沙堡践踏者(Sandcastle Stomper)
+$prefabs_collections_mount_kangaroo_beachparty_description»用爱、沙子和一点点混乱建造！\n<font color="#cccccc">Built with love, sand, and just a sprinkle of chaos!</font>

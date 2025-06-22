@@ -1,0 +1,4 @@
+$prefabs_skins_adventurer_beachparty_skinset_name»沙滩球战士(Beachball Battler)
+$prefabs_skins_adventurer_beachparty_skinset_description»一件爆破游侠的服饰。\n<font color="#cccccc">A costume for the Boomeranger.</font>\n\n他手持防晒霜和沙滩球，一次保护海滩的安全。\n<font color="#cccccc">Armed with sunscreen and beachballs, he keeps the beaches safe one splash at a time.</font>
+$prefabs_skins_solarion_beachparty_skinset_name»周日酷热难耐(Sun-Day Scorcher)
+$prefabs_skins_solarion_beachparty_skinset_description»一件曜日射手的服饰。\n<font color="#cccccc">A costume for the Solarion.</font>\n\n当太阳呼唤生病时，这家伙会出现两倍的热量。SPF？从未听说过。\n<font color="#cccccc">When the sun calls in sick, this guy shows up twice as hot. SPF? Never heard of it.</font>

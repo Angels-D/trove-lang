@@ -1,0 +1,3 @@
+$prefabs_collections_fishing_crab_pole_description»能在满是泥泞的水中或巧克力中找到任何鱼。\n\n能够从鱼池中捕捉被深渊影响较小的稀有鱼类。\n\n由主城中钓鱼区的暗流印记商人出售。
+$prefabs_collections_fishing_turtle_pole_description»我喜欢乌龟。乌龟喜欢披萨。不知道为何这样都可以钓鱼。\n\n能够在特定区域捕捉到乌龟。\n\n由托马斯乌龟先生出售。
+$prefabs_collections_fishing_depths_pole_description»尽管暗流印记商人声称，这根钓竿绝对钓不到利维坦。\n\n能够从幽影(U12)世界的水鱼池中钓出被深渊影响较大的稀有鱼类。
