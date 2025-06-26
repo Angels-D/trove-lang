@@ -1,0 +1,6 @@
+$prefabs_item_crafting_events_july_fireworks_panatea_name»阳光明媚的烟花(Sunfest Fireworks)
+$prefabs_item_crafting_events_july_fireworks_panatea_description»由高品质的材料制成，使Sunfest惊人的华丽！\n<font color="#cccccc">Made from high quality material to make Sunfest amazingly flashy!</font>
+$prefabs_item_pinata_birdshadow_item_name»Yaba-Nata Pinata
+$prefabs_item_pinata_birdshadow_item_description»投掷时产生一个Yaba-Nata Pinata。击败它将为投掷它的人和附近的其他7个随机人带来一些神秘装备的材料，以及其他惊喜。\n<font color="#cccccc">Spawns a Yaba-Nata Pinata when thrown. Defeating it will give some materials for Mystic gear, along with other surprises to the person who throws it and 7 other random people nearby.</font>\n\n对于2025年7月期间投掷的每个Yaba-Nata，您都将进入抽奖活动，赢得一个Yabaki，即Cast Shadow！\n<font color="#cccccc">For every Yaba-Nata that is thrown during the Month of July 2025 you will be entered into a drawing to win a Yabaki, the Cast Shadow!</font>\n\n这些pinatas可用于集线器世界。\n<font color="#cccccc">These pinatas can be used in Hub worlds.</font>\n\nYaba-Natas将在Sunfest结束后不久消失，所以一定要使用它们！\n<font color="#cccccc">Yaba-Natas will disappear shortly after the Sunfest ends, so be sure to use them!</font>
+$prefabs_item_useless_scroll_name»褪色滚动(Faded scroll)
+$prefabs_item_useless_scroll_description»完全没用，老实说。\n<font color="#cccccc">Completely useless. Honest.</font>

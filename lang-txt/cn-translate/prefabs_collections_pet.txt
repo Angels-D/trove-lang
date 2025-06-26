@@ -4,3 +4,39 @@ $prefabs_collections_pet_joystick_beachparty_name»冰凉杯(Chilly Cup)
 $prefabs_collections_pet_joystick_beachparty_description»一个被困在酸奶桶里的勇敢的冰棒……他对此很冷静。\n<font color="#cccccc">A brave popsicle trapped in a yogurt tub… and he’s cool with it.</font>
 $prefabs_collections_pet_mimic_beachparty_name»Cakeling纪念馆(Cakeling Commemorator)
 $prefabs_collections_pet_mimic_beachparty_description»每一跳都是庆祝活动，每一步都是荣誉的糖霜。10日快乐，Trove！\n<font color="#cccccc">Every hop is a celebration, every step a frosting-smear of honor. Happy 10th, Trove!</font>
+$prefabs_collections_pet_wheel_gearcrafting_name»回转齿轮(Gyrating Gear)
+$prefabs_collections_pet_wheel_gearcrafting_description»很简单，但太重要了。\n<font color="#cccccc">Simple, but oh so important.</font>
+$prefabs_collections_pet_spidermonkey_shadow_name»蛛形纲影子女王(Shadow Queen of Arachnids)
+$prefabs_collections_pet_spidermonkey_shadow_description»以极大的优雅指挥着可怕的蜘蛛军团。\n<font color="#cccccc">Commands legions of fearsome spiders with utmost grace.</font>
+$prefabs_collections_pet_cat_dino_name»霸王龙(Purranosaurus Rex)
+$prefabs_collections_pet_cat_dino_description»Trove有史以来最凶猛的猫科动物！\n<font color="#cccccc">Fiercest feline to ever roam Trove!</font>
+$prefabs_collections_pet_cube_irradiant_name»辐射骰子(Irradiant Dice)
+$prefabs_collections_pet_cube_irradiant_description»每次都会赢得一场自然的胜利。\n<font color="#cccccc">Rolls a natural win every time.</font>
+$prefabs_collections_pet_cube_ashen_name»Ashen Dice
+$prefabs_collections_pet_cube_ashen_description»每次都会出现严重故障。\n<font color="#cccccc">Rolls a critical fail every time.</font>
+$prefabs_collections_pet_spidermonkey_gem_name»宝石学(Gemologist)
+$prefabs_collections_pet_spidermonkey_gem_description»对每一颗宝石都有一两点了解。\n<font color="#cccccc">Knows a thing or two about every gem.</font>
+$prefabs_collections_pet_trovecube_basic_name»宝库立方体(Trove Cube)
+$prefabs_collections_pet_trovecube_basic_description»很不错，对吧？\n<font color="#cccccc">Pretty neat, right?</font>
+$prefabs_collections_pet_zepperay_kite_amperium_name»安培风筝(Amperium Kite)
+$prefabs_collections_pet_zepperay_kite_amperium_description»一款环保的Amerium监控无人机。\n<font color="#cccccc">An eco-friendly Amerium Surveillance Drone.</font>
+$prefabs_collections_pet_spidermonkey_cursed_name»爬行孢子(Crawly Sporeling)
+$prefabs_collections_pet_spidermonkey_cursed_description»枯萎的孢子从芽苗上爬了上去。倒下水罐，把孢子洗干净。\n<font color="#cccccc">Itsy bitsy sporeling went up the Bunfeed sprout. Down poured the watercan and washed the sporeling out.</font>
+$prefabs_collections_pet_snake_kite_toyblock_name»俏皮风筝(Playful Kite)
+$prefabs_collections_pet_snake_kite_toyblock_description»谁会想到脚踏实地这么有趣！\n<font color="#cccccc">Who would’ve thought that being down-to-earth is so much fun!</font>
+$prefabs_collections_pet_quarble_balefire_name»Balefire Critter
+$prefabs_collections_pet_quarble_balefire_description»不太擅长变色。\n<font color="#cccccc">Not very good at changing colors.</font>
+$prefabs_collections_pet_fae_robot_name»Debblock 2025
+$prefabs_collections_pet_fae_robot_description»任何冒险的完美伴侣。\n<font color="#cccccc">A perfect pal for any adventure.</font>
+$prefabs_collections_pet_duodrak_lunar_name»LUNA & NALA(Luna & Nala)
+$prefabs_collections_pet_duodrak_lunar_description»这对双胞胎是来找麻烦的！\n<font color="#cccccc">The twins are here for some trouble!</font>
+$prefabs_collections_pet_goat_pinata_moontouched_name»The Moontouched of All Time
+$prefabs_collections_pet_goat_pinata_moontouched_description»没有时间或耐心去学习语法。\n<font color="#cccccc">No time or patience for grammar.</font>
+$prefabs_collections_pet_bird_tysorion_name»Tysorion Friend
+$prefabs_collections_pet_bird_tysorion_description»祝愿您在未来的岁月里保持成长、力量和力量！\n<font color="#cccccc">Wishes you growth, strength, and power for years to come!</font>
+$prefabs_collections_pet_bird_panatea_name»Panatea Friend
+$prefabs_collections_pet_bird_panatea_description»祝您在未来的岁月里快乐、幸福、身体健康！\n<font color="#cccccc">Wishes you joy, happines, and good health for years to come!</font>
+$prefabs_collections_pet_bird_carys_name»Carys Friend
+$prefabs_collections_pet_bird_carys_description»祝您在未来的岁月里保持繁荣、稳定和财富！\n<font color="#cccccc">Wishes you prosperity, stability, and wealth for years to come!</font>
+$prefabs_collections_pet_hoppet_tv_name»Twitchy Ten TV
+$prefabs_collections_pet_hoppet_tv_description»此电视始终设置为Channel Trove。\n<font color="#cccccc">This TV is always set to Channel Trove.</font>

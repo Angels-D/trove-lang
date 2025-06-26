@@ -1,0 +1,4 @@
+$prefabs_item_consumable_events_july2025_fireworks_name»烟火(Fireworks!)
+$prefabs_item_consumable_events_july2025_fireworks_description»小心操作。\n<font color="#cccccc">Handle with care.</font>
+$prefabs_item_consumable_events_july2025_light_name»成为光明！(Be the light!)
+$prefabs_item_consumable_events_july2025_light_description»对抗阴影。\n<font color="#cccccc">Fight the shadows.</font>

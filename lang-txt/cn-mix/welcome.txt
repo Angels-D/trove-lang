@@ -142,3 +142,4 @@ $Welcome_luxion_lands_description»通过奢龙的试炼赚得金粉，即可开
 $Welcome_fri_13»13号周五！
 $Welcome_fri_13_subtitle»祝你在13日黑色星期五玩得“惊”兴！这周末来享受加成体验……当心幽灵哦！
 $Welcome_fri_13_description»青竹巨龙礼包已可供购买，前往蓬丘仙境即可挖到竹笋！
+$Event_july2025_description»Sunfest & the Draconic Houses回归！(Sunfest & the Draconic Houses return!)

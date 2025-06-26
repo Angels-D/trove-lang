@@ -318,6 +318,11 @@ $prefabs_placeable_portal_pvp_battleroyal_snowfest_interactive_sign_content»A f
 $prefabs_placeable_portal_luxion_lands_name»Portal: Trials of Luxion
 $prefabs_placeable_portal_luxion_lands_description»Restricted to those with sufficient clout... and Access
 $prefabs_placeable_portal_luxion_lands_interactive_tooltipdescription»Press [HK:Loot] to enter.\nRequires "Luxion's Pact" to access.
+$prefabs_placeable_portal_luxion_lands_05_interactive_tooltiptitle»Trials of Luxion (5)
+$prefabs_placeable_portal_luxion_lands_06_interactive_tooltiptitle»Trials of Luxion (6)
+$prefabs_placeable_portal_luxion_lands_07_interactive_tooltiptitle»Trials of Luxion (7)
+$prefabs_placeable_portal_luxion_lands_08_interactive_tooltiptitle»Trials of Luxion (8)
+$prefabs_placeable_portal_luxion_lands_09_interactive_tooltiptitle»Trials of Luxion (9)
 $prefabs_placeable_portal_luxion_lands_10_interactive_tooltiptitle»Trials of Luxion (10)
 $prefabs_placeable_portal_luxion_lands_11_interactive_tooltiptitle»Trials of Luxion (11)
 $prefabs_placeable_portal_luxion_lands_12_interactive_tooltiptitle»Trials of Luxion (12)

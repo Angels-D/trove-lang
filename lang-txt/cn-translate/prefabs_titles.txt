@@ -1,0 +1,6 @@
+$prefabs_titles_entitlement_community_penguin_king_suffix»,企鹅王(, Penguin King)
+$prefabs_titles_entitlement_fallen_to_rise_again_suffix»，再次崛起(, Fallen to Rise Again)
+$prefabs_titles_entitlement_partner_10_year_birthday_prefix»菲尼克斯伯恩(Phoenixborne)
+$prefabs_titles_dragon_moontouched_name»月光威胁的(of the Moonlight Menace)
+$prefabs_titles_dragon_moontouched_description»龙坩埚季节性推出。需要拥有坐骑：月光危机之灵。\n<font color="#cccccc">Seasonally available at the DRAGON CRUCIBLE. Requires ownership of Mount: Spirit of the Moonlight Menace.</font>
+$prefabs_titles_entitlement_community_twitch_title_true_trovian_suffix», True Trovian

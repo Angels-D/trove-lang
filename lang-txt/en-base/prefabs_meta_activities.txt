@@ -34,3 +34,12 @@ $depths_adventure_thread_16_name»Throw Sea Lichen Spores into WATER FISH POOLS
 $depths_adventure_thread_16_description»A FRANTASTIC PLAN 4/5: After crafting Sea Lichen Spores, throw some into a POOL of FISH in LONG SHADE WATER to help revitalize the ecosystem upon which the denizens of the Depths rely. You can craft additional spores each day to further our work.\n\nThank you, Trovian, for doing the right thing!
 $depths_adventure_thread_17_name»Return to FRAN
 $depths_adventure_thread_17_description»A FRANTASTIC PLAN 5/5: It's a great first step, Trovian! You've given me hope that we can tackle this problem.\nPlease return to me for a little reward, and keep up the good work!
+$adv_daily_panatea_deliver_fireworks_geode_thlan_name»Fireworks for Th'lan
+$adv_daily_panatea_deliver_fireworks_geode_thlan_shortdesc»Deliver some Sunfest Fireworks to Th'lan in the Geode Hub.
+$adv_daily_panatea_deliver_fireworks_geode_thlan_desc»The Geode Hub can be reached using the Atlas [HK:Atlas]. Th'lan can be found in the RELIQUARY RESEARCH CENTER.
+$adv_daily_carys_donate_shards_name»Radiant Donation for House Carys
+$adv_daily_carys_donate_shards_shortdesc»Donate Radiant Shards to a House Carys Quartermaster.
+$adv_daily_carys_donate_shards_desc»Donate Radiant Shards to a House Carys Quartermaster. When facing directly EAST after entering the Hub, three high-rise buildings can be seen. House Carys Quartermasters can be found within the CENTER building."
+$adv_daily_tysorion_gift_cake_rokatan_name»Cake for Rokatan
+$adv_daily_tysorion_gift_cake_rokatan_shortdesc»Give Sunfest Cake! to a Rokatan.
+$adv_daily_tysorion_gift_cake_rokatan_desc»Give Sunfest Cake! to Rokatan. Rokatan can be found in the Delve building, directly WEST of the Hub center.

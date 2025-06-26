@@ -4,3 +4,35 @@ $prefabs_collections_mount_carpet_beachparty_name»漂浮派对鳄鱼(Floaty the
 $prefabs_collections_mount_carpet_beachparty_description»充气、不可阻挡，随时准备迎接您的派对。\n<font color="#cccccc">Inflatable, unstoppable, and always ready to crash your party.</font>
 $prefabs_collections_mount_kangaroo_beachparty_name»沙堡践踏者(Sandcastle Stomper)
 $prefabs_collections_mount_kangaroo_beachparty_description»用爱、沙子和一点点混乱建造！\n<font color="#cccccc">Built with love, sand, and just a sprinkle of chaos!</font>
+$prefabs_collections_mount_ufo_geodeshuttle_name»Geode陀螺仪(Geode Gyroscope)
+$prefabs_collections_mount_ufo_geodeshuttle_description»请始终将胳膊和腿放在车内！\n<font color="#cccccc">Keep your arms and legs inside the vehicle at all times!</font>
+$prefabs_collections_mount_spider_gem_name»Gemry，终极宝石蜘蛛(Gemry, The Ultimate Gem Spider)
+$prefabs_collections_mount_spider_gem_description»所有元素的化身！\n<font color="#cccccc">An avatar of all the elements!</font>
+$prefabs_collections_mount_log_gearcrafting_name»COG集群(Cog Cluster)
+$prefabs_collections_mount_log_gearcrafting_description»一套移动的齿轮，光荣！\n<font color="#cccccc">A set of moving gears, glorious!</font>
+$prefabs_collections_mount_centaur_alpha_name»Alphataur
+$prefabs_collections_mount_centaur_alpha_description»一种神话生物，其起源可以追溯到特洛夫的最早时期！\n<font color="#cccccc">A mythical creature whose origins trace back to the earliest days of Trove!</font>
+$prefabs_collections_mount_mechquad_irradiant_name»辐射履带式(Irradiant Crawler)
+$prefabs_collections_mount_mechquad_irradiant_description»专为穿越灰烬之地和云层而建。\n<font color="#cccccc">Built for traversing both the ashen land and clouds.</font>
+$prefabs_collections_mount_bulldozer_ashen_name»Ashen Quad
+$prefabs_collections_mount_bulldozer_ashen_description»为数不多的能够战胜野生吞噬灰烬者的车辆之一！\n<font color="#cccccc">One of the very few vehicles capable of outrunning a wild Ashen Devourer!</font>
+$prefabs_collections_mount_warhorse_pegasus_radiant_name»黎明毁灭者(Dawn Destrier)
+$prefabs_collections_mount_warhorse_pegasus_radiant_description»对于那些寻求与宇宙深刻联系的人来说，这是一匹完美的骏马。\n<font color="#cccccc">A perfect steed for those seeking a deep connection with the cosmos.</font>
+$prefabs_collections_mount_dragon_flamethrower_name»火焰火烈鸟(Flaming Flaminus)
+$prefabs_collections_mount_dragon_flamethrower_description»让世界着火真是太棒了！\n<font color="#cccccc">It's such a delight to set the world on fire!</font>
+$prefabs_collections_mount_pinata_birdshadow_name»Yaba-nata Pinata
+$prefabs_collections_mount_pinata_birdshadow_description»聪明又淘气。\n<font color="#cccccc">Smart and mischievous.</font>
+$prefabs_collections_mount_cycle_fireworks_name»烟花Firerrari(Firework Firerrari)
+$prefabs_collections_mount_cycle_fireworks_description»以欢快的灯光速度移动！\n<font color="#cccccc">Moves at the speed of cheerful lights!</font>
+$prefabs_collections_mount_centaur_lunar_name»朱利安三世爵士(Sir Julian the Third)
+$prefabs_collections_mount_centaur_lunar_description»月亮祭司的顾问。\n<font color="#cccccc">Advisor to the Priests of the Moon.</font>
+$prefabs_collections_mount_ball_vile_name»卑鄙的史莱姆(Vile Slime)
+$prefabs_collections_mount_ball_vile_description»坐起来不太舒服。\n<font color="#cccccc">Not very comfortable to sit on.</font>
+$prefabs_collections_mount_dragonlong_qbthulhu_name»吞噬者Calgosume(Calgosume the Devourer)
+$prefabs_collections_mount_dragonlong_qbthulhu_description»它看到的任何东西都会变成它的食物，因为它会吃掉太阳女神的光芒所触及的任何东西。\n<font color="#cccccc">Anything it sees becomes its meal, for it consumes anything touched by the light of the Sun Goddess.</font>
+$prefabs_collections_ufo_carousel_name»起飞旋转木马(Take Off Carousel)
+$prefabs_collections_ufo_carousel_description»来回，来回，来回！\n<font color="#cccccc">Round, and round, and up!</font>
+$prefabs_collections_mount_carpet_luxion_lands_name»Venturine签名地毯(Venturine Signatory Rug)
+$prefabs_collections_mount_carpet_luxion_lands_description»普里马卢克斯勋爵最喜欢的图案\n<font color="#cccccc">Lord Primalux's favorite pattern</font>
+$prefabs_collections_mount_dragon_moontouched_name»月光威胁之灵(Spirit of the Moonlight Menace)
+$prefabs_collections_mount_dragon_moontouched_description»像飞蛾一样被火焰吸引到Trove。但愿它永远都在追求。\n<font color="#cccccc">Drawn to Trove like a moth to the flame. May it forever remain in pursuit.</font>\n\n解锁该龙后，将获得一个永久+1最大烧瓶数、+3%暴击伤害和+50魔法发现。\n<font color="#cccccc">Having this Dragon unlocked grants a permanent +1 Max Flasks, +3% Critical Hit Damage, and +50 Magic Find.</font>

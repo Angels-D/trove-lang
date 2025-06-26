@@ -31,3 +31,7 @@ $prefabs_item_consumable_events_january2025_garxade_description»Removes EXHAUST
 $prefabs_item_consumable_events_february2024_heckbug_requirements_failureLoc»Can only be used in Dragonfire Peaks.
 $prefabs_item_consumable_events_february2025_heckbug_name»Amorous Heckbug
 $prefabs_item_consumable_events_february2025_heckbug_description»Single and ready to mingle! This Heckbug is ready to find love in the Dragonfire Peaks!
+$prefabs_item_consumable_events_july2025_fireworks_name»Fireworks!
+$prefabs_item_consumable_events_july2025_fireworks_description»Handle with care.
+$prefabs_item_consumable_events_july2025_light_name»Be the light!
+$prefabs_item_consumable_events_july2025_light_description»Fight the shadows.

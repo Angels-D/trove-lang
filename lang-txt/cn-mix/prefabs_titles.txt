@@ -788,4 +788,10 @@ $prefabs_titles_events_capybara_ybarra_name»伊巴拉
 $prefabs_titles_events_capybara_ybarra_desc»在“失踪的马基蒂洛”活动期间获得。
 $prefabs_titles_dragon_luxion_lands_name»，首席冒险官
 $prefabs_titles_dragon_luxion_lands_description»巨龙坩埚每赛季供应。需获得坐骑：傲奢大人，首席冒险官
+$prefabs_titles_entitlement_community_penguin_king_suffix»,企鹅王(, Penguin King)
+$prefabs_titles_entitlement_fallen_to_rise_again_suffix»，再次崛起(, Fallen to Rise Again)
+$prefabs_titles_entitlement_partner_10_year_birthday_prefix»菲尼克斯伯恩(Phoenixborne)
+$prefabs_titles_dragon_moontouched_name»月光威胁的(of the Moonlight Menace)
+$prefabs_titles_dragon_moontouched_description»龙坩埚季节性推出。需要拥有坐骑：月光危机之灵。\n<font color="#cccccc">Seasonally available at the DRAGON CRUCIBLE. Requires ownership of Mount: Spirit of the Moonlight Menace.</font>
+$prefabs_titles_entitlement_community_twitch_title_true_trovian_suffix», True Trovian
 $prefabs_titles_events_stqubeslick_2024_desc»在圣克贝斯利可庆典2024活动期间获得。

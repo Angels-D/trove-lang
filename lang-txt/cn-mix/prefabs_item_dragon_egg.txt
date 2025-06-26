@@ -196,3 +196,7 @@ $prefabs_item_dragon_egg_dragon_luxion_lands_notrade_fragment_name»奢泰龙蛋
 $prefabs_item_dragon_egg_dragon_luxion_lands_notrade_fragment_description»通过主城的龙台将龙蛋孵化成新生的飞龙！
 $prefabs_item_dragon_egg_dragon_luxion_lands_notrade_name»休眠奢泰龙蛋
 $prefabs_item_dragon_egg_dragon_luxion_lands_notrade_description»通过主城的龙台将龙蛋孵化成新生的飞龙！
+$prefabs_item_dragon_egg_dragon_moontouched_notrade_name»休眠触月龙蛋(Dormant Moontouched Dragon Egg)
+$prefabs_item_dragon_egg_dragon_moontouched_notrade_description»在集线器中使用龙坩埚从蛋中哄取一只新的飞龙！\n<font color="#cccccc">Coax a new flying dragon from the egg using the Dragon Crucible in the Hub!</font>
+$prefabs_item_dragon_egg_dragon_moontouched_notrade_fragment_name»触月龙蛋碎片(Moontouched Dragon Egg Fragment)
+$prefabs_item_dragon_egg_dragon_moontouched_notrade_fragment_description»在集线器中使用龙坩埚从蛋中哄取一只新的飞龙！\n<font color="#cccccc">Coax a new flying dragon from the egg using the Dragon Crucible in the Hub!</font>

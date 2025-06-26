@@ -1,0 +1,4 @@
+$CharSheet_StatMaximum»\n最大值： {0: f0}(Maximum: {0:f0})
+$CharSheet_StatMaximumCapped»\n最大值： <font color='#ff3030'>{0: f0}</font>(Maximum: <font color='#ff3030'>{0:f0}</font>)
+$CharSheet_StatMinimum»\n最小值： {0: f0}(Minimum: {0:f0})
+$CharSheet_StatMinimumCapped»\n最小值： <font color='#ff3030'>{0: f0}</font>(Minimum: <font color='#ff3030'>{0:f0}</font>)

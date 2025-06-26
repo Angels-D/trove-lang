@@ -309,3 +309,4 @@ $Claims_GoldenThread_event_october_2024_cat_witch»Just a little something to re
 $Claims_event_feb2025_12»I stole these from those H.E.C.K. geeks, you can probably find a use for 'em!
 $Claims_event_feb2025_capybara_04»A bunch of other Trovians have been bringing me these coins... You and Marquitillo can probably do something with them!
 $Claims_event_feb2025_capybara_04_title»I can never thank you enough, Trovian. You're one of us, now. You're family!
+$Claims_GoldenThread_event_july»Thanks for helping with Sunfest, Trovian!

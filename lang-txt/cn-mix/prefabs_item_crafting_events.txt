@@ -301,3 +301,15 @@ $prefabs_item_crafting_events_february2025_token_name»H.E.C.K.业力代币
 $prefabs_item_crafting_events_february2025_token_description»象征着为奇异生物救助业力协会做出努力的代币。
 $prefabs_item_crafting_events_february2025_capybara_token_name»橡胶鸭币
 $prefabs_item_crafting_events_february2025_capybara_token_description»采用高质量橡胶制成。它显然是某个古代文化的产物！
+$prefabs_item_crafting_events_july_token_easy_name»Sunfest Spark
+$prefabs_item_crafting_events_july_token_easy_description»在阳光节期间供Qubesly和Dragon Houses使用！\n<font color="#cccccc">Used by Qubesly and the Dragon Houses during Sunfest!</font>\n\n日光节期间通常会在地牢中找到。\n<font color="#cccccc">Found normally in DUNGEONS during Sunfest.</font>
+$prefabs_item_crafting_events_july_token_hard_name»Sunfest纹章(Sunfest Sigil)
+$prefabs_item_crafting_events_july_token_hard_description»浓缩的Sunfest能量微粒。“强大”是一种轻描淡写的说法。\n<font color="#cccccc">A concentrated mote of Sunfest energy. "Powerful" would be an understatement.</font>\n\n由Qubesly和Draconic Houses提供，用于完成Sunfest任务和活动。\n<font color="#cccccc">Given by Qubesly and the Draconic Houses for completing Sunfest quests & activities.</font>
+$prefabs_item_crafting_events_july_somber_essence_name»忧郁精华(Somber Essence)
+$prefabs_item_crafting_events_july_somber_essence_description»比它看起来更重。在圣诞节期间通过暗影入侵者获得。\n<font color="#cccccc">Heavier than it looks. Obtained from Shadowy Invaders during Sunfest.</font>
+$prefabs_item_crafting_events_july_slowburn_fluid_name»Slowburn Fluid
+$prefabs_item_crafting_events_july_slowburn_fluid_description»严格控制Sunfest Pyre的燃烧速率，控制阴影！\n<font color="#cccccc">Strictly controls the burn-rate of the Sunfest Pyre, keeping the Shadows in check!</font>
+$prefabs_item_crafting_events_july_slowburn_fluid_autoconsume_name»将慢燃液添加到Sunfest Pyre(Add Slowburn Fluid to Sunfest Pyre)
+$prefabs_item_crafting_events_july_slowburn_fluid_autoconsume_description»削弱触月威胁，让阳光盛宴得以继续！\n<font color="#cccccc">Weakens the Moontouched Menace, allowing Sunfest to continue!</font>
+$prefabs_item_crafting_events_july_ancient_scroll_name»古卷(Ancient Scroll)
+$prefabs_item_crafting_events_july_ancient_scroll_description»难以辨认的脆弱。\n<font color="#cccccc">Unreadibly fragile.</font>\n……除非你是那种使用激光阅读的机器人……但这可能会让它着火。\n<font color="#cccccc">...unless you're one of those robots that uses lasers to read... but that might just set it on fire.</font>\n\n需要明确的是，Qubesly希望我们特别在Sunfest Pyre和Slowburn Fluid点燃它。\n<font color="#cccccc">Just to be clear, Qubesly would like us to light it on fire very specifically at the Sunfest Pyre along with the Slowburn Fluid.</font>

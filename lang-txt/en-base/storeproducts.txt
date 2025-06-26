@@ -841,7 +841,7 @@ $StoreProduct_item_skin_gunslinger_china_description»A costume for the Gunsling
 $StoreProduct_mount_rocket_drill_name»Rocket Drill
 $StoreProduct_mount_rocket_drill_description»Fly through Club Worlds with the greatest of ease by smashing through everything in your path.\n\n90 Movement Speed\n\nSpecial: Destroy blocks in Club Worlds by ramming into them!
 $StoreProduct_mount_warhorse_bullbuildozer_name»Bovine Buildmaster
-$StoreProduct_mount_warhorse_bullbuildozer_description»Take charge of any building project atop this moo-ster architect.\n\n90 Movement Speed\n\nSpecial: Places a trail of the block type in your active building hotbar slot as it travels while in build mode.  Only works in Club Worlds where you have building permissions.
+$StoreProduct_mount_warhorse_bullbuildozer_description»Take charge of any building project!\n\n90 Movement Speed\n\nSpecial: Places a trail of the blocks in your active building hotbar slot as it travels while in build mode. Capable of placing Color, Natural, Metallic, Glowing, Glass, Textured, LED, Scaffolding, and Mimic blocks. Only works in Club Worlds where you have building permissions.
 $StoreProduct_deal_mount_ball_bundt_name»Mount: Bounding Bundt Cake
 $StoreProduct_deal_mount_ball_bundt_description»The current Blocky Bonus is the Bounding Bundt Cake.  You may be bound for your next destination, but try not to get crumbs everywhere.\n\nWe appreciate you playing Trove!
 $StoreProduct_trove_hearty_party_pack_1_name»Hearty Party Pack 1
@@ -868,6 +868,18 @@ $StoreProduct_asteroid_collection_pack_name»Asteroid Pack
 $StoreProduct_asteroid_collection_pack_description»Get out of this world with this Asteroid Pack!\n\nIncludes:\nAllies: Fancy Neon Fangirl, DJ Asteroid\nMounts: Watchful Spaceguard, Spacey Synthesizer, Dynamic Drumset\n Bard Costume: Asteroid Space Bard
 $StoreProduct_beachparty_collection_pack_name»Summer Beach Bash Pack
 $StoreProduct_beachparty_collection_pack_description»Enjoy a party at the beach with this limited time pack!\n\nIncludes:\nAllies: Grilly the Grillmaster, Chilly Cup, Cakeling Commemorator\nMounts: Pineapple Pounder, Floaty the Party Gator, Sandcastle Stomper\n Solarion Costume: Sun-Day Scorcher, Boomeranger Costume: Beachball Battler
+$StoreProduct_ugcsummer2025_collection_pack_name»Trovian Odyssey Pack
+$StoreProduct_ugcsummer2025_collection_pack_description»Relive all the moments from Trove's past in this limited time pack!\n\nIncludes:\nAllies: Purranosaurus Rex, Irradiant Dice, Ashen Dice, Gemologist\nMounts: Ashen Quad, Dawn Destrier, Flaming Flaminus\n Shadow Hunter costume: Real Dub Shadow, Boomeranger Costume: Gemaranger, Bard Costume: Dr. Bardnik, Fae Trickster Costume: Spring Sakura
+$StoreProduct_item_pinata_yabanata_name»Yaba-Nata Pinata
+$StoreProduct_item_pinata_yabanata_description»Celebrate Trove's 10th year Anniversary with this Yaba-Nata Pinata.\n\nContains Materials for crafting Mystic gear, along with other surprises.\n\nFor every Yaba-Nata that is thrown during the Month of July you will be entered into a drawing to win a Yabaki, the Cast Shadow!\n\nYaba-Natas will disappear shortly after Sunfest ends, so be sure to use them!
+$StoreProduct_item_pinata_yabanata_5pack_name»5 Yaba-Nata Pinatas
+$StoreProduct_item_pinata_yabanata_5pack_description»Celebrate Trove's 10th year Anniversary with this pack of 5 Yaba-Nata Pinatas!\n\nContains Materials for crafting Mystic gear, along with other surprises.\n\nFor every Yaba-Nata that is thrown during the Month of July you will be entered into a drawing to win a Yabaki, the Cast Shadow!\n\nYaba-Natas will disappear shortly after Sunfest ends, so be sure to use them!
+$StoreProduct_item_pinata_yabanata_50pack_name»50 Yaba-Nata Pinatas
+$StoreProduct_item_pinata_yabanata_50pack_description»Celebrate Trove's 10th year Anniversary with this pack of 50 Yaba-Nata Pinatas!\n\nContains Materials for crafting Mystic gear, along with other surprises.\n\nFor every Yaba-Nata that is thrown during the Month of July you will be entered into a drawing to win a Yabaki, the Cast Shadow!\n\nYaba-Natas will disappear shortly after Sunfest ends, so be sure to use them!
+$StoreProduct_item_pinata_yabanata_100pack_name»100 Yaba-Nata Pinatas
+$StoreProduct_item_pinata_yabanata_100pack_description»Celebrate Trove's 10th year Anniversary with this pack of 100 Yaba-Nata Pinatas!\n\nContains Materials for crafting Mystic gear, along with other surprises.\n\nFor every Yaba-Nata that is thrown during the Month of July you will be entered into a drawing to win a Yabaki, the Cast Shadow!\n\nYaba-Natas will disappear shortly after Sunfest ends, so be sure to use them!
+$StoreProduct_deal_trials_special_333_name»Luxion's Dragon Coin Deal!
+$StoreProduct_deal_trials_special_333_description»Luxion has brought a deal for Dragon coins!\nPurchasing this deal gives 333 Dragon Coins!
 $StoreProduct_davinci_collection_pack_name»Creator's Collection
 $StoreProduct_davinci_collection_pack_description»Show off your inventiveness with this look!\n\nIncludes:\nAlly: Creator's Protected Wagon\nMount: Creator's Flying Machine\nBoat: Gallivanting Galleon\nPirate Captain Costume: Cubical Creator
 $StoreProduct_environment_collection_pack_name»Environment Pack

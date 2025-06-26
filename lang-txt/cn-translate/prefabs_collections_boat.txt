@@ -1,0 +1,2 @@
+$prefabs_collections_boat_clipper_marshmallow_name»Ever-Puffed Raft
+$prefabs_collections_boat_clipper_marshmallow_description»比空气还轻！\n<font color="#cccccc">Lighter than air!</font>

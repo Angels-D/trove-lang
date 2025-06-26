@@ -1,0 +1,2 @@
+$prefabs_item_consumable_titles_dragon_moontouched_name»季节称号：触月威胁(Seasonal Title: of the Moontouched Menace)
+$prefabs_item_consumable_titles_dragon_moontouched_description»制作以获得对“触月威胁”称号后缀的限定访问权限。\n<font color="#cccccc">Craft to gain LIMITED access to the 'of the Moontouched Menace' title suffix.</font>\n所有权访问权限在冬季（12月1日）被撤销。\n<font color="#cccccc">Title access is revoked in WINTER (DEC 1st).</font>

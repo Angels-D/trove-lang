@@ -1891,6 +1891,10 @@ $CharSheet_MultiplicativeStatScalingTitle»\nScaled Multiplier Mods:
 $CharSheet_StatScaling»\n- {0}: {1:f0}
 $CharSheet_StatScalingMultiplicative»\n- {0}: {1:f1}%
 $CharSheet_StatAdditive»\n加成: +{0:f1}%
+$CharSheet_StatMaximum»\n最大值： {0: f0}(Maximum: {0:f0})
+$CharSheet_StatMaximumCapped»\n最大值： <font color='#ff3030'>{0: f0}</font>(Maximum: <font color='#ff3030'>{0:f0}</font>)
+$CharSheet_StatMinimum»\n最小值： {0: f0}(Minimum: {0:f0})
+$CharSheet_StatMinimumCapped»\n最小值： <font color='#ff3030'>{0: f0}</font>(Minimum: <font color='#ff3030'>{0:f0}</font>)
 $CharSheet_StatMultiplicative»\n职业倍率: +{0:f1}%
 $CharSheet_StatMultiplicativePatron»\n会员倍率: +{0:f1}%
 $Cornerstones_WinTitle»地基

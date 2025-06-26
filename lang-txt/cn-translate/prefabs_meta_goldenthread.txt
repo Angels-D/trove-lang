@@ -1,0 +1,2 @@
+$Quest_GoldenThread_event_july_00_name»活动： Sunfest(Event: Sunfest)
+$Quest_GoldenThread_event_july_00_description»要进入节日任务线，您必须首先在Qubesly的教程任务线[HK:Activitytracker]中完成“完成一个探索层”！\n<font color="#cccccc">To access the Sunfest Questline, you must first complete "Complete a Delve Floor" in Qubesly's Tutorial Questline [HK:Activitytracker]!</font>

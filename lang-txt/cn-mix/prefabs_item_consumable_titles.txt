@@ -550,3 +550,5 @@ $prefabs_item_consumable_titles_events_capybara_ybarra_name»称号：伊巴拉
 $prefabs_item_consumable_titles_events_capybara_ybarra_description»获得“伊巴拉”称号后缀。
 $prefabs_item_consumable_titles_dragon_luxion_lands_name»赛季头衔：，首席冒险官
 $prefabs_item_consumable_titles_dragon_luxion_lands_description»制作获得“，首席冒险官”称号后缀的限时使用权限。\n\n称号使用权限将于秋季（9月1日）收回。
+$prefabs_item_consumable_titles_dragon_moontouched_name»季节称号：触月威胁(Seasonal Title: of the Moontouched Menace)
+$prefabs_item_consumable_titles_dragon_moontouched_description»制作以获得对“触月威胁”称号后缀的限定访问权限。\n<font color="#cccccc">Craft to gain LIMITED access to the 'of the Moontouched Menace' title suffix.</font>\n所有权访问权限在冬季（12月1日）被撤销。\n<font color="#cccccc">Title access is revoked in WINTER (DEC 1st).</font>

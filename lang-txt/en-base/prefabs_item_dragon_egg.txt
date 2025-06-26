@@ -196,3 +196,7 @@ $prefabs_item_dragon_egg_dragon_luxion_lands_notrade_fragment_name»Luxurious Dr
 $prefabs_item_dragon_egg_dragon_luxion_lands_notrade_fragment_description»Coax a new flying dragon from the egg using the Dragon Crucible in the Hub!
 $prefabs_item_dragon_egg_dragon_luxion_lands_notrade_name»Dormant Luxurious Dragon Egg
 $prefabs_item_dragon_egg_dragon_luxion_lands_notrade_description»Coax a new flying dragon from the egg using the Dragon Crucible in the Hub!
+$prefabs_item_dragon_egg_dragon_moontouched_notrade_name»Dormant Moontouched Dragon Egg
+$prefabs_item_dragon_egg_dragon_moontouched_notrade_description»Coax a new flying dragon from the egg using the Dragon Crucible in the Hub!
+$prefabs_item_dragon_egg_dragon_moontouched_notrade_fragment_name»Moontouched Dragon Egg Fragment
+$prefabs_item_dragon_egg_dragon_moontouched_notrade_fragment_description»Coax a new flying dragon from the egg using the Dragon Crucible in the Hub!

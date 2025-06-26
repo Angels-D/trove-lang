@@ -55,8 +55,11 @@ class Language():
             self.update += 1
             file[key] = value
         else:
-            value = file[key]
-        index = list(file.keys()).index(key)
+            value = file.get(key, '')
+        try:
+            index = list(file.keys()).index(key)
+        except Exception:
+            index = -1
         if (self.showLog or (self.SHOW_UPDATE and update)):
             print(
                 f'{'↑' if update else '+'} {os.path.join(self.path, fileName)} {index}: {key}')

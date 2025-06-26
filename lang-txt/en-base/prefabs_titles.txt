@@ -788,3 +788,9 @@ $prefabs_titles_events_capybara_ybarra_name»Ybarra
 $prefabs_titles_events_capybara_ybarra_desc»Obtained during the 'Marquitillo Missing' event.
 $prefabs_titles_dragon_luxion_lands_name», Chief Venture Official
 $prefabs_titles_dragon_luxion_lands_description»Seasonally available at the DRAGON CRUCIBLE. Requires ownership of Mount: Lord Primalux, Chief Venture Official.
+$prefabs_titles_entitlement_community_penguin_king_suffix», Penguin King
+$prefabs_titles_entitlement_fallen_to_rise_again_suffix», Fallen to Rise Again
+$prefabs_titles_entitlement_partner_10_year_birthday_prefix»Phoenixborne
+$prefabs_titles_dragon_moontouched_name»of the Moonlight Menace
+$prefabs_titles_dragon_moontouched_description»Seasonally available at the DRAGON CRUCIBLE. Requires ownership of Mount: Spirit of the Moonlight Menace.
+$prefabs_titles_entitlement_community_twitch_title_true_trovian_suffix», True Trovian

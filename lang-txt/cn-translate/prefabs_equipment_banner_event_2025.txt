@@ -1,0 +1,6 @@
+$prefabs_equipment_banner_event_2025_july_moontouched_carys_name»Carysian Standard '25
+$prefabs_equipment_banner_event_2025_july_moontouched_carys_description»为了神圣的财富、光辉和……财富！\n<font color="#cccccc">To divine wealth, radiance, and...  ... wealth!</font>
+$prefabs_equipment_banner_event_2025_july_moontouched_panatea_name»Panatean Standard '25
+$prefabs_equipment_banner_event_2025_july_moontouched_panatea_description»烟花很整洁！\n<font color="#cccccc">Fireworks are neat!</font>
+$prefabs_equipment_banner_event_2025_july_moontouched_tysorion_name»Tysorion Standard '25
+$prefabs_equipment_banner_event_2025_july_moontouched_tysorion_description»对新旧……开端……\n<font color="#cccccc">To old and new... beginnings...</font>\n\n还有蛋糕……\n<font color="#cccccc">and to cake...</font>

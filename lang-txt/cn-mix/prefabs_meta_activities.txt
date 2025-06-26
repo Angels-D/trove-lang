@@ -34,3 +34,12 @@ $depths_adventure_thread_16_name»将藓苔海孢子扔进鱼池中
 $depths_adventure_thread_16_description»一个伟大的计划 4/5: 制作完藓苔海孢子后，将一些孢子扔进幽影(U12)水域的鱼池中，帮助恢复深海生物赖以生存的生态系统。你每天都可以制作更多的孢子来推进这个工作。\n\n感谢你做了正确的事情！
 $depths_adventure_thread_17_name»返回淡水弗兰身边
 $depths_adventure_thread_17_description»一个伟大的计划 5/5: 这是伟大的第一步！你给了我解决这个问题的希望。\n我给你一些奖励，请继续为此努力吧！
+$adv_daily_panatea_deliver_fireworks_geode_thlan_name»Th 'lan烟花表演(Fireworks for Th'lan)
+$adv_daily_panatea_deliver_fireworks_geode_thlan_shortdesc»将一些Sunfest烟花送到Geode Hub的Th 'lan。(Deliver some Sunfest Fireworks to Th'lan in the Geode Hub.)
+$adv_daily_panatea_deliver_fireworks_geode_thlan_desc»您可以使用地图集[HK:Atlas]到达Geode Hub。蒂兰可以在文物塔研究中心找到。(The Geode Hub can be reached using the Atlas [HK:Atlas]. Th'lan can be found in the RELIQUARY RESEARCH CENTER.)
+$adv_daily_carys_donate_shards_name»为House Carys提供辐射捐赠(Radiant Donation for House Carys)
+$adv_daily_carys_donate_shards_shortdesc»向House Carys军需官捐赠光辉碎片。(Donate Radiant Shards to a House Carys Quartermaster.)
+$adv_daily_carys_donate_shards_desc»向House Carys军需官捐赠光辉碎片。进入Hub后正对东方，可以看到三栋高层建筑。House Carys Quartermasters可以在中央大楼内找到。”(Donate Radiant Shards to a House Carys Quartermaster. When facing directly EAST after entering the Hub, three high-rise buildings can be seen. House Carys Quartermasters can be found within the CENTER building.")
+$adv_daily_tysorion_gift_cake_rokatan_name»Rokatan蛋糕(Cake for Rokatan)
+$adv_daily_tysorion_gift_cake_rokatan_shortdesc»将Sunfest Cake！赠送给Rokatan。(Give Sunfest Cake! to a Rokatan.)
+$adv_daily_tysorion_gift_cake_rokatan_desc»向Rokatan赠送Sunfest Cake！Rokatan位于枢纽中心以西的Delve大楼内。(Give Sunfest Cake! to Rokatan. Rokatan can be found in the Delve building, directly WEST of the Hub center.)

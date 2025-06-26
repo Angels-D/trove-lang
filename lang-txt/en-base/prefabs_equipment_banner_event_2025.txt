@@ -6,3 +6,9 @@ $prefabs_equipment_banner_event_2025_february_heckbug_helper_description»Helpin
 $prefabs_equipment_banner_event_2025_february_heckbug_hunter_name»Standard of the Heckbug Hunter
 $prefabs_equipment_banner_event_2025_february_heckbug_hunter_description»Keeping worlds like Trove safe from the Heckbug menace!
 $prefabs_equipment_banner_event_2025_february_heckbug_hunter_description_item»Keeping worlds like Trove safe from the Heckbug menace!\nPeriodically removes shiels from nearby Hellbugs in Dragonfire Peaks.\nIncreases drop rate of Heckbug Pincers.
+$prefabs_equipment_banner_event_2025_july_moontouched_carys_name»Carysian Standard '25
+$prefabs_equipment_banner_event_2025_july_moontouched_carys_description»To divine wealth, radiance, and...  ... wealth!
+$prefabs_equipment_banner_event_2025_july_moontouched_panatea_name»Panatean Standard '25
+$prefabs_equipment_banner_event_2025_july_moontouched_panatea_description»Fireworks are neat!
+$prefabs_equipment_banner_event_2025_july_moontouched_tysorion_name»Tysorion Standard '25
+$prefabs_equipment_banner_event_2025_july_moontouched_tysorion_description»To old and new... beginnings...\n\nand to cake...

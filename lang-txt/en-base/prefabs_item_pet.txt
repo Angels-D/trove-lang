@@ -464,3 +464,13 @@ $prefabs_item_pet_fish_depths_random_name»Fresh, Salty Fish Egg
 $prefabs_item_pet_fish_depths_random_description»Unlocks one of the following Depths allies at random\n- Zephyr Flopper\n- Pyric Flopper\n- Abyssal Flopper
 $prefabs_collections_pet_dragonfly_waspider_shadow_item_name»Ally: Waspider Alpha Whelp
 $prefabs_collections_pet_dragonfly_waspider_shadow_item_desc»You know, they're pretty cute when they're on your side.
+$prefabs_item_pet_qubesly_elf_name»Ally: Elfsly
+$prefabs_item_pet_wheel_gymrat_name»Ally: James T. Rat
+$prefabs_item_pet_cat_witch_october2024_name»Ally: Violet
+$prefabs_item_pet_boot_garx_name»Ally: Booterful
+$prefabs_item_pet_bee_september2024_up_name»Ally: Buster the Brazen Buzzer
+$prefabs_item_pet_duodrak_september2024_down_name»Ally: Cross-Eyed Crawler
+$prefabs_item_pet_floateye_lantern_name»Ally: Magic Lantern
+$prefabs_item_pet_griffon_lunaraxolotl_name»Ally: Mothwing Nightlion
+$prefabs_item_pet_qubesly_lasagna_name»Ally: Lasagnasly
+$prefabs_item_pet_unicorn_moonboar_name»Ally: Moonshadow Guardian

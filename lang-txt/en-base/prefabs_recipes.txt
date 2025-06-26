@@ -32,3 +32,4 @@ $prefabs_recipe_item_luxion_lands_access_token_autoconsume_13_requirement_person
 $prefabs_recipe_item_luxion_lands_access_token_autoconsume_14_requirement_personalobjective_failureLoc»You must first complete Trials of Luxion (13).
 $prefabs_recipe_item_luxion_lands_access_token_autoconsume_15_requirement_personalobjective_failureLoc»You must first complete Trials of Luxion (14).
 $prefabs_recipe_item_luxion_lands_access_token_autoconsume_requirement_worldtype_failureLoc»Can only be crafted in the Hub.
+$prefabs_recipe_sunfest_phase2_generic»Can only be crafted once the Draconic Houses have finished preparing for Sunfest (JULY 8).

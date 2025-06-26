@@ -1081,7 +1081,7 @@ $prefabs_collections_mount_carpet_geode_purple_description»Rock stars always ne
 $prefabs_collections_mount_rocket_drill_name»Rocket Drill
 $prefabs_collections_mount_rocket_drill_description»Fly through Club Worlds with the greatest of ease by smashing through everything in your path.
 $prefabs_collections_mount_warhorse_bullbuildozer_name»Bovine Buildmaster
-$prefabs_collections_mount_warhorse_bullbuildozer_description»Take charge of building projects atop this moo-ster architect. Places a trail of the block type in your active building hotbar slot as it travels while in build mode.  Only works in Club Worlds where you have building permissions.
+$prefabs_collections_mount_warhorse_bullbuildozer_description»Take charge of building projects atop this moo-ster architect. Places a trail of the blocks in your active building hotbar slot as it travels while in build mode. Capable of placing Color, Natural, Metallic, Glowing, Glass, Textured, LED, Scaffolding, and Mimic blocks. Only works in Club Worlds where you have building permissions.
 $prefabs_collections_mount_dragon_magmaster_item_name»Valkartzer, Dragon Magrider
 $prefabs_collections_mount_dragon_magmaster_item_description»Ruling the rails for ten thousand years.
 $prefabs_collections_mount_recliner_geode_green_item_name»Peridot Powerseat
@@ -2161,3 +2161,35 @@ $prefabs_collections_mount_carpet_beachparty_name»Floaty the Party Gator
 $prefabs_collections_mount_carpet_beachparty_description»Inflatable, unstoppable, and always ready to crash your party.
 $prefabs_collections_mount_kangaroo_beachparty_name»Sandcastle Stomper
 $prefabs_collections_mount_kangaroo_beachparty_description»Built with love, sand, and just a sprinkle of chaos!
+$prefabs_collections_mount_ufo_geodeshuttle_name»Geode Gyroscope
+$prefabs_collections_mount_ufo_geodeshuttle_description»Keep your arms and legs inside the vehicle at all times!
+$prefabs_collections_mount_spider_gem_name»Gemry, The Ultimate Gem Spider
+$prefabs_collections_mount_spider_gem_description»An avatar of all the elements!
+$prefabs_collections_mount_log_gearcrafting_name»Cog Cluster
+$prefabs_collections_mount_log_gearcrafting_description»A set of moving gears, glorious!
+$prefabs_collections_mount_centaur_alpha_name»Alphataur
+$prefabs_collections_mount_centaur_alpha_description»A mythical creature whose origins trace back to the earliest days of Trove!
+$prefabs_collections_mount_mechquad_irradiant_name»Irradiant Crawler
+$prefabs_collections_mount_mechquad_irradiant_description»Built for traversing both the ashen land and clouds.
+$prefabs_collections_mount_bulldozer_ashen_name»Ashen Quad
+$prefabs_collections_mount_bulldozer_ashen_description»One of the very few vehicles capable of outrunning a wild Ashen Devourer!
+$prefabs_collections_mount_warhorse_pegasus_radiant_name»Dawn Destrier
+$prefabs_collections_mount_warhorse_pegasus_radiant_description»A perfect steed for those seeking a deep connection with the cosmos.
+$prefabs_collections_mount_dragon_flamethrower_name»Flaming Flaminus
+$prefabs_collections_mount_dragon_flamethrower_description»It's such a delight to set the world on fire!
+$prefabs_collections_mount_pinata_birdshadow_name»Yaba-nata Pinata
+$prefabs_collections_mount_pinata_birdshadow_description»Smart and mischievous.
+$prefabs_collections_mount_cycle_fireworks_name»Firework Firerrari
+$prefabs_collections_mount_cycle_fireworks_description»Moves at the speed of cheerful lights!
+$prefabs_collections_mount_centaur_lunar_name»Sir Julian the Third
+$prefabs_collections_mount_centaur_lunar_description»Advisor to the Priests of the Moon.
+$prefabs_collections_mount_ball_vile_name»Vile Slime
+$prefabs_collections_mount_ball_vile_description»Not very comfortable to sit on.
+$prefabs_collections_mount_dragonlong_qbthulhu_name»Calgosume the Devourer
+$prefabs_collections_mount_dragonlong_qbthulhu_description»Anything it sees becomes its meal, for it consumes anything touched by the light of the Sun Goddess.
+$prefabs_collections_ufo_carousel_name»Take Off Carousel
+$prefabs_collections_ufo_carousel_description»Round, and round, and up!
+$prefabs_collections_mount_carpet_luxion_lands_name»Venturine Signatory Rug
+$prefabs_collections_mount_carpet_luxion_lands_description»Lord Primalux's favorite pattern
+$prefabs_collections_mount_dragon_moontouched_name»Spirit of the Moonlight Menace
+$prefabs_collections_mount_dragon_moontouched_description»Drawn to Trove like a moth to the flame. May it forever remain in pursuit.\n\nHaving this Dragon unlocked grants a permanent +1 Max Flasks, +3% Critical Hit Damage, and +50 Magic Find.
