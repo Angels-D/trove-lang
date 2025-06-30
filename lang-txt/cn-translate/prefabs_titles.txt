@@ -1,0 +1,6 @@
+$prefabs_titles_entitlement_community_penguin_king_suffix»，企鹅之王(, Penguin King)
+$prefabs_titles_entitlement_fallen_to_rise_again_suffix»，陨落再起(, Fallen to Rise Again)
+$prefabs_titles_entitlement_partner_10_year_birthday_prefix»菲尼克斯伯恩(Phoenixborne)
+$prefabs_titles_dragon_moontouched_name»，月染煞星(of the Moonlight Menace)
+$prefabs_titles_dragon_moontouched_description»可在龙台制作季节性称号，需要拥有坐骑：月染煞星之灵。\n<font color="#cccccc">Seasonally available at the DRAGON CRUCIBLE. Requires ownership of Mount: Spirit of the Moonlight Menace.</font>
+$prefabs_titles_entitlement_community_twitch_title_true_trovian_suffix»，真正的寻宝者(, True Trovian)

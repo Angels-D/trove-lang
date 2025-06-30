@@ -19,3 +19,5 @@ $prefabs_item_food_events_september2024_down_02_name»Oatmeal & Fruit
 $prefabs_item_food_events_september2024_down_02_description»Nothing keeps you grounded like a healthy breakfast.
 $prefabs_item_food_events_september2024_down_01_name»Healthful Broccoli
 $prefabs_item_food_events_september2024_down_01_description»All denizens of the Ashen Wastes know: health builds strength.
+$prefabs_item_food_july2025_food_cake_name»Sunfest Cake!
+$prefabs_item_food_july2025_food_cake_description»A ponderous slice from the Sunfest Birthday Cake! Packed with fun, joy, and SEVEN kinds of sugar!

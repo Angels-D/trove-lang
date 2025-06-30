@@ -145,3 +145,5 @@ $prefabs_collections_boat_clipper_cake_item_name»Boat: The Baker's Dozen
 $prefabs_collections_boat_clipper_cake_description»Never worry about snacks on the seas again.
 $prefabs_collections_boat_galleon_davinci_item_name»Gallivanting Galleon
 $prefabs_collections_boat_galleon_davinci_item_description»Sinking your enemies by hack-hack-hacking away at them.
+$prefabs_collections_boat_clipper_marshmallow_name»Ever-Puffed Raft
+$prefabs_collections_boat_clipper_marshmallow_description»Lighter than air!

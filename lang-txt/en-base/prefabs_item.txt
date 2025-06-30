@@ -116,3 +116,9 @@ $prefabs_item_pinkzo_bombs_toyblock_name»Pinkzo Patent: Playful Projectile
 $prefabs_item_pinkzo_bombs_toyblock_desc»Ludini and I worked tirelessly to bring you this colorful combustion.\n\nExplodes on impact. Can be used to damage or destroy dungeon blocks. Hold down button to aim.\n\nCan be purchased from Mr. Charles Pinkzo in the Hub near Luxion's platform
 $prefabs_item_pinkzo_bombs_wolves_name»Pinkzo Patent: Q'rsed Q'omb
 $prefabs_item_pinkzo_bombs_wolves_desc»Q'arting q'very q'word q'his q'ay q's q'iresome.\n\nExplodes on impact. Can be used to damage or destroy dungeon blocks. Hold down button to aim.\n\nCan be purchased from Mr. Charles Pinkzo in the Hub near Luxion's platform
+$prefabs_item_crafting_events_july_fireworks_panatea_name»Sunfest Fireworks
+$prefabs_item_crafting_events_july_fireworks_panatea_description»Made from high quality material to make Sunfest amazingly flashy!
+$prefabs_item_pinata_birdshadow_item_name»Yaba-Nata Pinata
+$prefabs_item_pinata_birdshadow_item_description»Spawns a Yaba-Nata Pinata when thrown. Defeating it will give some materials for Mystic gear, along with other surprises to the person who throws it and 7 other random people nearby.\n\nFor every Yaba-Nata that is thrown during the Month of July 2025 you will be entered into a drawing to win a Yabaki, the Cast Shadow!\n\nThese pinatas can be used in Hub worlds.\n\nYaba-Natas will disappear shortly after the Sunfest ends, so be sure to use them!
+$prefabs_item_useless_scroll_name»Faded scroll
+$prefabs_item_useless_scroll_description»Completely useless. Honest.

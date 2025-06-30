@@ -1,0 +1,8 @@
+$prefabs_placeable_deco_trophy_bee_waspider_shadow_item_name»战利品：黄蜂蜘蛛阿尔法(Trophy: Waspider Alpha)
+$prefabs_placeable_deco_trophy_bee_waspider_shadow_display_name»黄蜂蜘蛛阿尔法(Waspider Alpha)
+$prefabs_placeable_deco_trophy_hellbug_pinata_moontouched_name»战利品：月染幻影(Trophy: Moontouched Apparition)
+$prefabs_placeable_deco_trophy_hellbug_pinata_moontouched_display_name»月染幻影(Moontouched Apparition)
+$prefabs_placeable_deco_trophy_pinatagod_moontouched_name»战利品：月染煞星(Trophy: Moontouched Menace)
+$prefabs_placeable_deco_trophy_pinatagod_moontouched_display_name»月染煞星(Moontouched Menace)
+$prefabs_placeable_deco_trophy_pinatahead_moontouched_name»战利品：月染之心(Trophy: Moontouched Mind)
+$prefabs_placeable_deco_trophy_pinatahead_moontouched_display_name»月染之心(Moontouched Mind)

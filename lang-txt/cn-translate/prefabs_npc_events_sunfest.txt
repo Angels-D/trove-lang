@@ -1,0 +1,2 @@
+$prefabs_npc_july_knight_oldtrovian_hub_name»年迈的寻宝骑士(The Old Trovian Knight)
+$prefabs_npc_july_knight_oldtrovian_hub_content»未必明智，按 [HK:Loot] 聊天。(Not necessarily wise. Press [HK:Loot] to chat.)

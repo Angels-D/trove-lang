@@ -1,0 +1,2 @@
+$prefabs_item_consumable_titles_dragon_moontouched_name»季节称号：月染煞星(Seasonal Title: of the Moontouched Menace)
+$prefabs_item_consumable_titles_dragon_moontouched_description»制作获得“月染煞星”称号后缀的限时使用权限。\n<font color="#cccccc">Craft to gain LIMITED access to the 'of the Moontouched Menace' title suffix.</font>\n称号使用权限将于冬季（12月1日）收回。\n<font color="#cccccc">Title access is revoked in WINTER (DEC 1st).</font>

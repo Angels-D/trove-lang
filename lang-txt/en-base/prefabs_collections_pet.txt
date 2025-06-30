@@ -2133,7 +2133,7 @@ $prefabs_collections_pet_wheel_postal_name»Boxy the Post Bot
 $prefabs_collections_pet_wheel_postal_description»Certified delivery in 3... 2... 1... zoom!
 $prefabs_collections_pet_froleek_watermelon_name»Walter Mel John the Watermelon
 $prefabs_collections_pet_froleek_watermelon_description»Your fruity sidekick when the heat gets blazing hot.
-$prefabs_collections_pet_egg_lemonade_name»Limo Nado the Lemondade
+$prefabs_collections_pet_egg_lemonade_name»Limo Nado the Lemonade
 $prefabs_collections_pet_egg_lemonade_description»Always your friend through thick and thin, hot and cold.
 $prefabs_collections_pet_ball_bee_name»Bouncee the Bee
 $prefabs_collections_pet_ball_bee_description»It flies, it just prefers to bounce.
@@ -2145,3 +2145,39 @@ $prefabs_collections_pet_joystick_beachparty_name»Chilly Cup
 $prefabs_collections_pet_joystick_beachparty_description»A brave popsicle trapped in a yogurt tub… and he’s cool with it.
 $prefabs_collections_pet_mimic_beachparty_name»Cakeling Commemorator
 $prefabs_collections_pet_mimic_beachparty_description»Every hop is a celebration, every step a frosting-smear of honor. Happy 10th, Trove!
+$prefabs_collections_pet_wheel_gearcrafting_name»Gyrating Gear
+$prefabs_collections_pet_wheel_gearcrafting_description»Simple, but oh so important.
+$prefabs_collections_pet_spidermonkey_shadow_name»Shadow Queen of Arachnids
+$prefabs_collections_pet_spidermonkey_shadow_description»Commands legions of fearsome spiders with utmost grace.
+$prefabs_collections_pet_cat_dino_name»Purranosaurus Rex
+$prefabs_collections_pet_cat_dino_description»Fiercest feline to ever roam Trove!
+$prefabs_collections_pet_cube_irradiant_name»Irradiant Dice
+$prefabs_collections_pet_cube_irradiant_description»Rolls a natural win every time.
+$prefabs_collections_pet_cube_ashen_name»Ashen Dice
+$prefabs_collections_pet_cube_ashen_description»Rolls a critical fail every time.
+$prefabs_collections_pet_spidermonkey_gem_name»Gemologist
+$prefabs_collections_pet_spidermonkey_gem_description»Knows a thing or two about every gem.
+$prefabs_collections_pet_trovecube_basic_name»Trove Cube
+$prefabs_collections_pet_trovecube_basic_description»Pretty neat, right?
+$prefabs_collections_pet_zepperay_kite_amperium_name»Amperium Kite
+$prefabs_collections_pet_zepperay_kite_amperium_description»An eco-friendly Amerium Surveillance Drone.
+$prefabs_collections_pet_spidermonkey_cursed_name»Crawly Sporeling
+$prefabs_collections_pet_spidermonkey_cursed_description»Itsy bitsy sporeling went up the Bunfeed sprout. Down poured the watercan and washed the sporeling out.
+$prefabs_collections_pet_snake_kite_toyblock_name»Playful Kite
+$prefabs_collections_pet_snake_kite_toyblock_description»Who would’ve thought that being down-to-earth is so much fun!
+$prefabs_collections_pet_quarble_balefire_name»Balefire Critter
+$prefabs_collections_pet_quarble_balefire_description»Not very good at changing colors.
+$prefabs_collections_pet_fae_robot_name»Debblock 2025
+$prefabs_collections_pet_fae_robot_description»A perfect pal for any adventure.
+$prefabs_collections_pet_duodrak_lunar_name»Luna & Nala
+$prefabs_collections_pet_duodrak_lunar_description»The twins are here for some trouble!
+$prefabs_collections_pet_goat_pinata_moontouched_name»The Moontouched of All Time
+$prefabs_collections_pet_goat_pinata_moontouched_description»No time or patience for grammar.
+$prefabs_collections_pet_bird_tysorion_name»Tysorion Friend
+$prefabs_collections_pet_bird_tysorion_description»Wishes you growth, strength, and power for years to come!
+$prefabs_collections_pet_bird_panatea_name»Panatea Friend
+$prefabs_collections_pet_bird_panatea_description»Wishes you joy, happines, and good health for years to come!
+$prefabs_collections_pet_bird_carys_name»Carys Friend
+$prefabs_collections_pet_bird_carys_description»Wishes you prosperity, stability, and wealth for years to come!
+$prefabs_collections_pet_hoppet_tv_name»Twitchy Ten TV
+$prefabs_collections_pet_hoppet_tv_description»This TV is always set to Channel Trove.

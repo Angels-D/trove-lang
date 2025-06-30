@@ -43,3 +43,4 @@ $prefabs_item_wings_crystal_white_description»100移动速度\n100滑翔速度\
 $prefabs_item_wings_glider_gearcrafting_name»双臂齿轮滑翔翼
 $prefabs_item_wings_glider_gearcrafting_description»从重量上来看，它比你想象的要结实。
 $prefabs_item_wings_honeybee_name»飞翼：双蜂飞翼
+$prefabs_item_wings_holly_name»飞翼：超自然冬青

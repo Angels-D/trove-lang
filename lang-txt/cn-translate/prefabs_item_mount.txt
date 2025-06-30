@@ -1,0 +1,10 @@
+$prefabs_collections_mount_pinata_birdshadow_item_name»坐骑: 亚巴纳塔皮纳塔(Mount: Yaba-nata Pinata)
+$prefabs_item_mount_cycle_bench_name»坐骑: 训练轮
+$prefabs_item_mount_blastflower_xmas_name»坐骑: 活力圣诞精灵
+$prefabs_item_mount_foxspirit_xmas_name»坐骑: 落雪霜狼
+$prefabs_item_mount_griffon_turkey_name»坐骑: 大火鸡
+$prefabs_item_mount_iguana_september2024_down_name»坐骑: 顽强的废物漫游者
+$prefabs_item_mount_sugarglider_september2024_up_name»坐骑: 光辉机械滑翔机
+$prefabs_item_mount_llama_nightstag_name»坐骑: 月影雄鹿
+$prefabs_item_mount_rocket_september2024_name»坐骑: 慢速悬浮喷气机
+$prefabs_item_mount_carpet_cauldron_name»坐骑: 悬浮坩埚

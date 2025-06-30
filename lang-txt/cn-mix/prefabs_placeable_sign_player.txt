@@ -19,3 +19,4 @@ $prefabs_placeable_sign_player_note_sign_title»信息
 $prefabs_placeable_sign_player_note_sign_content»按[HK:Loot]输入文本
 $prefabs_placeable_sign_player_trove_sign_title»宝藏世界！
 $prefabs_placeable_sign_player_trove_sign_content»按[HK:Loot]输入文本
+$prefabs_placeable_sign_player_designedby_item_name»按符号设计(Desgined By Sign)

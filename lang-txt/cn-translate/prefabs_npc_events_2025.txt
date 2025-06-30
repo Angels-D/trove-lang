@@ -1,0 +1,4 @@
+$prefabs_npc_events_2025_july_hub_qubesly_sign_title»巡逻员(Patrolsly)
+$prefabs_npc_events_2025_july_hub_qubesly_sign_content»“太阳庆典！哇哦哦哦！”("Sunfest! Wooooo!")\n按 [HK:Loot] 进行互动！(Press [HK:Loot] to interact!)
+$prefabs_npc_events_2025_july_hub_qubesly_crafting_recipecategories_category_0_title»太阳庆典 2025(Sunfest 2025)
+$prefabs_npc_events_2025_july_hub_qubesly_crafting_recipecategories_category_1_title»传统太阳庆典(Legacy Sunfest)

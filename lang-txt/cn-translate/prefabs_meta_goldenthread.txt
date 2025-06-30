@@ -1,0 +1,2 @@
+$Quest_GoldenThread_event_july_00_name»活动：太阳庆典(Event: Sunfest)
+$Quest_GoldenThread_event_july_00_description»要解锁“太阳庆典”任务线，您必须首先在克贝斯利的教程任务线中完成“完成一层秘境”[HK:Activitytracker]！\n<font color="#cccccc">To access the Sunfest Questline, you must first complete "Complete a Delve Floor" in Qubesly's Tutorial Questline [HK:Activitytracker]!</font>

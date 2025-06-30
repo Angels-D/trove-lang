@@ -19,3 +19,5 @@ $prefabs_item_food_events_september2024_down_02_name»燕麦片和水果
 $prefabs_item_food_events_september2024_down_02_description»没有什么比一顿健康的早餐更能让你脚踏实地了。
 $prefabs_item_food_events_september2024_down_01_name»健康花菜
 $prefabs_item_food_events_september2024_down_01_description»所有灰烬荒原的居民都知道：健康能增强力量。
+$prefabs_item_food_july2025_food_cake_name»太阳庆典蛋糕！(Sunfest Cake!)
+$prefabs_item_food_july2025_food_cake_description»来自太阳庆典蛋糕的厚重一块！满载乐趣、欢乐，以及七种糖分的甜蜜！\n<font color="#cccccc">A ponderous slice from the Sunfest Birthday Cake! Packed with fun, joy, and SEVEN kinds of sugar!</font>

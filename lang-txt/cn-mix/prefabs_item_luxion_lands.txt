@@ -1,5 +1,15 @@
 $prefabs_item_luxion_lands_currency_signet_name»金粉钻戒
 $prefabs_item_luxion_lands_currency_signet_description»用于制作奢龙的秘藏的奖励.\n\n"传说打造此道具需耗费一小块灵魂碎片…不过这好像是个谣言，对吧?!"
+$prefabs_item_luxion_lands_access_token_autoconsume_05_name»奢龙的契约(难度5)
+$prefabs_item_luxion_lands_access_token_autoconsume_05_description»获得参加“奢龙的试炼(黄昏)”的资格，仅限当天使用。\n\n\n在试炼中，某些属性存在上限，而且当你死亡时会从背包中扣除一部分已收集和打造的金粉（以及相关物品）。
+$prefabs_item_luxion_lands_access_token_autoconsume_06_name»奢龙的契约(难度6)
+$prefabs_item_luxion_lands_access_token_autoconsume_06_description»获得参加“奢龙的试炼(夜幕)”的资格，仅限当天使用。\n\n\n在试炼中，某些属性存在上限，而且当你死亡时会从背包中扣除一部分已收集和打造的金粉（以及相关物品）。
+$prefabs_item_luxion_lands_access_token_autoconsume_07_name»奢龙的契约(难度7)
+$prefabs_item_luxion_lands_access_token_autoconsume_07_description»获得参加“奢龙的试炼(朔夜)”的资格，仅限当天使用。\n\n\n在试炼中，某些属性存在上限，而且当你死亡时会从背包中扣除一部分已收集和打造的金粉（以及相关物品）。
+$prefabs_item_luxion_lands_access_token_autoconsume_08_name»奢龙的契约(难度8)
+$prefabs_item_luxion_lands_access_token_autoconsume_08_description»获得参加“奢龙的试炼(子夜)”的资格，仅限当天使用。\n\n\n在试炼中，某些属性存在上限，而且当你死亡时会从背包中扣除一部分已收集和打造的金粉（以及相关物品）。
+$prefabs_item_luxion_lands_access_token_autoconsume_09_name»奢龙的契约(难度9)
+$prefabs_item_luxion_lands_access_token_autoconsume_09_description»获得参加“奢龙的试炼(永暮)”的资格，仅限当天使用。\n\n\n在试炼中，某些属性存在上限，而且当你死亡时会从背包中扣除一部分已收集和打造的金粉（以及相关物品）。
 $prefabs_item_luxion_lands_access_token_autoconsume_10_name»奢龙的契约(难度10)
 $prefabs_item_luxion_lands_access_token_autoconsume_10_description»获得参加“奢龙的试炼(黑暗)”的资格，仅限当天使用。\n\n\n在试炼中，某些属性存在上限，而且当你死亡时会从背包中扣除一部分已收集和打造的金粉（以及相关物品）。
 $prefabs_item_luxion_lands_access_token_autoconsume_11_name»奢龙的契约(难度11)

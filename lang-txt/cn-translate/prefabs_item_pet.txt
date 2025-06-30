@@ -1,0 +1,10 @@
+$prefabs_item_pet_qubesly_elf_name»宠物: 艾洛西
+$prefabs_item_pet_wheel_gymrat_name»宠物: 詹姆斯·T·小鼠
+$prefabs_item_pet_cat_witch_october2024_name»宠物: 紫罗兰
+$prefabs_item_pet_boot_garx_name»宠物: 踏风靴
+$prefabs_item_pet_bee_september2024_up_name»宠物: 喧嚣破坏者
+$prefabs_item_pet_duodrak_september2024_down_name»宠物: 斜目爬虫
+$prefabs_item_pet_floateye_lantern_name»宠物: 魔法灯笼
+$prefabs_item_pet_griffon_lunaraxolotl_name»宠物: 蛾翼夜影狮
+$prefabs_item_pet_qubesly_lasagna_name»宠物: 千层面斯利
+$prefabs_item_pet_unicorn_moonboar_name»宠物: 月影守护者

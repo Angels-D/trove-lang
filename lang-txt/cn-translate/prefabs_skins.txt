@@ -1,4 +1,30 @@
 $prefabs_skins_adventurer_beachparty_skinset_name»沙滩球战士(Beachball Battler)
-$prefabs_skins_adventurer_beachparty_skinset_description»一件爆破游侠的服饰。\n<font color="#cccccc">A costume for the Boomeranger.</font>\n\n他手持防晒霜和沙滩球，一次保护海滩的安全。\n<font color="#cccccc">Armed with sunscreen and beachballs, he keeps the beaches safe one splash at a time.</font>
-$prefabs_skins_solarion_beachparty_skinset_name»周日酷热难耐(Sun-Day Scorcher)
-$prefabs_skins_solarion_beachparty_skinset_description»一件曜日射手的服饰。\n<font color="#cccccc">A costume for the Solarion.</font>\n\n当太阳呼唤生病时，这家伙会出现两倍的热量。SPF？从未听说过。\n<font color="#cccccc">When the sun calls in sick, this guy shows up twice as hot. SPF? Never heard of it.</font>
+$prefabs_skins_adventurer_beachparty_skinset_description»一件爆破游侠的服饰。\n<font color="#cccccc">A costume for the Boomeranger.</font>\n\n装备着防晒霜和沙滩球，他一次次击退危险，守护海滩的安全。\n<font color="#cccccc">Armed with sunscreen and beachballs, he keeps the beaches safe one splash at a time.</font>
+$prefabs_skins_solarion_beachparty_skinset_name»周日灼热者(Sun-Day Scorcher)
+$prefabs_skins_solarion_beachparty_skinset_description»一件曜日射手的服饰。\n<font color="#cccccc">A costume for the Solarion.</font>\n\n当太阳请假时，这家伙以双倍的热度现身。防晒霜？从未听说过。\n<font color="#cccccc">When the sun calls in sick, this guy shows up twice as hot. SPF? Never heard of it.</font>
+$prefabs_skins_solarion_darkfae_skinset_name»暗影精灵射手(Dark Fae Fletcher)
+$prefabs_skins_solarion_darkfae_skinset_description»一件曜日射手的服饰。\n<font color="#cccccc">A costume for the Solarion.</font>\n\n精通于与魔法树林中潜伏的阴影融为一体的技艺。\n<font color="#cccccc">Has mastered the art of blending with the shadows that lurk among enchanted trees.</font>
+$prefabs_skins_knight_tabby_skinset_name»友好毛球脸(Friendly Furball)
+$prefabs_skins_knight_tabby_skinset_description»一件骑士的服饰。\n<font color="#cccccc">A costume for the Knight.</font>\n\n狂怒菲奥娜的毛茸茸祖先。喜欢罐装翡翠鱼鳍和壁炉旁的小憩。\n<font color="#cccccc">Fluffy forebear of Furrious Fiona. Likes canned Jadefins and naps by the fireplace.</font>
+$prefabs_skins_bard_frozenviking_skinset_name»颤音亡灵(Warbling Wight King)
+$prefabs_skins_bard_frozenviking_skinset_description»一件吟游诗人的服饰。\n<font color="#cccccc">A costume for the Bard.</font>\n\n有如此表演者在，摇滚乐永不会消亡。\n<font color="#cccccc">With a performer like this, rock'n'roll can never be dead.</font>
+$prefabs_skins_shadowhunter_dubstep_skinset_name»真实暗影(Real Dub Shadow)
+$prefabs_skins_shadowhunter_dubstep_skinset_description»一件暗影猎手的服饰。\n<font color="#cccccc">A costume for the Shadow Hunter.</font>\n\n以超音速向你袭来！\n<font color="#cccccc">Comin' at you at supersonic speed!</font>
+$prefabs_skins_adventurer_gem_skinset_name»宝石游侠(Gemaranger)
+$prefabs_skins_adventurer_gem_skinset_description»一件爆破游侠的服饰。\n<font color="#cccccc">A costume for the Boomeranger.</font>\n\n一位古老的灵魂，守护着力量之幕降临我们世界之前的记忆。\n<font color="#cccccc">An old soul, keeper of memories from before the Mantle of Power fell upon our world.</font>
+$prefabs_skins_bard_darknik_skinset_name»巴德尼克博士(Dr. Bardnik)
+$prefabs_skins_bard_darknik_skinset_description»一件吟游诗人的服饰。\n<font color="#cccccc">A costume for the Bard.</font>\n\n由被击败的无畏战舰和备用世界毁灭者的残骸拼凑而成。\n<font color="#cccccc">Made from the scraps of a defeated Dreadnaught, and a spare Wolrdender.</font>
+$prefabs_skins_faetrickster_redpanda_skinset_name»春日樱花(Spring Sakura)
+$prefabs_skins_faetrickster_redpanda_skinset_description»一件妖精诡术师的服饰。\n<font color="#cccccc">A costume for the Fae Trickster.</font>\n\n伪装自己，融入野生动物的世界！\n<font color="#cccccc">Disguise yourself to fit with wildlife!</font>
+$prefabs_skins_crimefighter_knuckleberry_skinset_name»拳击手鲍勃(Knuckleberry Bob)
+$prefabs_skins_crimefighter_knuckleberry_skinset_description»一件先锋卫士的服饰。\n<font color="#cccccc">A costume for the Vanguardian.</font>\n\n生于后巷，以坚韧为养。为更伟大的事业而战。\n<font color="#cccccc">Born in the back alleys, raised on grit. And fighting for something bigger.</font>
+$prefabs_skins_adventurer_dunenomad_skinset_name»沙丘游牧民族沙丘游牧者(Dune Nomad)
+$prefabs_skins_adventurer_dunenomad_skinset_description»一件爆破游侠的服饰。\n<font color="#cccccc">A costume for the Boomeranger.</font>\n\n疾驰如风，迅猛出击，如风般消逝无踪。\n<font color="#cccccc">Ride fast, strike fast, vanish like the wind.</font>
+$prefabs_skins_spirittank_sancturion_skinset_name»圣骑士(Sir Sancturion)
+$prefabs_skins_spirittank_sancturion_skinset_description»一件无头骑士的服饰。\n<font color="#cccccc">A costume for the Revenant.</font>\n\n当羽翼升起，帝国为之颤抖。\n<font color="#cccccc">When the wings rise, empires tremble.</font>
+$prefabs_skins_icemage_soul_skinset_name»灵魂守卫(Soulfull Speerguard)
+$prefabs_skins_icemage_soul_skinset_description»一件寒冰贤者的服饰。\n<font color="#cccccc">A costume for the Ice Mage.</font>\n\n力量在静默中流淌。\n<font color="#cccccc">Strength flows through silence.</font>
+$prefabs_skins_lunarlancer_savanna_skinset_name»草原之鬃(Mane of the Savanna)
+$prefabs_skins_lunarlancer_savanna_skinset_description»一件银月枪兵的服饰。\n<font color="#cccccc">A costume for the Lunar Lancer.</font>\n\n让草原之狮出击吧！\n<font color="#cccccc">Let the lion of the savanna strike!</font>
+$prefabs_skins_neonninja_spirit_skinset_name»精神战士(Spritual Warrior)
+$prefabs_skins_neonninja_spirit_skinset_description»一件霓虹忍者的服饰。\n<font color="#cccccc">A costume for the Neon Ninja.</font>\n\n一个既致命又美丽的战士阶层。\n<font color="#cccccc">A warrior class as deadly as they are beautiful.</font>

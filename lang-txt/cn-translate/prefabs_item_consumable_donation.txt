@@ -1,0 +1,6 @@
+$prefabs_item_consumable_donation_july_somber_essence_name»捐赠清醒精华(Donate Somber Essence)
+$prefabs_item_consumable_donation_july_somber_essence_description»协助皮纳塔亚家族调查日益严重的暗影威胁，为他们提供大量实验材料！\n<font color="#cccccc">Help House Panatea investigate the rising Shadow threat by giving them bulk material on which to experiment!</font>
+$prefabs_item_consumable_donation_july_golden_soul_name»捐献金魂(Donate Golden Souls)
+$prefabs_item_consumable_donation_july_golden_soul_description»协助卡瑞斯家族对抗日益增长的暗影威胁，捐赠黄魂，助其尝试合成那璀璨之力！\n<font color="#cccccc">Help House Carys combat the rising Shadow threat by donating Golden Souls for them to attempt to synthesize its radiant power!</font>
+$prefabs_item_consumable_donation_july_dark_soul_name»捐赠清醒灵魂(Donate Somber Souls)
+$prefabs_item_consumable_donation_july_dark_soul_description»协助泰索里昂家族对抗暗影势力，捐赠清醒灵魂供他们研究其阴影之力！\n<font color="#cccccc">Help House Tysorion counter the Shadows by donating Somber Souls for them to study its shadowy power!</font>

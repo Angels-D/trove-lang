@@ -1,0 +1,12 @@
+$prefabs_item_crafting_events_july_token_easy_name»太阳庆典火花(Sunfest Spark)
+$prefabs_item_crafting_events_july_token_easy_description»由克贝斯利和龙族世家在太阳庆典期间使用！\n<font color="#cccccc">Used by Qubesly and the Dragon Houses during Sunfest!</font>\n\n日光节期间通常会在地牢中找到。\n<font color="#cccccc">Found normally in DUNGEONS during Sunfest.</font>
+$prefabs_item_crafting_events_july_token_hard_name»太阳庆典印记(Sunfest Sigil)
+$prefabs_item_crafting_events_july_token_hard_description»太阳庆典能量的浓缩微粒。\n<font color="#cccccc">A concentrated mote of Sunfest energy. "Powerful" would be an understatement.</font>\n\n“强大”一词都不足以形容。由克贝斯利和龙族世家为完成太阳庆典任务和活动而赠予。\n<font color="#cccccc">Given by Qubesly and the Draconic Houses for completing Sunfest quests & activities.</font>
+$prefabs_item_crafting_events_july_somber_essence_name»清醒精华(Somber Essence)
+$prefabs_item_crafting_events_july_somber_essence_description»比看起来更重。在太阳庆典期间从暗影入侵者处获得。\n<font color="#cccccc">Heavier than it looks. Obtained from Shadowy Invaders during Sunfest.</font>
+$prefabs_item_crafting_events_july_slowburn_fluid_name»缓燃液(Slowburn Fluid)
+$prefabs_item_crafting_events_july_slowburn_fluid_description»严格控制太阳庆典篝火的燃烧速率，以抑制暗影！\n<font color="#cccccc">Strictly controls the burn-rate of the Sunfest Pyre, keeping the Shadows in check!</font>
+$prefabs_item_crafting_events_july_slowburn_fluid_autoconsume_name»将缓燃液加入太阳庆典篝火(Add Slowburn Fluid to Sunfest Pyre)
+$prefabs_item_crafting_events_july_slowburn_fluid_autoconsume_description»削弱月染煞星，使太阳庆典得以继续！\n<font color="#cccccc">Weakens the Moontouched Menace, allowing Sunfest to continue!</font>
+$prefabs_item_crafting_events_july_ancient_scroll_name»古老卷轴(Ancient Scroll)
+$prefabs_item_crafting_events_july_ancient_scroll_description»难以辨认的脆弱。\n<font color="#cccccc">Unreadibly fragile.</font>\n……除非你是那种用激光阅读的机器人……但这可能会直接把它点燃。\n<font color="#cccccc">...unless you're one of those robots that uses lasers to read... but that might just set it on fire.</font>\n\n明确地说，克贝斯利希望我们非常精确地在太阳庆典篝火上，与缓燃液一起将其点燃。\n<font color="#cccccc">Just to be clear, Qubesly would like us to light it on fire very specifically at the Sunfest Pyre along with the Slowburn Fluid.</font>

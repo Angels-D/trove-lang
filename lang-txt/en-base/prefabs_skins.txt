@@ -845,3 +845,29 @@ $prefabs_skins_adventurer_beachparty_skinset_name»Beachball Battler
 $prefabs_skins_adventurer_beachparty_skinset_description»A costume for the Boomeranger.\n\nArmed with sunscreen and beachballs, he keeps the beaches safe one splash at a time.
 $prefabs_skins_solarion_beachparty_skinset_name»Sun-Day Scorcher
 $prefabs_skins_solarion_beachparty_skinset_description»A costume for the Solarion.\n\nWhen the sun calls in sick, this guy shows up twice as hot. SPF? Never heard of it.
+$prefabs_skins_solarion_darkfae_skinset_name»Dark Fae Fletcher
+$prefabs_skins_solarion_darkfae_skinset_description»A costume for the Solarion.\n\nHas mastered the art of blending with the shadows that lurk among enchanted trees.
+$prefabs_skins_knight_tabby_skinset_name»Friendly Furball
+$prefabs_skins_knight_tabby_skinset_description»A costume for the Knight.\n\nFluffy forebear of Furrious Fiona. Likes canned Jadefins and naps by the fireplace.
+$prefabs_skins_bard_frozenviking_skinset_name»Warbling Wight King
+$prefabs_skins_bard_frozenviking_skinset_description»A costume for the Bard.\n\nWith a performer like this, rock'n'roll can never be dead.
+$prefabs_skins_shadowhunter_dubstep_skinset_name»Real Dub Shadow
+$prefabs_skins_shadowhunter_dubstep_skinset_description»A costume for the Shadow Hunter.\n\nComin' at you at supersonic speed!
+$prefabs_skins_adventurer_gem_skinset_name»Gemaranger
+$prefabs_skins_adventurer_gem_skinset_description»A costume for the Boomeranger.\n\nAn old soul, keeper of memories from before the Mantle of Power fell upon our world.
+$prefabs_skins_bard_darknik_skinset_name»Dr. Bardnik
+$prefabs_skins_bard_darknik_skinset_description»A costume for the Bard.\n\nMade from the scraps of a defeated Dreadnaught, and a spare Wolrdender.
+$prefabs_skins_faetrickster_redpanda_skinset_name»Spring Sakura
+$prefabs_skins_faetrickster_redpanda_skinset_description»A costume for the Fae Trickster.\n\nDisguise yourself to fit with wildlife!
+$prefabs_skins_crimefighter_knuckleberry_skinset_name»Knuckleberry Bob
+$prefabs_skins_crimefighter_knuckleberry_skinset_description»A costume for the Vanguardian.\n\nBorn in the back alleys, raised on grit. And fighting for something bigger.
+$prefabs_skins_adventurer_dunenomad_skinset_name»Dune Nomad
+$prefabs_skins_adventurer_dunenomad_skinset_description»A costume for the Boomeranger.\n\nRide fast, strike fast, vanish like the wind.
+$prefabs_skins_spirittank_sancturion_skinset_name»Sir Sancturion
+$prefabs_skins_spirittank_sancturion_skinset_description»A costume for the Revenant.\n\nWhen the wings rise, empires tremble.
+$prefabs_skins_icemage_soul_skinset_name»Soulfull Speerguard
+$prefabs_skins_icemage_soul_skinset_description»A costume for the Ice Mage.\n\nStrength flows through silence.
+$prefabs_skins_lunarlancer_savanna_skinset_name»Mane of the Savanna
+$prefabs_skins_lunarlancer_savanna_skinset_description»A costume for the Lunar Lancer.\n\nLet the lion of the savanna strike!
+$prefabs_skins_neonninja_spirit_skinset_name»Spritual Warrior
+$prefabs_skins_neonninja_spirit_skinset_description»A costume for the Neon Ninja.\n\nA warrior class as deadly as they are beautiful.

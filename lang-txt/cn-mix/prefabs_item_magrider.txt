@@ -40,3 +40,4 @@ $prefabs_collections_magrider_board_pumpkinpie_name»切片滑块
 $prefabs_collections_magrider_board_pumpkinpie_description»这个派是为了跳舞而做的。
 $prefabs_item_magrider_dance_eggsurprise_item_name»磁悬浮车: 蛋蛋惊喜摇篮
 $prefabs_item_magrider_board_dance_eggsurprise_item_description»打开这个蛋，跳个舞吧。
+$prefabs_item_magrider_dancepad_ring_item_name»磁悬浮车：冠军踏板(Mag Rider: Champ Pad)

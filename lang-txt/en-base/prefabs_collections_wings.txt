@@ -161,3 +161,11 @@ $prefabs_collections_wings_magic_engines_name»Magical Engines
 $prefabs_collections_wings_magic_engines_description»Nobody knows how they work!
 $prefabs_collections_wings_honeybee_name»Twin B-Wings
 $prefabs_collections_wings_honeybee_description»Blessed by bees.
+$prefabs_collections_wings_glider_neonmanta_name»Neon Blight Manta
+$prefabs_collections_wings_glider_neonmanta_description»Watch out!
+$prefabs_collections_wings_glider_tysorion_name»Tysorion Skysail
+$prefabs_collections_wings_glider_tysorion_description»The sky's the limit!\n...unless it's raining. Ew. No.
+$prefabs_collections_wings_glider_panatea_name»Super-Fun Panatean Hangy-Glidy-Thingy™
+$prefabs_collections_wings_glider_panatea_description»Many Panateans agree: it's better than those other Houses' gliders!\n\n* Not a guarantee.
+$prefabs_collections_wings_glider_carys_name»Carysian Windcatcher
+$prefabs_collections_wings_glider_carys_description»

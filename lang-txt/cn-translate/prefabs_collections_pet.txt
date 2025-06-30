@@ -1,6 +1,42 @@
 $prefabs_collections_pet_hermitcrab_beachparty_name»烧烤大师格里利(Grilly the Grillmaster)
-$prefabs_collections_pet_hermitcrab_beachparty_description»把嘶嘶声带到您的夏天！总是激发和翻转的乐趣。\n<font color="#cccccc">Bringing the sizzle to your summer! Always fired up and flipping fun.</font>
+$prefabs_collections_pet_hermitcrab_beachparty_description»为你的夏日带来滋滋美味！永远热情如火，翻转乐趣。\n<font color="#cccccc">Bringing the sizzle to your summer! Always fired up and flipping fun.</font>
 $prefabs_collections_pet_joystick_beachparty_name»冰凉杯(Chilly Cup)
-$prefabs_collections_pet_joystick_beachparty_description»一个被困在酸奶桶里的勇敢的冰棒……他对此很冷静。\n<font color="#cccccc">A brave popsicle trapped in a yogurt tub… and he’s cool with it.</font>
-$prefabs_collections_pet_mimic_beachparty_name»Cakeling纪念馆(Cakeling Commemorator)
-$prefabs_collections_pet_mimic_beachparty_description»每一跳都是庆祝活动，每一步都是荣誉的糖霜。10日快乐，Trove！\n<font color="#cccccc">Every hop is a celebration, every step a frosting-smear of honor. Happy 10th, Trove!</font>
+$prefabs_collections_pet_joystick_beachparty_description»一根勇敢的冰棍被困在酸奶杯里……但它对此毫不在意。  \n<font color="#cccccc">A brave popsicle trapped in a yogurt tub… and he’s cool with it.</font>
+$prefabs_collections_pet_mimic_beachparty_name»蛋糕精灵纪念者(Cakeling Commemorator)
+$prefabs_collections_pet_mimic_beachparty_description»每一次跳跃都是庆祝，每一步都是荣誉的奶油涂抹。宝藏世界，十周年快乐！  \n<font color="#cccccc">Every hop is a celebration, every step a frosting-smear of honor. Happy 10th, Trove!</font>
+$prefabs_collections_pet_wheel_gearcrafting_name»旋转齿轮(Gyrating Gear)
+$prefabs_collections_pet_wheel_gearcrafting_description»简单，却无比重要。\n<font color="#cccccc">Simple, but oh so important.</font>
+$prefabs_collections_pet_spidermonkey_shadow_name»蛛影女王(Shadow Queen of Arachnids)
+$prefabs_collections_pet_spidermonkey_shadow_description»以极致的优雅指挥着令人畏惧的蜘蛛军团。\n<font color="#cccccc">Commands legions of fearsome spiders with utmost grace.</font>
+$prefabs_collections_pet_cat_dino_name»暴龙猫(Purranosaurus Rex)
+$prefabs_collections_pet_cat_dino_description»宝藏世界中最凶猛的猫科动物！\n<font color="#cccccc">Fiercest feline to ever roam Trove!</font>
+$prefabs_collections_pet_cube_irradiant_name»光辉骰子(Irradiant Dice)
+$prefabs_collections_pet_cube_irradiant_description»每次都能掷出自然胜利。\n<font color="#cccccc">Rolls a natural win every time.</font>
+$prefabs_collections_pet_cube_ashen_name»灰烬骰子(Ashen Dice)
+$prefabs_collections_pet_cube_ashen_description»每次都会掷出致命失败。\n<font color="#cccccc">Rolls a critical fail every time.</font>
+$prefabs_collections_pet_spidermonkey_gem_name»宝石学家(Gemologist)
+$prefabs_collections_pet_spidermonkey_gem_description»对每一颗宝石都了如指掌。\n<font color="#cccccc">Knows a thing or two about every gem.</font>
+$prefabs_collections_pet_trovecube_basic_name»宝藏世界立方体(Trove Cube)
+$prefabs_collections_pet_trovecube_basic_description»挺酷的，对吧？\n<font color="#cccccc">Pretty neat, right?</font>
+$prefabs_collections_pet_zepperay_kite_amperium_name»安培风筝(Amperium Kite)
+$prefabs_collections_pet_zepperay_kite_amperium_description»一款环保的安培监视无人机。\n<font color="#cccccc">An eco-friendly Amerium Surveillance Drone.</font>
+$prefabs_collections_pet_spidermonkey_cursed_name»爬行孢子精灵(Crawly Sporeling)
+$prefabs_collections_pet_spidermonkey_cursed_description»小小的孢子精灵爬上了面包藤。水壶倾泻而下，把孢子精灵冲了出来。\n<font color="#cccccc">Itsy bitsy sporeling went up the Bunfeed sprout. Down poured the watercan and washed the sporeling out.</font>
+$prefabs_collections_pet_snake_kite_toyblock_name»顽皮风筝(Playful Kite)
+$prefabs_collections_pet_snake_kite_toyblock_description»谁能想到脚踏实地也能如此有趣！\n<font color="#cccccc">Who would’ve thought that being down-to-earth is so much fun!</font>
+$prefabs_collections_pet_quarble_balefire_name»焰火小兽(Balefire Critter)
+$prefabs_collections_pet_quarble_balefire_description»不太擅长变色。\n<font color="#cccccc">Not very good at changing colors.</font>
+$prefabs_collections_pet_fae_robot_name»德布洛克2025(Debblock 2025)
+$prefabs_collections_pet_fae_robot_description»任何冒险的完美伙伴。\n<font color="#cccccc">A perfect pal for any adventure.</font>
+$prefabs_collections_pet_duodrak_lunar_name»露娜与娜拉(Luna & Nala)
+$prefabs_collections_pet_duodrak_lunar_description»双胞胎来捣乱了！\n<font color="#cccccc">The twins are here for some trouble!</font>
+$prefabs_collections_pet_goat_pinata_moontouched_name»永恒的月触者(The Moontouched of All Time)
+$prefabs_collections_pet_goat_pinata_moontouched_description»没有时间或耐心去纠结语法。 \n<font color="#cccccc">No time or patience for grammar.</font>
+$prefabs_collections_pet_bird_tysorion_name»泰索里昂之友(Tysorion Friend)
+$prefabs_collections_pet_bird_tysorion_description»愿你未来岁月里成长、强大、充满力量！\n<font color="#cccccc">Wishes you growth, strength, and power for years to come!</font>
+$prefabs_collections_pet_bird_panatea_name»皮纳塔亚之友(Panatea Friend)
+$prefabs_collections_pet_bird_panatea_description»愿你未来岁月里充满欢乐、幸福与健康！\n<font color="#cccccc">Wishes you joy, happines, and good health for years to come!</font>
+$prefabs_collections_pet_bird_carys_name»卡瑞斯之友(Carys Friend)
+$prefabs_collections_pet_bird_carys_description»愿你未来岁月里繁荣、稳定、财富满满！\n<font color="#cccccc">Wishes you prosperity, stability, and wealth for years to come!</font>
+$prefabs_collections_pet_hoppet_tv_name»抽搐十号电视(Twitchy Ten TV)
+$prefabs_collections_pet_hoppet_tv_description»这台电视永远锁定在宝藏世界频道。\n<font color="#cccccc">This TV is always set to Channel Trove.</font>

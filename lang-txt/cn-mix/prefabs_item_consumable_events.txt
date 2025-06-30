@@ -31,3 +31,7 @@ $prefabs_item_consumable_events_january2025_garxade_description»提供能量和
 $prefabs_item_consumable_events_february2024_heckbug_requirements_failureLoc»只能在龙火山峰中使用。
 $prefabs_item_consumable_events_february2025_heckbug_name»热情地狱虫
 $prefabs_item_consumable_events_february2025_heckbug_description»一只单身虫士，而且做好了约会的准备！这只地狱虫期待着在龙火山峰中找到自己的真爱！
+$prefabs_item_consumable_events_july2025_fireworks_name»烟花绚烂！(Fireworks!)
+$prefabs_item_consumable_events_july2025_fireworks_description»小心轻放。\n<font color="#cccccc">Handle with care.</font>
+$prefabs_item_consumable_events_july2025_light_name»成为那束光！(Be the light!)
+$prefabs_item_consumable_events_july2025_light_description»驱散黑暗。\n<font color="#cccccc">Fight the shadows.</font>

@@ -161,3 +161,11 @@ $prefabs_collections_wings_magic_engines_name»魔法引擎
 $prefabs_collections_wings_magic_engines_description»没人知道它们的原理！
 $prefabs_collections_wings_honeybee_name»双蜂飞翼
 $prefabs_collections_wings_honeybee_description»受蜂群赐福的飞翼。
+$prefabs_collections_wings_glider_neonmanta_name»霓虹灾祸蝠鲼(Neon Blight Manta)
+$prefabs_collections_wings_glider_neonmanta_description»当心！\n<font color="#cccccc">Watch out!</font>
+$prefabs_collections_wings_glider_tysorion_name»泰索里昂天帆(Tysorion Skysail)
+$prefabs_collections_wings_glider_tysorion_description»天空才是极限！\n<font color="#cccccc">The sky's the limit!</font>\n.……除非下雨。呃，还是算了吧。\n<font color="#cccccc">...unless it's raining. Ew. No.</font>
+$prefabs_collections_wings_glider_panatea_name»超级欢乐的皮纳塔亚悬挂滑翔器™(Super-Fun Panatean Hangy-Glidy-Thingy™)
+$prefabs_collections_wings_glider_panatea_description»许多皮纳塔亚人都认同：它比其他家族的滑翔器更棒！\n<font color="#cccccc">Many Panateans agree: it's better than those other Houses' gliders!</font>\n\n* 并非保证。\n<font color="#cccccc">* Not a guarantee.</font>
+$prefabs_collections_wings_glider_carys_name»笛卡尔捕风者(Carysian Windcatcher)
+$prefabs_collections_wings_glider_carys_description»

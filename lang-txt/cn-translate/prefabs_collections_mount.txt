@@ -1,6 +1,38 @@
-$prefabs_collections_mount_ball_beachparty_name»菠萝捣碎机(Pineapple Pounder)
-$prefabs_collections_mount_ball_beachparty_description»外面很甜，骑行很狂野！保证留下羽毛和果汁。\n<font color="#cccccc">Sweet on the outside, wild on the ride! Guaranteed to leave feathers and fruit juice.</font>
-$prefabs_collections_mount_carpet_beachparty_name»漂浮派对鳄鱼(Floaty the Party Gator)
-$prefabs_collections_mount_carpet_beachparty_description»充气、不可阻挡，随时准备迎接您的派对。\n<font color="#cccccc">Inflatable, unstoppable, and always ready to crash your party.</font>
+$prefabs_collections_mount_ball_beachparty_name»菠萝粉碎者(Pineapple Pounder)
+$prefabs_collections_mount_ball_beachparty_description»外表甜美，内在狂野！保证让你羽毛与果汁齐飞。\n<font color="#cccccc">Sweet on the outside, wild on the ride! Guaranteed to leave feathers and fruit juice.</font>
+$prefabs_collections_mount_carpet_beachparty_name»派对鳄鱼弗洛蒂(Floaty the Party Gator)
+$prefabs_collections_mount_carpet_beachparty_description»充气无敌，随时准备闯入你的派对。\n<font color="#cccccc">Inflatable, unstoppable, and always ready to crash your party.</font>
 $prefabs_collections_mount_kangaroo_beachparty_name»沙堡践踏者(Sandcastle Stomper)
-$prefabs_collections_mount_kangaroo_beachparty_description»用爱、沙子和一点点混乱建造！\n<font color="#cccccc">Built with love, sand, and just a sprinkle of chaos!</font>
+$prefabs_collections_mount_kangaroo_beachparty_description»用爱、沙粒和一丝混乱精心打造！\n<font color="#cccccc">Built with love, sand, and just a sprinkle of chaos!</font>
+$prefabs_collections_mount_ufo_geodeshuttle_name»晶洞陀螺仪(Geode Gyroscope)
+$prefabs_collections_mount_ufo_geodeshuttle_description»请全程将手臂和腿保持在车内！\n<font color="#cccccc">Keep your arms and legs inside the vehicle at all times!</font>
+$prefabs_collections_mount_spider_gem_name»杰姆瑞，终极宝石蜘蛛(Gemry, The Ultimate Gem Spider)
+$prefabs_collections_mount_spider_gem_description»所有元素的化身！\n<font color="#cccccc">An avatar of all the elements!</font>
+$prefabs_collections_mount_log_gearcrafting_name»齿轮串(Cog Cluster)
+$prefabs_collections_mount_log_gearcrafting_description»一组运转的齿轮，壮观无比！\n<font color="#cccccc">A set of moving gears, glorious!</font>
+$prefabs_collections_mount_centaur_alpha_name»阿尔法托利(Alphataur)
+$prefabs_collections_mount_centaur_alpha_description»一种神话生物，其起源可追溯至宝藏世界的最初岁月！\n<font color="#cccccc">A mythical creature whose origins trace back to the earliest days of Trove!</font>
+$prefabs_collections_mount_mechquad_irradiant_name»辐射爬行者(Irradiant Crawler)
+$prefabs_collections_mount_mechquad_irradiant_description»专为穿越灰烬之地与云端而设计。\n<font color="#cccccc">Built for traversing both the ashen land and clouds.</font>
+$prefabs_collections_mount_bulldozer_ashen_name»灰烬四驱车(Ashen Quad)
+$prefabs_collections_mount_bulldozer_ashen_description»极少数能超越野生灰烬吞噬者的载具之一！\n<font color="#cccccc">One of the very few vehicles capable of outrunning a wild Ashen Devourer!</font>
+$prefabs_collections_mount_warhorse_pegasus_radiant_name»黎明战马(Dawn Destrier)
+$prefabs_collections_mount_warhorse_pegasus_radiant_description»寻求与宇宙深度连接者的完美坐骑。\n<font color="#cccccc">A perfect steed for those seeking a deep connection with the cosmos.</font>
+$prefabs_collections_mount_dragon_flamethrower_name»烈焰火烈鸟(Flaming Flaminus)
+$prefabs_collections_mount_dragon_flamethrower_description»点燃世界，乐趣无穷！\n<font color="#cccccc">It's such a delight to set the world on fire!</font>
+$prefabs_collections_mount_pinata_birdshadow_name»亚巴纳塔皮纳塔(Yaba-nata Pinata)
+$prefabs_collections_mount_pinata_birdshadow_description»聪明又调皮。\n<font color="#cccccc">Smart and mischievous.</font>
+$prefabs_collections_mount_cycle_fireworks_name»烟花法拉利(Firework Firerrari)
+$prefabs_collections_mount_cycle_fireworks_description»以欢快之光的速度飞驰！\n<font color="#cccccc">Moves at the speed of cheerful lights!</font>
+$prefabs_collections_mount_centaur_lunar_name»月神祭司顾问朱利安三世(Sir Julian the Third)
+$prefabs_collections_mount_centaur_lunar_description»月神祭司的顾问。\n<font color="#cccccc">Advisor to the Priests of the Moon.</font>
+$prefabs_collections_mount_ball_vile_name»邪恶史莱姆(Vile Slime)
+$prefabs_collections_mount_ball_vile_description»坐上去并不怎么舒服。\n<font color="#cccccc">Not very comfortable to sit on.</font>
+$prefabs_collections_mount_dragonlong_qbthulhu_name»吞噬者卡尔戈苏姆(Calgosume the Devourer)
+$prefabs_collections_mount_dragonlong_qbthulhu_description»凡目之所及，皆为其食，因它吞噬一切被太阳女神之光触及之物。\n<font color="#cccccc">Anything it sees becomes its meal, for it consumes anything touched by the light of the Sun Goddess.</font>
+$prefabs_collections_ufo_carousel_name»起飞旋转木马(Take Off Carousel)
+$prefabs_collections_ufo_carousel_description»芜湖~完美的黄金回旋！\n<font color="#cccccc">Round, and round, and up!</font>
+$prefabs_collections_mount_carpet_luxion_lands_name»冒险者签名地毯(Venturine Signatory Rug)
+$prefabs_collections_mount_carpet_luxion_lands_description»傲奢大人最钟爱的图案。\n<font color="#cccccc">Lord Primalux's favorite pattern</font>
+$prefabs_collections_mount_dragon_moontouched_name»月染煞星之灵(Spirit of the Moonlight Menace)
+$prefabs_collections_mount_dragon_moontouched_description»如飞蛾扑火般被宝藏世界所吸引。愿其永远追寻不息。\n<font color="#cccccc">Drawn to Trove like a moth to the flame. May it forever remain in pursuit.</font>\n\n解锁此龙后，可获得永久+1药瓶上限，+3%暴击伤害，以及+50魔寻率。\n<font color="#cccccc">Having this Dragon unlocked grants a permanent +1 Max Flasks, +3% Critical Hit Damage, and +50 Magic Find.</font>

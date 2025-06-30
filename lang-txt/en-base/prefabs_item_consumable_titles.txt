@@ -550,3 +550,5 @@ $prefabs_item_consumable_titles_events_capybara_ybarra_name»Title: Ybarra
 $prefabs_item_consumable_titles_events_capybara_ybarra_description»Grants the 'Ybarra' title suffix.
 $prefabs_item_consumable_titles_dragon_luxion_lands_name»Seasonal Title: , Chief Venture Official
 $prefabs_item_consumable_titles_dragon_luxion_lands_description»Craft to gain LIMITED access to the ', Chief Venture Official' title suffix.\n\nTitle access is revoked in FALL (SEP 1st).
+$prefabs_item_consumable_titles_dragon_moontouched_name»Seasonal Title: of the Moontouched Menace
+$prefabs_item_consumable_titles_dragon_moontouched_description»Craft to gain LIMITED access to the 'of the Moontouched Menace' title suffix.\nTitle access is revoked in WINTER (DEC 1st).

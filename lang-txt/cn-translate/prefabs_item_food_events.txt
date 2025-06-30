@@ -1,0 +1,2 @@
+$prefabs_item_food_july2025_food_cake_name»太阳庆典蛋糕！(Sunfest Cake!)
+$prefabs_item_food_july2025_food_cake_description»来自太阳庆典蛋糕的厚重一块！满载乐趣、欢乐，以及七种糖分的甜蜜！\n<font color="#cccccc">A ponderous slice from the Sunfest Birthday Cake! Packed with fun, joy, and SEVEN kinds of sugar!</font>

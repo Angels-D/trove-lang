@@ -6,3 +6,9 @@ $prefabs_equipment_banner_event_2025_february_heckbug_helper_description»用暖
 $prefabs_equipment_banner_event_2025_february_heckbug_hunter_name»地狱虫猎手的旗帜
 $prefabs_equipment_banner_event_2025_february_heckbug_hunter_description»保护宝藏世界不受地狱虫的威胁！
 $prefabs_equipment_banner_event_2025_february_heckbug_hunter_description_item»保护宝藏世界不受地狱虫的威胁！\n周期性地移除龙火山峰中附近地狱虫的护盾。\n增加地狱虫螯的掉落率。
+$prefabs_equipment_banner_event_2025_july_moontouched_carys_name»笛卡尔标准版 '25(Carysian Standard '25)
+$prefabs_equipment_banner_event_2025_july_moontouched_carys_description»祈求财富、光辉与……更多财富！\n<font color="#cccccc">To divine wealth, radiance, and...  ... wealth!</font>
+$prefabs_equipment_banner_event_2025_july_moontouched_panatea_name»皮纳塔亚标准版 '25(Panatean Standard '25)
+$prefabs_equipment_banner_event_2025_july_moontouched_panatea_description»烟花真美！\n<font color="#cccccc">Fireworks are neat!</font>
+$prefabs_equipment_banner_event_2025_july_moontouched_tysorion_name»泰索里昂标准版 '25(Tysorion Standard '25)
+$prefabs_equipment_banner_event_2025_july_moontouched_tysorion_description»致旧与新……新的开始……\n<font color="#cccccc">To old and new... beginnings...</font>\n\n还有蛋糕……\n<font color="#cccccc">and to cake...</font>

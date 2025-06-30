@@ -965,3 +965,13 @@ $prefabs_item_mount_wood_snake_newyear_2025_description»Consume to unlock the D
 $prefabs_item_mount_ufo_flying_gym_item_name»Mount: All in One Flying Gym
 $prefabs_collections_mount_dragonserpent_waspider_shadow_item_name»Mounted Waspider Alpha
 $prefabs_collections_mount_dragonserpent_waspider_shadow_desc»Only a strong will can befriend an Alpha.
+$prefabs_collections_mount_pinata_birdshadow_item_name»Mount: Yaba-nata Pinata
+$prefabs_item_mount_cycle_bench_name»Mount: Training Wheels
+$prefabs_item_mount_blastflower_xmas_name»Mount: Living Yule Spirit
+$prefabs_item_mount_foxspirit_xmas_name»Mount: Snowfall Frostwolf
+$prefabs_item_mount_griffon_turkey_name»Mount: The Big Turkey
+$prefabs_item_mount_iguana_september2024_down_name»Mount: Resilient Waste-Wanderer
+$prefabs_item_mount_sugarglider_september2024_up_name»Mount: Irradiant Mechano-Glider
+$prefabs_item_mount_llama_nightstag_name»Mount: Moonshadow Stag
+$prefabs_item_mount_rocket_september2024_name»Mount: Slowpoke Hoverjet
+$prefabs_item_mount_carpet_cauldron_name»Mount: Hovering Cauldron
