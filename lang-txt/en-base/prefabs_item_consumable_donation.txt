@@ -1,58 +1,66 @@
-$prefabs_item_consumable_donation_auto_adventure_complete_club_name=Club Complete
-$prefabs_item_consumable_donation_auto_adventure_complete_club_description=Has a chance to spawn a pinata.
-$prefabs_item_consumable_donation_auto_adventure_complete_geodian_hub_name=Cave Adventure Complete
-$prefabs_item_consumable_donation_auto_adventure_complete_geodian_hub_description=Has a chance to create a reliquary
-$prefabs_item_consumable_donation_auto_adventure_complete_geodian_topside_name=Topside Adventure Complete
-$prefabs_item_consumable_donation_auto_adventure_complete_geodian_topside_description=Has a chance to create a topside cache
-$prefabs_item_consumable_donation_auto_adventure_complete_trovian_name=Trovian Adventure Complete
-$prefabs_item_consumable_donation_auto_adventure_complete_trovian_description=Has a chance to give an adventurine box
-$prefabs_item_consumable_donation_auto_clubit_create_01_name=Created when players  make Clubits
-$prefabs_item_consumable_donation_auto_clubit_create_01_description=Clubit creation has a chance to provide a Club Pinata.
-$prefabs_item_consumable_donation_auto_clubit_create_02_name=Created when players  make Clubits
-$prefabs_item_consumable_donation_auto_clubit_create_02_description=Clubit creation has a chance to provide a Club Pinata.
-$prefabs_item_consumable_donation_auto_geodian_donate_name=Geodian Protection Fund Donation
-$prefabs_item_consumable_donation_auto_geodian_donate_description=Donations to the Geodian Protection Fund help keep Geode safe and have a chance to provide goodies to the donor!
-$prefabs_item_consumable_donation_auto_trovian_donate_name=Trovian Protection Fund Donation
-$prefabs_item_consumable_donation_auto_trovian_donate_description=Donations to the Trovian Protection Fund help keep Trove safe and have a chance to provide goodies to the donor!
-$prefabs_item_consumable_donation_auto_snowfest_donate_name=Troval Cooling Fund Donation
-$prefabs_item_consumable_donation_auto_snowfest_donate_description=Donations to the Troval Cooling Fund help fight Troval Warming and have a chance to provide goodies to the donor!
-$prefabs_item_consumable_donation_auto_delve_donate_name=Donate Inert Geodes
-$prefabs_item_consumable_donation_auto_delve_donate_description=The Sunseekers are researching Inert Geodes! Please donate any extra Inert Geodes you have, thank you!
-$prefabs_item_consumable_donation_auto_snowfest2020_donate_name=Donate Snowflakes
-$prefabs_item_consumable_donation_auto_snowfest2020_donate_description=Donate your excess Snowflakes and Shadowflakes to Qubesly and his friends for a rare chance at a Frosty Treasure Box!
-$prefabs_item_consumable_donation_auto_april2021_donate_name=Donate Chocolate
-$prefabs_item_consumable_donation_auto_april2021_donate_description=Donate your excess chocolate for a chance to receive a Bunfest Token!
-$prefabs_item_consumable_donation_july2021_carys_donate_name=Donate Rayoreum
-$prefabs_item_consumable_donation_july2021_carys_donate_description=Donate Rayoreum back for a slim chance at a CARYSIAN DUCAT!
-$prefabs_item_consumable_donation_july2021_panatea_donate_name=Donate Rayoreum
-$prefabs_item_consumable_donation_july2021_panatea_donate_description=Donate Rayoreum back for a slim chance at a PANATEAN ANTE!
-$prefabs_item_consumable_donation_july2021_tysorion_donate_name=Donate Rayoreum
-$prefabs_item_consumable_donation_july2021_tysorion_donate_description=Donate Rayoreum back for a slim chance at a MARK OF TY!
-$prefabs_item_consumable_donation_auto_snowfest2021_donate_name=Snowfest Donation
-$prefabs_item_consumable_donation_auto_snowfest2021_donate_description=Snowfest is all about giving, so give! Each donation comes with a 'Snowfest 2021 Surprise' and a chance at even a Snowfest 2021 Treasure Box!
-$prefabs_item_consumable_donation_auto_snowfest2021_donate_coin_description=Snowfest is all about giving, so give! Each donation comes with a 'Snowfest 2021 Surprise' plus a Snowfest 2021 Treasure Box
-$prefabs_item_consumable_donation_july2022_chuckp_donate_name=Donate Pinzoin
-$prefabs_item_consumable_donation_july2022_chuckp_donate_description=Donate Pinzoins back for a chance at one of Pinzo's leftover costumes from a previous event.\n\n Warning: Frequently contains Pinzo's useless junk.\n	-Qubesly
-$prefabs_item_consumable_donation_giantlands_lootbox_donation_name=Donate Sundercharge Crystals
-$prefabs_item_consumable_donation_giantlands_lootbox_donation_description=Donate Sundercharge Crystals for a variable amount of Sundered Uplands Caches!
-$prefabs_item_consumable_donation_empowered_lootbox_donation_1_name=Donate Foraged Dragon Egg Fragments
-$prefabs_item_consumable_donation_empowered_lootbox_donation_1_description=Donate Foraged Dragon Egg Fragments for Ashen Caches.
-$prefabs_item_consumable_donation_empowered_lootbox_donation_2_name=Donate Irradiant Dragon Egg Fragments
-$prefabs_item_consumable_donation_empowered_lootbox_donation_2_description=Donate Irradiant Dragon Egg Fragments for Cloudy Caches.
-$prefabs_item_consumable_donation_auto_snowfest2022_donate_description=Snowfest is all about giving, so give! Each donation comes with a 'Snowfest 2022 Corgi Surprise' and a chance at even a Snowfest 2023 Treasure Box!
-$prefabs_item_consumable_donation_auto_snowfest2022_donate_coin_description=Snowfest is all about giving, so give! Each donation comes with a Snowfest 2023 Treasure Box.
-$prefabs_item_consumable_donation_auto_snowfest2022_donate_recipe_description=Snowfest is all about giving, so give! Each donation comes with a Snowfest 2023 Treasure Box.\n\nThis donation does not count toward the SNOWFEST SHARING daily leaderboard.
-$prefabs_item_consumable_donation_fishing_bait_name=Mark of the Anglers Donation - Lures
-$prefabs_item_consumable_donation_fishing_bait_description=Donate Marks of the Angler at the Nautical Assembler for Angler's lures.
-$prefabs_item_consumable_donation_fishing_crafting_name=Mark of the Anglers Donation - Canned Fish
-$prefabs_item_consumable_donation_fishing_crafting_description=Donate Marks of the Angler at the Nautical Assembler for Premium Canned Fish.
-$prefabs_item_consumable_donation_fishing_liquids_name=Mark of the Anglers Donation - Turtle Shells
-$prefabs_item_consumable_donation_fishing_liquids_description=Donate Marks of the Angler at the Nautical Assembler for Turtle Shells.
-$prefabs_item_consumable_donation_fish_paste_common_donation_name=Basic Canned Fish Donation - Marks of the angler
-$prefabs_item_consumable_donation_fish_paste_common_donation_description=Donate Basic Canned Fish at the Nautical Assembler for Marks of the Angler.
-$prefabs_item_consumable_donation_march2024_snake_name=Send Lucksnakes
-$prefabs_item_consumable_donation_march2024_snake_description=Send Lucksnakes to Sir O'Lucky.\n\nHas a chance to reward a Fragment of Luck.
-$prefabs_item_consumable_donation_stqubeslick_2022_name=Send Sir O'Lucky's Coins
-$prefabs_item_consumable_donation_stqubeslick_2022_description=Return some of Sir O'Lucky's Coins Sir O'Lucky.\n\nHas a chance to reward a Fragment of Luck.
-$prefabs_item_consumable_donation_march2021_luckbeast_name=Send Luckbeast Haunches
-$prefabs_item_consumable_donation_march2021_luckbeast_description=Send Luckbeast Haunches to Sir O'Lucky.\n\nHas a chance to reward a Fragment of Luck.
+$prefabs_item_consumable_donation_auto_adventure_complete_club_name»Club Complete
+$prefabs_item_consumable_donation_auto_adventure_complete_club_description»Has a chance to spawn a pinata.
+$prefabs_item_consumable_donation_auto_adventure_complete_geodian_hub_name»Cave Adventure Complete
+$prefabs_item_consumable_donation_auto_adventure_complete_geodian_hub_description»Has a chance to create a reliquary
+$prefabs_item_consumable_donation_auto_adventure_complete_geodian_topside_name»Topside Adventure Complete
+$prefabs_item_consumable_donation_auto_adventure_complete_geodian_topside_description»Has a chance to create a topside cache
+$prefabs_item_consumable_donation_auto_adventure_complete_trovian_name»Trovian Adventure Complete
+$prefabs_item_consumable_donation_auto_adventure_complete_trovian_description»Has a chance to give an adventurine box
+$prefabs_item_consumable_donation_auto_clubit_create_01_name»Created when players  make Clubits
+$prefabs_item_consumable_donation_auto_clubit_create_01_description»Clubit creation has a chance to provide a Club Pinata.
+$prefabs_item_consumable_donation_auto_clubit_create_02_name»Created when players  make Clubits
+$prefabs_item_consumable_donation_auto_clubit_create_02_description»Clubit creation has a chance to provide a Club Pinata.
+$prefabs_item_consumable_donation_auto_geodian_donate_name»Geodian Protection Fund Donation
+$prefabs_item_consumable_donation_auto_geodian_donate_description»Donations to the Geodian Protection Fund help keep Geode safe and have a chance to provide goodies to the donor!
+$prefabs_item_consumable_donation_auto_trovian_donate_name»Trovian Protection Fund Donation
+$prefabs_item_consumable_donation_auto_trovian_donate_description»Donations to the Trovian Protection Fund help keep Trove safe and have a chance to provide goodies to the donor!
+$prefabs_item_consumable_donation_auto_snowfest_donate_name»Troval Cooling Fund Donation
+$prefabs_item_consumable_donation_auto_snowfest_donate_description»Donations to the Troval Cooling Fund help fight Troval Warming and have a chance to provide goodies to the donor!
+$prefabs_item_consumable_donation_auto_delve_donate_name»Donate Inert Geodes
+$prefabs_item_consumable_donation_auto_delve_donate_description»The Sunseekers are researching Inert Geodes! Please donate any extra Inert Geodes you have, thank you!
+$prefabs_item_consumable_donation_auto_snowfest2020_donate_name»Donate Snowflakes
+$prefabs_item_consumable_donation_auto_snowfest2020_donate_description»Donate your excess Snowflakes and Shadowflakes to Qubesly and his friends for a rare chance at a Frosty Treasure Box!
+$prefabs_item_consumable_donation_auto_april2021_donate_name»Donate Chocolate
+$prefabs_item_consumable_donation_auto_april2021_donate_description»Donate your excess chocolate for a chance to receive a Bunfest Token!
+$prefabs_item_consumable_donation_july2021_carys_donate_name»Donate Rayoreum
+$prefabs_item_consumable_donation_july2021_carys_donate_description»Donate Rayoreum back for a slim chance at a CARYSIAN DUCAT!
+$prefabs_item_consumable_donation_july2021_panatea_donate_name»Donate Rayoreum
+$prefabs_item_consumable_donation_july2021_panatea_donate_description»Donate Rayoreum back for a slim chance at a PANATEAN ANTE!
+$prefabs_item_consumable_donation_july2021_tysorion_donate_name»Donate Rayoreum
+$prefabs_item_consumable_donation_july2021_tysorion_donate_description»Donate Rayoreum back for a slim chance at a MARK OF TY!
+$prefabs_item_consumable_donation_auto_snowfest2021_donate_name»Snowfest Donation
+$prefabs_item_consumable_donation_auto_snowfest2021_donate_description»Snowfest is all about giving, so give! Each donation comes with a 'Snowfest 2021 Surprise' and a chance at even a Snowfest 2021 Treasure Box!
+$prefabs_item_consumable_donation_auto_snowfest2021_donate_coin_description»Snowfest is all about giving, so give! Each donation comes with a 'Snowfest 2021 Surprise' plus a Snowfest 2021 Treasure Box
+$prefabs_item_consumable_donation_july2022_chuckp_donate_name»Donate Pinzoin
+$prefabs_item_consumable_donation_july2022_chuckp_donate_description»Donate Pinzoins back for a chance at one of Pinzo's leftover costumes from a previous event.\n\n Warning: Frequently contains Pinzo's useless junk.\n	-Qubesly
+$prefabs_item_consumable_donation_giantlands_lootbox_donation_name»Donate Sundercharge Crystals
+$prefabs_item_consumable_donation_giantlands_lootbox_donation_description»Donate Sundercharge Crystals for a variable amount of Sundered Uplands Caches!
+$prefabs_item_consumable_donation_empowered_lootbox_donation_1_name»Donate Foraged Dragon Egg Fragments
+$prefabs_item_consumable_donation_empowered_lootbox_donation_1_description»Donate Foraged Dragon Egg Fragments for Ashen Caches.
+$prefabs_item_consumable_donation_empowered_lootbox_donation_2_name»Donate Irradiant Dragon Egg Fragments
+$prefabs_item_consumable_donation_empowered_lootbox_donation_2_description»Donate Irradiant Dragon Egg Fragments for Cloudy Caches.
+$prefabs_item_consumable_donation_auto_snowfest2022_donate_description»Snowfest is all about giving, so give! Each donation comes with a 'Snowfest 2022 Corgi Surprise' and a chance at even a Snowfest 2023 Treasure Box!
+$prefabs_item_consumable_donation_auto_snowfest2022_donate_coin_description»Snowfest is all about giving, so give! Each donation comes with a Snowfest 2023 Treasure Box.
+$prefabs_item_consumable_donation_auto_snowfest2022_donate_recipe_description»Snowfest is all about giving, so give! Each donation comes with a Snowfest 2023 Treasure Box.\n\nThis donation does not count toward the SNOWFEST SHARING daily leaderboard.
+$prefabs_item_consumable_donation_fishing_bait_name»Mark of the Anglers Donation - Lures
+$prefabs_item_consumable_donation_fishing_bait_description»Donate Marks of the Angler at the Nautical Assembler for Angler's lures.
+$prefabs_item_consumable_donation_fishing_crafting_name»Mark of the Anglers Donation - Canned Fish
+$prefabs_item_consumable_donation_fishing_crafting_description»Donate Marks of the Angler at the Nautical Assembler for Premium Canned Fish.
+$prefabs_item_consumable_donation_fishing_liquids_name»Mark of the Anglers Donation - Turtle Shells
+$prefabs_item_consumable_donation_fishing_liquids_description»Donate Marks of the Angler at the Nautical Assembler for Turtle Shells.
+$prefabs_item_consumable_donation_fish_paste_common_donation_name»Basic Canned Fish Donation - Marks of the angler
+$prefabs_item_consumable_donation_fish_paste_common_donation_description»Donate Basic Canned Fish at the Nautical Assembler for Marks of the Angler.
+$prefabs_item_consumable_donation_march2024_snake_name»Send Lucksnakes
+$prefabs_item_consumable_donation_march2024_snake_description»Send Lucksnakes to Sir O'Lucky.\n\nHas a chance to reward a Fragment of Luck.
+$prefabs_item_consumable_donation_stqubeslick_2022_name»Send Sir O'Lucky's Coins
+$prefabs_item_consumable_donation_stqubeslick_2022_description»Return some of Sir O'Lucky's Coins Sir O'Lucky.\n\nHas a chance to reward a Fragment of Luck.
+$prefabs_item_consumable_donation_march2021_luckbeast_name»Send Luckbeast Haunches
+$prefabs_item_consumable_donation_march2021_luckbeast_description»Send Luckbeast Haunches to Sir O'Lucky.\n\nHas a chance to reward a Fragment of Luck.
+$prefabs_item_consumable_donation_july2024_feedme_name»FEED ME
+$prefabs_item_consumable_donation_july2024_feedme_description»FEEEEEEEEEED MEEEEEEEEEEEEEEEEEEEE
+$prefabs_item_consumable_donation_july_somber_essence_name»Donate Somber Essence
+$prefabs_item_consumable_donation_july_somber_essence_description»Help House Panatea investigate the rising Shadow threat by giving them bulk material on which to experiment!
+$prefabs_item_consumable_donation_july_golden_soul_name»Donate Golden Souls
+$prefabs_item_consumable_donation_july_golden_soul_description»Help House Carys combat the rising Shadow threat by donating Golden Souls for them to attempt to synthesize its radiant power!
+$prefabs_item_consumable_donation_july_dark_soul_name»Donate Somber Souls
+$prefabs_item_consumable_donation_july_dark_soul_description»Help House Tysorion counter the Shadows by donating Somber Souls for them to study its shadowy power!

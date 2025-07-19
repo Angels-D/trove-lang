@@ -1,0 +1,7 @@
+$prefabs_npc_depths_merchant_adventureworld_sign_title»托马斯乌龟先生
+$prefabs_npc_depths_merchant_adventureworld_sign_content»按 [HK:Loot] 浏览他的商品
+$prefabs_npc_depths_outpost_saltwater_speech»看起来托马斯乌龟先生早餐吃了太多的燃火精华了......
+$prefabs_npc_depths_outpost_spirit_tank_speech»有了这个宝贝，我觉得我可以钓起一条利维坦...
+$prefabs_npc_depths_outpost_ice_mage_speech»我本以为这个 "法杖 "会赋予我神奇的力量，但它只是让我的腹部鳞片发生了变异。
+$prefabs_npc_depths_outpost_spirit_tank_sign_title»暗流印记商人
+$prefabs_npc_depths_outpost_spirit_tank_sign_content»钓到一个幸运儿！

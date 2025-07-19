@@ -1,0 +1,130 @@
+$runecrafting.progression_name»符文铁砧
+$runecrafting.progression_description»符文制作师可以通过激活符文来解开符文内隐藏的知识。\n\n最多可以升级两个完整的符文知识。
+$runecrafting.progression_details»选择一个节点开始，或者你可以在下面重置你的符文升级。
+$runecrafting.stone_rune_name»符文制作师
+$runecrafting.stone_rune_description»符文制作师必须完全解锁这个符文，才可以学习其他的符文分支。
+$runecrafting.stone_node_details»这是所有符文制作师在进阶的道路上必须学习的第一个符文。
+$runecrafting.stone_node_1_name»决心
+$runecrafting.stone_node_1_description»解锁深渊雕刻师（300技能）牢固符文的效果，让符文师在1小时内防止符文破碎。
+$runecrafting.stone_node_1_details»破碎后以便重新制作。
+$runecrafting.stone_node_2_name»感知
+$runecrafting.stone_node_2_description»可以从深渊冒险世界中的生物身上找到符文碎片。
+$runecrafting.stone_node_2_details»时刻都要保持警惕。
+$runecrafting.stone_node_3_name»易碎符文 I
+$runecrafting.stone_node_3_description»将破碎符文获得的硬化符文增益的持续时间从 60 秒降低到 53 秒。
+$runecrafting.stone_node_3_details»每一条裂缝都揭示了真理。
+$runecrafting.stone_node_4_name»探索
+$runecrafting.stone_node_4_description»矿石符文现在有额外几率获得矿工的财宝，另外在开采深渊石矿、苔藓石矿或符文石矿厚块时还有几率获得符文封存宝箱。
+$runecrafting.stone_node_4_details»深渊中竟然有这么多的宝藏......
+$runecrafting.stone_node_5_name»易碎符文 II
+$runecrafting.stone_node_5_description»将破碎符文获得的硬化符文增益的持续时间从 53 秒降低到 46 秒。
+$runecrafting.stone_node_5_details»裂缝揭示了隐藏在下面的东西。
+$runecrafting.stone_node_6_name»虔诚
+$runecrafting.stone_node_6_description»防御符文和波纹符文的持续时间加倍。
+$runecrafting.stone_node_6_details»许多人都在崇拜深渊领主，希望得到救赎。
+$runecrafting.stone_node_7_name»易碎符文 III
+$runecrafting.stone_node_7_description»将破碎符文获得的硬化符文增益的持续时间从 46 秒降低到 40 秒。
+$runecrafting.stone_node_7_details»要警惕深渊中的真理，知识会腐蚀人。
+$runecrafting.stone_node_8_name»重复
+$runecrafting.stone_node_8_description»闪耀符文有 5% 的几率触发额外时间。
+$runecrafting.stone_node_8_details»深渊承诺给那些幸存者送上丰厚的回报。
+$runecrafting.air_rune_name»寻风者
+$runecrafting.air_rune_description»寻风者与深渊作战的过程中发现了更大的收获。
+$runecrafting.air_node_details»寻风者最看重财富。他们聚敛财富，狩猎那些探索死亡的狂热之徒。
+$runecrafting.air_node_1_name»迅捷符文
+$runecrafting.air_node_1_description»解锁迅捷符文制作配方。
+$runecrafting.air_node_1_details»提高 30% 攻击速度，提高 10 移动速度。\n\n寻风者迅速出击，不留后患。
+$runecrafting.air_node_2_name»风化符文
+$runecrafting.air_node_2_description»解锁风化符文制作配方。
+$runecrafting.air_node_2_details»当你受到酸液的伤害时该符文会破碎，可以使你免疫 10 秒酸液的伤害。\n\n在与深渊战斗中，风之符文师会使用这些符文保护他们的战士免受深渊酸液的侵蚀。
+$runecrafting.air_node_3_name»丰收符文
+$runecrafting.air_node_3_description»解锁丰收符文制作配方。
+$runecrafting.air_node_3_details»当你完成一个地下城时符文该符文会破碎，并获得一个增益：在幽影(U12)难度收获特有资源时，有几率获得符文封存宝箱。\n\n寻风者拥有巨额财富的最大秘密是他们可以创造自己的运气。
+$runecrafting.air_node_4_name»丰饶符文
+$runecrafting.air_node_4_description»解锁丰饶符文制作配方。
+$runecrafting.air_node_4_details»当你完成一个地下城时符文该符文会破碎，并且生成一个奖励宝箱。\n\n寻风者拥有巨额财富的第二秘密是他们可以获取更多。
+$runecrafting.air_node_5_name»寻风破坏者
+$runecrafting.air_node_5_description»符文破碎时会赋予精华。
+$runecrafting.air_node_5_details»寻风者为什么要囤积三种精华呢？
+$runecrafting.air_node_6_name»寻风制作者
+$runecrafting.air_node_6_description»符文在破裂时会提供额外的符文碎片。
+$runecrafting.air_node_6_details»寻风者没有浪费任何东西
+$runecrafting.air_node_7_name»寻风谋略师
+$runecrafting.air_node_7_description»击败深渊的敌人时，你有几率获得符文封存宝箱。
+$runecrafting.air_node_7_details»寻风的教义: 首先要躲避敌人，然后再击杀无法躲避的敌人。
+$runecrafting.air_node_8_name»寻风的信念
+$runecrafting.air_node_8_description»击败深渊中的BOSS生物时，你有几率获得符文封存宝箱。
+$runecrafting.air_node_8_details»寻风者的信念越强，就越是努力战斗。
+$runecrafting.air_node_9_name»寻风的知识
+$runecrafting.air_node_9_description»打开深渊浮现宝箱和符文深渊宝箱时，有几率获得符文封存宝箱。
+$runecrafting.air_node_9_details»寻风者擅长破解符文宝箱。
+$runecrafting.fire_rune_name»燃火战士
+$runecrafting.fire_rune_description»燃火战士运用符文之力的真正目的是毁灭。
+$runecrafting.fire_node_details»燃火的教义: 焚烧、撕裂、撕碎，为了生存你必须做任何事情，如果你都无法生存下去了，那就只能更加努力的战斗。
+$runecrafting.fire_node_1_name»专注符文
+$runecrafting.fire_node_1_description»解锁专注符文制作配方。
+$runecrafting.fire_node_1_details»当你耗尽能量时该符文会破碎，并且会补满你耗尽的能量。\n\n第一波火焰很糟糕，第二波更糟糕。
+$runecrafting.fire_node_2_name»燃火符文
+$runecrafting.fire_node_2_description»解锁燃火符文制作配方。
+$runecrafting.fire_node_2_details»当你使用[HK:Ability2]技能时该符文会破碎，并且在你周围形成一团大火，灼烧你的敌人，持续 10 秒。\n\n燃火战士怒火的温度极高，在水下也可以点燃火焰。
+$runecrafting.fire_node_3_name»燃火破坏者
+$runecrafting.fire_node_3_description»符文破坏会使你增加 5% 伤害。
+$runecrafting.fire_node_3_details»燃火符文师会将自己的怒火注入到制作的符文当中。
+$runecrafting.fire_node_4_name»燃火意志
+$runecrafting.fire_node_4_description»增加判决符文和狂暴符文增益效果的持续时间。
+$runecrafting.fire_node_4_details»燃火战士的怒火充斥在战场之中。
+$runecrafting.fire_node_5_name»燃火信念
+$runecrafting.fire_node_5_description»装备符文后，提高 5% 生命回复和提高 50 稳定性。
+$runecrafting.fire_node_5_details»燃火的教义: 符文赋予力量，燃火战士终将征服一切。
+$runecrafting.fire_node_6_name»判决符文
+$runecrafting.fire_node_6_description»解锁判决符文制作配方。
+$runecrafting.fire_node_6_details»当你受到致死伤害时改符文会破碎，并且触发怒气，使你提高 20% 伤害。\n\n比起取得胜利，燃火战士唯一的奋斗目标就是战胜失败。
+$runecrafting.fire_node_7_name»燃火老兵
+$runecrafting.fire_node_7_description»装备符文后，你的提高 5 % 稳定性 ，提高 5 % 生命回复，提高 5 % 暴击率，提高 5 %伤害。
+$runecrafting.fire_node_7_details»生于毁灭，亡于毁灭。
+$runecrafting.fire_node_8_name»燃火之怒
+$runecrafting.fire_node_8_description»符文破碎后在你周围形成一团大火，灼烧你的附近的敌人，持续 5 秒。
+$runecrafting.fire_node_8_details»最优秀的燃火战士可以点燃自己的怒火，灼烧周围的敌人。
+$runecrafting.fire_node_9_name»狂暴符文
+$runecrafting.fire_node_9_description»解锁狂暴符文制作配方。
+$runecrafting.fire_node_9_details»当你造成伤害时该符文有几率会破碎，并且命中时还有几率触发三个效果中的一个：暴击率、暴击伤害、伤害。\n\n燃火战士在战斗中只会变得更强大。
+$runecrafting.water_rune_name»深渊符文师
+$runecrafting.water_rune_description»深渊符文师凭借着坚定的意志承受着寻风者和燃火战士的攻击，于符文雕刻的技术。
+$runecrafting.water_node_details»深渊的海洋吞噬一切。
+$runecrafting.water_node_1_name»复原符文
+$runecrafting.water_node_1_description»解锁复原符文制作配方。
+$runecrafting.water_node_1_details»当你击败敌人时该符文会破碎，并且恢复你装备的药瓶数量。\n\n深渊的教义：利用治疗来战胜敌人。
+$runecrafting.water_node_2_name»深渊符文
+$runecrafting.water_node_2_description»解锁深渊符文制作配方。
+$runecrafting.water_node_2_details»当你受到岩浆或深渊水母火焰的伤害时该符文会破碎，可以免疫岩浆和深渊水母火焰的伤害。\n\n燃火战士的怒火可以烧水熄灭，但对深渊的敌人没任何作用。
+$runecrafting.water_node_3_name»补给符文
+$runecrafting.water_node_3_description»解锁补给符文制作配方。
+$runecrafting.water_node_3_details»当你受到致死伤害时改符文会破碎，并且减少33%冷却时间。\n\n深渊符文师只在睡觉和防卫时才会停止工作。他们甚至在铁砧前进食。
+$runecrafting.water_node_4_name»耐力符文
+$runecrafting.water_node_4_description»解锁耐力符文制作配方。
+$runecrafting.water_node_4_details»当你受到伤害时该符文会破碎，并且触发一个耐力符文三个效果中的一个效果：减少受到的伤害、增加最大生命值、增加稳定性。\n\n深渊的教义: 忍耐并超越。
+$runecrafting.water_node_5_name»深渊破坏者
+$runecrafting.water_node_5_description»符文破碎时会增加你的稳定性、最大生命值和生命回复。
+$runecrafting.water_node_5_details»深渊的海洋会一直保佑他们的信徒。
+$runecrafting.water_node_6_name»深渊符文雕刻师
+$runecrafting.water_node_6_description»你制作符文石板时有几率制作额外的符文石板。
+$runecrafting.water_node_6_details»最伟大的雕刻师令人羡慕。每个艺术家都渴望拥有完美的调色板。
+$runecrafting.water_node_7_name»深渊符文刻画师
+$runecrafting.water_node_7_description»你制作散页时有几率制作额外的散页。
+$runecrafting.water_node_7_details»文字无法在水下长时间保存，最好快速阅读它们。
+$runecrafting.water_node_8_name»深渊符文工匠
+$runecrafting.water_node_8_description»你制作符文时有几率制作额外的符文。
+$runecrafting.water_node_8_details»在大量制作的时候，质量会下降，取而代之的是数量增加。
+$runecrafting.water_node_9_name»深渊符文大师
+$runecrafting.water_node_9_description»解锁深渊符文大师（400级）的需要使用深渊精华制作的符文石板制作配方。\n同时解锁所有的风化符文石板和燃火符文石板的制作配方。
+$runecrafting.water_node_9_details»深渊符文大师是深渊中最宝贵的资源。
+$prefabs_effects_runecrafting_progression_pyric_rune_statmod_01_name»燃火信念
+$prefabs_effects_runecrafting_progression_pyric_rune_statmod_01_description»提高 5% 生命回复和提高 50 稳定性。
+$prefabs_effects_runecrafting_progression_pyric_rune_statmod_02_name»燃火老兵
+$prefabs_effects_runecrafting_progression_pyric_rune_statmod_02_description»提高 5 % 稳定性 ，提高 5 % 生命回复，提高 5 % 暴击率，提高 5 %伤害。
+$prefabs_effects_runecrafting_progression_pyric_rage_name»燃火之怒
+$prefabs_effects_runecrafting_progression_pyric_rage_description»灼烧你的附近的敌人。
+$prefabs_effects_runecrafting_progression_pyric_hardening_name»燃火硬化
+$prefabs_effects_runecrafting_progression__pyric_hardening_description»提高 5% 伤害
+$prefabs_effects_runecrafting_progression_abyssal_hardening_name»深渊硬化
+$prefabs_effects_runecrafting_progression_abyssal_hardening_description»提高 50 稳定性，提高 5% 最大生命值，提高 5% 生命回复。

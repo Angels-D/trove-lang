@@ -1,0 +1,4 @@
+$prefabs_item_consumable_depths_fishfood_water_depths_name»藓苔海孢子
+$prefabs_item_consumable_depths_fishfood_water_depths_description»将这些食物扔进幽影(U12)水域的鱼池中，帮助恢复深海生物赖以生存的生态系统，与深渊生物缓解关系！
+$prefabs_item_consumable_depths_herald_tribute_name»献礼
+$prefabs_item_consumable_depths_herald_tribute_description»只要给予适当的贡品，深渊海妖的使者很乐意与寻日者合作。

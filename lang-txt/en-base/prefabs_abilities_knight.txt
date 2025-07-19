@@ -1,12 +1,12 @@
-$prefabs_abilities_knight_charge_item_name=Charge!
-$prefabs_abilities_knight_charge_item_description=Launches the Knight forward, taunting, stunning and damaging passing enemies.
-$prefabs_abilities_knight_passive_target_debuff_item_name=Retribution
-$prefabs_abilities_knight_passive_target_debuff_item_description=Every time the Knight takes damage, they will store up Retribution that increases the damage of their next attack. This can stack up to 3 times dealing additional damage for each stack. Basic attacks reduce targets outgoing damage by up to 10%. Additional attacks refresh this debuff.
-$prefabs_abilities_knight_shield_heal_item_name=Iron Will
-$prefabs_abilities_knight_shield_heal_item_description=Fully heals the Knight and reduces incoming damage by 50%. 7 nearby Trovians take 10% less damage and redirect 10% of incoming damage to the Knight for 10 seconds.
-$prefabs_abilities_knight_smash_item_name=Smash
-$prefabs_abilities_knight_smash_item_description=Damages and briefly taunts all enemies in a cone in front of the Knight.
-$prefabs_abilities_knight_subclass_name=Mounted Cavalry
-$prefabs_abilities_knight_subclass_description=Increased movement speed while riding ground based mounts. At low health gain a damage reduction shield for a short time.
-$prefabs_abilities_knight_shield_heal_effect_shield_description=Increases Stability by 150 and 100%. Reduces incoming damage by 50%. Intercepting damage from nearby Players.
-$prefabs_abilities_knight_shield_heal_redirect_effect_shield_description=Reduces Incoming Damage by 25%. Redirects 25% of Incoming Damage to another Target. Increases Stability by 100%.
+$prefabs_abilities_knight_charge_item_name»Charge!
+$prefabs_abilities_knight_charge_item_description»Launches the Knight forward, taunting, stunning and damaging passing enemies.
+$prefabs_abilities_knight_passive_target_debuff_item_name»Retribution
+$prefabs_abilities_knight_passive_target_debuff_item_description»Every time the Knight takes damage, they will store up Retribution that increases the damage of their next attack. This can stack up to 3 times dealing additional damage for each stack. Basic attacks reduce targets outgoing damage by up to 10%. Additional attacks refresh this debuff.
+$prefabs_abilities_knight_shield_heal_item_name»Iron Will
+$prefabs_abilities_knight_shield_heal_item_description»Fully heals the Knight and reduces incoming damage by 50%. 7 nearby Trovians take 10% less damage and redirect 10% of incoming damage to the Knight for 10 seconds.
+$prefabs_abilities_knight_smash_item_name»Smash
+$prefabs_abilities_knight_smash_item_description»Damages and briefly taunts all enemies in a cone in front of the Knight.
+$prefabs_abilities_knight_subclass_name»Mounted Cavalry
+$prefabs_abilities_knight_subclass_description»Increased movement speed while riding ground based mounts. At low health gain a damage reduction shield for a short time.
+$prefabs_abilities_knight_shield_heal_effect_shield_description»Increases Stability by 150 and 100%. Reduces incoming damage by 50%. Intercepting damage from nearby Players.
+$prefabs_abilities_knight_shield_heal_redirect_effect_shield_description»Reduces Incoming Damage by 25%. Redirects 25% of Incoming Damage to another Target. Increases Stability by 100%.
