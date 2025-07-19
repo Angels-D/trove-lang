@@ -1,0 +1,2 @@
+$prefabs_item_currency_events_january_renewus_name»Renewus的徽章(Sigil of Renewus)
+$prefabs_item_currency_events_january_renewus_description»复兴、重生和重生的铸造象征！\n<font color="#cccccc">A minted symbol of renewal, rejuvination, and rebirth!</font>\n\n通常通过在中心向Qubesly捐赠RENEWUS蝴蝶来获得。\n<font color="#cccccc">Generally obtained by donating RENEWUS BUTTERFLIES to Qubesly in the HUB.</font>

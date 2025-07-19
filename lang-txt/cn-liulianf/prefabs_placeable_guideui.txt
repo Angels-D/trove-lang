@@ -1,0 +1,3 @@
+$prefabs_placeable_guideui_guideui_dragon_name»龙族寻路者
+$prefabs_placeable_guideui_guideui_dragon_description»[HK:Loot] 了解更多关于龙的信息以及如何找到它们！
+$prefabs_placeable_guideui_guideui_dragon_description_item»放置并互动，了解更多关于龙的信息以及如何找到它们！

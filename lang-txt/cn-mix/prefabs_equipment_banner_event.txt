@@ -1,0 +1,2 @@
+$prefabs_equipment_banner_event_january_renewus_butterfly_name»茧处理者旗帜(Cocoon Handler's Banner)
+$prefabs_equipment_banner_event_january_renewus_butterfly_description»专为帮助安全收获伟大的Renewus Trove蝴蝶而打造！\n<font color="#cccccc">Crafted specifically to aid in the safe harvesting of the great Renewus Butterfly of Trove!</font>

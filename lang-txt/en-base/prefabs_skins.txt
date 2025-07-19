@@ -1,759 +1,969 @@
-$prefabs_skins_candybarbarian_lvl3_skinset_name=Level 20 Candy Barbarian
-$prefabs_skins_candybarbarian_lvl4_skinset_name=Level 30 Candy Barbarian
-$prefabs_skins_candybarbarian_lvl1_skinset_name=Starter Candy Barbarian
-$prefabs_skins_adventurer_lvl2_skinset_name=Level 10 Boomeranger
-$prefabs_skins_adventurer_lvl1_skinset_name=Starter Boomeranger
-$prefabs_skins_adventurer_lvl3_skinset_name=Level 20 Boomeranger
-$prefabs_skins_adventurer_lvl4_skinset_name=Level 30 Boomeranger
-$prefabs_skins_adventurer_moonsilver_skinset_description=A costume for the Boomeranger.\n\nPerfect for powerhouses packed with surprises.
-$prefabs_skins_adventurer_moonsilver_skinset_name=Dusk Dervish
-$prefabs_skins_candybarbarian_jellybearblue_skinset_name=Blue Gummy Barbearian
-$prefabs_skins_candybarbarian_jellybearblue_skinset_description=A costume for the Candy Barbarian.\n\nChannel the spirit of the mighty Candorian Jelly Bear with this Candy Barbarian costume.
-$prefabs_skins_candybarbarian_jellybearpink_skinset_name=Pink Gummy Barbearian
-$prefabs_skins_candybarbarian_jellybearpink_skinset_description=A costume for the Candy Barbarian.\n\nChannel the spirit of the mighty Candorian Jelly Bear with this Candy Barbarian costume.
-$prefabs_skins_candybarbarian_lvl2_skinset_name=Level 10 Candy Barbarian
-$prefabs_skins_candybarbarian_moonsilver_skinset_description=A costume for the Candy Barbarian.\n\nPerfect for sweet and savage warriors who embrace the lunacy in their hearts.
-$prefabs_skins_candybarbarian_moonsilver_skinset_name=Lunar Berserker
-$prefabs_skins_candybarbarian_snowfest_skinset_name=Santa Barbarian
-$prefabs_skins_candybarbarian_snowfest_skinset_description=A costume for the Candy Barbarian.\n\nBring the slay with this classic costume.
-$prefabs_skins_candybarbarian_yeti_skinset_name=Shaggy Yeti
-$prefabs_skins_candybarbarian_yeti_skinset_description=A costume for the Candy Barbarian.\n\nThe fluffy exterior hides the heart of a beast.
-$prefabs_skins_candybarbarian_krampus_skinset_name=Frigid Fiend
-$prefabs_skins_candybarbarian_krampus_skinset_description=A costume for the Candy Barbarian.\n\nEmbodies the old adage 'No rest for the wicked.'
-$prefabs_skins_chloromancer_cactus_skinset_name=Frontier Phytologist
-$prefabs_skins_chloromancer_christmas_skinset_name=Evergreen Evoker
-$prefabs_skins_chloromancer_christmas_skinset_description=A costume for the Chloromancer.\n\nSow some Snowfest spirit with this festive finery.
-$prefabs_skins_chloromancer_life_skinset_name=Lifetouched Chloromancer
-$prefabs_skins_chloromancer_lvl1_skinset_name=Starter Chloromancer
-$prefabs_skins_chloromancer_lvl2_skinset_name=Level 10 Chloromancer
-$prefabs_skins_chloromancer_lvl3_skinset_name=Level 20 Chloromancer
-$prefabs_skins_chloromancer_lvl4_skinset_name=Level 30 Chloromancer
-$prefabs_skins_chloromancer_spring_skinset_name=Spring Sorceress
-$prefabs_skins_chloromancer_alchemancer_skinset_name=Alchemancer
-$prefabs_skins_chloromancer_alchemancer_skinset_description=A costume for the Chloromancer.\n\nHarness the power of alchemy to explosive effect!
-$prefabs_skins_chloromancer_moonsilver_skinset_name=Crescent Chloromancer
-$prefabs_skins_chloromancer_moonsilver_skinset_description=A costume for the Chloromancer.\n\nPerfect for persevering and benevolent botanists with the brilliance to bring moon-loving blossoms to fruition
-$prefabs_skins_chloromancer_void_skinset_name=Nochlormancer
-$prefabs_skins_chloromancer_void_skinset_description=A costume for the Chloromancer.\n\nFrom the void a flower blooms.
-$prefabs_skins_dinotamer_biker_skinset_description=A costume for the Dino Tamer.\n\nSaurians may be a little more temperamental than a road hog, but a ride is a ride.
-$prefabs_skins_dinotamer_biker_skinset_name=Road Wrangler
-$prefabs_skins_dinotamer_camo_skinset_description=A costume for the Dino Tamer.\n\nIdeal for stalking the one dinosaur that keeps eluding you.
-$prefabs_skins_dinotamer_camo_skinset_name=Jurassic Jungler
-$prefabs_skins_dinotamer_lvl1_skinset_name=Starter Dino Tamer
-$prefabs_skins_dinotamer_lvl2_skinset_name=Level 10 Dino Tamer
-$prefabs_skins_dinotamer_lvl3_skinset_name=Level 20 Dino Tamer
-$prefabs_skins_dinotamer_lvl4_skinset_name=Level 30 Dino Tamer
-$prefabs_skins_dinotamer_steampunk_skinset_description=A costume for the Dino Tamer.\n\nOne moment you're studying fossils, and the next you're hurtling through some wormhole in time and space.
-$prefabs_skins_dinotamer_steampunk_skinset_name=Time-Stranded Paleontologist
-$prefabs_skins_dracolyte_lvl1_skinset_name=Starter Dracolyte
-$prefabs_skins_dracolyte_lvl2_skinset_name=Level 10 Dracolyte
-$prefabs_skins_dracolyte_lvl3_skinset_name=Level 20 Dracolyte
-$prefabs_skins_dracolyte_lvl4_skinset_name=Level 30 Dracolyte
-$prefabs_skins_dracolyte_moonsilver_skinset_description=A costume for the Dracolyte.\n\nPerfect for those who fan the flames of destruction in pursuit of a greater goal.
-$prefabs_skins_dracolyte_moonsilver_skinset_name=Moonfire Mystic
-$prefabs_skins_dracolyte_smore_skinset_name=S'more Sweetness
-$prefabs_skins_dracolyte_smore_skinset_description=A costume for the Dracolyte.\n\nWeaponized marshmallow and chocolate? Yum! How about s'more!
-$prefabs_skins_dracolyte_plumfairy_skinset_name=Plum Powerhouse
-$prefabs_skins_dracolyte_plumfairy_skinset_description=A costume for the Dracolyte.\n\nChannels the power of a legendary Candorian ruler.
-$prefabs_skins_fae_trickster_lvl1_skinset_name=Starter Trickster
-$prefabs_skins_fae_trickster_lvl2_skinset_name=Level 10 Trickster
-$prefabs_skins_fae_trickster_lvl3_skinset_name=Level 20 Trickster
-$prefabs_skins_fae_trickster_lvl4_skinset_name=Level 30 Trickster
-$prefabs_skins_faetrickster_moonsilver_skinset_description=A costume for the Fae Trickster.\n\nPerfect for playing pranks and making mischief in the moonlight.
-$prefabs_skins_faetrickster_moonsilver_skinset_name=Twilight Trickster
-$prefabs_skins_gunslinger_lvl1_skinset_name=Starter Gunslinger
-$prefabs_skins_gunslinger_lvl2_skinset_name=Level 10 Gunslinger
-$prefabs_skins_gunslinger_lvl3_skinset_name=Level 20 Gunslinger
-$prefabs_skins_gunslinger_lvl4_skinset_name=Level 30 Gunslinger
-$prefabs_skins_gunslinger_moonsilver_skinset_description=A costume for the Gunslinger.\n\nPerfect for skillful pistoleers with a propensity for moonlit duels on the stroke of midnight.
-$prefabs_skins_gunslinger_moonsilver_skinset_name=Sunset Slinger
-$prefabs_skins_gunslinger_cowboy_name=Cowboy Gunslinger
-$prefabs_skins_gunslinger_cowboy_description=A costume for the Gunslinger.\n\nYeehaw partners in crime, partners in time.
-$prefabs_skins_ice_mage_lvl1_skinset_name=Starter Ice Sage
-$prefabs_skins_ice_mage_lvl2_skinset_name=Level 10 Ice Sage
-$prefabs_skins_ice_mage_lvl3_skinset_name=Level 20 Ice Sage
-$prefabs_skins_ice_mage_lvl4_skinset_name=Level 30 Ice Sage
-$prefabs_skins_icemage_mermaid_skinset_name=Mermaid
-$prefabs_skins_icemage_mermaid_skinset_description=A costume for the Ice Sage.\n\nYou'll shorely coast through your foes in this get-up!
-$prefabs_skins_icemage_moonsilver_skinset_description=A costume for the Ice Sage.\n\nPerfect for pondering confounding conundrums by candlelight.
-$prefabs_skins_icemage_moonsilver_skinset_name=Selenic Sage
-$prefabs_skins_icemage_feather_name=Dotty Dancer
-$prefabs_skins_icemage_feather_description=A costume for the Ice Sage \n\nDizzy'em with your dazzle!
-$prefabs_skins_knight_defender_skinset_name=Trovian Defender
-$prefabs_skins_knight_defender_skinset_description=A costume for the Knight.\n\nFlaunt some classic colors in the name of justice!
-$prefabs_skins_knight_lvl1_skinset_name=Starter Knight
-$prefabs_skins_knight_lvl2_skinset_name=Level 10 Knight
-$prefabs_skins_knight_lvl3_skinset_name=Level 20 Knight
-$prefabs_skins_knight_lvl4_skinset_name=Level 30 Knight
-$prefabs_skins_knight_moonsilver_skinset_description=A costume for the Knight.\n\nPerfect for exacting punishment in the name of the moon.
-$prefabs_skins_knight_moonsilver_skinset_name=Argent Avenger
-$prefabs_skins_lunarlancer_draccoon_skinset_name=Moon Draccoon
-$prefabs_skins_lunarlancer_draccoon_skinset_description=A costume for the Lunar Lancer.\n\nElite warriors capable of carrying out the most dangerous missions, Draccoons command respect throughout the Goddess's domains.
-$prefabs_skins_lunarlancer_duskrider_skinset_description=A costume for the Lunar Lancer.\n\nDuskrider Dragoons can call upon the power of their mounts to transform into a fearsome hybrid.
-$prefabs_skins_lunarlancer_duskrider_skinset_name=Duskrider Dragoon
-$prefabs_skins_lunarlancer_imp_skinset_description=A costume for the Lunar Lancer.\n\nA devilish costume perfect for punishing those who stray from the light.
-$prefabs_skins_lunarlancer_imp_skinset_name=Impish Tormentor
-$prefabs_skins_lunarlancer_redjack_skinset_description=A costume for the Lunar Lancer.\n\nA boldly-colored costume for fearless seafarers.
-$prefabs_skins_lunarlancer_redjack_skinset_name=Crimson Corsair
-$prefabs_skins_lunarlancer_quberus_skinset_name=Q'rsed Q'berus
-$prefabs_skins_lunarlancer_quberus_skinset_desc=A costume for the Lunar Lancer. \n\nWhen the moon is full the curse takes hold and the wise hide until dawn.
-$prefabs_skins_lunarlancer_lvl1_skinset_name=Starter Lunar Lancer
-$prefabs_skins_lunarlancer_lvl2_skinset_name=Level 10 Lunar Lancer
-$prefabs_skins_lunarlancer_lvl3_skinset_name=Level 20 Lunar Lancer
-$prefabs_skins_lunarlancer_lvl4_skinset_name=Level 30 Lunar Lancer
-$prefabs_skins_lunarlancer_moonsilver_skinset_description=A costume for the Lunar Lancer.\n\nPerfect for protectors whose power surges in prickly predicaments.
-$prefabs_skins_lunarlancer_moonsilver_skinset_name=Lunar Legionnaire
-$prefabs_skins_lunarlancer_firefighter_name=Pyro Fighter
-$prefabs_skins_lunarlancer_firefighter_description= A costume for the Lunar Lancer.\n\nWhatever and wherever the fire, fight it!
-$prefabs_skins_neonninja_moonsilver_skinset_description=A costume for the Neon Ninja.\n\nPerfect for imperceptible prowling under the cover of night.
-$prefabs_skins_neonninja_moonsilver_skinset_name=Midnight Marauder
-$prefabs_skins_neon_ninja_deepblue_skinset_name=Steadfast Striker
-$prefabs_skins_neon_ninja_deepblue_skinset_description=A costume for the Neon Ninja.\n\nStrike hard, strike fast.
-$prefabs_skins_neon_ninja_lvl1_skinset_name=Starter Neon Ninja
-$prefabs_skins_neon_ninja_lvl2_skinset_name=Level 10 Neon Ninja
-$prefabs_skins_neon_ninja_lvl3_skinset_name=Level 20 Neon Ninja
-$prefabs_skins_neon_ninja_lvl4_skinset_name=Level 30 Neon Ninja
-$prefabs_skins_pirate_lord_lvl1_skinset_name=Starter Pirate Captain
-$prefabs_skins_pirate_lord_lvl2_skinset_name=Level 10 Pirate Captain
-$prefabs_skins_pirate_lord_lvl3_skinset_name=Level 20 Pirate Captain
-$prefabs_skins_pirate_lord_lvl4_skinset_name=Level 30 Pirate Captain
-$prefabs_skins_pirate_moonsilver_skinset_description=A costume for the Pirate Captain.\n\nPerfect for pillage and plunder on the moonlit seas.
-$prefabs_skins_pirate_moonsilver_skinset_name=Captain Moonsilver
-$prefabs_skins_pirate_treasuretrovian_skinset_name=Treasure Trovian
-$prefabs_skins_pirate_treasuretrovian_skinset_description=A costume for the Pirate Captain.\n\nOld school adventuring never looked so good!
-$prefabs_skins_pirate_ratking_skinset_name=Rat Royale
-$prefabs_skins_pirate_ratking_skinset_description=A costume for the Pirate Captain.\n\nIn ages past, the Rat Dynasty held sway over vast swaths of Candoria.
-$prefabs_skins_pirate_decoy_rainbow_name=Captain Ray Rainbow
-$prefabs_skins_pirate_decoy_rainbow_description=A costume for the Pirate Captain.\n\nReady to sail the 7 rays of light to the ends of the voids!
-$prefabs_skins_shadowhunter_moonsilver_skinset_description=A costume for the Shadow Hunter.\n\nPerfect for stalking prey under the auspices of the Hunter's Moon.
-$prefabs_skins_shadowhunter_moonsilver_skinset_name=Nightfall Stalker
-$prefabs_skins_shadowhunter_shadowranger_skinset_name=Anarchy Archer
-$prefabs_skins_shadowhunter_shadowranger_skinset_description=A costume for the Shadow Hunter.\n\nCut loose the bonds of sanity and unleash a volley of chaos upon your unsuspecting foes.
-$prefabs_skins_shadowhunter_nutcracker_skinset_name=Nut Cracker
-$prefabs_skins_shadowhunter_nutcracker_skinset_description=A costume for the Shadow Hunter.\n\nFashioned after the warrior who ousted the Rat Dynasty from Candorian lands.
-$prefabs_skins_shadowhunter_moon_skinset_name=Lunar Lotus
-$prefabs_skins_shadowhunter_moon_skinset_description=A costume for the Shadow Hunter.\n\nA sure shot.
-$prefabs_skins_shadow_hunter_lvl1_skinset_name=Starter Shadow Hunter
-$prefabs_skins_shadow_hunter_lvl2_skinset_name=Level 10 Shadow Hunter
-$prefabs_skins_shadow_hunter_lvl3_skinset_name=Level 20 Shadow Hunter
-$prefabs_skins_shadow_hunter_lvl4_skinset_name=Level 30 Shadow Hunter
-$prefabs_skins_spirittank_lvl1_skinset_name=Starter Revenant
-$prefabs_skins_spirittank_lvl2_skinset_name=Level 10 Revenant
-$prefabs_skins_spirittank_lvl3_skinset_name=Level 20 Revenant
-$prefabs_skins_spirittank_lvl4_skinset_name=Level 30 Revenant
-$prefabs_skins_spirittank_magicalgirl_skinset_description=A costume for the Revenant.\n\nThe most mystical myrmidon magic ever did make.
-$prefabs_skins_spirittank_magicalgirl_skinset_name=Super Magical
-$prefabs_skins_spirittank_moonsilver_skinset_description=A costume for the Revenant.\n\nPerfect for those who take a stand against the darkness.
-$prefabs_skins_spirittank_moonsilver_skinset_name=Shadowmoon Shieldmaster
-$prefabs_skins_spirittank_golem_skinset_description=A costume for the Revenant.\n\nAn ancient automaton, tasked with guarding its creator's lab from intruders and interlopers.
-$prefabs_skins_spirittank_golem_skinset_name=Guardian Golem
-$prefabs_skins_spirittank_elf_skinset_description=A costume for the Revenant.\n\nWatches over a top-secret facility with an extremely time-sensitive schedule.
-$prefabs_skins_spirittank_elf_skinset_name=Workshop Watcher
-$prefabs_skins_spirittank_geodegem_name=Occlusion Conclusion
-$prefabs_skins_spirittank_geodegem_description=A costume for the Revenant.\n\nRock that crystal!
-$prefabs_skins_tombraiser_moonsilver_skinset_description=A costume for the Tomb Raiser.\n\nPerfect for apportioning an army of soldiers from a moonlit cemetery.
-$prefabs_skins_tombraiser_moonsilver_skinset_name=Eclipse Evoker
-$prefabs_skins_tomb_raiser_lvl1_skinset_name=Starter Tomb Raiser
-$prefabs_skins_tomb_raiser_lvl2_skinset_name=Level 10 Tomb Raiser
-$prefabs_skins_tomb_raiser_lvl3_skinset_name=Level 20 Tomb Raiser
-$prefabs_skins_tomb_raiser_lvl4_skinset_name=Level 30 Tomb Raiser
-$prefabs_skins_tombraiser_snowman_skinset_description=A costume for the Tomb Raiser.\n\nSummon up a squadron of smiley snowmen to smother your foes.
-$prefabs_skins_tombraiser_snowman_skinset_name=Winter Waker
-$prefabs_skins_dinotamer_cyberian_skinset_description=A costume for the Dino Tamer.\n\nWield technology from your long-forgotten tundra home to survive!
-$prefabs_skins_dinotamer_cyberian_skinset_name=Cyberian Survivor
-$prefabs_skins_dinotamer_moonsilver_skinset_description=A costume for the Dino Tamer.\n\nPerfect for parlaying the night's prowling predators into a pact of partnership
-$prefabs_skins_dinotamer_moonsilver_skinset_name=Twilight Tamer
-$prefabs_skins_adventurer_builder_skinset_name=Blastcap Builder
-$prefabs_skins_adventurer_builder_skinset_description=A costume for the Boomeranger.\n\nBuilds things or blows them up as the situation requires.
-$prefabs_skins_candybarbarian_cubist_skinset_name=Chimeric Cubist
-$prefabs_skins_candybarbarian_cubist_skinset_description=A costume for the Candy Barbarian.\n\nA mirage, an illusion, wrought from primordial chaos and made manifest.
-$prefabs_skins_chloromancer_crystal_skinset_name=Crystal Cultivator
-$prefabs_skins_chloromancer_crystal_skinset_description=A costume for the Chloromancer.\n\nCrystal Cultivators tend to the unique flora of the Shaper's underground realm.
-$prefabs_skins_gunslinger_cyber_skinset_name=ATMOS C-TAC Armor
-$prefabs_skins_gunslinger_cyber_skinset_description=A costume for the Gunslinger.\n\nTilt the balance of battle in your favour with superior armor and armaments.
-$prefabs_skins_icemage_banner_skinset_name=Strife Sage
-$prefabs_skins_icemage_banner_skinset_description=A costume for the Ice Sage.\n\nUpon the fields of war roam I, my staff and banner raised to the sky.
-$prefabs_skins_icemage_jungle_skinset_name=Mesozoic Meteomancer
-$prefabs_skins_icemage_jungle_skinset_description=A costume for the Ice Sage.\n\nIn the sky rocks lies the power to shape the future of the world.
-$prefabs_skins_lunarlancer_shadow_skinset_name=Shadowscorn Saboteur
-$prefabs_skins_lunarlancer_shadow_skinset_description=A costume for the Lunar Lancer.\n\nA vicious covert operative with no qualms about getting their hands dirty.
-$prefabs_skins_neon_ninja_molten_skinset_name=Inferno Infiltrator
-$prefabs_skins_neon_ninja_molten_skinset_description=A costume for the Neon Ninja.\n\nFire is no deterrent when you are this lit.
-$prefabs_skins_shadowhunter_hotshot_skinset_name=Modish Marksman
-$prefabs_skins_shadowhunter_hotshot_skinset_description=A costume for the Shadow Hunter.\n\nBe the envy of all your fashionista friends with these top-tailored threads.
-$prefabs_skins_shadowhunter_royal_skinset_name=Royal Ranger
-$prefabs_skins_shadowhunter_royal_skinset_description=A costume for the Shadow Hunter.\n\nPrincely in stature, yet rugged as the mountains.
-$prefabs_skins_tombraiser_everdark_skinset_name=Everdark Emissary
-$prefabs_skins_tombraiser_everdark_skinset_description=A costume for the Tomb Raiser.\n\nBringing Q'bthulhu's message of madness to the masses since the dawn of time.
-$prefabs_skins_tombraiser_shaper_skinset_description=A costume for the Tomb Raiser.\n\nTransform a common element into an extraordinary fighting force with this ore-iginal outfit.
-$prefabs_skins_tombraiser_shaper_skinset_name=Stone Shaper
-$prefabs_skins_knight_platinum_skinset_description=A costume for the Knight.\n\nA gleaming guardian of justice that abides no evil.
-$prefabs_skins_knight_platinum_skinset_name=Platinum Paladin
-$prefabs_skins_shadowhunter_boltblade_skinset_description=A costume for the Shadow Hunter.\n\nWield the wrath of the heavens, and lay your foes low with thunderous fury.
-$prefabs_skins_shadowhunter_boltblade_skinset_name=Skysunder Sniper
-$prefabs_skins_dinotamer_blocktor_skinset_description=A costume for the Dino Tamer.\n\nNot an actual medical professional, but still manages to save the day, every day.
-$prefabs_skins_dinotamer_blocktor_skinset_name=The Blocktor
-$prefabs_skins_chloromancer_rose_skinset_description=A costume for the Chloromancer.\n\nGrab your crush's attention with a bouquet of beautiful flowers... Or crush your enemies and turn them into fertilizer.
-$prefabs_skins_chloromancer_rose_skinset_name=Rosy Ravisher
-$prefabs_skins_tombraiser_heart_skinset_description=A costume for the Tomb Raiser.\n\nShow your significant other undying love, or teach your enemies to hate the undying.
-$prefabs_skins_tombraiser_heart_skinset_name=Heart Eater
-$prefabs_skins_shadowhunter_cupid_skinset_description=A costume for the Shadow Hunter.\n\nAim for the heart with this enthralling outfit, but keep an eye on what arrows you use.
-$prefabs_skins_shadowhunter_cupid_skinset_name=Amorous Archer
-$prefabs_skins_knight_jfestival_skinset_description=A costume for the Knight.\n\nDish out tasty treats to your friends, or spicy smackdowns to your enemies.
-$prefabs_skins_knight_jfestival_skinset_name=Delicacy Dealer
-$prefabs_skins_candybarbarian_deepsea_skinset_description=A costume for the Candy Barbarian.\n\nThis ingenious design protects the user from physical attacks and deep sea environments.
-$prefabs_skins_candybarbarian_deepsea_skinset_name=Bathys Barbarian
-$prefabs_skins_spirittank_time_skinset_description=A costume for the Revenant.\n\nA timeless automaton tasked with taking the battle to the enemy's doorstep.
-$prefabs_skins_spirittank_time_skinset_name=Chrono Construct
-$prefabs_skins_shadowhunter_rosewood_skinset_description=A costume for the Shadow Hunter.\n\nExemplary in elegance and grace, both on and off the battlefield.
-$prefabs_skins_shadowhunter_rosewood_skinset_name=Rosewood Huntress
-$prefabs_skins_shadowhunter_plasma_skinset_description=A costume for the Shadow Hunter.\n\nAdopt the guise of this plasma-based predator to hunt down your robotic prey in the Neon City.
-$prefabs_skins_shadowhunter_plasma_skinset_name=Photon Phantom
-$prefabs_skins_shadowhunter_berzerker_skinset_description=A costume for the Shadow Hunter.\n\nEverything is a target when all you have is a bow and bad code.
-$prefabs_skins_shadowhunter_berzerker_skinset_name=A.M.O.K. Aimbot
-$prefabs_skins_pirate_space_skinset_description=A costume for the Pirate Captain.\n\nWith the stars out of reach, it is time to take to the seas!
-$prefabs_skins_pirate_space_skinset_name=Star Skipper
-$prefabs_skins_pirate_arcanium_skinset_description=A costume for the Pirate Captain.\n\nPlunder the riches of seas and skies as the commander of a mighty steamship fleet.
-$prefabs_skins_pirate_arcanium_skinset_name=Arcanium Admiral
-$prefabs_skins_neon_ninja_sonic_skinset_description=A costume for the Neon Ninja.\n\nCombine the ways of music and martial arts into a deadly repertoire.
-$prefabs_skins_neon_ninja_sonic_skinset_name=Bushin Beatmaster
-$prefabs_skins_neon_ninja_anubis_skinset_description=A costume for the Neon Ninja.\n\nUsher the souls of the unworthy into the afterlife in this ceremonial armour.
-$prefabs_skins_neon_ninja_anubis_skinset_name=Anubian Assassin
-$prefabs_skins_lunarlancer_golden_skinset_description=A costume for the Lunar Lancer.\n\nGlaivesingers hold watch through the night, and greet Albairn's passing by joining him in song.
-$prefabs_skins_lunarlancer_golden_skinset_name=Golden Glaivesinger
-$prefabs_skins_lunarlancer_deepsea_skinset_description=A costume for the Lunar Lancer.\n\nDeploy at any depth with this distinguished diving suit.
-$prefabs_skins_lunarlancer_deepsea_skinset_name=Demersal Marine
-$prefabs_skins_knight_sultan_skinset_description=A costume for the Knight.\n\nA stylish outfit that will make you stand out against the desert sands.
-$prefabs_skins_knight_sultan_skinset_name=Steel Sultan
-$prefabs_skins_knight_duelist_skinset_description=A costume for the Knight.\n\nDazzle your foes in this fencing outfit with a flair for the dramatic.
-$prefabs_skins_knight_duelist_skinset_name=Dashing Duelist
-$prefabs_skins_gunslinger_jetrider_skinset_description=A costume for the Gunslinger.\n\nNavigate the skies of Neon City as this gun-slinging vigilante.
-$prefabs_skins_gunslinger_jetrider_skinset_name=Jet Jammer
-$prefabs_skins_faetrickster_spring_skinset_description=A costume for the Fae Trickster.\n\nAdd a spot of sunshine to your fae magicks with this radiant reglia.
-$prefabs_skins_faetrickster_spring_skinset_name=Shining Sidhe
-$prefabs_skins_faetrickster_chaos_skinset_description=A costume for the Fae Trickster.\n\nYou can beseech the darkness for power, but who is it answering your invocations?
-$prefabs_skins_faetrickster_chaos_skinset_name=Chaos Cultist
-$prefabs_skins_dracolyte_pinata_skinset_description=A costume for the Dracolyte.\n\nChannel your inner party animal and light the night on fire.
-$prefabs_skins_dracolyte_pinata_skinset_name=Partisan Pinatrician
-$prefabs_skins_dracolyte_fruit_skinset_description=A costume for the Dracolyte.\n\nJuice up your draconic magic with this fruit-melange finery.
-$prefabs_skins_dracolyte_fruit_skinset_name=Macedoine Master
-$prefabs_skins_dinotamer_shadow_skinset_description=A costume for the Dino Tamer.\n\nExert your will over your pack of saurian shadows to devastating effect.
-$prefabs_skins_dinotamer_shadow_skinset_name=Shadow Sauromancer
-$prefabs_skins_dinotamer_pinata_skinset_description=A costume for the Dino Tamer.\n\nPrepped and ready to party after arduous training in a mysterious garden on a faraway island.
-$prefabs_skins_dinotamer_pinata_skinset_name=Pinata Protector
-$prefabs_skins_dinotamer_dragon_skinset_description=A costume for the Dino Tamer.\n\nForce your foes to flee before the might of your personal flight of dragons.
-$prefabs_skins_dinotamer_dragon_skinset_name=Dominating Dracomaster
-$prefabs_skins_dinotamer_diamond_skinset_description=A costume for the Dino Tamer.\n\nCommand a horde of crystalline creatures to bring calamity to your foes.
-$prefabs_skins_dinotamer_diamond_skinset_name=Jeweled Jaeger
-$prefabs_skins_chloromancer_plague_skinset_description=A costume for the Chloromancer.\n\nFight off the festering darkness with science and a bouquet of medicinal plants.
-$prefabs_skins_chloromancer_plague_skinset_name=Plaguepurge Pollinator
-$prefabs_skins_candybarbarian_shogun_skinset_description=A costume for the Candy Barbarian.\n\nWith steel and fire, bring the Sun Goddess's judgement wherever shadows prowl.
-$prefabs_skins_candybarbarian_shogun_skinset_name=Daybreak Daimyo
-$prefabs_skins_candybarbarian_heart_skinset_description=A costume for the Candy Barbarian.\n\nBring redemption to those whose hearts have succumbed to darkness.
-$prefabs_skins_candybarbarian_heart_skinset_name=Darkheart Destroyer
-$prefabs_skins_knight_soulhunter_skinset_description=A costume for the Knight.\n\nThe armor of the notorious Soul Hunter, Sir Cavaris, fallen from the light in the Shores of the Everdark.
-$prefabs_skins_knight_soulhunter_skinset_name=Cavaris Carapace
-$prefabs_skins_tombraiser_weeping_skinset_description=A costume for the Tomb Raiser. \n\nShow your foes their inescapable doom with this visionary fashion statement.
-$prefabs_skins_tombraiser_weeping_skinset_name=Woeful Wisdom
-$prefabs_skins_faetrickster_shadow_skinset_description=A costume for the Fae Trickster. \n\nIt is possible to fight shadow with shadow, but only the lightest of hearts should attempt it.
-$prefabs_skins_faetrickster_shadow_skinset_name=Shadow Sidhe
-$prefabs_skins_dracolyte_pinatagod_skinset_description=A costume for the Dracolyte. \n\nHold within you the scorn of ten thousand innocent souls, and in their name take vengeance.
-$prefabs_skins_dracolyte_pinatagod_skinset_name=Vengeful Avatar
-$prefabs_skins_chloromancer_darknik_skinset_description=A costume for the Chloromancer. \n\nSow your field of spikes, that your foes may reap a sharp rebuke.
-$prefabs_skins_chloromancer_darknik_skinset_name=Spiteful Spikelayer
-$prefabs_skins_lunarlancer_dotm_skinset_description=A costume for the Lunar Lancer.\n\nThis suit of lunar armor is worthy of the Moon Goddess's chosen champion.
-$prefabs_skins_lunarlancer_dotm_skinset_name=Defender of the Moon
-$prefabs_skins_knight_chaos_skinset_description=Raise your sword to the sky, in defiance of mortal, god, and reality itself.
-$prefabs_skins_knight_chaos_skinset_name=Chaos Cavalier
-$prefabs_skins_dinotamer_kami_skinset_description=A costume for the Dino Tamer.\n\nCommune with the Kami and become the vessel of their vengeance with this suit of spirit armor.
-$prefabs_skins_dinotamer_kami_skinset_name=Kami Animist
-$prefabs_skins_adventurer_myth_skinset_description=A costume for the Boomeranger.\n\nShow off your superior hunting skills with this armor wrought from felled fiends.
-$prefabs_skins_adventurer_myth_skinset_name=Beast Battler
-$prefabs_skins_adventurer_undead_skinset_description=A costume for the Boomeranger.\n\nDeath is a common occupational hazard among adventurers, but sometimes you just have to roll with the punches and keep going.
-$prefabs_skins_adventurer_undead_skinset_name=Expired Explorer
-$prefabs_skins_chloromancer_bee_skinset_description=A costume for the Chloromancer.\n\nKeep the battlefield buzzing with a bouquet of bee-witching flowers.
-$prefabs_skins_chloromancer_bee_skinset_name=Hiveoponic Horticulturist
-$prefabs_skins_chloromancer_warlock_skinset_description=A costume for the Chloromancer.\n\nWho needs a garden when the untamed power and beauty of nature lies all around you, ripe for the taking?
-$prefabs_skins_chloromancer_warlock_skinset_name=Wildflower Warlock
-$prefabs_skins_dinotamer_ranger_skinset_description=A costume for the Dino Tamer.\n\nBring primordial justice to the modern age. Go forth, Dinoranger!
-$prefabs_skins_dinotamer_ranger_skinset_name=Green Dinoranger
-$prefabs_skins_gunslinger_bubble_skinset_description=A costume for the Gunslinger.\n\nBurst your enemies' bubbles with this popping gunslinger costume.
-$prefabs_skins_gunslinger_bubble_skinset_name=Bubble Blaster
-$prefabs_skins_lunarlancer_fortras_skinset_description=A costume for the Lunar Lancer.\n\nHeed the call of Fortras and join the battle in this mechanized military outfit.
-$prefabs_skins_lunarlancer_fortras_skinset_name=Heralded Harrier
-$prefabs_skins_pirate_cogforge_skinset_description=A costume for the Pirate Captain.\n\nForge your legend on the high seas with this steamy mechanical ensemble.
-$prefabs_skins_pirate_cogforge_skinset_name=Cogforge Commander
-$prefabs_skins_shadowhunter_cygnus_skinset_description=A costume for the Shadow Hunter.\n\nTake Cygnus's blessing, and with its power bring purification to the shattered world.
-$prefabs_skins_shadowhunter_cygnus_skinset_name=Hallowed Shadow Hunter
-$prefabs_skins_tombraiser_golem_skinset_description=A costume for the Tomb Raiser.\n\nInfuse an army of automatons with the Sun Goddess's power with this radiant raiment.
-$prefabs_skins_tombraiser_golem_skinset_name=Gleaming Golemancer
-$prefabs_skins_spirittank_mech_skinset_description=A costume for the Revenant.\n\nFight for the future with this maxed-out mechanized armour.
-$prefabs_skins_spirittank_mech_skinset_name=Mk X Spirit Armor
-$prefabs_skins_candybarbarian_permafrost_skinset_description=A costume for the Candy Barbarian.\n\nDon't let the cold stop you from fighting for frozen desserts in this weatherproof outerwear.
-$prefabs_skins_candybarbarian_permafrost_skinset_name=Permafrost Plunderer
-$prefabs_skins_spirittank_permafrost_skinset_description=A costume for the Revenant.\n\nPatrol Permafrost for danger in this snug and stylish suit of fur-lined armor.
-$prefabs_skins_spirittank_permafrost_skinset_name=Snowpeak Sentinel
-$prefabs_skins_tombraiser_nekomancer_skinset_description=A costume for the Tomb Raiser.\n\nFearlessly prowl the night in this categorically cute yet sinisterly slinky outfit.
-$prefabs_skins_tombraiser_nekomancer_skinset_name=Nefarious Nekomancer
-$prefabs_skins_gunslinger_dubslinger_skinset_description=A costume for the Gunslinger.\n\nThe bass won't be the only thing dropping when you walk into town in these dance floor-filling duds.
-$prefabs_skins_gunslinger_dubslinger_skinset_name=Dubstepping Desperado
-$prefabs_skins_neonninja_amperium_skinset_name=Digital Daemon
-$prefabs_skins_neonninja_amperium_skinset_description=A costume for the Neon Ninja.\n\nDon the garb of Neon City's most notorious bounty hunter, but beware, the Amperium detests traitors...
-$prefabs_skins_crimefighter_lvl1_skinset_name=Starter Vanguardian
-$prefabs_skins_crimefighter_lvl2_skinset_name=Level 10 Vanguardian
-$prefabs_skins_crimefighter_lvl3_skinset_name=Level 20 Vanguardian
-$prefabs_skins_crimefighter_lvl4_skinset_name=Level 30 Vanguardian
-$prefabs_skins_crimefighter_resistor_skinset_name=Resistor Vanguard
-$prefabs_skins_crimefighter_resistor_skinset_description=A costume for the Vanguardian.\n\n Take to the front lines of the battle against the Amperium in this enhancing super-suit.
-$prefabs_skins_crimefighter_moonsilver_skinset_name=Gloaming Guardian
-$prefabs_skins_crimefighter_moonsilver_skinset_description=A costume for the Vanguardian.\n\nPerfect for heroic souls who hurtle towards hazards head-on.
-$prefabs_skins_crimefighter_retro_skinset_name=Paragon of the Past
-$prefabs_skins_crimefighter_retro_skinset_description=A costume for the Vanguardian.\n\nClassic colours and patterns place this super suit firmly in the Silver Age of Heroics.
-$prefabs_skins_crimefighter_skullmander_skinset_name=Avenging Arbiter
-$prefabs_skins_crimefighter_skullmander_skinset_description=A costume for the Vanguardian.\n\nTake a walk on the dark side of the Neon City Nights and dole out some vigilante justice.
-$prefabs_skins_crimefighter_purplewhite_skinset_name=Twilight Ranger
-$prefabs_skins_crimefighter_purplewhite_skinset_description=A costume for the Vanguardian.\n\nWalk the fine line between light and shadow, between justice and vengeance, in this ambivalent vigilante outfit.
-$prefabs_skins_crimefighter_void_skinset_name=Vanguard of the Void
-$prefabs_skins_crimefighter_void_skinset_description=A costume for the Vanguardian.\n\nAdvance to nothingness.
-$prefabs_skins_gunslinger_resistor_skinset_description=A costume for the Gunslinger.\n\nFinish your foes off from afar with this power-pumping pistoleer outfit.
-$prefabs_skins_gunslinger_resistor_skinset_name=Resistor Blaster
-$prefabs_skins_knight_resistor_skinset_description=A costume for the Knight.\n\nRide to the rescue with this superpowered battle suit.
-$prefabs_skins_knight_resistor_skinset_name=Resistor Protector
-$prefabs_skins_adventurer_resistor_skinset_description=A costume for the Boomeranger.\n\nKeep your foes on their toes with this surprise-filled super suit.
-$prefabs_skins_adventurer_resistor_skinset_name=Resistor Gadgeteer
-$prefabs_skins_spirittank_resistor_skinset_description=A costume for the Revenant.\n\nDefend your allies from any onslaught in this spirit-infused power armour.
-$prefabs_skins_spirittank_resistor_skinset_name=Resistor Bastion
-$prefabs_skins_tombraiser_resistor_skinset_description=A costume for the Tomb Raiser.\n\nTurn your robotic foes against their overlords with these master manipulator robes.
-$prefabs_skins_tombraiser_resistor_skinset_name=Resistor Dominator
-$prefabs_skins_pirate_resistor_skinset_description=A costume for the Pirate Captain.\n\nSupport your allies with some heavy artillery or wade into the thick of things with this crisp combat uniform.
-$prefabs_skins_pirate_resistor_skinset_name=Resistor Field Commander
-$prefabs_skins_gunslinger_china_skinset_description=A costume for the Gunslinger.\n\nStand out from the crowd with this crimson coating.
-$prefabs_skins_gunslinger_china_skinset_name=Mythical Marksman
-$prefabs_skins_adventurer_astronaut_skinset_description=A costume for the Boomeranger.\n\nFly yourself to the moon.
-$prefabs_skins_adventurer_astronaut_skinset_name=Cubic Cosmonaut
-$prefabs_skins_chloromancer_chess_skinset_description=A costume for the Chloromancer.\n\nTell your enemies checkmate in these grandmaster robes.
-$prefabs_skins_chloromancer_chess_skinset_name=Grandmaster Gardener
-$prefabs_skins_neonninja_lumin_skinset_description=A costume for the Neon Ninja.\n\nNo one will know your identity with this eye-catching outfit.
-$prefabs_skins_neonninja_lumin_skinset_name=Masked Mercenary
-$prefabs_skins_candybarbarian_minotaur_skinset_description=A costume for the Candy Barbarian.\n\nTraverse any maze of twisty little passages, even when they're all alike.
-$prefabs_skins_candybarbarian_minotaur_skinset_name=Maze Mooster
-$prefabs_skins_spirittank_chaos_skinset_description=A costume for the Revenant.\n\nRebel against any defensive expectations.
-$prefabs_skins_spirittank_chaos_skinset_name=Chaotic Construct
-$prefabs_skins_tombraiser_arcanium_skinset_description=A costume for the Tomb Raiser.\n\nConvince the cogs to confront your competitors.
-$prefabs_skins_tombraiser_arcanium_skinset_name=Clockwork Controller
-$prefabs_skins_lunarlancer_jade_skinset_description=A costume for the Lunar Lancer.\n\nSpires Dragoons are charged with guarding the highest peaks.
-$prefabs_skins_lunarlancer_jade_skinset_name=Spires Dragoon
-$prefabs_skins_gunslinger_tuxedo_skinset_description=A costume for the Gunslinger.\n\nThe weather forecast for this high noon is a hail of bullets.
-$prefabs_skins_gunslinger_tuxedo_skinset_name=Tombstone Tempest
-$prefabs_skins_candybarbarian_borkbarian_skinset_description=A costume for the Candy Barbarian.\n\nAppreciate what is best in life, like scritches, treats, and majestic floofs without a hecking concern in the world.
-$prefabs_skins_candybarbarian_borkbarian_skinset_name=Corgian Borkbarian
-$prefabs_skins_candybarbarian_boltblade_skinset_description=A costume for the Candy Barbarian.\n\nChannel Fulguras's might to shocking effect with this set of draconic armour.
-$prefabs_skins_candybarbarian_boltblade_skinset_name=Skysunder Swordmaster
-$prefabs_skins_crimefighter_buffhowlug_skinset_description=A costume for the Vanguardian.\n\nBurst out from the depths of Geode in a howling, feral frenzy.
-$prefabs_skins_crimefighter_buffhowlug_skinset_name=Buff Howlug Berserker
-$prefabs_skins_tombraiser_balefire_skinset_description=A costume for the Tomb Raiser.\n\n Raise up those consumed by Balefire, that they may battle the Shadows once more.
-$prefabs_skins_tombraiser_balefire_skinset_name=Balefire Warlock
-$prefabs_skins_adventurer_geode_skinset_description=A costume for the Boomeranger.\n\nRoam the Geode Topside with Howlugs at your side.
-$prefabs_skins_adventurer_geode_skinset_name=Howlug Handler
-$prefabs_skins_knight_geode_skinset_description=A costume for the Knight.\n\nLook right at home in the Geode Topside as you fight for the Light.
-$prefabs_skins_knight_geode_skinset_name=Topside Templar
-$prefabs_skins_candybarbarian_geode_skinset_description=A costume for the Candy Barbarian.\n\nFace the Shadows without fear in this Sandsea suit.
-$prefabs_skins_candybarbarian_geode_skinset_name=Wasteland Warrior
-$prefabs_skins_crimefighter_geode_skinset_description=A costume for the Vanguardian.\n\nKeep the battle flowing and the punches spicy even while standing still in this suit.
-$prefabs_skins_crimefighter_geode_skinset_name=Dune Defender
-$prefabs_skins_spirittank_geode_skinset_description=A costume for the Revenant.\n\nHaunt the Wastelands in this stylish suit of armor - sealed against the sands!
-$prefabs_skins_spirittank_geode_skinset_name=Sandsea Spirit
-$prefabs_skins_chloromancer_chronomancer_skinset_name=ChronoMancer
-$prefabs_skins_chloromancer_chronomancer_skinset_description=A costume for the Chloromancer.\nTurn Time itself against your enemies!
-$prefabs_skins_spirittank_starforger_skinset_name=Star Forger Revenant
-$prefabs_skins_spirittank_starforger_skinset_description=A costume for the Revenant.\n\nForge Stars in the gravity of your fallen foes.
-$prefabs_skins_shadowhunter_blueranger_skinset_description=Bring sharp retribution to the evil shadowy denizens assaulting Trove.
-$prefabs_skins_shadowhunter_blueranger_skinset_name=Blue Trovian Ranger
-$prefabs_skins_pirate_lord_cold_skinset_description=A costume for the Pirate Captain.\n\nHeart as cold as the northern wind!
-$prefabs_skins_pirate_lord_cold_skinset_name=Captain Cold
-$prefabs_skins_neonninja_evilmonkey_skinset_description=A costume for the Neon Ninja.\n\nBe careful to whom you flash a smile.
-$prefabs_skins_neonninja_evilmonkey_skinset_name=Devilish Simian
-$prefabs_skins_lunarlancer_hydrakken_skinset_description=A costume for the Lunar Lancer.\n\nDon the scales of one of the fiercest beasts known to Trovians!
-$prefabs_skins_lunarlancer_hydrakken_skinset_name=Lancer of the Hydrakken
-$prefabs_skins_knight_enforcederadicator_skinset_description=A costume for the Knight.\n\nDon the regalia of the Eradicators and wipe out evil!
-$prefabs_skins_knight_enforcederadicator_skinset_name=Enforced Eradicator
-$prefabs_skins_icemage_warlockwind_skinset_description=A costume for the Ice Sage.\n\nHarness the strength of the winds to empower you.
-$prefabs_skins_icemage_warlockwind_skinset_name=Warlock of the Wind
-$prefabs_skins_gunslinger_gumball_skinset_description=A costume for the Gunslinger.\n\n"Chew on this!"
-$prefabs_skins_gunslinger_gumball_skinset_name=Gumball Gunner
-$prefabs_skins_faetrickster_necrotrickster_skinset_description=A costume for the Fae Trickster.\n\nThere is no life without death. No creation without destruction.
-$prefabs_skins_faetrickster_necrotrickster_skinset_name=Necrotrickster
-$prefabs_skins_dracolyte_pyromagical_skinset_description=A costume for the Dracolyte.\n\nA Pyromaniac Prestidigitator!
-$prefabs_skins_dracolyte_pyromagical_skinset_name=Pyromagical Prankster
-$prefabs_skins_dinotamer_fabricator_skinset_description=A costume for the Dino Tamer.\n\nA well prepared Fabricator can tame even the most dangerous terrain.
-$prefabs_skins_dinotamer_fabricator_skinset_name=Framework Fabricator
-$prefabs_skins_crimefighter_ignis_skinset_description=A costume for the Vanguardian.\n\nAt the heart of every hero burns an unquenchable fire.
-$prefabs_skins_crimefighter_ignis_skinset_name=Ignis Dracolich
-$prefabs_skins_candybarbarian_demonicinferno_skinset_description=A costume for the Candy Barbarian.\n\nWith enough training, even the sweetest of Candy Barbarians can cultivate an ever-burning furnace of rage.
-$prefabs_skins_candybarbarian_demonicinferno_skinset_name=Demonic Inferno
-$prefabs_skins_adventurer_chaotic_skinset_description=A costume for the Boomeranger.\n\nEnshrouded in chaos, the Chaotic Wanderer enters battle with eyes wide open.
-$prefabs_skins_adventurer_chaotic_skinset_name=Chaotic Wanderer
-$prefabs_skins_tomb_raiser_rabbit_skinset_description=A costume for the Tomb Raiser.\n\nHop into action with your Bunny pals, large and small!
-$prefabs_skins_tomb_raiser_rabbit_skinset_name=Rabbity Raiser
-$StoreProduct_item_skin_icesage_cookiemaker_name=Cookie Conjurer
-$StoreProduct_item_skin_icesage_cookiemaker_description=A Snowfest themed costume for the Ice Sage.
-$prefabs_skins_lunarlancer_karampus_skinset_name=Lederhosen Lancer
-$prefabs_skins_lunarlancer_karampus_skinset_description=A Snowfest themed costume for the Lunar Lancer.\n\nUnleashes your inner beast when angry.
-$StoreProduct_item_skin_fae_trickster_mistletoe_name=Mistletoe Matron
-$StoreProduct_item_skin_fae_trickster_mistletoe_description=A Snowfest themed costume for the Fae Trickster.\n\nHelmet not included.
-$prefabs_skins_crimefighter_snowhelper_skinset_name=Snowfest Slugger
-$prefabs_skins_crimefighter_snowhelper_skinset_description=A Snowfest themed costume for the Vanguardian.
-$prefabs_skins_gunslinger_shamrock_skinset_name=Shamrockin' Slinger
-$prefabs_skins_gunslinger_shamrock_skinset_description=A St. Qubeslick themed costume for the Gunslinger.\n\nReady to Sham-Rock your world.
-$prefabs_skins_fae_trickster_leprechaun_skinset_name=Tricksie Pixie
-$prefabs_skins_fae_trickster_leprechaun_skinset_description=A St. Qubeslick themed costume for the Fae Trickster.\n\nCursed to be cute.
-$prefabs_skins_crimefighter_spring_skinset_name=Van Gardener
-$prefabs_skins_crimefighter_spring_skinset_description=A spring themed costume for the Vanguardian.\n\nReady to take first in the fair.
-$prefabs_skins_neonninja_spring_skinset_name=Precipitation Princess
-$prefabs_skins_neonninja_spring_skinset_description=A spring themed costume for the Neon Ninja.\n\nReady to take on the rain in style.
-$StoreProduct_item_skin_knight_spring_name=Heroic Hydrophobe
-$StoreProduct_item_skin_knight_spring_description=A spring themed costume for the Knight.\n\nReady to take on anything, despite the rain.
-$prefabs_skins_adventurer_scuba_skinset_description=A summer themed costume for the Boomeranger.\n\nDown, down, down we go. What we find? No one knows.
-$prefabs_skins_adventurer_scuba_skinset_name=Hookline Sinker
-$prefabs_skins_dracolyte_rainbow_skinset_name=Dazzling Dracolyte
-$prefabs_skins_dracolyte_rainbow_skinset_description=A colorful costume for the Dracolyte.\n\nDazzles all who behold it.
-$prefabs_skins_crimefighter_sunfest_skinset_name=Golden Vale Guardian
-$prefabs_skins_crimefighter_sunfest_skinset_description=A Golden Vale themed costume for the Vanguardian.
-$StoreProduct_item_skin_icesage_sunfest_name=Panatean Sage
-$StoreProduct_item_skin_icesage_sunfest_description=A Panatea themed costume for the Ice Sage.
-$prefabs_skins_shadowhunter_sunfest_skinset_name=Tysorion Shadow Hunter
-$prefabs_skins_shadowhunter_sunfest_skinset_description=A Tysorion themed costume for the Shadow Hunter.
-$prefabs_skins_shadowhunter_wolfhunter_skinset_name=Wolf Hunter
-$prefabs_skins_shadowhunter_wolfhunter_skinset_desc=A Shadow's Eve themed costume for the Shadow Hunter.\n\nOriginally obtainable during Shadow's Eve 2021.
-$prefabs_skins_lunarlancer_sport_skinset_name=Vaulting Lancer
-$prefabs_skins_lunarlancer_sport_skinset_description=A Sports themed costume for the Lunar Lancer.
-$prefabs_skins_knight_tennis_skinset_name=Love Knight
-$prefabs_skins_knight_tennis_skinset_description=A Sports themed costume for the Knight.
-$prefabs_skins_lunarlancer_proto_skinset_name=PR0T0 LANC-R
-$prefabs_skins_lunarlancer_proto_skinset_description=A robot themed costume for the Lunar Lancer.
-$prefabs_skins_fae_trickster_lunar_skinset_name=Lunar Trickster
-$prefabs_skins_faetrickster_lunar_skinset_description=A Moon Goddess themed costume for the Fae Trickster.
-$prefabs_skins_spirittank_skate_skinset_description=A skater themed costume for the Revenant.
-$prefabs_skins_spirittank_skate_skinset_name=Trovey Squawk, Pro Magrider
-$prefabs_skins_spirittank_pirate_skinset_description=A pirate themed costume for the Revenant.
-$prefabs_skins_spirittank_pirate_skinset_name=Pi-Revenant
-$prefabs_skins_tomb_raiser_pirrot_skinset_description=A pirrot themed costume for the Tomb Raiser.
-$prefabs_skins_tomb_raiser_pirrot_skinset_name=Pirrot Raiser
-$prefabs_skins_adventurer_witch_skinset_description=A Shadow's Eve themed costume for the Boomeranger.\n\nOriginally obtainable during Shadow's Eve 2020.
-$prefabs_skins_adventurer_witch_skinset_name=Broomer-Mage-er
-$prefabs_skins_chloromancer_icecream_skinset_description=A Shadow's Eve themed costume for the Chloromancer.\n\nOriginally obtainable during Shadow's Eve 2020.
-$prefabs_skins_chloromancer_icecream_skinset_name=Candymancer
-$prefabs_skins_gunslinger_imp_skinset_description=A Shadow's Eve themed costume for the Gunslinger.\n\nOriginally obtainable during Shadow's Eve 2020.
-$prefabs_skins_gunslinger_imp_skinset_name=Brimstone Bulleteer
-$prefabs_skins_neonninja_zombie_skinset_description=A Shadow's Eve themed costume for the Neon Ninja.\n\nOriginally obtainable during Shadow's Eve 2020.
-$prefabs_skins_neonninja_zombie_skinset_name=Zippy Zombie
-$prefabs_skins_shadowhunter_scarecrow_skinset_description=A Shadow's Eve themed costume for the Shadow Hunter.\n\nOriginally obtainable during Shadow's Eve 2020.
-$prefabs_skins_shadowhunter_scarecrow_skinset_name=Crow and Scare-row
-$prefabs_skins_knight_gobbler_skinset_name=Gobbler's Guise
-$prefabs_skins_knight_gobbler_skinset_description=A costume for the Knight.\n\nStuff yourself inside this costume, fashionably-festooned-with-feathers!
-$prefabs_skins_icemage_gobbler_skinset_name=Cornucopia
-$prefabs_skins_icemage_gobbler_skinset_description=A costume for the Ice Sage.\n\nBring plenty of pain to each fight with this festive, fruit-filled costume!
-$prefabs_skins_dinotamer_gobbler_skinset_name=Capotain Commander
-$prefabs_skins_dinotamer_gobbler_skinset_description=A costume for the Dino Tamer.\n\nTurtles and beavers and owls, oh my!
-$prefabs_skins_dracolyte_crocolyte_skinset_description=A costume for the Dracolyte.\n\nRock around the croc.
-$prefabs_skins_dracolyte_crocolyte_skinset_name=Crocolyte
-$prefabs_skins_neonninja_leaf_skinset_description=A costume for the Neon Ninja.\n\nNever grow old.
-$prefabs_skins_neonninja_leaf_skinset_name=Steve Skillet
-$prefabs_skins_tombraiser_raverenewus2021_skinset_description=Even old bones can dance the night away.
-$prefabs_skins_tombraiser_raverenewus2021_skinset_name=Rising Dead
-$prefabs_skins_spirittank_raverenewus2021_skinset_description=The life of the party.
-$prefabs_skins_spirittank_raverenewus2021_skinset_name=Party Spirit
-$prefabs_skins_shadowhunter_raverenewus2021_skinset_description=Darkness brings us to the party.
-$prefabs_skins_shadowhunter_raverenewus2021_skinset_name=Raving Hunter
-$prefabs_skins_icemage_hellbug_skinset_name=Heckbugmancer
-$prefabs_skins_icemage_hellbug_skinset_description=A costume for the Ice Sage.\n\nRobes infused with heckbuggy essence.
-$prefabs_skins_pirate_hellbug_skinset_name=The Harbinger of Heck
-$prefabs_skins_pirate_hellbug_skinset_description=A costume for the Pirate Captain.\n\nCrafted from the legendary heckbug that stole their leg.
-$prefabs_skins_faetrickster_hellbug_skinset_name=Fae Heckster
-$prefabs_skins_faetrickster_hellbug_skinset_description=A costume for the Fae Trickster.\n\nReady to help heckbug's find love.
-$prefabs_skins_adventurer_bagpipe_skinset_name=Uisge Warrior
-$prefabs_skins_adventurer_bagpipe_skinset_description=A costume for the Boomeranger.\n\nBravely face the hunt with amazing grace in your tartan.
-$prefabs_skins_crimefighter_hunter_skinset_name=Prince Huntsman
-$prefabs_skins_crimefighter_hunter_skinset_description=A costume for the Vanguardian.\n\nBe the leader of the pack with this antler rack.
-$prefabs_skins_adventurer_redknight_skinset_name=Anointed Ranger of Red
-$prefabs_skins_adventurer_redknight_skinset_description=A costume for the Boomeranger.\n\nHas read and followed all the warnings for optimal results.
-$prefabs_skins_candybarbarian_baboon_skinset_name=Candy Baboorian
-$prefabs_skins_candybarbarian_baboon_skinset_description=A costume for the Candy Barbarian.\n\nTolerates only their own monkey business.
-$prefabs_skins_neonninja_pancake_skinset_name=Sticky Sneakness
-$prefabs_skins_neonninja_pancake_skinset_description=A costume for the Neon Ninja.\n\nSweets you up before you know it, and then you're stuck.
-$prefabs_skins_dinotamer_rustic_skinset_name=Bucolic Beau
-$prefabs_skins_dinotamer_rustic_skinset_description=A costume for the Dino Tamer.\n\nStomp through the valley where you harvest your grain.
-$prefabs_skins_knight_rustic_skinset_name=Pinnacle of Pastorality
-$prefabs_skins_knight_rustic_skinset_description=A costume for the Knight.\n\nDefend the fields from any foe.
-$prefabs_skins_tombraiser_waspider_skinset_description=Entraps them all within his nets.
-$prefabs_skins_tombraiser_waspider_skinset_name=Dark Spinner
-$prefabs_skins_faetrickster_woodduck_skinset_description=The fae-rest duck-est of all!
-$prefabs_skins_faetrickster_woodduck_skinset_name=Fae Duckster
-$prefabs_skins_faetrickster_valor_skinset_description=A costume for the Fae Trickster.\n\nArmor worn by the defenders of the Fae.
-$prefabs_skins_faetrickster_valor_skinset_name=Valorous Garb
-$prefabs_skins_crimefighter_beequeen_skinset_description=Float like a zepperay, sting like a robowasp.
-$prefabs_skins_crimefighter_beequeen_skinset_name=Yellowjacket
-$prefabs_skins_knight_potato_skinset_name=Terrific Tuber
-$prefabs_skins_knight_potato_skinset_description=A costume for the Knight.\n\nSolver of minor and some major problems.
-$prefabs_skins_knight_valor_skinset_name=Refurbished Valorous Armor
-$prefabs_skins_knight_valor_skinset_description=A costume for the Knight.\n\nPowerful armor worn by generations of defenders of the tombs.
-$prefabs_skins_candybarbarian_bathrobe_skinset_name=Traveller's Robe
-$prefabs_skins_candybarbarian_bathrobe_skinset_description=A costume for the Candy Barbarian.\n\nSuitable for all kinds of occasions.
-$prefabs_skins_chloromancer_seawolf_skinset_name=Finn Fisher
-$prefabs_skins_chloromancer_seawolf_skinset_description=A costume for the Chloromancer.\n\nWill fish for things without fins too.
-$prefabs_skins_gunslinger_atlantean_skinset_name=Merfolk King
-$prefabs_skins_gunslinger_atlantean_skinset_description=A costume for the Gunslinger.\n\nRuler of the Undersea kingdoms.
-$prefabs_skins_faetrickster_hammerhead_skinset_name=Hammer of Faete
-$prefabs_skins_faetrickster_hammerhead_skinset_description=Not a tool by design.
-$prefabs_skins_adventurer_panatea_skinset_description=A costume for the Boomeranger.\n\nWhen in doubt, chicken out.
-$prefabs_skins_adventurer_panatea_skinset_name=Panatean Partifier
-$prefabs_skins_chloromancer_carys_skinset_description=A costume for the Chloromancer.\n\nBright as light, light as dawn.
-$prefabs_skins_chloromancer_carys_skinset_name=Carysian Caretaker
-$prefabs_skins_knight_tysorion_skinset_description=You're in the way of my quest, fiend. Begone!
-$prefabs_skins_knight_tysorion_skinset_name=Knight of Tysorion
-$prefabs_skins_bard_lvl1_skinset_name=Starter Bard
-$prefabs_skins_bard_lvl2_skinset_name=Level 10 Bard
-$prefabs_skins_bard_lvl3_skinset_name=Level 20 Bard
-$prefabs_skins_bard_lvl4_skinset_name=Level 30 Bard
-$prefabs_skins_bard_jester_skinset_name=Jolly Jester
-$prefabs_skins_bard_jester_skinset_description=A costume for the Bard.\n\nDo not call her a fool, or you will get schooled.
-$prefabs_skins_bard_lunar_skinset_name=Lunar Lunatic
-$prefabs_skins_bard_lunar_skinset_description=A costume for the Bard.\n\nShowed up to a lunar lancer party trying to blend in.
-$prefabs_skins_bard_dubstyle_skinset_name=DUBBard
-$prefabs_skins_bard_dubstyle_skinset_description=A costume for the Bard.\n\nThis costume makes your beats Harder, Better, Faster, Stronger.
-$prefabs_skins_bard_undertow_skinset_name=Song of the Deep
-$prefabs_skins_bard_undertow_skinset_description=A costume for the Bard.\n\nEmpowered by the underlords of the Deep.
-$prefabs_skins_bard_cyber_skinset_name=Si-ngs-lar
-$prefabs_skins_bard_cyber_skinset_description=A costume for the Bard.\n\nHarvested from A.T.M.O.S.-D-RAC. It looks cool, but doesn't give you a dragon for wearing it.
-$prefabs_skins_bard_actress_skinset_name=Pretend Performer
-$prefabs_skins_bard_actress_skinset_description=A costume for the Bard.\n\nAward-winning (lip sync) battler.
-$prefabs_skins_bard_country_skinset_name=Twangy Clangy
-$prefabs_skins_bard_country_skinset_description=A costume for the Bard.\n\nSweet talkin' sweet rockin' til y'all're off your blocks!
-$prefabs_skins_bard_future_skinset_name=Techno Tenor
-$prefabs_skins_bard_future_skinset_description=A costume for the Bard.\n\nHits all the right notes through auto-tune block!
-$prefabs_skins_bard_grunge_skinset_name=Tremolonely
-$prefabs_skins_bard_grunge_skinset_description=A costume for the Bard.\n\nFeeling lo-lo-lonely.
-$prefabs_skins_bard_norse_skinset_name=Cubix
-$prefabs_skins_bard_norse_skinset_description=A costume for the Bard.\n\nCaterwauling, singing...it's all coming from the heart.
-$prefabs_skins_bard_frost_skinset_name=Rimester
-$prefabs_skins_bard_frost_skinset_description=A costume for the Bard.\n\nWho knew a cover artist combining Vanilla Ice and Frozen could be so successful.
-$prefabs_skins_chloromancer_dionysus_skinset_name=Gamay Grapevineer
-$prefabs_skins_chloromancer_dionysus_skinset_description=A costume for the Chloromancer.\n\nSlays with the power of chardonnay!
-$prefabs_skins_spirittank_poseidon_name=Wave Commander
-$prefabs_skins_spirittank_poseidon_description=A costume for the Revenant.\n\nMaster of the Seas, Oceans, Inlets, Fjords and saltwater Lochs!
-$prefabs_skins_neonninja_hermes_name=Celestial Courier
-$prefabs_skins_neonninja_hermes_description=A costume for the Neon Ninja.\n\nThere is none faster in the heavens, or the earth.
-$prefabs_skins_bard_coffee_skinset_description=A costume for the Bard.\n\n68 ounces of awesome and more.
-$prefabs_skins_bard_coffee_skinset_name=Brew-py
-$prefabs_skins_crimefighter_coffee_skinset_description=A costume for the Vanguardian.\n\nIt's an art!
-$prefabs_skins_crimefighter_coffee_skinset_name=Cafmeister
-$prefabs_skins_dinotamer_coffee_skinset_description=A costume for the Dino Tamer.\n\nThey never tire.
-$prefabs_skins_dinotamer_coffee_skinset_name=Cafcannoneer
-$prefabs_skins_adventurer_werewolf_skinset_name=Harry Ranger Wolfson
-$prefabs_skins_adventurer_werewolf_skinset_description=A costume for the Boomeranger.\n\nA little hairy, but always stylin'.
-$prefabs_skins_tombraiser_demongoat_skinset_name=Goat'Guud's Acolyte
-$prefabs_skins_tombraiser_demongoat_skinset_description=A costume for the Tomb Raiser.\n\nProphetizing the return of the Seasons of Salt.
-$prefabs_skins_dracolyte_vamp_skinset_name=Vampolyte
-$prefabs_skins_dracolyte_vamp_skinset_description=A costume for the Dracolyte.\n\nCheck for the hairy palms at your own risk!
-$prefabs_skins_bard_candycorn_skinset_name=Coro Nivale
-$prefabs_skins_bard_candycorn_skinset_description=A costume for the Bard.\n\nScared of gummy worms despite being from Candoria.
-$prefabs_skins_spirittank_witchdoctor_name=Curse Corrector
-$prefabs_skins_spirittank_witchdoctor_description=A costume for the Revenant.\n\nLike any good witch doctor they write their letters in cursive!
-$prefabs_skins_fae_trickster_cake_name=Layer Cake
-$prefabs_skins_fae_trickster_cake_desc=A costume for the Fae Trickster.\n\nIt's got layers, like an onion.\n\nBut it doesn't taste like an onion!
-$prefabs_skins_neon_ninja_popcorn_name=Popcorn Fanatic
-$prefabs_skins_neon_ninja_popcorn_desc=A costume for the Neon Ninja.\n\nJust loves popcorn and wants to share it with all of Trove.
-$prefabs_skins_pirate_bbq_name=Grill Master
-$prefabs_skins_pirate_bbq_desc=A costume for the Pirate Captain.\n\nGrilling is the game and Grill Master is the name.
-$prefabs_skins_dinotamer_trovesaurus_skinset_description=A costume for the Dino Tamer.\n\nWill the real Sageosaurus please stand up?
-$prefabs_skins_dinotamer_trovesaurus_skinset_name=Saurian Tamer
-$prefabs_skins_chloromancer_snowamancer_skinset_description=A costume for the Chloromancer.\n\nThe cold never bothered them... the plants that is.
-$prefabs_skins_chloromancer_snowamancer_skinset_name=Frozen Gardener
-$prefabs_skins_crimefighter_carrot_skinset_description=A costume for the Vanguardian.\n\nThe cold is nothing to a hero. But a rabbit? Better Q'bthulhu than a bunny.
-$prefabs_skins_crimefighter_carrot_skinset_name=Carrot Champion
-$prefabs_skins_neonninja_lovely_skinset_name=Snow Hare
-$prefabs_skins_neonninja_lovely_skinset_description=A costume for the Neon Ninja.\n\nSnow Hare can be anywhere.
-$prefabs_skins_bard_cookie_skinset_name=Gingerbard
-$prefabs_skins_bard_cookie_skinset_description=A costume for the Bard.\n\nCan't be caught.
-$prefabs_skins_pirate_snowfest_skinset_name=Captain Snowfest
-$prefabs_skins_pirate_snowfest_skinset_description=A costume for the Pirate Captain.\n\nSomewhat wooden in style, but beware the surprises!
-$prefabs_skins_gunslinger_partytiger_skinset_name=Brigadier Baihu
-$prefabs_skins_gunslinger_partytiger_skinset_description=A costume for the Gunslinger.\n\nMember of the W.A.L.T. division.
-$prefabs_skins_bard_rave_skinset_name=B.A.R.D. S
-$prefabs_skins_bard_rave_skinset_description=A costume for the Bard.\n\nBe A Radically Digital Strummer and strum your Digital Strummer with your digits!
-$prefabs_skins_icemage_rave_skinset_name=I.C.E. Rave
-$prefabs_skins_icemage_rave_skinset_description=A costume for the Ice Sage.\n\nDrop the ice to the beat!
-$prefabs_skins_crimefighter_romeo_skinset_name=Trovio
-$prefabs_skins_crimefighter_romeo_skinset_description=A costume for the Vanguardian.\n\nFashioned a tragic hero, they make their own destiny.
-$prefabs_skins_chloromancer_julliet_skinset_name=Cubeliet
-$prefabs_skins_chloromancer_julliet_skinset_description=A costume for the Chloromancer.\n\nHeroicness cubed!
-$prefabs_skins_adventurer_hellbug_skinset_name=Heckbug Harrier
-$prefabs_skins_adventurer_hellbug_skinset_description=A costume for the Boomeranger.\n\nHarrying Heckbugs and other foes is their passion.
-$prefabs_skins_bard_storyteller_skinset_name=Stardream the Narrator
-$prefabs_skins_bard_storyteller_skinset_description=A costume for the Bard.\n\nTheir tales are as grand as their name.
-$prefabs_skins_ice_mage_flower_skinset_name=Florifer
-$prefabs_skins_ice_mage_flower_skinset_description=A costume for the Ice Sage.\n\nThe bringer of spring, the flowering, the bright.
-$prefabs_skins_shadowhunter_sunburn_skinset_name=Fiammit
-$prefabs_skins_shadowhunter_sunburn_skinset_description=A costume for the Shadow Hunter.\n\nThis burning is an eternal flame.
-$prefabs_skins_spirittank_sleepybear_name=Ursinant
-$prefabs_skins_spirittank_sleepybear_description=A costume for the Revenant.\n\nBeary useful to have around.
-$prefabs_skins_bard_kabuki_skinset_name=Kabuki Trouper
-$prefabs_skins_bard_kabuki_skinset_description=A costume for the Bard.\n\nHighly dramatic.
-$prefabs_skins_chloromancer_cherryblossom_skinset_name=Sakura Tender
-$prefabs_skins_chloromancer_cherryblossom_skinset_description=A costume for the Chloromancer.\n\nFloat like a cherry blossom, sting like a cactus.
-$prefabs_skins_candybarbarian_tanabataf_skinset_name=Blossom Barbarian
-$prefabs_skins_candybarbarian_tanabataf_skinset_description=A costume for the Candy Barbarian.\n\nSlice and dice like a blossom on the breeze.
-$prefabs_skins_candybarbarian_tanabatam_skinset_name=Stern Samurai
-$prefabs_skins_candybarbarian_tanabatam_skinset_description=A costume for the Candy Barbarian.\n\nFrown ferociously at your foes.
-$prefabs_skins_bard_bunny_skinset_name=Bunny Bounce-o
-$prefabs_skins_bard_bunny_skinset_desc=A costume for the Bard.\n\nBouncing note to note and song to song all Bunfest long.
-$prefabs_skins_adventurer_artist_skinset_name=Artistic Adventurer
-$prefabs_skins_adventurer_artist_skinset_description=A costume for the Boomeranger.\n\nOnly uses quchik safe paints.
-$prefabs_skins_dinotamer_slime_skinset_name=Slime Tamer
-$prefabs_skins_dinotamer_slime_skinset_description=A costume for the Dino Tamer.\n\nMight otherwise be found trying to arrange quests for dragon ranches.
-$prefabs_skins_neon_ninja_jukebox_skinset_name=Jukebox Jammer
-$prefabs_skins_neon_ninja_jukebox_skinset_description=A costume for the Neon Ninja.\n\nPlaying a game of Not IT Going around the worlds.
-$prefabs_skins_bard_unicorn_skinset_name=Fluff'N'Tuff Bard
-$prefabs_skins_bard_unicorn_skinset_description=A costume for the Bard.\n\nDon't let the fluffy exterior fool you, this bard is here to rock the clouds.
-$prefabs_skins_dinotamer_pool_skinset_name=Pool Buddy Tamer
-$prefabs_skins_dinotamer_pool_skinset_description=A costume for the Dino Tamer.\n\nRubber ducky might be the one, but these inflatable dinosaurs aren't slouches - they're not underinflated!
-$prefabs_skins_bard_punk_skinset_name=Funky Punky Bard
-$prefabs_skins_bard_punk_skinset_description=A costume for the Bard.\n\nAlways starts the song in the key of FUN!
-$prefabs_skins_dracolyte_steampunk_skinset_name=Drac Van Gearsing
-$prefabs_skins_dracolyte_steampunk_skinset_description=A costume for the Dracolyte.\n\nSteam powered through internal combustion.
-$prefabs_skins_lunarlancer_rainbow_skinset_name=Lunar Prism
-$prefabs_skins_lunarlancer_rainbow_skinset_description=A costume for the Lunar Lancer.\n\nShines with all the colors of the moon.
-$prefabs_skins_bard_mime_skinset_name=Silent Singer
-$prefabs_skins_bard_mime_skinset_description=A costume for the Bard.\n\nCreating the sound of silence.
-$prefabs_skins_bard_lemonade_skinset_name=Sweet Side Singer
-$prefabs_skins_bard_lemonade_skinset_description=A costume for the Bard.\n\nWhen life gives you lemons, make lemonade and music.
-$prefabs_skins_spirittank_crab_skinset_name=Crabenant
-$prefabs_skins_spirittank_crab_skinset_description=A costume for the Revenant.\n\nTastes like crab, looks like evolution's inevitable final form.
-$prefabs_skins_pirate_pinata_skinset_name=Party Captain
-$prefabs_skins_pirate_pinata_skinset_description=A costume for the Pirate Captain.\n\nAn expert in using cannons to break open pinatas.
-$prefabs_skins_faetrickster_rubberduck_skinset_name=Rubber Duckie
-$prefabs_skins_faetrickster_rubberduck_skinset_description=A costume for the Fae Trickster.\n\nDrives enemies quackers.
-$prefabs_skins_solarion_lvl1_skinset_name=Starter Solarion
-$prefabs_skins_solarion_lvl2_skinset_name=Level 10 Solarion
-$prefabs_skins_solarion_lvl3_skinset_name=Level 20 Solarion
-$prefabs_skins_solarion_lvl4_skinset_name=Level 30 Solarion
-$prefabs_skins_solarion_floral_skinset_name=Floral Fowler
-$prefabs_skins_solarion_floral_skinset_description=A costume for the Solarion.\n\nWell camouflaged for any lush garden.
-$prefabs_skins_solarion_chaos_skinset_name=Fanatical Phoenix
-$prefabs_skins_solarion_chaos_skinset_description=A costume for the Solarion.\n\nThis phoenix came back...changed.
-$prefabs_skins_solarion_dubstep_skinset_name=DJ Dub Sol
-$prefabs_skins_solarion_dubstep_skinset_description=A costume for the Solarion.\n\nWho knew phoenixes were so good at raising the roof when you drop the beat?
-$prefabs_skins_solarion_moonsilver_skinset_name=Nocturnal Nighthawk
-$prefabs_skins_solarion_moonsilver_skinset_description=A costume for the Solarion.\n\nPerfect for shrouding the power of the phoenix under the cover of night.
-$prefabs_skins_solarion_metal_skinset_name=Crow Crusher
-$prefabs_skins_solarion_metal_skinset_description=A costume for the Solarion.\n\nBrutally crushes anyone in the way with a helpful Crow companion.
-$prefabs_skins_solarion_winter_skinset_name=Frostbitten Falconer
-$prefabs_skins_solarion_winter_skinset_description=A costume for the Solarion.\n\nToo cold for even the Solarion's internal flame to handle.
-$prefabs_skins_dracolyte_sheep_skinset_name=Sheepish Wolf
-$prefabs_skins_dracolyte_sheep_skinset_description=A costume for the Dracolyte.\n\nJust part of the flock with absolutely nothing suspicious.
-$prefabs_skins_fae_trickster_grannywolf_name=Granny Trickster
-$prefabs_skins_fae_trickster_grannywolf_desc=A costume for the Fae Trickster.\n\nJust a humble granny with some big eyes and teeth.
-$prefabs_skins_candybarbarian_redhood_skinset_name=Crimson Cape
-$prefabs_skins_candybarbarian_redhood_skinset_description=A costume for the Candy Barbarian.\n\nDid a little self-rescuing, and now takes the fight to others.
-$prefabs_skins_dinotamer_western_skinset_name=Western Wrangler
-$prefabs_skins_dinotamer_western_skinset_description=A costume for the Dino Tamer.\n\nTaking a little frontier justice to foes.
-$prefabs_skins_gunslinger_western_skinset_name=Six-shootin' Saurian
-$prefabs_skins_gunslinger_western_skinset_description=A costume for the Gunslinger.\n\nJust your friendly local gunslinging dino.
-$prefabs_skins_solarion_western_skinset_name=Jurassic Sheriff
-$prefabs_skins_solarion_western_skinset_description=A costume for the Solarion.\n\nReady to blend in with all the dino loving cowboys.
-$prefabs_skins_solarion_scarab_skinset_name=SolRArian
-$prefabs_skins_solarion_scarab_skinset_description=A costume for the Solarion.\n\nRepresenting all aspects of the sun.
-$prefabs_skins_spirittank_horseman_skinset_name=Hobby Horseman
-$prefabs_skins_spirittank_horseman_skinset_description=A costume for the Revenant.\n\nAlways chasing down cranes and scaring them.
-$prefabs_skins_crimefighter_skeleton_skinset_name=Skeleton Scuffler
-$prefabs_skins_crimefighter_skeleton_skinset_description=A costume for the Vanguardian.\n\nHas broken many bones, but never one of their own.
-$prefabs_skins_crimefighter_nekomaid_skinset_name=Meowy Mecha
-$prefabs_skins_crimefighter_nekomaid_skinset_description=A costume for the Vanguardian.\n\nCan nyan as easily as scratching.
-$prefabs_skins_crimefighter_cruiser_skinset_name=FL1GHT-3R
-$prefabs_skins_crimefighter_cruiser_skinset_description=A costume for the Vanguardian.\n\nSurprisingly good in a scramble.
-$prefabs_skins_knight_fiery_skinset_name=Fiery Champion
-$prefabs_skins_knight_fiery_skinset_description=A costume for the Knight.\n\nFacing foes with focused fire.
-$prefabs_skins_bard_albairn_skinset_name=Albardian
-$prefabs_skins_bard_albairn_skinset_description=A costume for the Bard.\n\nPaying homage to the song of dawn.
-$prefabs_skins_bard_mariachi_skinset_name=Skeliachi
-$prefabs_skins_bard_mariachi_skinset_description=A costume for the Bard.\n\nPlay music to die for.
-$prefabs_skins_bard_pc_skinset_name=B4RD
-$prefabs_skins_bard_pc_skinset_description=A costume for the Bard.\n\nThe soothing sounds of dial-up and hard drives.
-$prefabs_skins_dracolyte_mushroom_skinset_name=Mycellum Master
-$prefabs_skins_dracolyte_mushroom_skinset_description=A costume for the Dracolyte.\n\nPrefers dark environments - the better to show off flames!
-$prefabs_skins_icemage_mech_skinset_name=FrostByte
-$prefabs_skins_icemage_mech_skinset_description=A costume for the Ice Sage.\n\nStay frosty and chill out while taking a byte out of foes.
-$prefabs_skins_pirate_undertow_skinset_name=Chubbster's Captain
-$prefabs_skins_pirate_undertow_skinset_description=A costume for the Pirate Captain.\n\nJust as capable of fighting under the sea as over it.
-$prefabs_skins_faetrickster_bat_skinset_name=Tricksy Bat
-$prefabs_skins_faetrickster_bat_skinset_description=A costume for the Fae Trickster.\n\nSonar proves a natural advantage for perpetrating tricks.
-$prefabs_skins_faetrickster_spooky_skinset_name=Punkin' Prankster
-$prefabs_skins_faetrickster_spooky_skinset_description=A costume for the Fae Trickster.\n\nPulling off pranks with a preferred pinata pal.
-$prefabs_skins_ice_mage_trout_skinset_name=Saltwater Sage
-$prefabs_skins_ice_mage_trout_skinset_description=A costume for the Ice Sage.\n\nAlways found in schools.
-$prefabs_skins_solarion_valkyrie_skinset_name=Northern Nomad
-$prefabs_skins_solarion_valkyrie_skinset_description=A costume for the Solarion.\n\nRoaming around looking for the worthy with the help of their eventual six-legged steed.
-$prefabs_skins_pirate_thunder_skinset_name=Lightning Launcher
-$prefabs_skins_pirate_thunder_skinset_description=A costume for the Pirate Captain.\n\nGiving up an eye was surely worth lighting up foes with lightning and a friendly raven.
-$prefabs_skins_ice_mage_rabbit_skinset_name=Fortuitous Rabbit
-$prefabs_skins_ice_mage_rabbit_skinset_description=A costume for the Ice Sage.\n\nCelebrate for the entire year.
-$prefabs_skins_solarion_ignite_skinset_name=Darkness Drakoneer
-$prefabs_skins_solarion_ignite_skinset_description=A costume for the Solarion.\n\nHunting with their drake while disguised in celebratory darkness.
-$prefabs_skins_crimefighter_bianlian_skinset_name=Face Changing Fighter
-$prefabs_skins_crimefighter_bianlian_skinset_description=A costume for the Vanguardian.\n\nChanges faces almost as fast as the fists fly.
-$prefabs_skins_neon_ninja_classy_skinset_name=Fancy Flipper
-$prefabs_skins_neon_ninja_classy_skinset_description=A costume for the Neon Ninja.\n\nFlip through the world in your fanciest outfit.
-$prefabs_skins_tombraiser_future_skinset_name=Future Raiser
-$prefabs_skins_tombraiser_future_skinset_description=A costume for the Tomb Raiser.\n\nStrike fear into the hearts of the selfish and greedy with a glimpse of the future.
-$prefabs_skins_gunslinger_present_skinset_name=Present Arms
-$prefabs_skins_gunslinger_present_skinset_description=A costume for the Gunslinger.\n\nCelebrate the joy of living in the moment with generosity and goodwill.
-$prefabs_skins_solarion_past_skinset_name=Past Solarion
-$prefabs_skins_solarion_past_skinset_description=A costume for the Solarion.\n\nUsing the past to reclaim the welfare of the future.
-$prefabs_skins_spirittank_xmasdandee_skinset_name=Tubular Animant
-$prefabs_skins_spirittank_xmasdandee_skinset_item_name=Skin: Tubular Animant
-$prefabs_skins_spirittank_xmasdandee_skinset_description=A costume for the Revenant.\n\nSurf's Up, -side down.
-$prefabs_skins_solarion_heckbug_skinset_name=Heckbug Harnesser
-$prefabs_skins_solarion_heckbug_skinset_description=A costume for the Solarion.\n\nIf you can't beat 'em, join 'em.
-$prefabs_skins_gunslinger_heckbug_skinset_name=Heckling Hider
-$prefabs_skins_gunslinger_heckbug_skinset_description=A costume for the Gunslinger.\n\nHiding amongst the horde.
-$prefabs_skins_dracolyte_heckbug_skinset_name=Heckalyte
-$prefabs_skins_dracolyte_heckbug_skinset_description=A costume for the Dracolyte.\n\nBecome the avatar of the heckbugs.
-$prefabs_skins_solarion_eggman_skinset_name=Egg-arion
-$prefabs_skins_solarion_eggman_skinset_item_name=Costume: Egg-arion
-$prefabs_skins_solarion_eggman_skinset_desc=A costume for the Solarion.\n\nThe Solarions mastered the art of camoflauge in the Egglands. It doesn't hurt that King Egon is so fixated looking for bunny ears.
-$prefabs_skins_gunslinger_llama_skinset_name=Spitfire
-$prefabs_skins_gunslinger_llama_skinset_description=A costume for the Gunslinger.\n\nPinpoint accuracy with some questionable ammunition, but will never retire and become a duck.
-$prefabs_skins_crimefighter_shrimp_skinset_name=Showy Smasher
-$prefabs_skins_crimefighter_shrimp_skinset_description=A costume for the Vanguardian.\n\nPacks the strongest wallop of any creature.
-$prefabs_skins_ice_mage_squid_skinset_name=Cuddly Kraken
-$prefabs_skins_ice_mage_squid_skinset_description=A costume for the Ice Sage.\n\nRises from the deep just to get some hugs.
-$prefabs_skins_lunarlancer_tiger_skinset_name=Grrrreat Guardian
-$prefabs_skins_lunarlancer_tiger_skinset_description=A costume for the Lunar Lancer.\n\nRises up to the challenges of any rival.
-$prefabs_skins_neon_ninja_hedgehog_skinset_name=Stabby Speedster
-$prefabs_skins_neon_ninja_hedgehog_skinset_description=A costume for the Neon Ninja.\n\nThe red shoes are the fastest.
-$prefabs_skins_tombraiser_hermitcrab_name=Luncrab
-$prefabs_skins_tombraiser_hermitcrab_description=A costume for the Tomb Raiser.\n\nAttempts to avoid conflict by smelling terrible and hiding away, but will give a mighty pinch when pressured.
-$prefabs_skins_bard_songbird_name=Serenading Songbird
-$prefabs_skins_bard_songbird_description=A costume for the Bard.\n\nBoth singing and playing? What can't this bird do?
-$prefabs_skins_chloromancer_butterfly_name=Benevolent Beauty
-$prefabs_skins_chloromancer_butterfly_description=A costume for the Chloromancer.\n\nOften considered a symbol of good luck.
-$prefabs_skins_dinotamer_opossum_name=Opossum with a Gun
-$prefabs_skins_dinotamer_opossum_description=A costume for the Dino Tamer.\n\nHas gotten tired of playing dead and has now chosen to make its enemies play dead for real.
-$prefabs_skins_knight_penguin_name=Penguin Protector
-$prefabs_skins_knight_penguin_description=A costume for the Knight.\n\nNever underestimate how much a fish slap to the face can hurt.
-$prefabs_skins_shadowhunter_squirrel_skinset_name=Squirrelly Sniper
-$prefabs_skins_shadowhunter_squirrel_skinset_description=A costume for the Shadow Hunter.\n\nThe hunted becomes the hunter.
-$prefabs_skins_spirittank_moth_name=Lamp Lover
-$prefabs_skins_spirittank_moth_description=A costume for the Revenant.\n\nThe self control to not fly into a fire is admirable.
-$prefabs_skins_pirate_cracker_skinset_name=Captain Crackers
-$prefabs_skins_pirate_cracker_skinset_description=A costume for the Pirate Captain.\n\nConsistently cracking calls for consumate carbohydrates.
-$prefabs_skins_candybarbarian_walrus_name=Terrifying Tusker
-$prefabs_skins_candybarbarian_walrus_description=A costume for the Candy Barbarian.\n\nAlways very prepared to do a fish slapping dance...of death!
-$prefabs_skins_adventurer_monkey_skinset_name=Banana Bomber
-$prefabs_skins_adventurer_monkey_skinset_description=A costume for the Boomeranger.\n\nSure to give your enemies a shock!
-$prefabs_skins_faetrickster_piggy_name=Ominous Oinkster
-$prefabs_skins_faetrickster_piggy_description=A costume for the Fae Trickster.\n\nWell...this sure seems to be flying...
-$prefabs_skins_solarion_lemur_name=Lurking Lemur
-$prefabs_skins_solarion_lemur_description=A costume for the Solarion.\n\nAlways ready to celebrate a party by hanging around awkwardly at the edges.
-$prefabs_skins_dracolyte_pufferfish_name=Scaredy Swimmer
-$prefabs_skins_dracolyte_pufferfish_description=A costume for the Dracolyte.\n\nDefinitely much more threatening once scared...and always scared.
+$prefabs_skins_candybarbarian_lvl3_skinset_name»Level 20 Candy Barbarian
+$prefabs_skins_candybarbarian_lvl4_skinset_name»Level 30 Candy Barbarian
+$prefabs_skins_candybarbarian_lvl1_skinset_name»Starter Candy Barbarian
+$prefabs_skins_adventurer_lvl2_skinset_name»Level 10 Boomeranger
+$prefabs_skins_adventurer_lvl1_skinset_name»Starter Boomeranger
+$prefabs_skins_adventurer_lvl3_skinset_name»Level 20 Boomeranger
+$prefabs_skins_adventurer_lvl4_skinset_name»Level 30 Boomeranger
+$prefabs_skins_adventurer_moonsilver_skinset_description»A costume for the Boomeranger.\n\nPerfect for powerhouses packed with surprises.
+$prefabs_skins_adventurer_moonsilver_skinset_name»Dusk Dervish
+$prefabs_skins_candybarbarian_jellybearblue_skinset_name»Blue Gummy Barbearian
+$prefabs_skins_candybarbarian_jellybearblue_skinset_description»A costume for the Candy Barbarian.\n\nChannel the spirit of the mighty Candorian Jelly Bear with this Candy Barbarian costume.
+$prefabs_skins_candybarbarian_jellybearpink_skinset_name»Pink Gummy Barbearian
+$prefabs_skins_candybarbarian_jellybearpink_skinset_description»A costume for the Candy Barbarian.\n\nChannel the spirit of the mighty Candorian Jelly Bear with this Candy Barbarian costume.
+$prefabs_skins_candybarbarian_lvl2_skinset_name»Level 10 Candy Barbarian
+$prefabs_skins_candybarbarian_moonsilver_skinset_description»A costume for the Candy Barbarian.\n\nPerfect for sweet and savage warriors who embrace the lunacy in their hearts.
+$prefabs_skins_candybarbarian_moonsilver_skinset_name»Lunar Berserker
+$prefabs_skins_candybarbarian_snowfest_skinset_name»Santa Barbarian
+$prefabs_skins_candybarbarian_snowfest_skinset_description»A costume for the Candy Barbarian.\n\nBring the slay with this classic costume.
+$prefabs_skins_candybarbarian_yeti_skinset_name»Shaggy Yeti
+$prefabs_skins_candybarbarian_yeti_skinset_description»A costume for the Candy Barbarian.\n\nThe fluffy exterior hides the heart of a beast.
+$prefabs_skins_candybarbarian_krampus_skinset_name»Frigid Fiend
+$prefabs_skins_candybarbarian_krampus_skinset_description»A costume for the Candy Barbarian.\n\nEmbodies the old adage 'No rest for the wicked.'
+$prefabs_skins_chloromancer_cactus_skinset_name»Frontier Phytologist
+$prefabs_skins_chloromancer_christmas_skinset_name»Evergreen Evoker
+$prefabs_skins_chloromancer_christmas_skinset_description»A costume for the Chloromancer.\n\nSow some Snowfest spirit with this festive finery.
+$prefabs_skins_chloromancer_life_skinset_name»Lifetouched Chloromancer
+$prefabs_skins_chloromancer_lvl1_skinset_name»Starter Chloromancer
+$prefabs_skins_chloromancer_lvl2_skinset_name»Level 10 Chloromancer
+$prefabs_skins_chloromancer_lvl3_skinset_name»Level 20 Chloromancer
+$prefabs_skins_chloromancer_lvl4_skinset_name»Level 30 Chloromancer
+$prefabs_skins_chloromancer_spring_skinset_name»Spring Sorceress
+$prefabs_skins_chloromancer_alchemancer_skinset_name»Alchemancer
+$prefabs_skins_chloromancer_alchemancer_skinset_description»A costume for the Chloromancer.\n\nHarness the power of alchemy to explosive effect!
+$prefabs_skins_chloromancer_moonsilver_skinset_name»Crescent Chloromancer
+$prefabs_skins_chloromancer_moonsilver_skinset_description»A costume for the Chloromancer.\n\nPerfect for persevering and benevolent botanists with the brilliance to bring moon-loving blossoms to fruition
+$prefabs_skins_chloromancer_void_skinset_name»Nochlormancer
+$prefabs_skins_chloromancer_void_skinset_description»A costume for the Chloromancer.\n\nFrom the void a flower blooms.
+$prefabs_skins_dinotamer_biker_skinset_description»A costume for the Dino Tamer.\n\nSaurians may be a little more temperamental than a road hog, but a ride is a ride.
+$prefabs_skins_dinotamer_biker_skinset_name»Road Wrangler
+$prefabs_skins_dinotamer_camo_skinset_description»A costume for the Dino Tamer.\n\nIdeal for stalking the one dinosaur that keeps eluding you.
+$prefabs_skins_dinotamer_camo_skinset_name»Jurassic Jungler
+$prefabs_skins_dinotamer_lvl1_skinset_name»Starter Dino Tamer
+$prefabs_skins_dinotamer_lvl2_skinset_name»Level 10 Dino Tamer
+$prefabs_skins_dinotamer_lvl3_skinset_name»Level 20 Dino Tamer
+$prefabs_skins_dinotamer_lvl4_skinset_name»Level 30 Dino Tamer
+$prefabs_skins_dinotamer_steampunk_skinset_description»A costume for the Dino Tamer.\n\nOne moment you're studying fossils, and the next you're hurtling through some wormhole in time and space.
+$prefabs_skins_dinotamer_steampunk_skinset_name»Time-Stranded Paleontologist
+$prefabs_skins_dracolyte_lvl1_skinset_name»Starter Dracolyte
+$prefabs_skins_dracolyte_lvl2_skinset_name»Level 10 Dracolyte
+$prefabs_skins_dracolyte_lvl3_skinset_name»Level 20 Dracolyte
+$prefabs_skins_dracolyte_lvl4_skinset_name»Level 30 Dracolyte
+$prefabs_skins_dracolyte_moonsilver_skinset_description»A costume for the Dracolyte.\n\nPerfect for those who fan the flames of destruction in pursuit of a greater goal.
+$prefabs_skins_dracolyte_moonsilver_skinset_name»Moonfire Mystic
+$prefabs_skins_dracolyte_smore_skinset_name»S'more Sweetness
+$prefabs_skins_dracolyte_smore_skinset_description»A costume for the Dracolyte.\n\nWeaponized marshmallow and chocolate? Yum! How about s'more!
+$prefabs_skins_dracolyte_plumfairy_skinset_name»Plum Powerhouse
+$prefabs_skins_dracolyte_plumfairy_skinset_description»A costume for the Dracolyte.\n\nChannels the power of a legendary Candorian ruler.
+$prefabs_skins_fae_trickster_lvl1_skinset_name»Starter Trickster
+$prefabs_skins_fae_trickster_lvl2_skinset_name»Level 10 Trickster
+$prefabs_skins_fae_trickster_lvl3_skinset_name»Level 20 Trickster
+$prefabs_skins_fae_trickster_lvl4_skinset_name»Level 30 Trickster
+$prefabs_skins_faetrickster_moonsilver_skinset_description»A costume for the Fae Trickster.\n\nPerfect for playing pranks and making mischief in the moonlight.
+$prefabs_skins_faetrickster_moonsilver_skinset_name»Twilight Trickster
+$prefabs_skins_gunslinger_lvl1_skinset_name»Starter Gunslinger
+$prefabs_skins_gunslinger_lvl2_skinset_name»Level 10 Gunslinger
+$prefabs_skins_gunslinger_lvl3_skinset_name»Level 20 Gunslinger
+$prefabs_skins_gunslinger_lvl4_skinset_name»Level 30 Gunslinger
+$prefabs_skins_gunslinger_moonsilver_skinset_description»A costume for the Gunslinger.\n\nPerfect for skillful pistoleers with a propensity for moonlit duels on the stroke of midnight.
+$prefabs_skins_gunslinger_moonsilver_skinset_name»Sunset Slinger
+$prefabs_skins_gunslinger_cowboy_name»Cowboy Gunslinger
+$prefabs_skins_gunslinger_cowboy_description»A costume for the Gunslinger.\n\nYeehaw partners in crime, partners in time.
+$prefabs_skins_ice_mage_lvl1_skinset_name»Starter Ice Sage
+$prefabs_skins_ice_mage_lvl2_skinset_name»Level 10 Ice Sage
+$prefabs_skins_ice_mage_lvl3_skinset_name»Level 20 Ice Sage
+$prefabs_skins_ice_mage_lvl4_skinset_name»Level 30 Ice Sage
+$prefabs_skins_icemage_mermaid_skinset_name»Mermaid
+$prefabs_skins_icemage_mermaid_skinset_description»A costume for the Ice Sage.\n\nYou'll shorely coast through your foes in this get-up!
+$prefabs_skins_icemage_moonsilver_skinset_description»A costume for the Ice Sage.\n\nPerfect for pondering confounding conundrums by candlelight.
+$prefabs_skins_icemage_moonsilver_skinset_name»Selenic Sage
+$prefabs_skins_icemage_feather_name»Dotty Dancer
+$prefabs_skins_icemage_feather_description»A costume for the Ice Sage \n\nDizzy'em with your dazzle!
+$prefabs_skins_knight_defender_skinset_name»Trovian Defender
+$prefabs_skins_knight_defender_skinset_description»A costume for the Knight.\n\nFlaunt some classic colors in the name of justice!
+$prefabs_skins_knight_lvl1_skinset_name»Starter Knight
+$prefabs_skins_knight_lvl2_skinset_name»Level 10 Knight
+$prefabs_skins_knight_lvl3_skinset_name»Level 20 Knight
+$prefabs_skins_knight_lvl4_skinset_name»Level 30 Knight
+$prefabs_skins_knight_moonsilver_skinset_description»A costume for the Knight.\n\nPerfect for exacting punishment in the name of the moon.
+$prefabs_skins_knight_moonsilver_skinset_name»Argent Avenger
+$prefabs_skins_lunarlancer_draccoon_skinset_name»Moon Draccoon
+$prefabs_skins_lunarlancer_draccoon_skinset_description»A costume for the Lunar Lancer.\n\nElite warriors capable of carrying out the most dangerous missions, Draccoons command respect throughout the Goddess's domains.
+$prefabs_skins_lunarlancer_duskrider_skinset_description»A costume for the Lunar Lancer.\n\nDuskrider Dragoons can call upon the power of their mounts to transform into a fearsome hybrid.
+$prefabs_skins_lunarlancer_duskrider_skinset_name»Duskrider Dragoon
+$prefabs_skins_lunarlancer_imp_skinset_description»A costume for the Lunar Lancer.\n\nA devilish costume perfect for punishing those who stray from the light.
+$prefabs_skins_lunarlancer_imp_skinset_name»Impish Tormentor
+$prefabs_skins_lunarlancer_redjack_skinset_description»A costume for the Lunar Lancer.\n\nA boldly-colored costume for fearless seafarers.
+$prefabs_skins_lunarlancer_redjack_skinset_name»Crimson Corsair
+$prefabs_skins_lunarlancer_quberus_skinset_name»Q'rsed Q'berus
+$prefabs_skins_lunarlancer_quberus_skinset_desc»A costume for the Lunar Lancer. \n\nWhen the moon is full the curse takes hold and the wise hide until dawn.
+$prefabs_skins_lunarlancer_lvl1_skinset_name»Starter Lunar Lancer
+$prefabs_skins_lunarlancer_lvl2_skinset_name»Level 10 Lunar Lancer
+$prefabs_skins_lunarlancer_lvl3_skinset_name»Level 20 Lunar Lancer
+$prefabs_skins_lunarlancer_lvl4_skinset_name»Level 30 Lunar Lancer
+$prefabs_skins_lunarlancer_moonsilver_skinset_description»A costume for the Lunar Lancer.\n\nPerfect for protectors whose power surges in prickly predicaments.
+$prefabs_skins_lunarlancer_moonsilver_skinset_name»Lunar Legionnaire
+$prefabs_skins_lunarlancer_firefighter_name»Pyro Fighter
+$prefabs_skins_lunarlancer_firefighter_description» A costume for the Lunar Lancer.\n\nWhatever and wherever the fire, fight it!
+$prefabs_skins_neonninja_moonsilver_skinset_description»A costume for the Neon Ninja.\n\nPerfect for imperceptible prowling under the cover of night.
+$prefabs_skins_neonninja_moonsilver_skinset_name»Midnight Marauder
+$prefabs_skins_neon_ninja_deepblue_skinset_name»Steadfast Striker
+$prefabs_skins_neon_ninja_deepblue_skinset_description»A costume for the Neon Ninja.\n\nStrike hard, strike fast.
+$prefabs_skins_neon_ninja_lvl1_skinset_name»Starter Neon Ninja
+$prefabs_skins_neon_ninja_lvl2_skinset_name»Level 10 Neon Ninja
+$prefabs_skins_neon_ninja_lvl3_skinset_name»Level 20 Neon Ninja
+$prefabs_skins_neon_ninja_lvl4_skinset_name»Level 30 Neon Ninja
+$prefabs_skins_pirate_lord_lvl1_skinset_name»Starter Pirate Captain
+$prefabs_skins_pirate_lord_lvl2_skinset_name»Level 10 Pirate Captain
+$prefabs_skins_pirate_lord_lvl3_skinset_name»Level 20 Pirate Captain
+$prefabs_skins_pirate_lord_lvl4_skinset_name»Level 30 Pirate Captain
+$prefabs_skins_pirate_moonsilver_skinset_description»A costume for the Pirate Captain.\n\nPerfect for pillage and plunder on the moonlit seas.
+$prefabs_skins_pirate_moonsilver_skinset_name»Captain Moonsilver
+$prefabs_skins_pirate_treasuretrovian_skinset_name»Treasure Trovian
+$prefabs_skins_pirate_treasuretrovian_skinset_description»A costume for the Pirate Captain.\n\nOld school adventuring never looked so good!
+$prefabs_skins_pirate_ratking_skinset_name»Rat Royale
+$prefabs_skins_pirate_ratking_skinset_description»A costume for the Pirate Captain.\n\nIn ages past, the Rat Dynasty held sway over vast swaths of Candoria.
+$prefabs_skins_pirate_decoy_rainbow_name»Captain Ray Rainbow
+$prefabs_skins_pirate_decoy_rainbow_description»A costume for the Pirate Captain.\n\nReady to sail the 7 rays of light to the ends of the voids!
+$prefabs_skins_shadowhunter_moonsilver_skinset_description»A costume for the Shadow Hunter.\n\nPerfect for stalking prey under the auspices of the Hunter's Moon.
+$prefabs_skins_shadowhunter_moonsilver_skinset_name»Nightfall Stalker
+$prefabs_skins_shadowhunter_shadowranger_skinset_name»Anarchy Archer
+$prefabs_skins_shadowhunter_shadowranger_skinset_description»A costume for the Shadow Hunter.\n\nCut loose the bonds of sanity and unleash a volley of chaos upon your unsuspecting foes.
+$prefabs_skins_shadowhunter_nutcracker_skinset_name»Nut Cracker
+$prefabs_skins_shadowhunter_nutcracker_skinset_description»A costume for the Shadow Hunter.\n\nFashioned after the warrior who ousted the Rat Dynasty from Candorian lands.
+$prefabs_skins_shadowhunter_moon_skinset_name»Lunar Lotus
+$prefabs_skins_shadowhunter_moon_skinset_description»A costume for the Shadow Hunter.\n\nA sure shot.
+$prefabs_skins_shadow_hunter_lvl1_skinset_name»Starter Shadow Hunter
+$prefabs_skins_shadow_hunter_lvl2_skinset_name»Level 10 Shadow Hunter
+$prefabs_skins_shadow_hunter_lvl3_skinset_name»Level 20 Shadow Hunter
+$prefabs_skins_shadow_hunter_lvl4_skinset_name»Level 30 Shadow Hunter
+$prefabs_skins_spirittank_lvl1_skinset_name»Starter Revenant
+$prefabs_skins_spirittank_lvl2_skinset_name»Level 10 Revenant
+$prefabs_skins_spirittank_lvl3_skinset_name»Level 20 Revenant
+$prefabs_skins_spirittank_lvl4_skinset_name»Level 30 Revenant
+$prefabs_skins_spirittank_magicalgirl_skinset_description»A costume for the Revenant.\n\nThe most mystical myrmidon magic ever did make.
+$prefabs_skins_spirittank_magicalgirl_skinset_name»Super Magical
+$prefabs_skins_spirittank_moonsilver_skinset_description»A costume for the Revenant.\n\nPerfect for those who take a stand against the darkness.
+$prefabs_skins_spirittank_moonsilver_skinset_name»Shadowmoon Shieldmaster
+$prefabs_skins_spirittank_golem_skinset_description»A costume for the Revenant.\n\nAn ancient automaton, tasked with guarding its creator's lab from intruders and interlopers.
+$prefabs_skins_spirittank_golem_skinset_name»Guardian Golem
+$prefabs_skins_spirittank_elf_skinset_description»A costume for the Revenant.\n\nWatches over a top-secret facility with an extremely time-sensitive schedule.
+$prefabs_skins_spirittank_elf_skinset_name»Workshop Watcher
+$prefabs_skins_spirittank_geodegem_name»Occlusion Conclusion
+$prefabs_skins_spirittank_geodegem_description»A costume for the Revenant.\n\nRock that crystal!
+$prefabs_skins_tombraiser_moonsilver_skinset_description»A costume for the Tomb Raiser.\n\nPerfect for apportioning an army of soldiers from a moonlit cemetery.
+$prefabs_skins_tombraiser_moonsilver_skinset_name»Eclipse Evoker
+$prefabs_skins_tomb_raiser_lvl1_skinset_name»Starter Tomb Raiser
+$prefabs_skins_tomb_raiser_lvl2_skinset_name»Level 10 Tomb Raiser
+$prefabs_skins_tomb_raiser_lvl3_skinset_name»Level 20 Tomb Raiser
+$prefabs_skins_tomb_raiser_lvl4_skinset_name»Level 30 Tomb Raiser
+$prefabs_skins_tombraiser_snowman_skinset_description»A costume for the Tomb Raiser.\n\nSummon up a squadron of smiley snowmen to smother your foes.
+$prefabs_skins_tombraiser_snowman_skinset_name»Winter Waker
+$prefabs_skins_dinotamer_cyberian_skinset_description»A costume for the Dino Tamer.\n\nWield technology from your long-forgotten tundra home to survive!
+$prefabs_skins_dinotamer_cyberian_skinset_name»Cyberian Survivor
+$prefabs_skins_dinotamer_moonsilver_skinset_description»A costume for the Dino Tamer.\n\nPerfect for parlaying the night's prowling predators into a pact of partnership
+$prefabs_skins_dinotamer_moonsilver_skinset_name»Twilight Tamer
+$prefabs_skins_adventurer_builder_skinset_name»Blastcap Builder
+$prefabs_skins_adventurer_builder_skinset_description»A costume for the Boomeranger.\n\nBuilds things or blows them up as the situation requires.
+$prefabs_skins_candybarbarian_cubist_skinset_name»Chimeric Cubist
+$prefabs_skins_candybarbarian_cubist_skinset_description»A costume for the Candy Barbarian.\n\nA mirage, an illusion, wrought from primordial chaos and made manifest.
+$prefabs_skins_chloromancer_crystal_skinset_name»Crystal Cultivator
+$prefabs_skins_chloromancer_crystal_skinset_description»A costume for the Chloromancer.\n\nCrystal Cultivators tend to the unique flora of the Shaper's underground realm.
+$prefabs_skins_gunslinger_cyber_skinset_name»ATMOS C-TAC Armor
+$prefabs_skins_gunslinger_cyber_skinset_description»A costume for the Gunslinger.\n\nTilt the balance of battle in your favour with superior armor and armaments.
+$prefabs_skins_icemage_banner_skinset_name»Strife Sage
+$prefabs_skins_icemage_banner_skinset_description»A costume for the Ice Sage.\n\nUpon the fields of war roam I, my staff and banner raised to the sky.
+$prefabs_skins_icemage_jungle_skinset_name»Mesozoic Meteomancer
+$prefabs_skins_icemage_jungle_skinset_description»A costume for the Ice Sage.\n\nIn the sky rocks lies the power to shape the future of the world.
+$prefabs_skins_lunarlancer_shadow_skinset_name»Shadowscorn Saboteur
+$prefabs_skins_lunarlancer_shadow_skinset_description»A costume for the Lunar Lancer.\n\nA vicious covert operative with no qualms about getting their hands dirty.
+$prefabs_skins_neon_ninja_molten_skinset_name»Inferno Infiltrator
+$prefabs_skins_neon_ninja_molten_skinset_description»A costume for the Neon Ninja.\n\nFire is no deterrent when you are this lit.
+$prefabs_skins_shadowhunter_hotshot_skinset_name»Modish Marksman
+$prefabs_skins_shadowhunter_hotshot_skinset_description»A costume for the Shadow Hunter.\n\nBe the envy of all your fashionista friends with these top-tailored threads.
+$prefabs_skins_shadowhunter_royal_skinset_name»Royal Ranger
+$prefabs_skins_shadowhunter_royal_skinset_description»A costume for the Shadow Hunter.\n\nPrincely in stature, yet rugged as the mountains.
+$prefabs_skins_tombraiser_everdark_skinset_name»Everdark Emissary
+$prefabs_skins_tombraiser_everdark_skinset_description»A costume for the Tomb Raiser.\n\nBringing Q'bthulhu's message of madness to the masses since the dawn of time.
+$prefabs_skins_tombraiser_shaper_skinset_description»A costume for the Tomb Raiser.\n\nTransform a common element into an extraordinary fighting force with this ore-iginal outfit.
+$prefabs_skins_tombraiser_shaper_skinset_name»Stone Shaper
+$prefabs_skins_knight_platinum_skinset_description»A costume for the Knight.\n\nA gleaming guardian of justice that abides no evil.
+$prefabs_skins_knight_platinum_skinset_name»Platinum Paladin
+$prefabs_skins_shadowhunter_boltblade_skinset_description»A costume for the Shadow Hunter.\n\nWield the wrath of the heavens, and lay your foes low with thunderous fury.
+$prefabs_skins_shadowhunter_boltblade_skinset_name»Skysunder Sniper
+$prefabs_skins_dinotamer_blocktor_skinset_description»A costume for the Dino Tamer.\n\nNot an actual medical professional, but still manages to save the day, every day.
+$prefabs_skins_dinotamer_blocktor_skinset_name»The Blocktor
+$prefabs_skins_chloromancer_rose_skinset_description»A costume for the Chloromancer.\n\nGrab your crush's attention with a bouquet of beautiful flowers... Or crush your enemies and turn them into fertilizer.
+$prefabs_skins_chloromancer_rose_skinset_name»Rosy Ravisher
+$prefabs_skins_tombraiser_heart_skinset_description»A costume for the Tomb Raiser.\n\nShow your significant other undying love, or teach your enemies to hate the undying.
+$prefabs_skins_tombraiser_heart_skinset_name»Heart Eater
+$prefabs_skins_shadowhunter_cupid_skinset_description»A costume for the Shadow Hunter.\n\nAim for the heart with this enthralling outfit, but keep an eye on what arrows you use.
+$prefabs_skins_shadowhunter_cupid_skinset_name»Amorous Archer
+$prefabs_skins_knight_jfestival_skinset_description»A costume for the Knight.\n\nDish out tasty treats to your friends, or spicy smackdowns to your enemies.
+$prefabs_skins_knight_jfestival_skinset_name»Delicacy Dealer
+$prefabs_skins_candybarbarian_deepsea_skinset_description»A costume for the Candy Barbarian.\n\nThis ingenious design protects the user from physical attacks and deep sea environments.
+$prefabs_skins_candybarbarian_deepsea_skinset_name»Bathys Barbarian
+$prefabs_skins_spirittank_time_skinset_description»A costume for the Revenant.\n\nA timeless automaton tasked with taking the battle to the enemy's doorstep.
+$prefabs_skins_spirittank_time_skinset_name»Chrono Construct
+$prefabs_skins_shadowhunter_rosewood_skinset_description»A costume for the Shadow Hunter.\n\nExemplary in elegance and grace, both on and off the battlefield.
+$prefabs_skins_shadowhunter_rosewood_skinset_name»Rosewood Huntress
+$prefabs_skins_shadowhunter_plasma_skinset_description»A costume for the Shadow Hunter.\n\nAdopt the guise of this plasma-based predator to hunt down your robotic prey in the Neon City.
+$prefabs_skins_shadowhunter_plasma_skinset_name»Photon Phantom
+$prefabs_skins_shadowhunter_berzerker_skinset_description»A costume for the Shadow Hunter.\n\nEverything is a target when all you have is a bow and bad code.
+$prefabs_skins_shadowhunter_berzerker_skinset_name»A.M.O.K. Aimbot
+$prefabs_skins_pirate_space_skinset_description»A costume for the Pirate Captain.\n\nWith the stars out of reach, it is time to take to the seas!
+$prefabs_skins_pirate_space_skinset_name»Star Skipper
+$prefabs_skins_pirate_arcanium_skinset_description»A costume for the Pirate Captain.\n\nPlunder the riches of seas and skies as the commander of a mighty steamship fleet.
+$prefabs_skins_pirate_arcanium_skinset_name»Arcanium Admiral
+$prefabs_skins_neon_ninja_sonic_skinset_description»A costume for the Neon Ninja.\n\nCombine the ways of music and martial arts into a deadly repertoire.
+$prefabs_skins_neon_ninja_sonic_skinset_name»Bushin Beatmaster
+$prefabs_skins_neon_ninja_anubis_skinset_description»A costume for the Neon Ninja.\n\nUsher the souls of the unworthy into the afterlife in this ceremonial armour.
+$prefabs_skins_neon_ninja_anubis_skinset_name»Anubian Assassin
+$prefabs_skins_lunarlancer_golden_skinset_description»A costume for the Lunar Lancer.\n\nGlaivesingers hold watch through the night, and greet Albairn's passing by joining him in song.
+$prefabs_skins_lunarlancer_golden_skinset_name»Golden Glaivesinger
+$prefabs_skins_lunarlancer_deepsea_skinset_description»A costume for the Lunar Lancer.\n\nDeploy at any depth with this distinguished diving suit.
+$prefabs_skins_lunarlancer_deepsea_skinset_name»Demersal Marine
+$prefabs_skins_knight_sultan_skinset_description»A costume for the Knight.\n\nA stylish outfit that will make you stand out against the desert sands.
+$prefabs_skins_knight_sultan_skinset_name»Steel Sultan
+$prefabs_skins_knight_duelist_skinset_description»A costume for the Knight.\n\nDazzle your foes in this fencing outfit with a flair for the dramatic.
+$prefabs_skins_knight_duelist_skinset_name»Dashing Duelist
+$prefabs_skins_gunslinger_jetrider_skinset_description»A costume for the Gunslinger.\n\nNavigate the skies of Neon City as this gun-slinging vigilante.
+$prefabs_skins_gunslinger_jetrider_skinset_name»Jet Jammer
+$prefabs_skins_faetrickster_spring_skinset_description»A costume for the Fae Trickster.\n\nAdd a spot of sunshine to your fae magicks with this radiant reglia.
+$prefabs_skins_faetrickster_spring_skinset_name»Shining Sidhe
+$prefabs_skins_faetrickster_chaos_skinset_description»A costume for the Fae Trickster.\n\nYou can beseech the darkness for power, but who is it answering your invocations?
+$prefabs_skins_faetrickster_chaos_skinset_name»Chaos Cultist
+$prefabs_skins_dracolyte_pinata_skinset_description»A costume for the Dracolyte.\n\nChannel your inner party animal and light the night on fire.
+$prefabs_skins_dracolyte_pinata_skinset_name»Partisan Pinatrician
+$prefabs_skins_dracolyte_fruit_skinset_description»A costume for the Dracolyte.\n\nJuice up your draconic magic with this fruit-melange finery.
+$prefabs_skins_dracolyte_fruit_skinset_name»Macedoine Master
+$prefabs_skins_dinotamer_shadow_skinset_description»A costume for the Dino Tamer.\n\nExert your will over your pack of saurian shadows to devastating effect.
+$prefabs_skins_dinotamer_shadow_skinset_name»Shadow Sauromancer
+$prefabs_skins_dinotamer_pinata_skinset_description»A costume for the Dino Tamer.\n\nPrepped and ready to party after arduous training in a mysterious garden on a faraway island.
+$prefabs_skins_dinotamer_pinata_skinset_name»Pinata Protector
+$prefabs_skins_dinotamer_dragon_skinset_description»A costume for the Dino Tamer.\n\nForce your foes to flee before the might of your personal flight of dragons.
+$prefabs_skins_dinotamer_dragon_skinset_name»Dominating Dracomaster
+$prefabs_skins_dinotamer_diamond_skinset_description»A costume for the Dino Tamer.\n\nCommand a horde of crystalline creatures to bring calamity to your foes.
+$prefabs_skins_dinotamer_diamond_skinset_name»Jeweled Jaeger
+$prefabs_skins_chloromancer_plague_skinset_description»A costume for the Chloromancer.\n\nFight off the festering darkness with science and a bouquet of medicinal plants.
+$prefabs_skins_chloromancer_plague_skinset_name»Plaguepurge Pollinator
+$prefabs_skins_candybarbarian_shogun_skinset_description»A costume for the Candy Barbarian.\n\nWith steel and fire, bring the Sun Goddess's judgement wherever shadows prowl.
+$prefabs_skins_candybarbarian_shogun_skinset_name»Daybreak Daimyo
+$prefabs_skins_candybarbarian_heart_skinset_description»A costume for the Candy Barbarian.\n\nBring redemption to those whose hearts have succumbed to darkness.
+$prefabs_skins_candybarbarian_heart_skinset_name»Darkheart Destroyer
+$prefabs_skins_knight_soulhunter_skinset_description»A costume for the Knight.\n\nThe armor of the notorious Soul Hunter, Sir Cavaris, fallen from the light in the Shores of the Everdark.
+$prefabs_skins_knight_soulhunter_skinset_name»Cavaris Carapace
+$prefabs_skins_tombraiser_weeping_skinset_description»A costume for the Tomb Raiser. \n\nShow your foes their inescapable doom with this visionary fashion statement.
+$prefabs_skins_tombraiser_weeping_skinset_name»Woeful Wisdom
+$prefabs_skins_faetrickster_shadow_skinset_description»A costume for the Fae Trickster. \n\nIt is possible to fight shadow with shadow, but only the lightest of hearts should attempt it.
+$prefabs_skins_faetrickster_shadow_skinset_name»Shadow Sidhe
+$prefabs_skins_dracolyte_pinatagod_skinset_description»A costume for the Dracolyte. \n\nHold within you the scorn of ten thousand innocent souls, and in their name take vengeance.
+$prefabs_skins_dracolyte_pinatagod_skinset_name»Vengeful Avatar
+$prefabs_skins_chloromancer_darknik_skinset_description»A costume for the Chloromancer. \n\nSow your field of spikes, that your foes may reap a sharp rebuke.
+$prefabs_skins_chloromancer_darknik_skinset_name»Spiteful Spikelayer
+$prefabs_skins_lunarlancer_dotm_skinset_description»A costume for the Lunar Lancer.\n\nThis suit of lunar armor is worthy of the Moon Goddess's chosen champion.
+$prefabs_skins_lunarlancer_dotm_skinset_name»Defender of the Moon
+$prefabs_skins_knight_chaos_skinset_description»Raise your sword to the sky, in defiance of mortal, god, and reality itself.
+$prefabs_skins_knight_chaos_skinset_name»Chaos Cavalier
+$prefabs_skins_dinotamer_kami_skinset_description»A costume for the Dino Tamer.\n\nCommune with the Kami and become the vessel of their vengeance with this suit of spirit armor.
+$prefabs_skins_dinotamer_kami_skinset_name»Kami Animist
+$prefabs_skins_adventurer_myth_skinset_description»A costume for the Boomeranger.\n\nShow off your superior hunting skills with this armor wrought from felled fiends.
+$prefabs_skins_adventurer_myth_skinset_name»Beast Battler
+$prefabs_skins_adventurer_undead_skinset_description»A costume for the Boomeranger.\n\nDeath is a common occupational hazard among adventurers, but sometimes you just have to roll with the punches and keep going.
+$prefabs_skins_adventurer_undead_skinset_name»Expired Explorer
+$prefabs_skins_chloromancer_bee_skinset_description»A costume for the Chloromancer.\n\nKeep the battlefield buzzing with a bouquet of bee-witching flowers.
+$prefabs_skins_chloromancer_bee_skinset_name»Hiveoponic Horticulturist
+$prefabs_skins_chloromancer_warlock_skinset_description»A costume for the Chloromancer.\n\nWho needs a garden when the untamed power and beauty of nature lies all around you, ripe for the taking?
+$prefabs_skins_chloromancer_warlock_skinset_name»Wildflower Warlock
+$prefabs_skins_dinotamer_ranger_skinset_description»A costume for the Dino Tamer.\n\nBring primordial justice to the modern age. Go forth, Dinoranger!
+$prefabs_skins_dinotamer_ranger_skinset_name»Green Dinoranger
+$prefabs_skins_gunslinger_bubble_skinset_description»A costume for the Gunslinger.\n\nBurst your enemies' bubbles with this popping gunslinger costume.
+$prefabs_skins_gunslinger_bubble_skinset_name»Bubble Blaster
+$prefabs_skins_lunarlancer_fortras_skinset_description»A costume for the Lunar Lancer.\n\nHeed the call of Fortras and join the battle in this mechanized military outfit.
+$prefabs_skins_lunarlancer_fortras_skinset_name»Heralded Harrier
+$prefabs_skins_pirate_cogforge_skinset_description»A costume for the Pirate Captain.\n\nForge your legend on the high seas with this steamy mechanical ensemble.
+$prefabs_skins_pirate_cogforge_skinset_name»Cogforge Commander
+$prefabs_skins_shadowhunter_cygnus_skinset_description»A costume for the Shadow Hunter.\n\nTake Cygnus's blessing, and with its power bring purification to the shattered world.
+$prefabs_skins_shadowhunter_cygnus_skinset_name»Hallowed Shadow Hunter
+$prefabs_skins_tombraiser_golem_skinset_description»A costume for the Tomb Raiser.\n\nInfuse an army of automatons with the Sun Goddess's power with this radiant raiment.
+$prefabs_skins_tombraiser_golem_skinset_name»Gleaming Golemancer
+$prefabs_skins_spirittank_mech_skinset_description»A costume for the Revenant.\n\nFight for the future with this maxed-out mechanized armour.
+$prefabs_skins_spirittank_mech_skinset_name»Mk X Spirit Armor
+$prefabs_skins_candybarbarian_permafrost_skinset_description»A costume for the Candy Barbarian.\n\nDon't let the cold stop you from fighting for frozen desserts in this weatherproof outerwear.
+$prefabs_skins_candybarbarian_permafrost_skinset_name»Permafrost Plunderer
+$prefabs_skins_spirittank_permafrost_skinset_description»A costume for the Revenant.\n\nPatrol Permafrost for danger in this snug and stylish suit of fur-lined armor.
+$prefabs_skins_spirittank_permafrost_skinset_name»Snowpeak Sentinel
+$prefabs_skins_tombraiser_nekomancer_skinset_description»A costume for the Tomb Raiser.\n\nFearlessly prowl the night in this categorically cute yet sinisterly slinky outfit.
+$prefabs_skins_tombraiser_nekomancer_skinset_name»Nefarious Nekomancer
+$prefabs_skins_gunslinger_dubslinger_skinset_description»A costume for the Gunslinger.\n\nThe bass won't be the only thing dropping when you walk into town in these dance floor-filling duds.
+$prefabs_skins_gunslinger_dubslinger_skinset_name»Dubstepping Desperado
+$prefabs_skins_neonninja_amperium_skinset_name»Digital Daemon
+$prefabs_skins_neonninja_amperium_skinset_description»A costume for the Neon Ninja.\n\nDon the garb of Neon City's most notorious bounty hunter, but beware, the Amperium detests traitors...
+$prefabs_skins_crimefighter_lvl1_skinset_name»Starter Vanguardian
+$prefabs_skins_crimefighter_lvl2_skinset_name»Level 10 Vanguardian
+$prefabs_skins_crimefighter_lvl3_skinset_name»Level 20 Vanguardian
+$prefabs_skins_crimefighter_lvl4_skinset_name»Level 30 Vanguardian
+$prefabs_skins_crimefighter_resistor_skinset_name»Resistor Vanguard
+$prefabs_skins_crimefighter_resistor_skinset_description»A costume for the Vanguardian.\n\n Take to the front lines of the battle against the Amperium in this enhancing super-suit.
+$prefabs_skins_crimefighter_moonsilver_skinset_name»Gloaming Guardian
+$prefabs_skins_crimefighter_moonsilver_skinset_description»A costume for the Vanguardian.\n\nPerfect for heroic souls who hurtle towards hazards head-on.
+$prefabs_skins_crimefighter_retro_skinset_name»Paragon of the Past
+$prefabs_skins_crimefighter_retro_skinset_description»A costume for the Vanguardian.\n\nClassic colours and patterns place this super suit firmly in the Silver Age of Heroics.
+$prefabs_skins_crimefighter_skullmander_skinset_name»Avenging Arbiter
+$prefabs_skins_crimefighter_skullmander_skinset_description»A costume for the Vanguardian.\n\nTake a walk on the dark side of the Neon City Nights and dole out some vigilante justice.
+$prefabs_skins_crimefighter_purplewhite_skinset_name»Twilight Ranger
+$prefabs_skins_crimefighter_purplewhite_skinset_description»A costume for the Vanguardian.\n\nWalk the fine line between light and shadow, between justice and vengeance, in this ambivalent vigilante outfit.
+$prefabs_skins_crimefighter_void_skinset_name»Vanguard of the Void
+$prefabs_skins_crimefighter_void_skinset_description»A costume for the Vanguardian.\n\nAdvance to nothingness.
+$prefabs_skins_gunslinger_resistor_skinset_description»A costume for the Gunslinger.\n\nFinish your foes off from afar with this power-pumping pistoleer outfit.
+$prefabs_skins_gunslinger_resistor_skinset_name»Resistor Blaster
+$prefabs_skins_knight_resistor_skinset_description»A costume for the Knight.\n\nRide to the rescue with this superpowered battle suit.
+$prefabs_skins_knight_resistor_skinset_name»Resistor Protector
+$prefabs_skins_adventurer_resistor_skinset_description»A costume for the Boomeranger.\n\nKeep your foes on their toes with this surprise-filled super suit.
+$prefabs_skins_adventurer_resistor_skinset_name»Resistor Gadgeteer
+$prefabs_skins_spirittank_resistor_skinset_description»A costume for the Revenant.\n\nDefend your allies from any onslaught in this spirit-infused power armour.
+$prefabs_skins_spirittank_resistor_skinset_name»Resistor Bastion
+$prefabs_skins_tombraiser_resistor_skinset_description»A costume for the Tomb Raiser.\n\nTurn your robotic foes against their overlords with these master manipulator robes.
+$prefabs_skins_tombraiser_resistor_skinset_name»Resistor Dominator
+$prefabs_skins_pirate_resistor_skinset_description»A costume for the Pirate Captain.\n\nSupport your allies with some heavy artillery or wade into the thick of things with this crisp combat uniform.
+$prefabs_skins_pirate_resistor_skinset_name»Resistor Field Commander
+$prefabs_skins_gunslinger_china_skinset_description»A costume for the Gunslinger.\n\nStand out from the crowd with this crimson coating.
+$prefabs_skins_gunslinger_china_skinset_name»Mythical Marksman
+$prefabs_skins_adventurer_astronaut_skinset_description»A costume for the Boomeranger.\n\nFly yourself to the moon.
+$prefabs_skins_adventurer_astronaut_skinset_name»Cubic Cosmonaut
+$prefabs_skins_chloromancer_chess_skinset_description»A costume for the Chloromancer.\n\nTell your enemies checkmate in these grandmaster robes.
+$prefabs_skins_chloromancer_chess_skinset_name»Grandmaster Gardener
+$prefabs_skins_neonninja_lumin_skinset_description»A costume for the Neon Ninja.\n\nNo one will know your identity with this eye-catching outfit.
+$prefabs_skins_neonninja_lumin_skinset_name»Masked Mercenary
+$prefabs_skins_candybarbarian_minotaur_skinset_description»A costume for the Candy Barbarian.\n\nTraverse any maze of twisty little passages, even when they're all alike.
+$prefabs_skins_candybarbarian_minotaur_skinset_name»Maze Mooster
+$prefabs_skins_spirittank_chaos_skinset_description»A costume for the Revenant.\n\nRebel against any defensive expectations.
+$prefabs_skins_spirittank_chaos_skinset_name»Chaotic Construct
+$prefabs_skins_tombraiser_arcanium_skinset_description»A costume for the Tomb Raiser.\n\nConvince the cogs to confront your competitors.
+$prefabs_skins_tombraiser_arcanium_skinset_name»Clockwork Controller
+$prefabs_skins_lunarlancer_jade_skinset_description»A costume for the Lunar Lancer.\n\nSpires Dragoons are charged with guarding the highest peaks.
+$prefabs_skins_lunarlancer_jade_skinset_name»Spires Dragoon
+$prefabs_skins_gunslinger_tuxedo_skinset_description»A costume for the Gunslinger.\n\nThe weather forecast for this high noon is a hail of bullets.
+$prefabs_skins_gunslinger_tuxedo_skinset_name»Tombstone Tempest
+$prefabs_skins_candybarbarian_borkbarian_skinset_description»A costume for the Candy Barbarian.\n\nAppreciate what is best in life, like scritches, treats, and majestic floofs without a hecking concern in the world.
+$prefabs_skins_candybarbarian_borkbarian_skinset_name»Corgian Borkbarian
+$prefabs_skins_candybarbarian_boltblade_skinset_description»A costume for the Candy Barbarian.\n\nChannel Fulguras's might to shocking effect with this set of draconic armour.
+$prefabs_skins_candybarbarian_boltblade_skinset_name»Skysunder Swordmaster
+$prefabs_skins_crimefighter_buffhowlug_skinset_description»A costume for the Vanguardian.\n\nBurst out from the depths of Geode in a howling, feral frenzy.
+$prefabs_skins_crimefighter_buffhowlug_skinset_name»Buff Howlug Berserker
+$prefabs_skins_tombraiser_balefire_skinset_description»A costume for the Tomb Raiser.\n\n Raise up those consumed by Balefire, that they may battle the Shadows once more.
+$prefabs_skins_tombraiser_balefire_skinset_name»Balefire Warlock
+$prefabs_skins_adventurer_geode_skinset_description»A costume for the Boomeranger.\n\nRoam the Geode Topside with Howlugs at your side.
+$prefabs_skins_adventurer_geode_skinset_name»Howlug Handler
+$prefabs_skins_knight_geode_skinset_description»A costume for the Knight.\n\nLook right at home in the Geode Topside as you fight for the Light.
+$prefabs_skins_knight_geode_skinset_name»Topside Templar
+$prefabs_skins_candybarbarian_geode_skinset_description»A costume for the Candy Barbarian.\n\nFace the Shadows without fear in this Sandsea suit.
+$prefabs_skins_candybarbarian_geode_skinset_name»Wasteland Warrior
+$prefabs_skins_crimefighter_geode_skinset_description»A costume for the Vanguardian.\n\nKeep the battle flowing and the punches spicy even while standing still in this suit.
+$prefabs_skins_crimefighter_geode_skinset_name»Dune Defender
+$prefabs_skins_spirittank_geode_skinset_description»A costume for the Revenant.\n\nHaunt the Wastelands in this stylish suit of armor - sealed against the sands!
+$prefabs_skins_spirittank_geode_skinset_name»Sandsea Spirit
+$prefabs_skins_chloromancer_chronomancer_skinset_name»ChronoMancer
+$prefabs_skins_chloromancer_chronomancer_skinset_description»A costume for the Chloromancer.\nTurn Time itself against your enemies!
+$prefabs_skins_spirittank_starforger_skinset_name»Star Forgenant
+$prefabs_skins_spirittank_starforger_skinset_description»A costume for the Revenant.\n\nForge Stars in the gravity of your fallen foes.
+$prefabs_skins_shadowhunter_blueranger_skinset_description»Bring sharp retribution to the evil shadowy denizens assaulting Trove.
+$prefabs_skins_shadowhunter_blueranger_skinset_name»Blue Trovian Ranger
+$prefabs_skins_pirate_lord_cold_skinset_description»A costume for the Pirate Captain.\n\nHeart as cold as the northern wind!
+$prefabs_skins_pirate_lord_cold_skinset_name»Captain Cold
+$prefabs_skins_neonninja_evilmonkey_skinset_description»A costume for the Neon Ninja.\n\nBe careful to whom you flash a smile.
+$prefabs_skins_neonninja_evilmonkey_skinset_name»Devilish Simian
+$prefabs_skins_lunarlancer_hydrakken_skinset_description»A costume for the Lunar Lancer.\n\nDon the scales of one of the fiercest beasts known to Trovians!
+$prefabs_skins_lunarlancer_hydrakken_skinset_name»Lancer of the Hydrakken
+$prefabs_skins_knight_enforcederadicator_skinset_description»A costume for the Knight.\n\nDon the regalia of the Eradicators and wipe out evil!
+$prefabs_skins_knight_enforcederadicator_skinset_name»Enforced Eradicator
+$prefabs_skins_icemage_warlockwind_skinset_description»A costume for the Ice Sage.\n\nHarness the strength of the winds to empower you.
+$prefabs_skins_icemage_warlockwind_skinset_name»Warlock of the Wind
+$prefabs_skins_gunslinger_gumball_skinset_description»A costume for the Gunslinger.\n\n"Chew on this!"
+$prefabs_skins_gunslinger_gumball_skinset_name»Gumball Gunner
+$prefabs_skins_faetrickster_necrotrickster_skinset_description»A costume for the Fae Trickster.\n\nThere is no life without death. No creation without destruction.
+$prefabs_skins_faetrickster_necrotrickster_skinset_name»Necrotrickster
+$prefabs_skins_dracolyte_pyromagical_skinset_description»A costume for the Dracolyte.\n\nA Pyromaniac Prestidigitator!
+$prefabs_skins_dracolyte_pyromagical_skinset_name»Pyromagical Prankster
+$prefabs_skins_dinotamer_fabricator_skinset_description»A costume for the Dino Tamer.\n\nA well prepared Fabricator can tame even the most dangerous terrain.
+$prefabs_skins_dinotamer_fabricator_skinset_name»Framework Fabricator
+$prefabs_skins_crimefighter_ignis_skinset_description»A costume for the Vanguardian.\n\nAt the heart of every hero burns an unquenchable fire.
+$prefabs_skins_crimefighter_ignis_skinset_name»Ignis Dracolich
+$prefabs_skins_candybarbarian_demonicinferno_skinset_description»A costume for the Candy Barbarian.\n\nWith enough training, even the sweetest of Candy Barbarians can cultivate an ever-burning furnace of rage.
+$prefabs_skins_candybarbarian_demonicinferno_skinset_name»Demonic Inferno
+$prefabs_skins_adventurer_chaotic_skinset_description»A costume for the Boomeranger.\n\nEnshrouded in chaos, the Chaotic Wanderer enters battle with eyes wide open.
+$prefabs_skins_adventurer_chaotic_skinset_name»Chaotic Wanderer
+$prefabs_skins_tomb_raiser_rabbit_skinset_description»A costume for the Tomb Raiser.\n\nHop into action with your Bunny pals, large and small!
+$prefabs_skins_tomb_raiser_rabbit_skinset_name»Rabbity Raiser
+$StoreProduct_item_skin_icesage_cookiemaker_name»Cookie Conjurer
+$StoreProduct_item_skin_icesage_cookiemaker_description»A Snowfest themed costume for the Ice Sage.
+$prefabs_skins_lunarlancer_karampus_skinset_name»Lederhosen Lancer
+$prefabs_skins_lunarlancer_karampus_skinset_description»A Snowfest themed costume for the Lunar Lancer.\n\nUnleashes your inner beast when angry.
+$StoreProduct_item_skin_fae_trickster_mistletoe_name»Mistletoe Matron
+$StoreProduct_item_skin_fae_trickster_mistletoe_description»A Snowfest themed costume for the Fae Trickster.\n\nHelmet not included.
+$prefabs_skins_crimefighter_snowhelper_skinset_name»Snowfest Slugger
+$prefabs_skins_crimefighter_snowhelper_skinset_description»A Snowfest themed costume for the Vanguardian.
+$prefabs_skins_gunslinger_shamrock_skinset_name»Shamrockin' Slinger
+$prefabs_skins_gunslinger_shamrock_skinset_description»A St. Qubeslick themed costume for the Gunslinger.\n\nReady to Sham-Rock your world.
+$prefabs_skins_fae_trickster_leprechaun_skinset_name»Tricksie Pixie
+$prefabs_skins_fae_trickster_leprechaun_skinset_description»A St. Qubeslick themed costume for the Fae Trickster.\n\nCursed to be cute.
+$prefabs_skins_crimefighter_spring_skinset_name»Van Gardener
+$prefabs_skins_crimefighter_spring_skinset_description»A spring themed costume for the Vanguardian.\n\nReady to take first in the fair.
+$prefabs_skins_neonninja_spring_skinset_name»Precipitation Princess
+$prefabs_skins_neonninja_spring_skinset_description»A spring themed costume for the Neon Ninja.\n\nReady to take on the rain in style.
+$StoreProduct_item_skin_knight_spring_name»Heroic Hydrophobe
+$StoreProduct_item_skin_knight_spring_description»A spring themed costume for the Knight.\n\nReady to take on anything, despite the rain.
+$prefabs_skins_adventurer_scuba_skinset_description»A summer themed costume for the Boomeranger.\n\nDown, down, down we go. What we find? No one knows.
+$prefabs_skins_adventurer_scuba_skinset_name»Hookline Sinker
+$prefabs_skins_dracolyte_rainbow_skinset_name»Dazzling Dracolyte
+$prefabs_skins_dracolyte_rainbow_skinset_description»A colorful costume for the Dracolyte.\n\nDazzles all who behold it.
+$prefabs_skins_crimefighter_sunfest_skinset_name»Golden Vale Guardian
+$prefabs_skins_crimefighter_sunfest_skinset_description»A Golden Vale themed costume for the Vanguardian.
+$StoreProduct_item_skin_icesage_sunfest_name»Panatean Sage
+$StoreProduct_item_skin_icesage_sunfest_description»A Panatea themed costume for the Ice Sage.
+$prefabs_skins_shadowhunter_sunfest_skinset_name»Tysorion Shadow Hunter
+$prefabs_skins_shadowhunter_sunfest_skinset_description»A Tysorion themed costume for the Shadow Hunter.
+$prefabs_skins_shadowhunter_wolfhunter_skinset_name»Wolf Hunter
+$prefabs_skins_shadowhunter_wolfhunter_skinset_desc»A Shadow's Eve themed costume for the Shadow Hunter.\n\nOriginally obtainable during Shadow's Eve 2021.
+$prefabs_skins_lunarlancer_sport_skinset_name»Vaulting Lancer
+$prefabs_skins_lunarlancer_sport_skinset_description»A Sports themed costume for the Lunar Lancer.
+$prefabs_skins_knight_tennis_skinset_name»Love Knight
+$prefabs_skins_knight_tennis_skinset_description»A Sports themed costume for the Knight.
+$prefabs_skins_lunarlancer_proto_skinset_name»PR0T0 LANC-R
+$prefabs_skins_lunarlancer_proto_skinset_description»A robot themed costume for the Lunar Lancer.
+$prefabs_skins_fae_trickster_lunar_skinset_name»Lunar Trickster
+$prefabs_skins_faetrickster_lunar_skinset_description»A Moon Goddess themed costume for the Fae Trickster.
+$prefabs_skins_spirittank_skate_skinset_description»A skater themed costume for the Revenant.
+$prefabs_skins_spirittank_skate_skinset_name»Trovey Squawk, Pro Magrider
+$prefabs_skins_spirittank_pirate_skinset_description»A pirate themed costume for the Revenant.
+$prefabs_skins_spirittank_pirate_skinset_name»Pi-Revenant
+$prefabs_skins_tomb_raiser_pirrot_skinset_description»A pirrot themed costume for the Tomb Raiser.
+$prefabs_skins_tomb_raiser_pirrot_skinset_name»Pirrot Raiser
+$prefabs_skins_adventurer_witch_skinset_description»A Shadow's Eve themed costume for the Boomeranger.\n\nOriginally obtainable during Shadow's Eve 2020.
+$prefabs_skins_adventurer_witch_skinset_name»Broomer-Mage-er
+$prefabs_skins_chloromancer_icecream_skinset_description»A Shadow's Eve themed costume for the Chloromancer.\n\nOriginally obtainable during Shadow's Eve 2020.
+$prefabs_skins_chloromancer_icecream_skinset_name»Candymancer
+$prefabs_skins_gunslinger_imp_skinset_description»A Shadow's Eve themed costume for the Gunslinger.\n\nOriginally obtainable during Shadow's Eve 2020.
+$prefabs_skins_gunslinger_imp_skinset_name»Brimstone Bulleteer
+$prefabs_skins_neonninja_zombie_skinset_description»A Shadow's Eve themed costume for the Neon Ninja.\n\nOriginally obtainable during Shadow's Eve 2020.
+$prefabs_skins_neonninja_zombie_skinset_name»Zippy Zombie
+$prefabs_skins_shadowhunter_scarecrow_skinset_description»A Shadow's Eve themed costume for the Shadow Hunter.\n\nOriginally obtainable during Shadow's Eve 2020.
+$prefabs_skins_shadowhunter_scarecrow_skinset_name»Crow and Scare-row
+$prefabs_skins_knight_gobbler_skinset_name»Gobbler's Guise
+$prefabs_skins_knight_gobbler_skinset_description»A costume for the Knight.\n\nStuff yourself inside this costume, fashionably-festooned-with-feathers!
+$prefabs_skins_icemage_gobbler_skinset_name»Cornucopia
+$prefabs_skins_icemage_gobbler_skinset_description»A costume for the Ice Sage.\n\nBring plenty of pain to each fight with this festive, fruit-filled costume!
+$prefabs_skins_dinotamer_gobbler_skinset_name»Capotain Commander
+$prefabs_skins_dinotamer_gobbler_skinset_description»A costume for the Dino Tamer.\n\nTurtles and beavers and owls, oh my!
+$prefabs_skins_dracolyte_crocolyte_skinset_description»A costume for the Dracolyte.\n\nRock around the croc.
+$prefabs_skins_dracolyte_crocolyte_skinset_name»Crocolyte
+$prefabs_skins_neonninja_leaf_skinset_description»A costume for the Neon Ninja.\n\nNever grow old.
+$prefabs_skins_neonninja_leaf_skinset_name»Steve Skillet
+$prefabs_skins_tombraiser_raverenewus2021_skinset_description»Even old bones can dance the night away.
+$prefabs_skins_tombraiser_raverenewus2021_skinset_name»Rising Dead
+$prefabs_skins_spirittank_raverenewus2021_skinset_description»The life of the party.
+$prefabs_skins_spirittank_raverenewus2021_skinset_name»Party Spirit
+$prefabs_skins_shadowhunter_raverenewus2021_skinset_description»Darkness brings us to the party.
+$prefabs_skins_shadowhunter_raverenewus2021_skinset_name»Raving Hunter
+$prefabs_skins_icemage_hellbug_skinset_name»Heckbugmancer
+$prefabs_skins_icemage_hellbug_skinset_description»A costume for the Ice Sage.\n\nRobes infused with heckbuggy essence.
+$prefabs_skins_pirate_hellbug_skinset_name»The Harbinger of Heck
+$prefabs_skins_pirate_hellbug_skinset_description»A costume for the Pirate Captain.\n\nCrafted from the legendary heckbug that stole their leg.
+$prefabs_skins_faetrickster_hellbug_skinset_name»Fae Heckster
+$prefabs_skins_faetrickster_hellbug_skinset_description»A costume for the Fae Trickster.\n\nReady to help heckbug's find love.
+$prefabs_skins_adventurer_bagpipe_skinset_name»Uisge Warrior
+$prefabs_skins_adventurer_bagpipe_skinset_description»A costume for the Boomeranger.\n\nBravely face the hunt with amazing grace in your tartan.
+$prefabs_skins_crimefighter_hunter_skinset_name»Prince Huntsman
+$prefabs_skins_crimefighter_hunter_skinset_description»A costume for the Vanguardian.\n\nBe the leader of the pack with this antler rack.
+$prefabs_skins_adventurer_redknight_skinset_name»Anointed Ranger of Red
+$prefabs_skins_adventurer_redknight_skinset_description»A costume for the Boomeranger.\n\nHas read and followed all the warnings for optimal results.
+$prefabs_skins_candybarbarian_baboon_skinset_name»Candy Baboorian
+$prefabs_skins_candybarbarian_baboon_skinset_description»A costume for the Candy Barbarian.\n\nTolerates only their own monkey business.
+$prefabs_skins_neonninja_pancake_skinset_name»Sticky Sneakness
+$prefabs_skins_neonninja_pancake_skinset_description»A costume for the Neon Ninja.\n\nSweets you up before you know it, and then you're stuck.
+$prefabs_skins_dinotamer_rustic_skinset_name»Bucolic Beau
+$prefabs_skins_dinotamer_rustic_skinset_description»A costume for the Dino Tamer.\n\nStomp through the valley where you harvest your grain.
+$prefabs_skins_knight_rustic_skinset_name»Pinnacle of Pastorality
+$prefabs_skins_knight_rustic_skinset_description»A costume for the Knight.\n\nDefend the fields from any foe.
+$prefabs_skins_tombraiser_waspider_skinset_description»Entraps them all within his nets.
+$prefabs_skins_tombraiser_waspider_skinset_name»Dark Spinner
+$prefabs_skins_faetrickster_woodduck_skinset_description»The fae-rest duck-est of all!
+$prefabs_skins_faetrickster_woodduck_skinset_name»Fae Duckster
+$prefabs_skins_faetrickster_valor_skinset_description»A costume for the Fae Trickster.\n\nArmor worn by the defenders of the Fae.
+$prefabs_skins_faetrickster_valor_skinset_name»Valorous Garb
+$prefabs_skins_crimefighter_beequeen_skinset_description»Float like a zepperay, sting like a robowasp.
+$prefabs_skins_crimefighter_beequeen_skinset_name»Yellowjacket
+$prefabs_skins_knight_potato_skinset_name»Terrific Tuber
+$prefabs_skins_knight_potato_skinset_description»A costume for the Knight.\n\nSolver of minor and some major problems.
+$prefabs_skins_knight_valor_skinset_name»Refurbished Valorous Armor
+$prefabs_skins_knight_valor_skinset_description»A costume for the Knight.\n\nPowerful armor worn by generations of defenders of the tombs.
+$prefabs_skins_candybarbarian_bathrobe_skinset_name»Traveller's Robe
+$prefabs_skins_candybarbarian_bathrobe_skinset_description»A costume for the Candy Barbarian.\n\nSuitable for all kinds of occasions.
+$prefabs_skins_chloromancer_seawolf_skinset_name»Finn Fisher
+$prefabs_skins_chloromancer_seawolf_skinset_description»A costume for the Chloromancer.\n\nWill fish for things without fins too.
+$prefabs_skins_gunslinger_atlantean_skinset_name»Merfolk King
+$prefabs_skins_gunslinger_atlantean_skinset_description»A costume for the Gunslinger.\n\nRuler of the Undersea kingdoms.
+$prefabs_skins_faetrickster_hammerhead_skinset_name»Hammer of Faete
+$prefabs_skins_faetrickster_hammerhead_skinset_description»Not a tool by design.
+$prefabs_skins_adventurer_panatea_skinset_description»A costume for the Boomeranger.\n\nWhen in doubt, chicken out.
+$prefabs_skins_adventurer_panatea_skinset_name»Panatean Partifier
+$prefabs_skins_chloromancer_carys_skinset_description»A costume for the Chloromancer.\n\nBright as light, light as dawn.
+$prefabs_skins_chloromancer_carys_skinset_name»Carysian Caretaker
+$prefabs_skins_knight_tysorion_skinset_description»You're in the way of my quest, fiend. Begone!
+$prefabs_skins_knight_tysorion_skinset_name»Knight of Tysorion
+$prefabs_skins_bard_lvl1_skinset_name»Starter Bard
+$prefabs_skins_bard_lvl2_skinset_name»Level 10 Bard
+$prefabs_skins_bard_lvl3_skinset_name»Level 20 Bard
+$prefabs_skins_bard_lvl4_skinset_name»Level 30 Bard
+$prefabs_skins_bard_jester_skinset_name»Jolly Jester
+$prefabs_skins_bard_jester_skinset_description»A costume for the Bard.\n\nDo not call her a fool, or you will get schooled.
+$prefabs_skins_bard_lunar_skinset_name»Lunar Lunatic
+$prefabs_skins_bard_lunar_skinset_description»A costume for the Bard.\n\nShowed up to a lunar lancer party trying to blend in.
+$prefabs_skins_bard_dubstyle_skinset_name»DUBBard
+$prefabs_skins_bard_dubstyle_skinset_description»A costume for the Bard.\n\nThis costume makes your beats Harder, Better, Faster, Stronger.
+$prefabs_skins_bard_undertow_skinset_name»Song of the Deep
+$prefabs_skins_bard_undertow_skinset_description»A costume for the Bard.\n\nEmpowered by the underlords of the Deep.
+$prefabs_skins_bard_cyber_skinset_name»Si-ngs-lar
+$prefabs_skins_bard_cyber_skinset_description»A costume for the Bard.\n\nHarvested from A.T.M.O.S.-D-RAC. It looks cool, but doesn't give you a dragon for wearing it.
+$prefabs_skins_bard_actress_skinset_name»Pretend Performer
+$prefabs_skins_bard_actress_skinset_description»A costume for the Bard.\n\nAward-winning (lip sync) battler.
+$prefabs_skins_bard_country_skinset_name»Twangy Clangy
+$prefabs_skins_bard_country_skinset_description»A costume for the Bard.\n\nSweet talkin' sweet rockin' til y'all're off your blocks!
+$prefabs_skins_bard_future_skinset_name»Techno Tenor
+$prefabs_skins_bard_future_skinset_description»A costume for the Bard.\n\nHits all the right notes through auto-tune block!
+$prefabs_skins_bard_grunge_skinset_name»Tremolonely
+$prefabs_skins_bard_grunge_skinset_description»A costume for the Bard.\n\nFeeling lo-lo-lonely.
+$prefabs_skins_bard_norse_skinset_name»Cubix
+$prefabs_skins_bard_norse_skinset_description»A costume for the Bard.\n\nCaterwauling, singing...it's all coming from the heart.
+$prefabs_skins_bard_frost_skinset_name»Rimester
+$prefabs_skins_bard_frost_skinset_description»A costume for the Bard.\n\nWho knew a cover artist combining Vanilla Ice and Frozen could be so successful.
+$prefabs_skins_chloromancer_dionysus_skinset_name»Gamay Grapevineer
+$prefabs_skins_chloromancer_dionysus_skinset_description»A costume for the Chloromancer.\n\nSlays with the power of chardonnay!
+$prefabs_skins_spirittank_poseidon_name»Wave Commander
+$prefabs_skins_spirittank_poseidon_description»A costume for the Revenant.\n\nMaster of the Seas, Oceans, Inlets, Fjords and saltwater Lochs!
+$prefabs_skins_neonninja_hermes_name»Celestial Courier
+$prefabs_skins_neonninja_hermes_description»A costume for the Neon Ninja.\n\nThere is none faster in the heavens, or the earth.
+$prefabs_skins_bard_coffee_skinset_description»A costume for the Bard.\n\n68 ounces of awesome and more.
+$prefabs_skins_bard_coffee_skinset_name»Brew-py
+$prefabs_skins_crimefighter_coffee_skinset_description»A costume for the Vanguardian.\n\nIt's an art!
+$prefabs_skins_crimefighter_coffee_skinset_name»Cafmeister
+$prefabs_skins_dinotamer_coffee_skinset_description»A costume for the Dino Tamer.\n\nThey never tire.
+$prefabs_skins_dinotamer_coffee_skinset_name»Cafcannoneer
+$prefabs_skins_adventurer_werewolf_skinset_name»Harry Ranger Wolfson
+$prefabs_skins_adventurer_werewolf_skinset_description»A costume for the Boomeranger.\n\nA little hairy, but always stylin'.
+$prefabs_skins_tombraiser_demongoat_skinset_name»Goat'Guud's Acolyte
+$prefabs_skins_tombraiser_demongoat_skinset_description»A costume for the Tomb Raiser.\n\nProphetizing the return of the Seasons of Salt.
+$prefabs_skins_dracolyte_vamp_skinset_name»Vampolyte
+$prefabs_skins_dracolyte_vamp_skinset_description»A costume for the Dracolyte.\n\nCheck for the hairy palms at your own risk!
+$prefabs_skins_bard_candycorn_skinset_name»Coro Nivale
+$prefabs_skins_bard_candycorn_skinset_description»A costume for the Bard.\n\nScared of gummy worms despite being from Candoria.
+$prefabs_skins_spirittank_witchdoctor_name»Curse Corrector
+$prefabs_skins_spirittank_witchdoctor_description»A costume for the Revenant.\n\nLike any good witch doctor they write their letters in cursive!
+$prefabs_skins_fae_trickster_cake_name»Layer Cake
+$prefabs_skins_fae_trickster_cake_desc»A costume for the Fae Trickster.\n\nIt's got layers, like an onion.\n\nBut it doesn't taste like an onion!
+$prefabs_skins_neon_ninja_popcorn_name»Popcorn Fanatic
+$prefabs_skins_neon_ninja_popcorn_desc»A costume for the Neon Ninja.\n\nJust loves popcorn and wants to share it with all of Trove.
+$prefabs_skins_pirate_bbq_name»Grill Master
+$prefabs_skins_pirate_bbq_desc»A costume for the Pirate Captain.\n\nGrilling is the game and Grill Master is the name.
+$prefabs_skins_dinotamer_trovesaurus_skinset_description»A costume for the Dino Tamer.\n\nWill the real Sageosaurus please stand up?
+$prefabs_skins_dinotamer_trovesaurus_skinset_name»Saurian Tamer
+$prefabs_skins_chloromancer_snowamancer_skinset_description»A costume for the Chloromancer.\n\nThe cold never bothered them... the plants that is.
+$prefabs_skins_chloromancer_snowamancer_skinset_name»Frozen Gardener
+$prefabs_skins_crimefighter_carrot_skinset_description»A costume for the Vanguardian.\n\nThe cold is nothing to a hero. But a rabbit? Better Q'bthulhu than a bunny.
+$prefabs_skins_crimefighter_carrot_skinset_name»Carrot Champion
+$prefabs_skins_neonninja_lovely_skinset_name»Snow Hare
+$prefabs_skins_neonninja_lovely_skinset_description»A costume for the Neon Ninja.\n\nSnow Hare can be anywhere.
+$prefabs_skins_bard_cookie_skinset_name»Gingerbard
+$prefabs_skins_bard_cookie_skinset_description»A costume for the Bard.\n\nCan't be caught.
+$prefabs_skins_pirate_snowfest_skinset_name»Captain Snowfest
+$prefabs_skins_pirate_snowfest_skinset_description»A costume for the Pirate Captain.\n\nSomewhat wooden in style, but beware the surprises!
+$prefabs_skins_gunslinger_partytiger_skinset_name»Brigadier Baihu
+$prefabs_skins_gunslinger_partytiger_skinset_description»A costume for the Gunslinger.\n\nMember of the W.A.L.T. division.
+$prefabs_skins_bard_rave_skinset_name»B.A.R.D.
+$prefabs_skins_bard_rave_skinset_description»A costume for the Bard.\n\nBe A Radically Digital Strummer and strum your Digital Strummer with your digits!
+$prefabs_skins_icemage_rave_skinset_name»I.C.E. Rave
+$prefabs_skins_icemage_rave_skinset_description»A costume for the Ice Sage.\n\nDrop the ice to the beat!
+$prefabs_skins_crimefighter_romeo_skinset_name»Trovio
+$prefabs_skins_crimefighter_romeo_skinset_description»A costume for the Vanguardian.\n\nFashioned a tragic hero, they make their own destiny.
+$prefabs_skins_chloromancer_julliet_skinset_name»Cubeliet
+$prefabs_skins_chloromancer_julliet_skinset_description»A costume for the Chloromancer.\n\nHeroicness cubed!
+$prefabs_skins_adventurer_hellbug_skinset_name»Heckbug Harrier
+$prefabs_skins_adventurer_hellbug_skinset_description»A costume for the Boomeranger.\n\nHarrying Heckbugs and other foes is their passion.
+$prefabs_skins_bard_storyteller_skinset_name»Stardream the Narrator
+$prefabs_skins_bard_storyteller_skinset_description»A costume for the Bard.\n\nTheir tales are as grand as their name.
+$prefabs_skins_ice_mage_flower_skinset_name»Florifer
+$prefabs_skins_ice_mage_flower_skinset_description»A costume for the Ice Sage.\n\nThe bringer of spring, the flowering, the bright.
+$prefabs_skins_shadowhunter_sunburn_skinset_name»Fiammit
+$prefabs_skins_shadowhunter_sunburn_skinset_description»A costume for the Shadow Hunter.\n\nThis burning is an eternal flame.
+$prefabs_skins_spirittank_sleepybear_name»Ursinant
+$prefabs_skins_spirittank_sleepybear_description»A costume for the Revenant.\n\nBeary useful to have around.
+$prefabs_skins_bard_kabuki_skinset_name»Kabuki Trouper
+$prefabs_skins_bard_kabuki_skinset_description»A costume for the Bard.\n\nHighly dramatic.
+$prefabs_skins_chloromancer_cherryblossom_skinset_name»Sakura Tender
+$prefabs_skins_chloromancer_cherryblossom_skinset_description»A costume for the Chloromancer.\n\nFloat like a cherry blossom, sting like a cactus.
+$prefabs_skins_candybarbarian_tanabataf_skinset_name»Blossom Barbarian
+$prefabs_skins_candybarbarian_tanabataf_skinset_description»A costume for the Candy Barbarian.\n\nSlice and dice like a blossom on the breeze.
+$prefabs_skins_candybarbarian_tanabatam_skinset_name»Stern Samurai
+$prefabs_skins_candybarbarian_tanabatam_skinset_description»A costume for the Candy Barbarian.\n\nFrown ferociously at your foes.
+$prefabs_skins_bard_bunny_skinset_name»Bunny Bounce-o
+$prefabs_skins_bard_bunny_skinset_desc»A costume for the Bard.\n\nBouncing note to note and song to song all Bunfest long.
+$prefabs_skins_adventurer_artist_skinset_name»Artistic Adventurer
+$prefabs_skins_adventurer_artist_skinset_description»A costume for the Boomeranger.\n\nOnly uses quchik safe paints.
+$prefabs_skins_dinotamer_slime_skinset_name»Slime Tamer
+$prefabs_skins_dinotamer_slime_skinset_description»A costume for the Dino Tamer.\n\nMight otherwise be found trying to arrange quests for dragon ranches.
+$prefabs_skins_neon_ninja_jukebox_skinset_name»Jukebox Jammer
+$prefabs_skins_neon_ninja_jukebox_skinset_description»A costume for the Neon Ninja.\n\nPlaying a game of Not IT Going around the worlds.
+$prefabs_skins_bard_unicorn_skinset_name»Fluff'N'Tuff Bard
+$prefabs_skins_bard_unicorn_skinset_description»A costume for the Bard.\n\nDon't let the fluffy exterior fool you, this bard is here to rock the clouds.
+$prefabs_skins_dinotamer_pool_skinset_name»Pool Buddy Tamer
+$prefabs_skins_dinotamer_pool_skinset_description»A costume for the Dino Tamer.\n\nRubber ducky might be the one, but these inflatable dinosaurs aren't slouches - they're not underinflated!
+$prefabs_skins_bard_punk_skinset_name»Funky Punky Bard
+$prefabs_skins_bard_punk_skinset_description»A costume for the Bard.\n\nAlways starts the song in the key of FUN!
+$prefabs_skins_dracolyte_steampunk_skinset_name»Drac Van Gearsing
+$prefabs_skins_dracolyte_steampunk_skinset_description»A costume for the Dracolyte.\n\nSteam powered through internal combustion.
+$prefabs_skins_lunarlancer_rainbow_skinset_name»Lunar Prism
+$prefabs_skins_lunarlancer_rainbow_skinset_description»A costume for the Lunar Lancer.\n\nShines with all the colors of the moon.
+$prefabs_skins_bard_mime_skinset_name»Silent Singer
+$prefabs_skins_bard_mime_skinset_description»A costume for the Bard.\n\nCreating the sound of silence.
+$prefabs_skins_bard_lemonade_skinset_name»Sweet Side Singer
+$prefabs_skins_bard_lemonade_skinset_description»A costume for the Bard.\n\nWhen life gives you lemons, make lemonade and music.
+$prefabs_skins_spirittank_crab_skinset_name»Crabenant
+$prefabs_skins_spirittank_crab_skinset_description»A costume for the Revenant.\n\nTastes like crab, looks like evolution's inevitable final form.
+$prefabs_skins_pirate_pinata_skinset_name»Party Captain
+$prefabs_skins_pirate_pinata_skinset_description»A costume for the Pirate Captain.\n\nAn expert in using cannons to break open pinatas.
+$prefabs_skins_faetrickster_rubberduck_skinset_name»Rubber Duckie
+$prefabs_skins_faetrickster_rubberduck_skinset_description»A costume for the Fae Trickster.\n\nDrives enemies quackers.
+$prefabs_skins_solarion_lvl1_skinset_name»Starter Solarion
+$prefabs_skins_solarion_lvl2_skinset_name»Level 10 Solarion
+$prefabs_skins_solarion_lvl3_skinset_name»Level 20 Solarion
+$prefabs_skins_solarion_lvl4_skinset_name»Level 30 Solarion
+$prefabs_skins_solarion_floral_skinset_name»Floral Fowler
+$prefabs_skins_solarion_floral_skinset_description»A costume for the Solarion.\n\nWell camouflaged for any lush garden.
+$prefabs_skins_solarion_chaos_skinset_name»Fanatical Phoenix
+$prefabs_skins_solarion_chaos_skinset_description»A costume for the Solarion.\n\nThis phoenix came back...changed.
+$prefabs_skins_solarion_dubstep_skinset_name»DJ Dub Sol
+$prefabs_skins_solarion_dubstep_skinset_description»A costume for the Solarion.\n\nWho knew phoenixes were so good at raising the roof when you drop the beat?
+$prefabs_skins_solarion_moonsilver_skinset_name»Nocturnal Nighthawk
+$prefabs_skins_solarion_moonsilver_skinset_description»A costume for the Solarion.\n\nPerfect for shrouding the power of the phoenix under the cover of night.
+$prefabs_skins_solarion_metal_skinset_name»Crow Crusher
+$prefabs_skins_solarion_metal_skinset_description»A costume for the Solarion.\n\nBrutally crushes anyone in the way with a helpful Crow companion.
+$prefabs_skins_solarion_winter_skinset_name»Frostbitten Falconer
+$prefabs_skins_solarion_winter_skinset_description»A costume for the Solarion.\n\nToo cold for even the Solarion's internal flame to handle.
+$prefabs_skins_dracolyte_sheep_skinset_name»Sheepish Wolf
+$prefabs_skins_dracolyte_sheep_skinset_description»A costume for the Dracolyte.\n\nJust part of the flock with absolutely nothing suspicious.
+$prefabs_skins_fae_trickster_grannywolf_name»Granny Trickster
+$prefabs_skins_fae_trickster_grannywolf_desc»A costume for the Fae Trickster.\n\nJust a humble granny with some big eyes and teeth.
+$prefabs_skins_candybarbarian_redhood_skinset_name»Crimson Cape
+$prefabs_skins_candybarbarian_redhood_skinset_description»A costume for the Candy Barbarian.\n\nDid a little self-rescuing, and now takes the fight to others.
+$prefabs_skins_dinotamer_western_skinset_name»Western Wrangler
+$prefabs_skins_dinotamer_western_skinset_description»A costume for the Dino Tamer.\n\nTaking a little frontier justice to foes.
+$prefabs_skins_gunslinger_western_skinset_name»Six-shootin' Saurian
+$prefabs_skins_gunslinger_western_skinset_description»A costume for the Gunslinger.\n\nJust your friendly local gunslinging dino.
+$prefabs_skins_solarion_western_skinset_name»Jurassic Sheriff
+$prefabs_skins_solarion_western_skinset_description»A costume for the Solarion.\n\nReady to blend in with all the dino loving cowboys.
+$prefabs_skins_solarion_scarab_skinset_name»SolRArian
+$prefabs_skins_solarion_scarab_skinset_description»A costume for the Solarion.\n\nRepresenting all aspects of the sun.
+$prefabs_skins_spirittank_horseman_skinset_name»Hobby Horseman
+$prefabs_skins_spirittank_horseman_skinset_description»A costume for the Revenant.\n\nAlways chasing down cranes and scaring them.
+$prefabs_skins_crimefighter_skeleton_skinset_name»Skeleton Scuffler
+$prefabs_skins_crimefighter_skeleton_skinset_description»A costume for the Vanguardian.\n\nHas broken many bones, but never one of their own.
+$prefabs_skins_crimefighter_nekomaid_skinset_name»Meowy Mecha
+$prefabs_skins_crimefighter_nekomaid_skinset_description»A costume for the Vanguardian.\n\nCan nyan as easily as scratching.
+$prefabs_skins_crimefighter_cruiser_skinset_name»FL1GHT-3R
+$prefabs_skins_crimefighter_cruiser_skinset_description»A costume for the Vanguardian.\n\nSurprisingly good in a scramble.
+$prefabs_skins_knight_fiery_skinset_name»Fiery Champion
+$prefabs_skins_knight_fiery_skinset_description»A costume for the Knight.\n\nFacing foes with focused fire.
+$prefabs_skins_bard_albairn_skinset_name»Albardian
+$prefabs_skins_bard_albairn_skinset_description»A costume for the Bard.\n\nPaying homage to the song of dawn.
+$prefabs_skins_bard_mariachi_skinset_name»Skeliachi
+$prefabs_skins_bard_mariachi_skinset_description»A costume for the Bard.\n\nPlay music to die for.
+$prefabs_skins_bard_pc_skinset_name»B4RD
+$prefabs_skins_bard_pc_skinset_description»A costume for the Bard.\n\nThe soothing sounds of dial-up and hard drives.
+$prefabs_skins_dracolyte_mushroom_skinset_name»Mycellum Master
+$prefabs_skins_dracolyte_mushroom_skinset_description»A costume for the Dracolyte.\n\nPrefers dark environments - the better to show off flames!
+$prefabs_skins_icemage_mech_skinset_name»FrostByte
+$prefabs_skins_icemage_mech_skinset_description»A costume for the Ice Sage.\n\nStay frosty and chill out while taking a byte out of foes.
+$prefabs_skins_pirate_undertow_skinset_name»Chubbster's Captain
+$prefabs_skins_pirate_undertow_skinset_description»A costume for the Pirate Captain.\n\nJust as capable of fighting under the sea as over it.
+$prefabs_skins_faetrickster_bat_skinset_name»Tricksy Bat
+$prefabs_skins_faetrickster_bat_skinset_description»A costume for the Fae Trickster.\n\nSonar proves a natural advantage for perpetrating tricks.
+$prefabs_skins_faetrickster_spooky_skinset_name»Punkin' Prankster
+$prefabs_skins_faetrickster_spooky_skinset_description»A costume for the Fae Trickster.\n\nPulling off pranks with a preferred pinata pal.
+$prefabs_skins_ice_mage_trout_skinset_name»Saltwater Sage
+$prefabs_skins_ice_mage_trout_skinset_description»A costume for the Ice Sage.\n\nAlways found in schools.
+$prefabs_skins_solarion_valkyrie_skinset_name»Northern Nomad
+$prefabs_skins_solarion_valkyrie_skinset_description»A costume for the Solarion.\n\nRoaming around looking for the worthy with the help of their eventual six-legged steed.
+$prefabs_skins_pirate_thunder_skinset_name»Lightning Launcher
+$prefabs_skins_pirate_thunder_skinset_description»A costume for the Pirate Captain.\n\nGiving up an eye was surely worth lighting up foes with lightning and a friendly raven.
+$prefabs_skins_ice_mage_rabbit_skinset_name»Fortuitous Rabbit
+$prefabs_skins_ice_mage_rabbit_skinset_description»A costume for the Ice Sage.\n\nCelebrate for the entire year.
+$prefabs_skins_solarion_ignite_skinset_name»Darkness Drakoneer
+$prefabs_skins_solarion_ignite_skinset_description»A costume for the Solarion.\n\nHunting with their drake while disguised in celebratory darkness.
+$prefabs_skins_crimefighter_bianlian_skinset_name»Face Changing Fighter
+$prefabs_skins_crimefighter_bianlian_skinset_description»A costume for the Vanguardian.\n\nChanges faces almost as fast as the fists fly.
+$prefabs_skins_neon_ninja_classy_skinset_name»Fancy Flipper
+$prefabs_skins_neon_ninja_classy_skinset_description»A costume for the Neon Ninja.\n\nFlip through the world in your fanciest outfit.
+$prefabs_skins_tombraiser_future_skinset_name»Future Raiser
+$prefabs_skins_tombraiser_future_skinset_description»A costume for the Tomb Raiser.\n\nStrike fear into the hearts of the selfish and greedy with a glimpse of the future.
+$prefabs_skins_gunslinger_present_skinset_name»Present Arms
+$prefabs_skins_gunslinger_present_skinset_description»A costume for the Gunslinger.\n\nCelebrate the joy of living in the moment with generosity and goodwill.
+$prefabs_skins_solarion_past_skinset_name»Past Solarion
+$prefabs_skins_solarion_past_skinset_description»A costume for the Solarion.\n\nUsing the past to reclaim the welfare of the future.
+$prefabs_skins_spirittank_xmasdandee_skinset_name»Tubular Animant
+$prefabs_skins_spirittank_xmasdandee_skinset_item_name»Skin: Tubular Animant
+$prefabs_skins_spirittank_xmasdandee_skinset_description»A costume for the Revenant.\n\nSurf's Up, -side down.
+$prefabs_skins_solarion_heckbug_skinset_name»Heckbug Harnesser
+$prefabs_skins_solarion_heckbug_skinset_description»A costume for the Solarion.\n\nIf you can't beat 'em, join 'em.
+$prefabs_skins_gunslinger_heckbug_skinset_name»Heckling Hider
+$prefabs_skins_gunslinger_heckbug_skinset_description»A costume for the Gunslinger.\n\nHiding amongst the horde.
+$prefabs_skins_dracolyte_heckbug_skinset_name»Heckalyte
+$prefabs_skins_dracolyte_heckbug_skinset_description»A costume for the Dracolyte.\n\nBecome the avatar of the heckbugs.
+$prefabs_skins_solarion_eggman_skinset_name»Egg-arion
+$prefabs_skins_solarion_eggman_skinset_item_name»Costume: Egg-arion
+$prefabs_skins_solarion_eggman_skinset_desc»A costume for the Solarion.\n\nThe Solarions mastered the art of camoflauge in the Egglands. It doesn't hurt that King Egon is so fixated looking for bunny ears.
+$prefabs_skins_gunslinger_llama_skinset_name»Spitfire
+$prefabs_skins_gunslinger_llama_skinset_description»A costume for the Gunslinger.\n\nPinpoint accuracy with some questionable ammunition, but will never retire and become a duck.
+$prefabs_skins_crimefighter_shrimp_skinset_name»Showy Smasher
+$prefabs_skins_crimefighter_shrimp_skinset_description»A costume for the Vanguardian.\n\nPacks the strongest wallop of any creature.
+$prefabs_skins_ice_mage_squid_skinset_name»Cuddly Kraken
+$prefabs_skins_ice_mage_squid_skinset_description»A costume for the Ice Sage.\n\nRises from the deep just to get some hugs.
+$prefabs_skins_lunarlancer_tiger_skinset_name»Grrrreat Guardian
+$prefabs_skins_lunarlancer_tiger_skinset_description»A costume for the Lunar Lancer.\n\nRises up to the challenges of any rival.
+$prefabs_skins_neon_ninja_hedgehog_skinset_name»Stabby Speedster
+$prefabs_skins_neon_ninja_hedgehog_skinset_description»A costume for the Neon Ninja.\n\nThe red shoes are the fastest.
+$prefabs_skins_tombraiser_hermitcrab_name»Luncrab
+$prefabs_skins_tombraiser_hermitcrab_description»A costume for the Tomb Raiser.\n\nAttempts to avoid conflict by smelling terrible and hiding away, but will give a mighty pinch when pressured.
+$prefabs_skins_bard_songbird_name»Serenading Songbird
+$prefabs_skins_bard_songbird_description»A costume for the Bard.\n\nBoth singing and playing? What can't this bird do?
+$prefabs_skins_chloromancer_butterfly_name»Benevolent Beauty
+$prefabs_skins_chloromancer_butterfly_description»A costume for the Chloromancer.\n\nOften considered a symbol of good luck.
+$prefabs_skins_dinotamer_opossum_name»Awesome Possum
+$prefabs_skins_dinotamer_opossum_description»A costume for the Dino Tamer.\n\nHas gotten tired of playing dead and has now chosen to make its enemies play dead for real.
+$prefabs_skins_knight_penguin_name»Penguin Protector
+$prefabs_skins_knight_penguin_description»A costume for the Knight.\n\nNever underestimate how much a fish slap to the face can hurt.
+$prefabs_skins_shadowhunter_squirrel_skinset_name»Squirrelly Sniper
+$prefabs_skins_shadowhunter_squirrel_skinset_description»A costume for the Shadow Hunter.\n\nThe hunted becomes the hunter.
+$prefabs_skins_spirittank_moth_name»Lamp Lover
+$prefabs_skins_spirittank_moth_description»A costume for the Revenant.\n\nThe self control to not fly into a fire is admirable.
+$prefabs_skins_pirate_cracker_skinset_name»Captain Crackers
+$prefabs_skins_pirate_cracker_skinset_description»A costume for the Pirate Captain.\n\nConsistently cracking calls for consumate carbohydrates.
+$prefabs_skins_candybarbarian_walrus_name»Terrifying Tusker
+$prefabs_skins_candybarbarian_walrus_description»A costume for the Candy Barbarian.\n\nAlways very prepared to do a fish slapping dance...of death!
+$prefabs_skins_adventurer_monkey_skinset_name»Banana Bomber
+$prefabs_skins_adventurer_monkey_skinset_description»A costume for the Boomeranger.\n\nSure to give your enemies a shock!
+$prefabs_skins_faetrickster_piggy_name»Ominous Oinkster
+$prefabs_skins_faetrickster_piggy_description»A costume for the Fae Trickster.\n\nWell...this sure seems to be flying...
+$prefabs_skins_solarion_lemur_name»Lurking Lemur
+$prefabs_skins_solarion_lemur_description»A costume for the Solarion.\n\nAlways ready to celebrate a party by hanging around awkwardly at the edges.
+$prefabs_skins_dracolyte_pufferfish_name»Scaredy Swimmer
+$prefabs_skins_dracolyte_pufferfish_description»A costume for the Dracolyte.\n\nDefinitely much more threatening once scared...and always scared.
+$prefabs_skins_tombraiser_amperium_skinset_name»Amperium Artificer
+$prefabs_skins_tombraiser_amperium_skinset_description»A costume for the Tomb Raiser.\n\nTruly masterful in energy manipulation and plasma conjuring.
+$prefabs_skins_spirittank_ancient_skinset_name»Ancient Aegis
+$prefabs_skins_spirittank_ancient_skinset_description»A costume for the Revenant.\n\nAn immortal guardian of bygone eras.
+$prefabs_skins_solarion_lantern_skinset_name»Jack-O-Larion
+$prefabs_skins_solarion_lantern_skinset_description»A costume for the Solarion.\n\nGuards the whimsical spirits.
+$prefabs_skins_shadowhunter_starfire_skinset_name»Starfire Shooter
+$prefabs_skins_shadowhunter_starfire_skinset_description»A costume for the Shadow Hunter.\n\nUnleashes the power of the stars.
+$prefabs_skins_pirate_sunseeker_skinset_name»Sea-bound Sunseeker
+$prefabs_skins_pirate_sunseeker_skinset_description»A costume for the Pirate Captain.\n\nFollowing the golden path of the sun through the capsizing waves.
+$prefabs_skins_neon_ninja_cursed_skinset_name»Cursed Combatant
+$prefabs_skins_neon_ninja_cursed_skinset_description»A costume for the Neon Ninja.\n\nWeaving a symphony of malevolence in every strike.
+$prefabs_skins_lunarlancer_starfire_skinset_name»Starfire Striker
+$prefabs_skins_lunarlancer_starfire_skinset_description»A costume for the Lunar Lancer.\n\nIgniting the cosmos with celestial might.
+$prefabs_skins_knight_twilight_skinset_name»Twilight Templar
+$prefabs_skins_knight_twilight_skinset_description»A costume for the Knight.\n\nWhy fight the Shadows when one can wield the light of twilight.
+$prefabs_skins_icemage_coral_skinset_name»Coral Custodian
+$prefabs_skins_icemage_coral_skinset_description»A costume for the Ice Sage.\n\nNurturing underwater wonders with a touch as gentle as the tide.
+$prefabs_skins_gunslinger_holographic_skinset_name»Holographic Hotshot
+$prefabs_skins_gunslinger_holographic_skinset_description»A costume for the Gunslinger.\n\nArmed with cutting-edge technology.
+$prefabs_skins_faetrickster_warlock_skinset_name»Woodland Warlock
+$prefabs_skins_faetrickster_warlock_skinset_description»A costume for the Fae Trickster.\n\nCrafts enhancements that echo through the forests.
+$prefabs_skins_dracolyte_bismuth_skinset_name»Bismolyte
+$prefabs_skins_dracolyte_bismuth_skinset_description»A costume for the Dracolyte.\n\nTurning fantasy into a vivid, metallic reality!
+$prefabs_skins_dinotamer_amperium_skinset_name»Resistor Rancher
+$prefabs_skins_dinotamer_amperium_skinset_description»A costume for the Dino Tamer.\n\nHerding electric currents and Amperium beasts of the Neon prairies.
+$prefabs_skins_crimefighter_colorful_skinset_name»Colorful Contagion
+$prefabs_skins_crimefighter_colorful_skinset_description»A costume for the Vanguardian.\n\nCreates a mesmerizing cascade of vivid impressions.
+$prefabs_skins_bard_prismatic_skinset_name»Prismatic Poet
+$prefabs_skins_bard_prismatic_skinset_description»A costume for the Bard.\n\nPainting sonnets in a thousand hues.
+$prefabs_skins_candybarbarian_amperium_skinset_name»Amperium Ardent
+$prefabs_skins_candybarbarian_amperium_skinset_description»A costume for the Candy Barbarian.\n\nPowered by sparks and surges.
+$prefabs_skins_chloromancer_balefire_skinset_name»Baleful Blossom
+$prefabs_skins_chloromancer_balefire_skinset_description»A costume for the Chloromancer.\n\nCaptivates onlookers with its haunting beauty.
+$prefabs_skins_adventurer_pinkbudgie_skinset_name»Feathered Friend
+$prefabs_skins_adventurer_pinkbudgie_skinset_description»A costume for the Boomeranger.\n\nFlamboyance is not just for feathers, it's a lifestyle!
+$prefabs_skins_adventurer_sandcastle_skinset_name»Beach Buried Boomeranger
+$prefabs_skins_adventurer_sandcastle_skinset_description»A costume for the Boomeranger.\n\nDon't get caught sleeping on the sand!
+$prefabs_skins_crimefighter_icecream_skinset_name»Stunning Scoops
+$prefabs_skins_crimefighter_icecream_skinset_description»A costume for the Vanguardian.\n\nWill fight you for evey bite.
+$prefabs_skins_solarion_icecream_skinset_name»Sundae Sunflare
+$prefabs_skins_solarion_icecream_skinset_description»A costume for the Solarion.\n\nAccompanied by a sherbet bat!
+$prefabs_skins_pirate_icecream_skinset_name»Captain Sweettooth
+$prefabs_skins_pirate_icecream_skinset_description»A costume for the Pirate Captain.\n\nThe one and only ice cream buccaneer of the sugary seas.
+$prefabs_skins_spirittank_book_skinset_name»Haunted Writer
+$prefabs_skins_spirittank_book_skinset_description»A costume for the Revenant.\n\nBest writer, poet, editor, and literary critic of a few centures in a row.
+$prefabs_skins_solarion_neonwinter_skinset_name»Freezing Phoenix
+$prefabs_skins_solarion_neonwinter_skinset_description»A costume for the Solarion.\n\nReborn with the snowflakes!
+$prefabs_skins_lunarlancer_neonwinter_skinset_name»Nippy Neon
+$prefabs_skins_lunarlancer_neonwinter_skinset_description»A costume for the Lunar Lancer.\n\nMoving fast keeps you warm!
+$prefabs_skins_dracolyte_magic_skinset_name»Marvelous Mechanoid
+$prefabs_skins_dracolyte_magic_skinset_description»A costume for the Dracolyte.\n\nA marvel of magic and technology!
+$prefabs_skins_gunslinger_magic_name»Enchanted Enforcer
+$prefabs_skins_gunslinger_magic_description»A costume for the Gunslinger.\n\nEasily upholds law and order thanks to his magic powers.
+$prefabs_skins_bard_beaver_skinset_name»Banjo Beaver
+$prefabs_skins_beaver_country_skinset_description»A costume for the Bard.\n\nChopping wood by day, shredding the banjo at night!
+$prefabs_skins_chloromancer_hummingbird_skinset_name»Harmonious Hummingbird
+$prefabs_skins_chloromancer_hummingbird_skinset_description»A costume for the Chloromancer.\n\nKeeping the peace in every bed of flowers.
+$prefabs_skins_knight_shark_skinset_name»Savage Shark
+$prefabs_skins_knight_shark_skinset_description»A costume for the Knight.\n\nLeaves a crimson trail wherever he goes. It’s just strawberry jam though, pinky swear!
+$prefabs_skins_neon_ninja_gecko_skinset_name»Gallant Gecko
+$prefabs_skins_neon_ninja_gecko_skinset_description»A costume for the Neon Ninja.\n\nThe beautiful green scales glitter by day and by night.
+$prefabs_skins_lunarlancer_okapi_skinset_name»Outstanding Okapi
+$prefabs_skins_lunarlancer_okapi_skinset_description»A costume for the Lunar Lancer.\n\nOn long legs it struts through the realm, silent and swift.
+$prefabs_skins_candybarbarian_maybeetle_skinset_name»Mighty May Beetle
+$prefabs_skins_candybarbarian_maybeetle_skinset_description»A costume for the Candy Barbarian.\n\nNothing can break the shell of the Mighty May Beetle!
+$prefabs_skins_solarion_fate_skinset_name»Fateful Elphame
+$prefabs_skins_solarion_fate_skinset_description»A costume for the Solarion.\n\nA true warrior clad in red and purple.
+$prefabs_skins_tombraiser_fate_skinset_name»Fateful Reaper
+$prefabs_skins_tombraiser_fate_skinset_description»A costume for the Tomb Raiser.\n\nDon’t let him decide your fate, it never goes well.
+$prefabs_skins_dracolyte_scavenger_skinset_name»Scavenging Stalker
+$prefabs_skins_dracolyte_scavenger_skinset_description»A costume for the Dracolyte.\n\nYour prey will never know what hit it.
+$prefabs_skins_gunslinger_scavenger_skinset_name»Desert Hunter
+$prefabs_skins_gunslinger_scavenger_skinset_description»A costume for the Gunslinger.\n\nA perfect outfit for going scavenging in the desert.
+$prefabs_skins_crimefighter_cyberbun_skinset_name»Cyber Bunny Brawler
+$prefabs_skins_crimefighter_cyberbun_skinset_description»A costume for the Vanguardian.\n\nGear from a distant future. Don't use it to break the space time continuum.
+$prefabs_skins_pirate_davinci_skinset_name»Cubical Creator
+$prefabs_skins_pirate_davinci_skinset_description»A costume for the Pirate Captain.\n\nA Renaissance painter and inventor, at your service!
+$prefabs_skins_fae_trickster_environment_skinset_name»Guardian of Lands
+$prefabs_skins_fae_trickster_environment_skinset_description»A costume for the Fae Trickster.\n\nProtects all things, big and small.
+$prefabs_skins_bard_asteroid_skinset_name»Asteroid Space Bard
+$prefabs_skins_bard_asteroid_skinset_description»A costume for the Bard.\n\nArmed with a guitar, preparing for an impact performance!
+$prefabs_skins_candybarbarian_cheeseday_skinset_name»Brie Anne of Tart
+$prefabs_skins_candybarbarian_cheeseday_skinset_description»A costume for the Candy Barbarian.\n\nThe legendary Dairy Defender!
+$prefabs_skins_adventurer_beachparty_skinset_name»Beachball Battler
+$prefabs_skins_adventurer_beachparty_skinset_description»A costume for the Boomeranger.\n\nArmed with sunscreen and beachballs, he keeps the beaches safe one splash at a time.
+$prefabs_skins_solarion_beachparty_skinset_name»Sun-Day Scorcher
+$prefabs_skins_solarion_beachparty_skinset_description»A costume for the Solarion.\n\nWhen the sun calls in sick, this guy shows up twice as hot. SPF? Never heard of it.
+$prefabs_skins_solarion_darkfae_skinset_name»Dark Fae Fletcher
+$prefabs_skins_solarion_darkfae_skinset_description»A costume for the Solarion.\n\nHas mastered the art of blending with the shadows that lurk among enchanted trees.
+$prefabs_skins_knight_tabby_skinset_name»Friendly Furball
+$prefabs_skins_knight_tabby_skinset_description»A costume for the Knight.\n\nFluffy forebear of Furrious Fiona. Likes canned Jadefins and naps by the fireplace.
+$prefabs_skins_bard_frozenviking_skinset_name»Warbling Wight King
+$prefabs_skins_bard_frozenviking_skinset_description»A costume for the Bard.\n\nWith a performer like this, rock'n'roll can never be dead.
+$prefabs_skins_shadowhunter_dubstep_skinset_name»Real Dub Shadow
+$prefabs_skins_shadowhunter_dubstep_skinset_description»A costume for the Shadow Hunter.\n\nComin' at you at supersonic speed!
+$prefabs_skins_adventurer_gem_skinset_name»Gemaranger
+$prefabs_skins_adventurer_gem_skinset_description»A costume for the Boomeranger.\n\nAn old soul, keeper of memories from before the Mantle of Power fell upon our world.
+$prefabs_skins_bard_darknik_skinset_name»Dr. Bardnik
+$prefabs_skins_bard_darknik_skinset_description»A costume for the Bard.\n\nMade from the scraps of a defeated Dreadnaught, and a spare Wolrdender.
+$prefabs_skins_faetrickster_redpanda_skinset_name»Spring Sakura
+$prefabs_skins_faetrickster_redpanda_skinset_description»A costume for the Fae Trickster.\n\nDisguise yourself to fit with wildlife!
+$prefabs_skins_crimefighter_knuckleberry_skinset_name»Knuckleberry Bob
+$prefabs_skins_crimefighter_knuckleberry_skinset_description»A costume for the Vanguardian.\n\nBorn in the back alleys, raised on grit. And fighting for something bigger.
+$prefabs_skins_adventurer_dunenomad_skinset_name»Dune Nomad
+$prefabs_skins_adventurer_dunenomad_skinset_description»A costume for the Boomeranger.\n\nRide fast, strike fast, vanish like the wind.
+$prefabs_skins_spirittank_sancturion_skinset_name»Sir Sancturion
+$prefabs_skins_spirittank_sancturion_skinset_description»A costume for the Revenant.\n\nWhen the wings rise, empires tremble.
+$prefabs_skins_icemage_soul_skinset_name»Soulful Spearguard
+$prefabs_skins_icemage_soul_skinset_description»A costume for the Ice Sage.\n\nStrength flows through silence.
+$prefabs_skins_lunarlancer_savanna_skinset_name»Mane of the Savanna
+$prefabs_skins_lunarlancer_savanna_skinset_description»A costume for the Lunar Lancer.\n\nLet the lion of the savanna strike!
+$prefabs_skins_neonninja_spirit_skinset_name»Spiritual Warrior
+$prefabs_skins_neonninja_spirit_skinset_description»A costume for the Neon Ninja.\n\nA warrior class as deadly as they are beautiful.
+$prefabs_skins_dracolyte_greekmyth_skinset_name»Minoterror of the Maze
+$prefabs_skins_dracolyte_greekmyth_skinset_description»A costume for the Dracolyte.\n\nForged in the fire of the labyrinth, roaming the endless halls of stone.
+$prefabs_skins_lunarlancer_greekmyth_skinset_name»Siegebound Soldier
+$prefabs_skins_lunarlancer_greekmyth_skinset_description»A costume for the Lunar Lancer.\n\nFrom the first charge to the final echo of war, this armored spearbearer stands eternal.
+$prefabs_skins_tombraiser_greekmyth_skinset_name»Oracle of the Deep Shade
+$prefabs_skins_tombraiser_greekmyth_skinset_description»A costume for the Tomb Raiser.\n\nWhispers rise from beneath the black earth, and this veiled prophet commands them all.
+$prefabs_skins_bard_duelist_skinset_name»Ballad Duelist
+$prefabs_skins_bard_duelist_skinset_description»A costume for the Bard.\n\nTheir rhythm cuts deeper than any blade and every note is a dare.
+$prefabs_skins_candybarbarian_hornthane_skinset_name»Hornthane Ravager
+$prefabs_skins_candybarbarian_hornthane_skinset_description»A costume for the Candy Barbarian.\n\nStrength brewed in battle, laughter and mead, served with a thunderous roar!
+$prefabs_skins_chloromancer_warden_skinset_name»Verdant Warden
+$prefabs_skins_chloromancer_warden_skinset_description»A costume for the Chloromancer.\n\nRooted in ancient wisdom, blooming with relentless will.
+$prefabs_skins_dinotamer_fangcaller_skinset_name»Jungle Fangcaller
+$prefabs_skins_dinotamer_fangcaller_skinset_description»A costume for the Dinotamer.\n\nBeasts heed the call of the wild heart and none beat louder than theirs.
+$prefabs_skins_knight_marechal_skinset_name»Midnight Marechal
+$prefabs_skins_knight_marechal_skinset_description»A costume for the Knight.\n\nClad in deep blue and duty, they charge for justice and not for kings!
+$prefabs_skins_shadowhunter_sandshade_skinset_name»Sandshade Nomad
+$prefabs_skins_shadowhunter_sandshade_skinset_description»A costume for the Shadowhunter.\n\nWhen the wind howls and the sun blinds, their bolts strike true from the dunes.
+$prefabs_skins_dracolyte_emberhart_skinset_name»Emberhart Grovecaller
+$prefabs_skins_dracolyte_emberhart_skinset_description»A costume for the Dracolyte.\n\nThe grove remembers fire. Cloaked in magic and crowned with antlers, they awaken the power beneath the forest floor.
+$prefabs_skins_faetrickster_sunplume_skinset_name»Sunplume Mirage
+$prefabs_skins_faetrickster_sunplume_skinset_description»A costume for the Fae Trickster.\n\nNeither fully seen nor truly caught, dancing between sunbeams and illusion, trailing wonder with every step.
+$prefabs_skins_gunslinger_skybound_skinset_name»Skybound Wayfarer
+$prefabs_skins_gunslinger_skybound_skinset_description»A costume for the Gunslinger.\n\nSteel sings when drawn, thunder rolls when fired.
+$prefabs_skins_pirate_jade_skinset_name»Jade Corsair
+$prefabs_skins_pirate_jade_skinset_description»A costume for the Pirate Captain.\n\nTales speak of a shadow sailing beneath jade winds, and at its helm, this stormborne rogue carves their fate in cannonfire.
+$prefabs_skins_solarion_duskhound_skinset_name»Duskhound Phantom
+$prefabs_skins_solarion_duskhound_skinset_description»A costume for the Solarion.\n\nWith the fire of the sun and the gaze of the jackal, this guardian lights the passage through shadow and ensures no soul strays.
+$prefabs_skins_tombraiser_bonecaller_skinset_name»Maskari Bonecaller
+$prefabs_skins_tombraiser_bonecaller_skinset_description»A costume for the Tomb Raiser.\n\nFrom behind the veil of dark worlds, they raise masked beasts, bones of former renowned warriors.
+$prefabs_skins_crimefighter_coolnerd_skinset_name»Lead Head
+$prefabs_skins_crimefighter_coolnerd_skinset_description»A costume for the Vanguardian.\n\nTop of the class and tough as graphite. With pencils for fists and pocket protectors of justice, this nerd hits write where it hurts.
+$prefabs_skins_solarion_scene_skinset_name»Solar Scream
+$prefabs_skins_solarion_scene_skinset_description»A costume for the Solarion.\n\nAn enigma of light and darkness, this Solarion shines with brooding style and is accompanied by a loyal pet bat.
+$prefabs_skins_neonninja_flameborn_skinset_name»Flameborn Hong Disciple
+$prefabs_skins_neonninja_flameborn_skinset_description»A costume for the Neon Ninja.\n\nHe leaps into battle with fire at his heels and mischief in his heart.
+$prefabs_skins_faetrickster_tidecaller_skinset_name»Tidecaller Lan Disciple
+$prefabs_skins_faetrickster_tidecaller_skinset_description»A costume for the Fae Trickster.\n\nWielding the ocean's chills and flowing with unstoppable grace.
+$prefabs_skins_pirate_skeleton_skinset_name»Bonebuccaneer
+$prefabs_skins_pirate_skeleton_skinset_description»A costume for the Pirate Captain.\n\nHis laughter rattles loud, a skeletal scourge sailing straight from the grave.
+$prefabs_skins_dinotamer_zombie_skinset_name»Zombie Tamer
+$prefabs_skins_dinotamer_zombie_skinset_description»A costume for the Dino Tamer.\n\nWhy tame the living when the dead obey forever?
+$prefabs_skins_lunarlancer_detective_skinset_name»Pawlock Howls
+$prefabs_skins_lunarlancer_detective_skinset_description»A costume for the Lunar Lancer.\n\nA keen-eyed sleuth with a nose for trouble and a magnifying glass that doubles as a lance whose every strike shines a spotlight on crime.
+$prefabs_skins_knight_thief_skinset_name»Hare Heist
+$prefabs_skins_knight_thief_skinset_description»A costume for the Knight.\n\nQuick of foot and quicker with a five-finger discount. This dapper delinquent's pack stuffed with carrot hides more than just snacks.
+$prefabs_skins_tombraiser_pumpkin_name»Squash Shepherd
+$prefabs_skins_tombraiser_pumpkin_description»A costume for the Tomb Raiser.\n\nSentient scarecrow at your service.
+$prefabs_skins_tombraiser_mystical_name»Underworld Umbra
+$prefabs_skins_tombraiser_mystical_description»A costume for the Tomb Raiser.\n\nConjuring spirits that dance between the Sun and Moon.
+$prefabs_skins_spirittank_medieval_name»Medieval Magnate
+$prefabs_skins_spirittank_medieval_description»A costume for the Revenant.\n\nArmed with centuries' worth of strategic knowledge.
+$prefabs_skins_solarion_undead_name»Veiled Vanquisher
+$prefabs_skins_solarion_undead_description»A costume for the Solarion.\n\nTo hunt the wicked, you must shroud yourself in their guise.
+$prefabs_skins_lunarlancer_kami_name»Kami of Primordial Storm
+$prefabs_skins_lunarlancer_kami_description»A costume for the Lunar Lancer.\n\nSwims in the currents of pure energy.
+$prefabs_skins_knight_prismatic_name»Prismatic Protagonist
+$prefabs_skins_knight_prismatic_description»A costume for the Knight.\n\nBe a hero of many hues!
+$prefabs_skins_icemage_balefire_name»Balefire Bonechanter
+$prefabs_skins_icemage_balefire_description»A costume for the Ice Sage.\n\nSummons cursed flames to silence living souls.
+$prefabs_skins_gunslinger_spraypaint_name»Graffiti Gunner
+$prefabs_skins_gunslinger_spraypaint_description»A costume for the Gunslinger.\n\nAdept in the most expressive form of art.
+$prefabs_skins_bard_autumn_name»Autumn's Song
+$prefabs_skins_bard_autumn_description»A costume for the Bard.\n\nWeaves the golden days of the year into a heartfelt melody.
+$prefabs_skins_icemage_ghost_skinset_name»Ghostly Glimmerfly
+$prefabs_skins_icemage_ghost_skinset_description»A costume for the Ice Sage.\n\nA friend to all the spirits in the beyond.
+$prefabs_skins_neonninja_wolf_skinset_name»Wolfsire Gheist
+$prefabs_skins_neonninja_wolf_skinset_description»A costume for the Neon Ninja.\n\nAs the full moon blooms, you feel yours senses sharpen.
+$prefabs_skins_dracolyte_trovesaurus_name»Sageolyte
+$prefabs_skins_dracolyte_trovesaurus_description»A costume for the Dracolyte.\n\nA wise old saurian once said: “If you can't solve a problem, breathe fire at it.” The Sageolyte takes that advice very seriously.
+$prefabs_skins_spirittank_butcher_skinset_name»Battle Butcher
+$prefabs_skins_spirittank_butcher_skinset_description»A costume for the Revenant.\n\nHis shield? Steak. His armor? Grease-stained glory. His code? Always tenderize before battle and marinate your vengeance over night.
+$prefabs_skins_chloromancer_crop_skinset_name»Crop Commander
+$prefabs_skins_chloromancer_crop_skinset_description»A costume for the Chloromancer.\n\nPart farmer, part fighter, all produce. His spells sprout vegetables faster than gossip in a small town.
+$prefabs_skins_icemage_frostfather_skinset_name»Frostfather Druid
+$prefabs_skins_icemage_frostfather_skinset_description»A costume for the Ice Sage.\n\nHe whispers to the frost and it listens.
+$prefabs_skins_adventurer_snowtrail_skinset_name»Snowtrail Stalker
+$prefabs_skins_adventurer_snowtrail_skinset_description»A costume for the Boomeranger.\n\nWhere the storm howls, he walks unshaken.
+$prefabs_skins_crimefighter_dragon_skinset_name»Ki Dragon Prodigy
+$prefabs_skins_crimefighter_dragon_skinset_description»A costume for the Vanguardian.\n\nUnleash your inner dragon warrior, punch so hard even the sky flinches.
+$prefabs_skins_candybarbarian_turtle_skinset_name»Shellback Sentinel
+$prefabs_skins_candybarbarian_turtle_skinset_description»A costume for the Candy Barbarian.\n\nStrong as a shell, wise as a master, loud as a Barbarian.
+$prefabs_skins_neonninja_janitor_skinset_name»Custodian Shadow
+$prefabs_skins_neonninja_janitor_skinset_description»A costume for the Neon Ninja.\n\nSilent in the halls, swift with the mop. Dirt fears him. Detention follows him. The janitor has arrived.
+$prefabs_skins_dracolyte_qilin_skinset_name»Qilinfire Charger
+$prefabs_skins_dracolyte_qilin_skinset_description»A costume for the Dracolyte.\n\nBearing the spirit of the Qilin, this guardian strides with flame and unshakable virtue.
+$prefabs_skins_solarion_glow_skinset_name»Guiding Glow
+$prefabs_skins_solarion_glow_skinset_description»A costume for the Solarion.\n\nSoft light spills from its form, illuminating even the darkest paths into a gentle, amber glow.
+$prefabs_skins_shadowhunter_mint_skinset_name»Mintbreaker Marksman
+$prefabs_skins_shadowhunter_mint_skinset_description»A costume for the Shadow Hunter.\n\nMinty fresh bolts served chilled and chocolate-coated.
+$prefabs_skins_chloromancer_sugar_skinset_name»Sugarspore Sproutmancer
+$prefabs_skins_chloromancer_sugar_skinset_description»A costume for the Chloromancer.\n\nWhen your garden gets infested with sweets, you become the snack-based botanist destiny demands.
+$prefabs_skins_pirate_petal_skinset_name»Petalpowder Pirate
+$prefabs_skins_pirate_petal_skinset_description»A costume for the Pirate Captain.\n\nClad in bark, vines, and blossoms, conquering with cultivation and cannonfire alike.
+$prefabs_skins_tombraiser_bloom_skinset_name»Bloomgrave Necromancer
+$prefabs_skins_tombraiser_bloom_skinset_description»A costume for the Tomb Raiser.\n\nBones crack, roots crawl, and flowers bloom as this Tomb Raiser ushers in spring from the soil below.

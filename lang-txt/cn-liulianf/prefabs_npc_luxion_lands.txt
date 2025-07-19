@@ -1,0 +1,5 @@
+$prefabs_npc_luxion_lands_merchant_hub_sign_title»灵魂统算者苏里
+$prefabs_npc_luxion_lands_merchant_hub_sign_content»负责统计奢龙魂库中的损益情况。按下 [HK:Loot] 键进行交易。
+$prefabs_npc_luxion_lands_adventure_complete_craftingstation_name»原始之主
+$prefabs_npc_luxion_lands_merchant_trials_crafting_sign_title»经销商迪格斯利
+$prefabs_npc_luxion_lands_merchant_trials_crafting_sign_content»用各种物品换取冒险金石！按下 [HK:Loot] 键进行交易！

@@ -1,142 +1,153 @@
-$prefabs_collections_boat_clipper_badge_fishing_item_name=Trovian Trawler
-$prefabs_collections_boat_clipper_badge_fishing_item_description=Clipper class ship.
-$prefabs_collections_boat_clipper_basic_item_name=SS Corgi
-$prefabs_collections_boat_clipper_basic_item_description=Clipper class ship. Can be made at the Nautical Assembler in Drowned Worlds.
-$prefabs_collections_boat_clipper_cannon_item_name=Clipper Cannon
-$prefabs_collections_boat_clipper_cannon_item_description=You'll shoot your aye-aye out.
-$prefabs_collections_boat_clipper_chaos_item_name=Chaotic Clipper
-$prefabs_collections_boat_clipper_chaos_item_description=Clipper class ship.
-$prefabs_collections_boat_clipper_mastery_item_name=Clipper of the Master
-$prefabs_collections_boat_clipper_mastery_item_description=Clipper class ship.
-$prefabs_collections_boat_clipper_starter_item_name=SS Dinghy
-$prefabs_collections_boat_clipper_starter_item_description=Raft class ship. Can be bought from Saltwater Sam in Drowned Worlds.\n\nUse [HK:EquipBoat] while in Water to ride.
-$prefabs_collections_boat_clipper_starter_item_description_controller=Raft class ship. Can be bought from Saltwater Sam in Drowned Worlds.
-$prefabs_collections_boat_clipper_starter_dragon_item_name=Dragon Dinghy
-$prefabs_collections_boat_clipper_starter_dragon_item_description=Raft class ship. Can safely navigate lava.
-$prefabs_collections_boat_clipper_steam_item_name=Arcanium Steamboat
-$prefabs_collections_boat_clipper_steam_item_description=Clipper class ship.
-$prefabs_collections_boat_clipper_dragon_item_name=Flame Skimmer
-$prefabs_collections_boat_clipper_dragon_item_description=Clipper class ship. Can safely navigate lava.
-$prefabs_collections_boat_clipper_trove_item_name=SS Trovian
-$prefabs_collections_boat_clipper_trove_item_description=Clipper class ship.
-$prefabs_collections_boat_clipper_carnaval_item_name=SS Festa
-$prefabs_collections_boat_clipper_carnaval_item_description=Clipper class ship.
-$prefabs_collections_boat_galleon_basic_item_name=Old Blocksides
-$prefabs_collections_boat_galleon_basic_item_description=Galleon class ship. Can be made at the Nautical Assembler in Drowned Worlds.
-$prefabs_collections_boat_galleon_cannon_item_name=Galleon Cannon
-$prefabs_collections_boat_galleon_cannon_item_description=You'll shoot your aye-aye out.
-$prefabs_collections_boat_galleon_chaos_item_name=Chaotic Cruiser
-$prefabs_collections_boat_galleon_chaos_item_description=Galleon class ship.
-$prefabs_collections_boat_galleon_dragon_item_name=SS Draconic
-$prefabs_collections_boat_galleon_dragon_item_description=Galleon class ship. Can safely sail on lava.
-$prefabs_collections_boat_galleon_ghost_item_name=SS Dutchman
-$prefabs_collections_boat_galleon_ghost_item_description=A ghostly Galleon class ship.
-$prefabs_collections_boat_galleon_mastery_item_name=Master's Command
-$prefabs_collections_boat_galleon_mastery_item_description=Galleon class ship.
-$prefabs_collections_boat_galleon_cruise_item_name=SS Cruzeiro
-$prefabs_collections_boat_galleon_cruise_item_description=Galleon class ship. This luxury liner can safely navigate lava.
-$prefabs_collections_boat_test_item_name=Boat
-$prefabs_collections_boat_test_item_description=It's a big boat.
-$prefabs_collections_boat_tortoise_cannon_item_name=Clipper Cannon
-$prefabs_collections_boat_tortoise_cannon_item_description=You'll shoot your aye-aye out.
-$prefabs_collections_boat_galleon_chinese_name=Cobalt Carp
-$prefabs_collections_boat_galleon_chinese_description=An ancient battleship, centerpiece of many storied naval victories.
-$prefabs_collections_boat_galleon_infineon_name=Infini Frigate
-$prefabs_collections_boat_galleon_infineon_description=Lay Siege to the Shores of the Everdark in this flagship of light.
-$prefabs_collections_boat_galleon_fishing_name=Trolling Trawler
-$prefabs_collections_boat_galleon_fishing_description=A valorous vessel to tackle the waves and haul in the sea's bounty.
-$prefabs_collections_boat_clipper_maki_name=SS Tekka
-$prefabs_collections_boat_clipper_maki_description=You should do well with this boat since it is part fish, right?
-$prefabs_collections_boat_clipper_tentacle_name=Writhing Raft
-$prefabs_collections_boat_clipper_tentacle_description=The badge of a true survivor is thriving with the materials at hand.
-$prefabs_collections_boat_clipper_jurassic_name=Jurassic Junk
-$prefabs_collections_boat_clipper_jurassic_description=Who knew that meteorite could float so well.
-$prefabs_collections_boat_clipper_blocky_name=SS Cube
-$prefabs_collections_boat_clipper_blocky_description=What it lacks in streamlining, it makes up for in character.
-$prefabs_collections_boat_clipper_mastery_01_name=Master's Catamaran
-$prefabs_collections_boat_clipper_mastery_01_description=Sleek lines and powerful magical enhancements make this one of the most coveted vessels on the Trovian seas.
-$prefabs_collections_boat_clipper_snowfest2017_name=Bedecked Iceboat
-$prefabs_collections_boat_clipper_snowfest2017_description=Fully capable of dealing with ice and icy seas with ease.
-$prefabs_collections_boat_galleon_cygnus_name=Cygnus's Skyship
-$prefabs_collections_boat_galleon_cygnus_description=This magnificent vessel is said to have at one time traversed the skies as well as the seas.
-$prefabs_collections_boat_clipper_tortoise_flowerhedge_name=Topiary Terrapin
-$prefabs_collections_boat_clipper_tortoise_flowerhedge_description=Despite its size, some brazen herbivores still try to take bites out of it.
-$prefabs_collections_boat_galleon_cannon_ark_item_name=SS Solidarity Cannon
-$prefabs_collections_boat_galleon_cannon_ark_item_description=A token of gratitude from Sunseeker Rowan for your help in building the Solidarity, the ship to Geode.
-$prefabs_collections_boat_galleon_ark_item_name=SS Solidarity
-$prefabs_collections_boat_galleon_ark_item_description=A miniaturized version of the Solidarity, the massive ship that carries Trovians to Geode.
-$prefabs_collections_boat_galleon_ark_notrade_item_name=SS Solidarity
-$prefabs_collections_boat_galleon_ark_notrade_item_description=A miniaturized version of the Solidarity, the massive ship that carries Trovians to Geode.
-$prefabs_collections_boat_galleon_frigate_item_name=Automatic Frigate
-$prefabs_collections_boat_galleon_frigate_item_description=Travel the Treasure Isles in the most stylish ship around.
-$prefabs_collections_boat_galleon_kami_item_name=Kami Ketch
-$prefabs_collections_boat_galleon_kami_item_description=Weather any storm with serenity and dignity.
-$prefabs_collections_boat_clipper_spring_item_name=May Flower
-$prefabs_collections_boat_clipper_spring_item_description=Clipper class ship. Original obtainable from Spring Fling 2020.
-$prefabs_collections_boat_clipper_flamingo_item_name=Floatmingo
-$prefabs_collections_boat_clipper_flamingo_item_description=Lets float, amigo.
-$prefabs_collections_boat_galleon_pinata_item_name=Pinata God's Galleon
-$prefabs_collections_boat_galleon_pinata_item_description=My eye? You should have seen the other guy.
-$prefabs_collections_boat_clipper_spooky_item_name=Gourd Galleon
-$prefabs_collections_boat_clipper_spooky_item_description=Gregarious but, conversely, a Clipper class ship.\n\nOriginally obtainable during Shadow's Eve 2020.
-$prefabs_collections_boat_clipper_beehive_name=Bee Barge
-$prefabs_collections_boat_clipper_beehive_description=Includes un-beelievable aerial defense (defense not guaranteed)
-$prefabs_collections_boat_clipper_tortoise_mastery_name=Mortimara
-$prefabs_collections_boat_clipper_tortoise_mastery_description=This gentle, gracious, galactic beast is often seen as a good omen, and a better party guest.
-$prefabs_collections_boat_clipper_tortoise_lunarswan_name=Swan's Song
-$prefabs_collections_boat_clipper_tortoise_lunarswan_description=The last transport.
-$prefabs_collections_boat_galleon_depth_item_name=Void Cruiser
-$prefabs_collections_boat_galleon_depth_item_description=Carries all across crushing nothingness.
-$prefabs_collections_boat_clipper_prestige_name=Paragon Pinnace
-$prefabs_collections_boat_clipper_prestige_description=Beautiful. Buoyant. Flamboyant. Explosive.
-$prefabs_collections_boat_clipper_starfish_name=Starfish Skimmer
-$prefabs_collections_boat_clipper_starfish_description=Skims along the surface of the water with nary a breeze.
-$prefabs_collections_boat_clipper_yarn_name=Knitter Cutter
-$prefabs_collections_boat_clipper_yarn_description=Soft to the core!
-$prefabs_collections_boat_clipper_candle_name=TSS Lucerna
-$prefabs_collections_boat_clipper_candle_description=There will always be light on this Trovian sea ship.
-$prefabs_collections_boat_galleon_tanabata_name=Wasen
-$prefabs_collections_boat_galleon_tanabata_description=Travelling with tradition.
-$prefabs_collections_boat_clipper_lifesaver_duck_name=Carys Canard
-$prefabs_collections_boat_clipper_lifesaver_duck_description=Nothing about this floatation device is fraudulent or fabricated.
-$prefabs_collections_boat_clipper_lifesaver_frog_name=Tysorion Toad
-$prefabs_collections_boat_clipper_lifesaver_frog_description=Definitely do not lick this friendly flotation helper.
-$prefabs_collections_boat_clipper_lifesaver_fish_name=Panatean Puffer
-$prefabs_collections_boat_clipper_lifesaver_fish_description=Far too inflated to ever sink.
-$prefabs_collections_boat_clipper_threehouses_name=Three House Boat
-$prefabs_collections_boat_clipper_threehouses_description=Forced together but trying to break apart.
-$prefabs_collections_boat_clipper_ashen_name=Frond Ferry
-$prefabs_collections_boat_clipper_ashen_description=The plants from the Ashen Wastes are surprisingly buoyant.
-$prefabs_collections_boat_clipper_skull_name=Skully Skiff
-$prefabs_collections_boat_clipper_skull_description=Wish everyone bone voyage as you set sail.
-$prefabs_collections_boat_galleon_charcuterie_name=Lunching Longship
-$prefabs_collections_boat_galleon_charcuterie_description=Set sail on the snack seas.
-$prefabs_collections_boat_board_surf_palmtree_name=Snowfest Surfer
-$prefabs_collections_boat_board_surf_palmtree_item_name=Boat: Snowfest Surfer
-$prefabs_collections_boat_board_surf_palmtree_description=Snowfest in the Treasure Isles takes on a different look.
-$prefabs_collections_boat_clipper_lunar_name=Lunar Hopper
-$prefabs_collections_boat_clipper_lunar_item_name=Boat: Lunar Hopper
-$prefabs_collections_boat_clipper_lunar_description=Some say it can glide on moonlight as easily as water.
-$prefabs_collections_boat_boat_rave_name=Neon Pearl
-$prefabs_collections_boat_boat_rave_description=The fastest ship in the Neon Fleet.
-$prefabs_collections_boat_rave_item_name=Boat: Neon Pearl
-$prefabs_collections_boat_boat_rave_item_description=Unlocks the Neon Pearl boat and sail.
-$prefabs_collections_boat_galleon_pinzo_cruise_name=Pinzo's Timeshare Cruiseline
-$prefabs_collections_boat_galleon_pinzo_cruise_item_name=Boat: Pinzo's Timeshare Cruiseline
-$prefabs_collections_boat_galleon_pinzo_cruise_description=Totally legitimate timeshare, absolutely 100% above deck and ship shape.\n\nCan sail in lava.
-$prefabs_collections_boat_clipper_goldfish_name=Fishy Floater
-$prefabs_collections_boat_clipper_goldfish_item_name=Boat: Fishy Floater
-$prefabs_collections_boat_clipper_goldfish_description=Find all the fish with your mastery of bait.
-$prefabs_collections_boat_dragon_mastery_swan_name=Cygnet I
-$prefabs_collections_boat_dragon_mastery_swan_description=Ugly is in the heart of the beholder.
-$prefabs_collections_boat_clipper_heckbug_name=Heckfly Hovercraft
-$prefabs_collections_boat_clipper_heckbug_description=Fly through the water (or lava!) even faster than a heckfly.
-$prefabs_collections_boat_clipper_joyfuldead_name=Jambander's Cruiser
-$prefabs_collections_boat_clipper_joyfuldead_description=Jamming through the waves all summer long.
-$prefabs_collections_boat_clipper_tire_name=Tired Traveler
-$prefabs_collections_boat_clipper_tire_description=Take a lazy trip in this recycled drifter.
-$prefabs_collections_boat_galleon_lantern_name=The Red Lantern
-$prefabs_collections_boat_galleon_lantern_item_name=Boat: The Red Lantern
-$prefabs_collections_boat_galleon_lantern_description=Pride of the Crimson fleets.
-$prefabs_collections_boat_galleon_catastrophe_name=Grisly Galleon
-$prefabs_collections_boat_galleon_catastrophe_description=The Pride & Joy of Fiona's Fleet
+$prefabs_collections_boat_clipper_badge_fishing_item_name»Trovian Trawler
+$prefabs_collections_boat_clipper_badge_fishing_item_description»Clipper class ship.
+$prefabs_collections_boat_clipper_basic_item_name»SS Corgi
+$prefabs_collections_boat_clipper_basic_item_description»Clipper class ship. Can be made at the Nautical Assembler in Drowned Worlds.
+$prefabs_collections_boat_clipper_cannon_item_name»Clipper Cannon
+$prefabs_collections_boat_clipper_cannon_item_description»You'll shoot your aye-aye out.
+$prefabs_collections_boat_clipper_chaos_item_name»Chaotic Clipper
+$prefabs_collections_boat_clipper_chaos_item_description»Clipper class ship.
+$prefabs_collections_boat_clipper_mastery_item_name»Clipper of the Master
+$prefabs_collections_boat_clipper_mastery_item_description»Clipper class ship.
+$prefabs_collections_boat_clipper_starter_item_name»SS Dinghy
+$prefabs_collections_boat_clipper_starter_item_description»Raft class ship. Can be bought from Saltwater Sam in Drowned Worlds.\n\nUse [HK:EquipBoat] while in Water to ride.
+$prefabs_collections_boat_clipper_starter_item_description_controller»Raft class ship. Can be bought from Saltwater Sam in Drowned Worlds.
+$prefabs_collections_boat_clipper_starter_dragon_item_name»Dragon Dinghy
+$prefabs_collections_boat_clipper_starter_dragon_item_description»Raft class ship. Can safely navigate lava.
+$prefabs_collections_boat_clipper_steam_item_name»Arcanium Steamboat
+$prefabs_collections_boat_clipper_steam_item_description»Clipper class ship.
+$prefabs_collections_boat_clipper_dragon_item_name»Flame Skimmer
+$prefabs_collections_boat_clipper_dragon_item_description»Clipper class ship. Can safely navigate lava.
+$prefabs_collections_boat_clipper_trove_item_name»SS Trovian
+$prefabs_collections_boat_clipper_trove_item_description»Clipper class ship.
+$prefabs_collections_boat_clipper_carnaval_item_name»SS Festa
+$prefabs_collections_boat_clipper_carnaval_item_description»Clipper class ship.
+$prefabs_collections_boat_galleon_basic_item_name»Old Blocksides
+$prefabs_collections_boat_galleon_basic_item_description»Galleon class ship. Can be made at the Nautical Assembler in Drowned Worlds.
+$prefabs_collections_boat_galleon_cannon_item_name»Galleon Cannon
+$prefabs_collections_boat_galleon_cannon_item_description»You'll shoot your aye-aye out.
+$prefabs_collections_boat_galleon_chaos_item_name»Chaotic Cruiser
+$prefabs_collections_boat_galleon_chaos_item_description»Galleon class ship.
+$prefabs_collections_boat_galleon_dragon_item_name»SS Draconic
+$prefabs_collections_boat_galleon_dragon_item_description»Galleon class ship. Can safely sail on lava.
+$prefabs_collections_boat_galleon_ghost_item_name»SS Dutchman
+$prefabs_collections_boat_galleon_ghost_item_description»A ghostly Galleon class ship.
+$prefabs_collections_boat_galleon_mastery_item_name»Master's Command
+$prefabs_collections_boat_galleon_mastery_item_description»Galleon class ship.
+$prefabs_collections_boat_galleon_cruise_item_name»SS Cruzeiro
+$prefabs_collections_boat_galleon_cruise_item_description»Galleon class ship. This luxury liner can safely navigate lava.
+$prefabs_collections_boat_test_item_name»Boat
+$prefabs_collections_boat_test_item_description»It's a big boat.
+$prefabs_collections_boat_tortoise_cannon_item_name»Clipper Cannon
+$prefabs_collections_boat_tortoise_cannon_item_description»You'll shoot your aye-aye out.
+$prefabs_collections_boat_galleon_chinese_name»Cobalt Carp
+$prefabs_collections_boat_galleon_chinese_description»An ancient battleship, centerpiece of many storied naval victories.
+$prefabs_collections_boat_galleon_infineon_name»Infini Frigate
+$prefabs_collections_boat_galleon_infineon_description»Lay Siege to the Shores of the Everdark in this flagship of light.
+$prefabs_collections_boat_galleon_fishing_name»Trolling Trawler
+$prefabs_collections_boat_galleon_fishing_description»A valorous vessel to tackle the waves and haul in the sea's bounty.
+$prefabs_collections_boat_clipper_maki_name»SS Tekka
+$prefabs_collections_boat_clipper_maki_description»You should do well with this boat since it is part fish, right?
+$prefabs_collections_boat_clipper_tentacle_name»Writhing Raft
+$prefabs_collections_boat_clipper_tentacle_description»The badge of a true survivor is thriving with the materials at hand.
+$prefabs_collections_boat_clipper_jurassic_name»Jurassic Junk
+$prefabs_collections_boat_clipper_jurassic_description»Who knew that meteorite could float so well.
+$prefabs_collections_boat_clipper_blocky_name»SS Cube
+$prefabs_collections_boat_clipper_blocky_description»What it lacks in streamlining, it makes up for in character.
+$prefabs_collections_boat_clipper_mastery_01_name»Master's Catamaran
+$prefabs_collections_boat_clipper_mastery_01_description»Sleek lines and powerful magical enhancements make this one of the most coveted vessels on the Trovian seas.
+$prefabs_collections_boat_clipper_snowfest2017_name»Bedecked Iceboat
+$prefabs_collections_boat_clipper_snowfest2017_description»Fully capable of dealing with ice and icy seas with ease.
+$prefabs_collections_boat_galleon_cygnus_name»Cygnus's Skyship
+$prefabs_collections_boat_galleon_cygnus_description»This magnificent vessel is said to have at one time traversed the skies as well as the seas.
+$prefabs_collections_boat_clipper_tortoise_flowerhedge_name»Topiary Terrapin
+$prefabs_collections_boat_clipper_tortoise_flowerhedge_description»Despite its size, some brazen herbivores still try to take bites out of it.
+$prefabs_collections_boat_galleon_cannon_ark_item_name»SS Solidarity Cannon
+$prefabs_collections_boat_galleon_cannon_ark_item_description»A token of gratitude from Sunseeker Rowan for your help in building the Solidarity, the ship to Geode.
+$prefabs_collections_boat_galleon_ark_item_name»SS Solidarity
+$prefabs_collections_boat_galleon_ark_item_description»A miniaturized version of the Solidarity, the massive ship that carries Trovians to Geode.
+$prefabs_collections_boat_galleon_ark_notrade_item_name»SS Solidarity
+$prefabs_collections_boat_galleon_ark_notrade_item_description»A miniaturized version of the Solidarity, the massive ship that carries Trovians to Geode.
+$prefabs_collections_boat_galleon_frigate_item_name»Automatic Frigate
+$prefabs_collections_boat_galleon_frigate_item_description»Travel the Treasure Isles in the most stylish ship around.
+$prefabs_collections_boat_galleon_kami_item_name»Kami Ketch
+$prefabs_collections_boat_galleon_kami_item_description»Weather any storm with serenity and dignity.
+$prefabs_collections_boat_clipper_spring_item_name»May Flower
+$prefabs_collections_boat_clipper_spring_item_description»Clipper class ship. Original obtainable from Spring Fling 2020.
+$prefabs_collections_boat_clipper_flamingo_item_name»Floatmingo
+$prefabs_collections_boat_clipper_flamingo_item_description»Lets float, amigo.
+$prefabs_collections_boat_galleon_pinata_item_name»Pinata God's Galleon
+$prefabs_collections_boat_galleon_pinata_item_description»My eye? You should have seen the other guy.
+$prefabs_collections_boat_clipper_spooky_item_name»Gourd Galleon
+$prefabs_collections_boat_clipper_spooky_item_description»Gregarious but, conversely, a Clipper class ship.\n\nOriginally obtainable during Shadow's Eve 2020.
+$prefabs_collections_boat_clipper_beehive_name»Bee Barge
+$prefabs_collections_boat_clipper_beehive_description»Includes un-beelievable aerial defense (defense not guaranteed)
+$prefabs_collections_boat_clipper_tortoise_mastery_name»Mortimara
+$prefabs_collections_boat_clipper_tortoise_mastery_description»This gentle, gracious, galactic beast is often seen as a good omen, and a better party guest.
+$prefabs_collections_boat_clipper_tortoise_lunarswan_name»Swan's Song
+$prefabs_collections_boat_clipper_tortoise_lunarswan_description»The last transport.
+$prefabs_collections_boat_galleon_depth_item_name»Void Cruiser
+$prefabs_collections_boat_galleon_depth_item_description»Carries all across crushing nothingness.
+$prefabs_collections_boat_clipper_prestige_name»Paragon Pinnace
+$prefabs_collections_boat_clipper_prestige_description»Beautiful. Buoyant. Flamboyant. Explosive.
+$prefabs_collections_boat_clipper_starfish_name»Starfish Skimmer
+$prefabs_collections_boat_clipper_starfish_description»Skims along the surface of the water with nary a breeze.
+$prefabs_collections_boat_clipper_yarn_name»Knitter Cutter
+$prefabs_collections_boat_clipper_yarn_description»Soft to the core!
+$prefabs_collections_boat_clipper_candle_name»TSS Lucerna
+$prefabs_collections_boat_clipper_candle_description»There will always be light on this Trovian sea ship.
+$prefabs_collections_boat_galleon_tanabata_name»Wasen
+$prefabs_collections_boat_galleon_tanabata_description»Travelling with tradition.
+$prefabs_collections_boat_clipper_lifesaver_duck_name»Carys Canard
+$prefabs_collections_boat_clipper_lifesaver_duck_description»Nothing about this floatation device is fraudulent or fabricated.
+$prefabs_collections_boat_clipper_lifesaver_frog_name»Tysorion Toad
+$prefabs_collections_boat_clipper_lifesaver_frog_description»Definitely do not lick this friendly flotation helper.
+$prefabs_collections_boat_clipper_lifesaver_fish_name»Panatean Puffer
+$prefabs_collections_boat_clipper_lifesaver_fish_description»Far too inflated to ever sink.
+$prefabs_collections_boat_clipper_threehouses_name»Three House Boat
+$prefabs_collections_boat_clipper_threehouses_description»Forced together but trying to break apart.
+$prefabs_collections_boat_clipper_ashen_name»Frond Ferry
+$prefabs_collections_boat_clipper_ashen_description»The plants from the Ashen Wastes are surprisingly buoyant.
+$prefabs_collections_boat_clipper_skull_name»Skully Skiff
+$prefabs_collections_boat_clipper_skull_description»Wish everyone bone voyage as you set sail.
+$prefabs_collections_boat_galleon_charcuterie_name»Lunching Longship
+$prefabs_collections_boat_galleon_charcuterie_description»Set sail on the snack seas.
+$prefabs_collections_boat_board_surf_palmtree_name»Snowfest Surfer
+$prefabs_collections_boat_board_surf_palmtree_item_name»Boat: Snowfest Surfer
+$prefabs_collections_boat_board_surf_palmtree_description»Snowfest in the Treasure Isles takes on a different look.
+$prefabs_collections_boat_clipper_lunar_name»Lunar Hopper
+$prefabs_collections_boat_clipper_lunar_item_name»Boat: Lunar Hopper
+$prefabs_collections_boat_clipper_lunar_description»Some say it can glide on moonlight as easily as water.
+$prefabs_collections_boat_boat_rave_name»Neon Pearl
+$prefabs_collections_boat_boat_rave_description»The fastest ship in the Neon Fleet.
+$prefabs_collections_boat_rave_item_name»Boat: Neon Pearl
+$prefabs_collections_boat_boat_rave_item_description»Unlocks the Neon Pearl boat and sail.
+$prefabs_collections_boat_galleon_pinzo_cruise_name»Pinzo's Timeshare Cruiseline
+$prefabs_collections_boat_galleon_pinzo_cruise_item_name»Boat: Pinzo's Timeshare Cruiseline
+$prefabs_collections_boat_galleon_pinzo_cruise_description»Totally legitimate timeshare, absolutely 100% above deck and ship shape.\n\nCan sail in lava.
+$prefabs_collections_boat_clipper_goldfish_name»Fishy Floater
+$prefabs_collections_boat_clipper_goldfish_item_name»Boat: Fishy Floater
+$prefabs_collections_boat_clipper_goldfish_description»Find all the fish with your mastery of bait.
+$prefabs_collections_boat_dragon_mastery_swan_name»Cygnet I
+$prefabs_collections_boat_dragon_mastery_swan_description»Ugly is in the heart of the beholder.
+$prefabs_collections_boat_clipper_heckbug_name»Heckfly Hovercraft
+$prefabs_collections_boat_clipper_heckbug_description»Fly through the water (or lava!) even faster than a heckfly.
+$prefabs_collections_boat_clipper_joyfuldead_name»Jambander's Cruiser
+$prefabs_collections_boat_clipper_joyfuldead_description»Jamming through the waves all summer long.
+$prefabs_collections_boat_clipper_tire_name»Tired Traveler
+$prefabs_collections_boat_clipper_tire_description»Take a lazy trip in this recycled drifter.
+$prefabs_collections_boat_galleon_lantern_name»The Red Lantern
+$prefabs_collections_boat_galleon_lantern_item_name»Boat: The Red Lantern
+$prefabs_collections_boat_galleon_lantern_description»Pride of the Crimson fleets.
+$prefabs_collections_boat_galleon_catastrophe_name»Grisly Galleon
+$prefabs_collections_boat_galleon_catastrophe_description»The Pride & Joy of Fiona's Fleet
+$prefabs_collections_boat_clipper_cake_name»The Baker's Dozen
+$prefabs_collections_boat_clipper_cake_item_name»Boat: The Baker's Dozen
+$prefabs_collections_boat_clipper_cake_description»Never worry about snacks on the seas again.
+$prefabs_collections_boat_galleon_davinci_item_name»Gallivanting Galleon
+$prefabs_collections_boat_galleon_davinci_item_description»Sinking your enemies by hack-hack-hacking away at them.
+$prefabs_collections_boat_clipper_marshmallow_name»Ever-Puffed Raft
+$prefabs_collections_boat_clipper_marshmallow_description»Lighter than air!
+$prefabs_collections_boat_clipper_ghost_name»Wavy Bones
+$prefabs_collections_boat_clipper_ghost_description»The Ghostly Ship for the Conqueror of the High Seas.
+$prefabs_collections_boat_clipper_bamboo_name»Bamboo Raft
+$prefabs_collections_boat_clipper_bamboo_description»Drift along the countless rivers that carve through the Forbidden Spires.

@@ -1,0 +1,4 @@
+1. trove-lang：star_ss
+2. trove-lang-tool：star_ss
+3. tools.py：Angels-D
+4. cn-mix翻译：LiuLianF、Angels-D、MewsCat

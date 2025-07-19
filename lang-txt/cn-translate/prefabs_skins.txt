@@ -1,0 +1,8 @@
+$prefabs_skins_shadowhunter_mint_skinset_name»Mintbreaker神射手(Mintbreaker Marksman)
+$prefabs_skins_shadowhunter_mint_skinset_description»暗影猎手的服装。\n<font color="#cccccc">A costume for the Shadow Hunter.</font>\n\n薄荷味的新鲜螺栓提供冷藏和巧克力涂层。\n<font color="#cccccc">Minty fresh bolts served chilled and chocolate-coated.</font>
+$prefabs_skins_chloromancer_sugar_skinset_name»Sugarspore Sproutmancer
+$prefabs_skins_chloromancer_sugar_skinset_description»氯巫师的服装。\n<font color="#cccccc">A costume for the Chloromancer.</font>\n\n当您的花园充斥着糖果时，您将成为以零食为基础的植物学家的命运需求。\n<font color="#cccccc">When your garden gets infested with sweets, you become the snack-based botanist destiny demands.</font>
+$prefabs_skins_pirate_petal_skinset_name»花瓣粉海盗(Petalpowder Pirate)
+$prefabs_skins_pirate_petal_skinset_description»海盗船长的服装。\n<font color="#cccccc">A costume for the Pirate Captain.</font>\n\n包裹着树皮、藤蔓和花朵，以种植和炮火征服。\n<font color="#cccccc">Clad in bark, vines, and blossoms, conquering with cultivation and cannonfire alike.</font>
+$prefabs_skins_tombraiser_bloom_skinset_name»死灵法师布鲁姆格雷夫(Bloomgrave Necromancer)
+$prefabs_skins_tombraiser_bloom_skinset_description»为坟墓举起者准备的服装。\n<font color="#cccccc">A costume for the Tomb Raiser.</font>\n\n骨头裂开，树根爬行，花朵绽放，这位坟墓举手从下面的土壤迎来春天。\n<font color="#cccccc">Bones crack, roots crawl, and flowers bloom as this Tomb Raiser ushers in spring from the soil below.</font>

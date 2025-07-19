@@ -1,0 +1,2 @@
+$prefabs_item_crafting_events_cny2026_fire_horse_beacon_name»余烬之印(Sigil of Embers)
+$prefabs_item_crafting_events_cny2026_fire_horse_beacon_description»吸引Cindrakken的注意力。当你被这个徽章标记时，当你触发魔法发现时，你将有机会看到火焰鳞片幻影。摧毁这些幽灵会获得余鳞龙蛋碎片。\n<font color="#cccccc">Attracts the attention of the Cindrakken. While marked by this sigil, you are granted a chance to see Emberscale Apparitions when you trigger MAGIC FIND. Destroying these apparitions grants Emberscale Dragon Egg Fragments.</font>

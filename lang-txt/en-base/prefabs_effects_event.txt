@@ -1,0 +1,64 @@
+$prefabs_effects_event_august_2024_banner_equip_description»LUNAR PLUNGE: Chance to draw-forth SHADOW WOLVES when MAGIC FIND is triggered in PRIME ADVENTURE WORLDS.
+$prefabs_effects_event_september_2024_banner_up_equip_description»UP vs. DOWN: Signals your loyalty to the Cloud Layer faction of Sundered Uplands.\nAllows occasional collection of IRRADIANT SOULS when defeating Adventure world dungeons.
+$prefabs_effects_event_september_2024_banner_down_equip_description»UPSIDE DOWN: Signals your loyalty to the Ashen Wastes faction of Sundered Uplands.\nAllows occasional collection of ASHEN SOULS when defeating Adventure world dungeons.
+$prefabs_effects_event_september_2024_donate_hamburger_name»Cloud Layer Loyalty
+$prefabs_effects_event_september_2024_donate_hamburger_description»By donating to the Cloud Layer Delegate, the Ashen Wastes Delegate will be miffed at you for awhile, and will not accept donations.
+$prefabs_effects_event_september_2024_donate_broccoli_name»Ashen Wastes Loyalty
+$prefabs_effects_event_september_2024_donate_broccoli_description»By donating to the Ashen Wastes Delegate, the Cloud Layer Delegate will be miffed at you for awhile, and will not accept donations.
+$prefabs_effects_event_december_2024_hat_equip_description»Complete a Dungeon while equipped to receive an effect increasing PRISTINE SNOW acquired from Tree Dungeons during Snowfest!
+$prefabs_effects_event_december_2024_hat_buff_description»Increases PRISTINE SNOW awarded from Tree Dungeons.
+$prefabs_effects_event_december_2024_hat_1_buff_name»Snowfest Favor: Magenta
+$prefabs_effects_event_december_2024_hat_2_buff_name»Snowfest Favor: Enchanted
+$prefabs_effects_event_december_2024_hat_3_buff_name»Snowfest Favor: Tysorian
+$prefabs_effects_event_december_2024_hat_4_buff_name»Snowfest Favor: Panatean
+$prefabs_effects_event_december_2024_hat_5_buff_name»Snowfest Favor: Carysian
+$prefabs_effects_event_february_2025_banner_hunter_aoe_desc»Periodically removes shiels from nearby Hellbugs in Dragonfire Peaks.\nIncreases drop rate of Heckbug Pincers.\nOccasionally reveals hidden Heckbug Invaders when completing Dungeons.
+$prefabs_effects_event_february_2025_banner_helper_loot_name»Helper's Aid
+$prefabs_effects_event_february_2025_banner_helper_loot_legacy_name»Legacy Helper's Aid
+$prefabs_effects_event_february_2025_banner_helper_loot_desc»Chance to grant additional H.E.C.K. Karma Token when helping Heckbugs in Geode Caverns.
+$prefabs_effects_event_february_2025_banner_helper_loot_legacy_desc»Chance to rarely grant additional H.E.C.K. Karma Token when helping Heckbugs in Geode Caverns.
+$prefabs_effects_event_february_2025_banner_helper_flaskuse_description»Using a Flask while equipped grants an effect which gives a chance to grant additional H.E.C.K. Karma Token when helping Heckbugs in Geode Caverns.\nOnly active during the What the H.E.C.K.?! Event.
+$prefabs_effects_event_february_2025_banner_helper_flaskuse_legacy_description»Using a Flask while equipped grants an effect which gives a chance to rarely grant additional H.E.C.K. Karma Token when helping Heckbugs in Geode Caverns.\nOnly active during the What the H.E.C.K.?! Event.
+$prefabs_effects_event_february_pet_heartwarmer_name»Heartwarmer's Blessing
+$prefabs_effects_event_february_pet_heartwarmer_legacy_name»Legacy Heartwarmer's Blessing
+$prefabs_effects_event_february_2025_banner_heartwarmer_loot_desc»Chance to grant additional H.E.C.K. Karma Tokens when helping Heckbugs in Dragonfire Peaks.
+$prefabs_effects_event_february_2025_banner_heartwarmer_loot_legacy_desc»Chance to rarely grant additional H.E.C.K. Karma Tokens when helping Heckbugs in Dragonfire Peaks.
+$prefabs_effects_event_february_2025_banner_heartwarmer_loot_desc_apply»Chance to grant additional H.E.C.K. Karma Tokens when helping Heckbugs in Dragonfire Peaks.\nOnly active during the What the H.E.C.K.?! Event.
+$prefabs_effects_event_february_2025_banner_heartwarmer_loot_legacy_desc_apply»Chance to rarely grant additional H.E.C.K. Karma Tokens when helping Heckbugs in Dragonfire Peaks.\nOnly active during the What the H.E.C.K.?! Event.
+$prefabs_effects_event_february_pet_hunter_name»Hunter's Advice
+$prefabs_effects_event_february_pet_hunter_legacy_name»Legacy Hunter's Advice
+$prefabs_effects_event_february_2025_pet_hunter_loottrigger_desc»Significantly increases drop rate of Heckbug Pincers.
+$prefabs_effects_event_february_2025_pet_hunter_loottrigger_legacy_desc»Slightly increases drop rate of Heckbug Pincers.
+$prefabs_effects_event_february_2025_pet_hunter_loottrigger_desc_apply»Significantly increases drop rate of Heckbug Pincers.\nOnly active during the What the H.E.C.K.?! Event.
+$prefabs_effects_event_february_2025_pet_hunter_loottrigger_legacy_desc_apply»Slightly increases drop rate of Heckbug Pincers.\nOnly active during the What the H.E.C.K.?! Event.
+$prefabs_effects_event_february_2025_capybara_event_hat_combatevent_desc»Increases drop rate of Rubber Duckats during the Marquitillo's Missing event.
+$prefabs_effects_event_september_2025_banner_healthy_equip_description»Healthy Food vs Junk Food: Signals your loyalty to the Medeival Highlands faction.\nAllows occasional collection of SOUL FOOD and MUSHROOM PARTS when defeating Adventure world dungeons.
+$prefabs_effects_event_september_2025_banner_junk_equip_description»Healthy Food vs Junk Food: Signals your loyalty to the Candoria faction.\nAllows occasional collection of SOUL FOOD and WILD CUPCAKES when defeating Adventure world dungeons.
+$prefabs_effects_event_september_2025_donate_healthy_name»Highlands Loyalty
+$prefabs_effects_event_september_2025_donate_healthy_description»By donating to the Medieval Highlights Delegate, the Candoria Delegate will be miffed at you for awhile, and will not accept donations.
+$prefabs_effects_event_september_2025_donate_junk_name»Candoria Loyalty
+$prefabs_effects_event_september_2025_donate_junk_description»By donating to the Candoria Delegate, the Highlands Delegate will be miffed at you for awhile, and will not accept donations.
+$prefabs_effects_event_xmas_club_donation_buff_critdamage_name»Critical Damage Boost!
+$prefabs_effects_event_xmas_club_donation_buff_critdamage_description»Your crits hit so hard, they leave spark trails and emotional damage. +20% Critical Damage.
+$prefabs_effects_event_xmas_club_donation_buff_critrate_name»Critical Hit Boost!
+$prefabs_effects_event_xmas_club_donation_buff_critrate_description»You crit so often, that your DPS meter’s filing a complaint. +10% Critical Hit.
+$prefabs_effects_event_xmas_club_donation_buff_damage_name»Damage Boost!
+$prefabs_effects_event_xmas_club_donation_buff_damage_description»Both the fireballs and punches are now 15% more festive. +15% Magic and Physical Damage.
+$prefabs_effects_event_xmas_club_donation_buff_exp_name»Experience Boost!
+$prefabs_effects_event_xmas_club_donation_buff_exp_description»You're leveling up so fast, it's making all your friends jealous. +15% Experience Gain.
+$prefabs_effects_event_xmas_club_donation_buff_light_name»Light Boost!
+$prefabs_effects_event_xmas_club_donation_buff_light_description»Infused with pure Snowfest brilliance, this boost is illegal in the Everdark. +500 Light.
+$prefabs_effects_event_xmas_club_donation_buff_magicfind_name»Magic Find Boost!
+$prefabs_effects_event_xmas_club_donation_buff_magicfind_description»Treasure’s practically tripping over itself to find you. +300 Magic Find.
+$prefabs_effects_event_xmas_club_deer_carrot_rewrad_jump_name»Jump Boost!
+$prefabs_effects_event_xmas_club_deer_carrot_rewrad_jump_description»Red-Nose magic makes you feel lighter. +0.5 Jump Strength.
+$prefabs_effects_event_xmas_club_gnome_01_reward_light_name»What? No, I won't share my shiny snowflakes.
+$prefabs_effects_event_xmas_club_gnome_01_reward_light_description»You’ll get to witness some Elf magic instead! +150 Light, +15 Movement Speed.
+$prefabs_effects_event_xmas_club_elfsly_reward_damage_name»Tinkersly's Blessing!
+$prefabs_effects_event_xmas_club_elfsly_reward_damage_description»Thank you for your help! Such a kind Trovian as yourself deserves +10% Magic and Physical damage boost.
+$prefabs_effects_event_january_renewus_harvest_trigger_description»Allows bearer to safely collect RENEWUS BUTTERFLIES.
+$prefabs_effects_event_january_renewus_dungeon_trigger_description»Grants a small chance to find a RENEWUS BUTTERFLY when completing DUNGEONS during the RENEWUS EVENT.\nChance is INCREASED at higher Difficulty ranks, and further increased for Trovians who have completed one of GARX'S Daily Challenges!
+$prefabs_effects_event_cny_2026_world_event_trigger_name»Sigil of Embers
+$prefabs_effects_event_cny_2026_world_event_trigger_description»While marked by this sigil, you are granted a chance to see Emberscale Apparitions when you trigger MAGIC FIND. Destroying these apparitions grants Emberscale Dragon Egg Fragments.
+$prefabs_effects_event_cny_2026_world_event_pet_trigger_name»Cinder
+$prefabs_effects_event_cny_2026_world_event_pet_trigger_description»When the 'Cindrakken - the Emberscale Dragon' event is running, allows the collection of additional Ember Trails. Grants a chance to see Emberscale Apparitions when you trigger MAGIC FIND.

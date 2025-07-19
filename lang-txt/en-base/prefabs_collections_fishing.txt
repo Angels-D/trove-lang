@@ -1,61 +1,63 @@
-$prefabs_collections_fishing_badge_pole_item_name=Frenzied Fisher
-$prefabs_collections_fishing_badge_pole_item_description=If it swims, shoot it.
-$prefabs_collections_fishing_basic_pole_item_name=Basic Fishing Pole
-$prefabs_collections_fishing_basic_pole_item_description=A beginner's pole. Can be bought from Saltwater Sam in Drowned Worlds.
-$prefabs_collections_fishing_candy_pole_item_name=Candied Fishing Cane
-$prefabs_collections_fishing_candy_pole_item_description=A sweet angling rod for fishing in chocolate. Can be made at the Nautical Assembler in Drowned Worlds.
-$prefabs_collections_fishing_chaos_pole_item_name=Chaos Rod
-$prefabs_collections_fishing_chaos_pole_item_description=A fishing rod imbued with a touch of primordial chaos.
-$prefabs_collections_fishing_dragon_pole_item_name=Molten Magma Sifter
-$prefabs_collections_fishing_dragon_pole_item_description=A heat-resistant pole which unlocks fishing in lava. Can be made at the Nautical Assembler in Drowned Worlds.
-$prefabs_collections_fishing_lure_item_name=Lure
-$prefabs_collections_fishing_lure_item_description=Here fishy fishy.
-$prefabs_collections_fishing_mastery_pole_item_name=Master Angler's Rod
-$prefabs_collections_fishing_mastery_pole_item_description=A masterful fishing rod.
-$prefabs_collections_fishing_neoncity_pole_item_name=N-0 Depth Scoper
-$prefabs_collections_fishing_neoncity_pole_item_description=An advanced angling rod for fishing in plasma.
-$prefabs_collections_fishing_rainbow_pole_item_name=Wish Fisher
-$prefabs_collections_fishing_rainbow_pole_item_description=A legendary fishing rod that makes any angler's wishes come true.
-$prefabs_collections_fishing_sword_pole_item_name=Lady of the Lake
-$prefabs_collections_fishing_sword_pole_item_description=A legendary fishing rod said to enchant any fish that swims nearby. Can be made at the Nautical Assembler in Drowned Worlds.
-$prefabs_collections_fishing_mastery02_pole_name=Royal Reeler
-$prefabs_collections_fishing_mastery02_pole_description=No fish, great or small, can resist its allure.
-$prefabs_collections_fishing_upsidedown_pole_name=Kiwi Katcher
-$prefabs_collections_fishing_upsidedown_pole_item_name=Pole: Kiwi Katcher
-$prefabs_collections_fishing_upsidedown_pole_description=The real challenge is avoiding katching yourself.
-$prefabs_collections_fishing_ashen_pole_name=Ferny Fisher
-$prefabs_collections_fishing_ashen_pole_item_name=Pole: Ferny Fisher
-$prefabs_collections_fishing_ashen_pole_description=Sure to hook fish with the gently waving fronds.
-$prefabs_collections_fishing_irradiant_pole_name=Irradiant Rod
-$prefabs_collections_fishing_irradiant_pole_item_name=Pole: Irradiant Rod
-$prefabs_collections_fishing_irradiant_pole_description=Is it actually catching fish or just confusing them in to surfacing?
-$prefabs_collections_fishing_crab_pole_name=Murkwater Mark's Mucker
-$prefabs_collections_fishing_crab_pole_item_name=Pole: Murkwater Mark's Mucker
-$prefabs_collections_fishing_crab_pole_description=Can find any fish in even the muckiest of water or chocolate. \n\nCapable of catching the most elusive fish in the Depths from pools.\n\nSold by Murkwater Mark in the Fishing area of the Hub.
-$prefabs_collections_fishing_stars_pole_name=Fish Finder
-$prefabs_collections_fishing_stars_pole_item_name=Pole: Fish Finder
-$prefabs_collections_fishing_stars_pole_description=Simply the best at finding most fish. 
-$prefabs_collections_fishing_turtle_pole_name=Turtle Trawler
-$prefabs_collections_fishing_turtle_pole_item_name=Pole: Turtle Trawler
-$prefabs_collections_fishing_turtle_pole_description=I like turtles.  Turtles like pizza.  Somehow this results in catching fish.\n\nCapable of catching invasive turtles from the Depths.\n\nSold by Mr. Thommas Tortoise.
-$prefabs_collections_fishing_bird_pole_name=Tweeting Trawler
-$prefabs_collections_fishing_bird_pole_item_name=Pole: Tweeting Trawler
-$prefabs_collections_fishing_bird_pole_description=Professional trawlers are often known for fishing using tools like this - sometimes it's known as chirping.
-$prefabs_collections_fishing_tysorion_pole_name=Tysorion Trawler
-$prefabs_collections_fishing_tysorion_pole_item_name=Pole: Tysorion Trawler
-$prefabs_collections_fishing_tysorion_pole_description=Fishing is easier when the fish just listen to your orders and jump into your boat.
-$prefabs_collections_fishing_panatea_pole_name=Panatean Pole
-$prefabs_collections_fishing_panatea_pole_item_name=Pole: Panatean Pole
-$prefabs_collections_fishing_panatea_pole_description=It's hard to fish if you're too busy partying.
-$prefabs_collections_fishing_carys_pole_name=Carysian Caster
-$prefabs_collections_fishing_carys_pole_item_name=Pole: Carysian Caster
-$prefabs_collections_fishing_carys_pole_description=The best fishing rod that Carysian Ducats can buy.
-$prefabs_collections_fishing_bone_pole_name=Alpha Angler
-$prefabs_collections_fishing_bone_pole_item_name=Pole: Alpha Angler
-$prefabs_collections_fishing_bone_pole_description=It's best not to think of just where the bones for this came from.\n\nCapable of catching rare from pools in the obelisks of the Everdark.
-$prefabs_collections_fishing_elysia_pole_name=Elysian Fishing Rod
-$prefabs_collections_fishing_elysia_pole_item_name=Pole: Elysian Fishing Rod
-$prefabs_collections_fishing_elysia_pole_description=Even warriors need to relax once in a while and just take in the scenery... even if it's too dark to see it.\n\nCapable of catching rare from pools in the obelisks of the Everdark.
-$prefabs_collections_fishing_eggman_pole_name=King Egon's Royal Angler
-$prefabs_collections_fishing_eggman_pole_item_name=Pole: King Egon's Royal Angler
-$prefabs_collections_fishing_eggman_pole_description=Any and all Eggs or Trovians found in possession of this or any of King Egon's other royal possessions shall be subject to immediate execution. So says the King.
+$prefabs_collections_fishing_badge_pole_item_name»Frenzied Fisher
+$prefabs_collections_fishing_badge_pole_item_description»If it swims, shoot it.
+$prefabs_collections_fishing_basic_pole_item_name»Basic Fishing Pole
+$prefabs_collections_fishing_basic_pole_item_description»A beginner's pole. Can be bought from Saltwater Sam in Drowned Worlds.
+$prefabs_collections_fishing_candy_pole_item_name»Candied Fishing Cane
+$prefabs_collections_fishing_candy_pole_item_description»A sweet angling rod for fishing in chocolate. Can be made at the Nautical Assembler in Drowned Worlds.
+$prefabs_collections_fishing_chaos_pole_item_name»Chaos Rod
+$prefabs_collections_fishing_chaos_pole_item_description»A fishing rod imbued with a touch of primordial chaos.
+$prefabs_collections_fishing_dragon_pole_item_name»Molten Magma Sifter
+$prefabs_collections_fishing_dragon_pole_item_description»A heat-resistant pole which unlocks fishing in lava. Can be made at the Nautical Assembler in Drowned Worlds.
+$prefabs_collections_fishing_lure_item_name»Lure
+$prefabs_collections_fishing_lure_item_description»Here fishy fishy.
+$prefabs_collections_fishing_mastery_pole_item_name»Master Angler's Rod
+$prefabs_collections_fishing_mastery_pole_item_description»A masterful fishing rod.
+$prefabs_collections_fishing_neoncity_pole_item_name»N-0 Depth Scoper
+$prefabs_collections_fishing_neoncity_pole_item_description»An advanced angling rod for fishing in plasma.
+$prefabs_collections_fishing_rainbow_pole_item_name»Wish Fisher
+$prefabs_collections_fishing_rainbow_pole_item_description»A legendary fishing rod that makes any angler's wishes come true.
+$prefabs_collections_fishing_sword_pole_item_name»Lady of the Lake
+$prefabs_collections_fishing_sword_pole_item_description»A legendary fishing rod said to enchant any fish that swims nearby. Can be made at the Nautical Assembler in Drowned Worlds.
+$prefabs_collections_fishing_mastery02_pole_name»Royal Reeler
+$prefabs_collections_fishing_mastery02_pole_description»No fish, great or small, can resist its allure.
+$prefabs_collections_fishing_upsidedown_pole_name»Kiwi Katcher
+$prefabs_collections_fishing_upsidedown_pole_item_name»Pole: Kiwi Katcher
+$prefabs_collections_fishing_upsidedown_pole_description»The real challenge is avoiding katching yourself.
+$prefabs_collections_fishing_ashen_pole_name»Ferny Fisher
+$prefabs_collections_fishing_ashen_pole_item_name»Pole: Ferny Fisher
+$prefabs_collections_fishing_ashen_pole_description»Sure to hook fish with the gently waving fronds.
+$prefabs_collections_fishing_irradiant_pole_name»Irradiant Rod
+$prefabs_collections_fishing_irradiant_pole_item_name»Pole: Irradiant Rod
+$prefabs_collections_fishing_irradiant_pole_description»Is it actually catching fish or just confusing them in to surfacing?
+$prefabs_collections_fishing_crab_pole_name»Murkwater Mark's Mucker
+$prefabs_collections_fishing_crab_pole_item_name»Pole: Murkwater Mark's Mucker
+$prefabs_collections_fishing_crab_pole_description»Can find any fish in even the muckiest of water or chocolate. \n\nCapable of catching the most elusive fish in the Depths from pools.\n\nSold by Murkwater Mark in the Fishing area of the Hub.
+$prefabs_collections_fishing_stars_pole_name»Fish Finder
+$prefabs_collections_fishing_stars_pole_item_name»Pole: Fish Finder
+$prefabs_collections_fishing_stars_pole_description»Simply the best at finding most fish. 
+$prefabs_collections_fishing_turtle_pole_name»Turtle Trawler
+$prefabs_collections_fishing_turtle_pole_item_name»Pole: Turtle Trawler
+$prefabs_collections_fishing_turtle_pole_description»I like turtles.  Turtles like pizza.  Somehow this results in catching fish.\n\nCapable of catching invasive turtles from the Depths.\n\nSold by Mr. Thommas Tortoise.
+$prefabs_collections_fishing_bird_pole_name»Tweeting Trawler
+$prefabs_collections_fishing_bird_pole_item_name»Pole: Tweeting Trawler
+$prefabs_collections_fishing_bird_pole_description»Professional trawlers are often known for fishing using tools like this - sometimes it's known as chirping.
+$prefabs_collections_fishing_tysorion_pole_name»Tysorion Trawler
+$prefabs_collections_fishing_tysorion_pole_item_name»Pole: Tysorion Trawler
+$prefabs_collections_fishing_tysorion_pole_description»Fishing is easier when the fish just listen to your orders and jump into your boat.
+$prefabs_collections_fishing_panatea_pole_name»Panatean Pole
+$prefabs_collections_fishing_panatea_pole_item_name»Pole: Panatean Pole
+$prefabs_collections_fishing_panatea_pole_description»It's hard to fish if you're too busy partying.
+$prefabs_collections_fishing_carys_pole_name»Carysian Caster
+$prefabs_collections_fishing_carys_pole_item_name»Pole: Carysian Caster
+$prefabs_collections_fishing_carys_pole_description»The best fishing rod that Carysian Ducats can buy.
+$prefabs_collections_fishing_bone_pole_name»Alpha Angler
+$prefabs_collections_fishing_bone_pole_item_name»Pole: Alpha Angler
+$prefabs_collections_fishing_bone_pole_description»It's best not to think of just where the bones for this came from.\n\nCapable of catching rare from pools in the obelisks of the Everdark.
+$prefabs_collections_fishing_elysia_pole_name»Elysian Fishing Rod
+$prefabs_collections_fishing_elysia_pole_item_name»Pole: Elysian Fishing Rod
+$prefabs_collections_fishing_elysia_pole_description»Even warriors need to relax once in a while and just take in the scenery... even if it's too dark to see it.\n\nCapable of catching rare from pools in the obelisks of the Everdark.
+$prefabs_collections_fishing_eggman_pole_name»King Egon's Royal Angler
+$prefabs_collections_fishing_eggman_pole_item_name»Pole: King Egon's Royal Angler
+$prefabs_collections_fishing_eggman_pole_description»Any and all Eggs or Trovians found in possession of this or any of King Egon's other royal possessions shall be subject to immediate execution. So says the King.
+$prefabs_collections_fishing_depths_pole_name»Pole of the Deep
+$prefabs_collections_fishing_depths_pole_description»Despite Mark's claims, this pole absolutely can not fish up Leviathans.\n\nCapable of catching Rare Depths Fish from Water Pools found in Long Shade Difficulty (15).

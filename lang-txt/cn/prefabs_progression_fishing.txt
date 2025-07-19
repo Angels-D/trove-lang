@@ -1,0 +1,16 @@
+$fishing_crafting_4_1_detail»你装备的所有船只将会获得加速度 +5。
+$fishing_crafting_6_desc»一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可垂钓的液体时，能捕获5条鱼。\n\n需要玩家拥有已经激活的鱼饵层数Buff。
+$fishing_crafting_6_1_detail»你装备的所有船只将会获得加速度 +5。
+$fishing_baits_2_1_detail»你装备的所有船只将会获得加速度 +5。
+$fishing_baits_2_1_1_detail»你装备的所有船只将会获得转向力 +5。
+$fishing_baits_4_1_detail»你装备的所有船只将会获得加速度 +5。
+$fishing_baits_4_1_1_detail»你装备的所有船只将会获得转向力 +5。
+$fishing_baits_6_detail»你装备的所有船只将会获得加速度 +5。
+$fishing_baits_7_desc»一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可垂钓的液体时，能捕获5条鱼。\n\n需要玩家拥有已经激活的鱼饵层数Buff。
+$fishing_liquids_1_detail»接触到巧克力后，增加5%攻击速度，持续10秒。
+$fishing_liquids_3_detail»接触到等离子后，增加5%暴击率，持续10秒。
+$fishing_liquids_4_1_detail»你装备的所有船只将会获得加速度 +5。
+$fishing_liquids_5_detail»接触到岩浆后，所受伤害减少10%，持续10秒。
+$fishing_liquids_6_desc»一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可垂钓的液体时，能捕获5条鱼。\n\n需要玩家拥有已经激活的鱼饵层数Buff。
+$fishing_liquids_6_1_detail»你装备的所有船只将会获得转向力 +5。
+$fishing_liquids_7_detail»接触到普通水后，增加5%暴击伤害，持续10秒。

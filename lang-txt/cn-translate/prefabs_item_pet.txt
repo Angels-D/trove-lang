@@ -1,0 +1,6 @@
+$prefabs_item_pet_trex_sunlightbulb_name»盟友：舒适阳光霸王龙(Ally: Snug Sunlight Rex)
+$prefabs_item_pet_mammoth_sunlightbulb_name»盟友：害羞阳光龙(Ally: Shy Sunlightosaur)
+$prefabs_item_pet_spidermonkey_heckbug_name»盟友： Bulbous Heckmantis(Ally: Bulbous Heckmantis)
+$prefabs_item_pet_bird_heckbug_name»盟友： Heckbird(Ally: Heckbird)
+$prefabs_item_pet_dreambro_heckbug_name»盟友： Heckbug Heatsucker(Ally: Heckbug Heatsucker)
+$prefabs_item_pet_ball_bee_name»盟友： Bouncee the Bee(Ally: Bouncee the Bee)

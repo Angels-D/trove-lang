@@ -1,0 +1,2 @@
+$prefabs_item_currency_events_january_renewus_name»Sigil of Renewus
+$prefabs_item_currency_events_january_renewus_description»A minted symbol of renewal, rejuvination, and rebirth!\n\nGenerally obtained by donating RENEWUS BUTTERFLIES to Qubesly in the HUB.

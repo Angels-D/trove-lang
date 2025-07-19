@@ -1,0 +1,52 @@
+$prefabs_item_consumable_events_december2024_random_hat_name»Hatbox of Favor
+$prefabs_item_consumable_events_december2024_random_hat_description»Contains 1 or 5 Snowfest Favor Hats
+$prefabs_item_consumable_events_december2024_refresh_buffs_name»Favor of Snowfest
+$prefabs_item_consumable_events_december2024_refresh_buffs_description»Refreshes any active Snowfest Favor effects.
+$prefabs_item_consumable_events_january2025_warmup_blocksdestroyed_name»Warm Up: Destroy Blocks
+$prefabs_item_consumable_events_january2025_warmup_blocksdestroyed_description»Today's warm up: Destroy 100 Blocks!
+$prefabs_item_consumable_events_january2025_warmup_basic_name»Warm Up: The Basics
+$prefabs_item_consumable_events_january2025_warmup_basic_description»Today's warm up: Use your Basic Attack [HK:BasicAbility] 50 times!
+$prefabs_item_consumable_events_january2025_warmup_ultimate_name»Warm Up: Ultimate
+$prefabs_item_consumable_events_january2025_warmup_ultimate_description»Today's warm up: Use an Ultimate Ability [HK:Ability2]!
+$prefabs_item_consumable_events_january2025_warmup_dodge_name»Warm Up: Dodge
+$prefabs_item_consumable_events_january2025_warmup_dodge_description»Today's warm up: Dodge 10 times!
+$prefabs_item_consumable_events_january2025_warmup_blocksplaced_name»Warm Up: Place Blocks
+$prefabs_item_consumable_events_january2025_warmup_blocksplaced_description»Today's warm up: Place 25 Blocks!
+$prefabs_item_consumable_events_january2025_warmup_jump_name»Warm Up: Jumping
+$prefabs_item_consumable_events_january2025_warmup_jump_description»Today's warm up: Jump 50 times!
+$prefabs_item_consumable_events_january2025_warmup_walk_name»Warm Up: Running
+$prefabs_item_consumable_events_january2025_warmup_walk_description»Today's warm up: Walk or Run 300 steps!
+$prefabs_item_consumable_events_january2025_exercise_dung1star_name»Daily Exercise: 1 Star Dungeons
+$prefabs_item_consumable_events_january2025_exercise_dung1star_description»Complete 20 1-Star Dungeons and bust open their chests to grow stronger!
+$prefabs_item_consumable_events_january2025_exercise_dung3star_name»Daily Exercise: 3 Star Dungeons
+$prefabs_item_consumable_events_january2025_exercise_dung3star_description»Complete 7 3-Star Dungeons and bust open their chests to grow stronger!
+$prefabs_item_consumable_events_january2025_exercise_enemies_name»Daily Exercise: Defeat Enemies
+$prefabs_item_consumable_events_january2025_exercise_enemies_description»Defeat 100 Enemies to grow stronger!
+$prefabs_item_consumable_events_january2025_exercise_delve_name»Daily Exercise: Complete Delves
+$prefabs_item_consumable_events_january2025_exercise_delve_description»Complete 3 Delves to grow stronger!
+$prefabs_item_consumable_events_january2025_exhausted_name»Exhaustion
+$prefabs_item_consumable_events_january2025_exhausted_description»Unable to complete another exercise for now... Drink GARX-ADE for a refreshing, rejuvenating treat!
+$prefabs_item_consumable_events_january2025_garxade_name»GARX-ADE
+$prefabs_item_consumable_events_january2025_garxade_description»Removes EXHAUSTION by providing ENERGY and ELECTROLYES for EXCELLEN ENDURANCE.
+$prefabs_item_consumable_events_february2024_heckbug_requirements_failureLoc»Can only be used in Dragonfire Peaks.
+$prefabs_item_consumable_events_february2025_heckbug_name»Amorous Heckbug
+$prefabs_item_consumable_events_february2025_heckbug_description»Single and ready to mingle! This Heckbug is ready to find love in the Dragonfire Peaks!
+$prefabs_item_consumable_events_july2025_fireworks_name»Fireworks!
+$prefabs_item_consumable_events_july2025_fireworks_description»Handle with care.
+$prefabs_item_consumable_events_july2025_light_name»Be the light!
+$prefabs_item_consumable_events_july2025_light_description»Fight the shadows.
+$prefabs_item_consumable_events_xmas_club_sock_reward_autoconsume_name»Wait, did a tiny present just fall out of the stocking?
+$prefabs_item_consumable_events_xmas_club_sock_reward_autoconsume_description»What a nice surprise!
+$prefabs_item_consumable_events_xmas_club_deer_carrot_reward_autoconsume_name»Is that... a carrot I smell?
+$prefabs_item_consumable_events_xmas_club_donation_gearcrafting_name»Jolly Parcel
+$prefabs_item_consumable_events_xmas_club_donation_gearcrafting_description»Made of boundless Snowfest spirit, and questionable wrapping skills. Go on, try making some yourself!
+$prefabs_item_consumable_events_xmas_club_elfsly_reward_autoconsume_name»Tinkersly's Gratitude
+$prefabs_item_consumable_events_xmas_club_elfsly_reward_autoconsume_description»Thank you, Trovian! Please come back tomorrow.
+$prefabs_item_consumable_events_xmas_club_gnome_reward_autoconsume_name»Deckryn's Boost
+$prefabs_item_consumable_events_xmas_club_gnome_reward_autoconsume_description»My boost is made for walking, so you'd better get going. Now. Your presence is melting the snowflakes.
+$prefabs_item_consumable_events_january2025_challenge_3star_name»CHALLENGE: 3 x 3
+$prefabs_item_consumable_events_january2025_challenge_3star_description»FLEX your strength by defeating THREE 3-star dungeons within FIVE MINUTES!\nWARNING: If not completed within FIVE MINTUES this quest will self destruct!
+$prefabs_item_consumable_events_january2025_challenge_jump_name»CHALLENGE: 100 in 100!
+$prefabs_item_consumable_events_january2025_challenge_jump_description»After warming up, jump ONE HUNDRED times within ONE HUNDRED seconds!\nWARNING: If not completed within ONE HUNDRED SECONDS this quest will self destruct!
+$prefabs_item_consumable_events_january2025_challenge_cornerstone_name»CHALLENGE: BUILDER'S BRAWN
+$prefabs_item_consumable_events_january2025_challenge_cornerstone_description»After warming up, construct an ENTIRE CORNERSTONE without breaking for a nap.

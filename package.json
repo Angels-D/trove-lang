@@ -2,21 +2,23 @@
   "name": "trove-lang",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "@thestarweb/trove-lang-tool": "^1.0.0-test2",
-    "@types/node": "^16.11.4",
-    "jszip": "^3.7.1",
-    "typescript": "^4.4.4"
-  },
-  "devDependencies": {},
   "scripts": {
-    "build:mix": "node ./helper/build-star-mix.js",
-    "load:en": "node ./helper/load-en.js",
-    "load:cn": "npm run load:cn-base&&load:cn-llf",
-    "load:cn-base": "node ./helper/load-cn.js",
-    "load:cn-llf": "node ./helper/load-llf-cn.js"
+    "build:cn:star": "ts-node ./helper/build-cn-star-mix",
+    "build:cn:mix": "ts-node ./helper/build-cn-mix",
+    "translate:cn": "uv run python ./tools.py",
+    "load:cn-llf": "ts-node ./helper/load-cn-llf",
+    "load:cn-base": "ts-node ./helper/load-cn-base",
+    "load:en-base": "ts-node ./helper/load-en-base"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@thestarweb/trove-lang-tool": "^1.0.0-test2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "jszip": "^3.10.1",
+    "typescript": "^5.9.3",
+    "ts-node": "^10.9.2"
+  }
 }

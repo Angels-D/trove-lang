@@ -1,0 +1,7 @@
+$Gardening_Harvest_Ready_Ember_Trails»按[HK:Loot]收集余烬痕迹。这是一条龙在这里的迹象。(Press [HK:Loot] to collect Ember Trails. A sign that a dragon was here.)
+$Collections_Category_Sail»帆(Sails)
+$Collections_Category_Sail_Description»收集帆。每艘船都需要装备帆才能移动！(Collected sails. Every ship requires an equipped sail to be able to move!)
+$Trading_NotAccessable»提高忠诚度以解锁此功能。(Raise your loyalty to unlock this feature.)
+$Marketplace_NotEligibleToBuy»提高忠诚度以解锁此功能。(Raise your loyalty to unlock this feature.)
+$Marketplace_NotEligibleToSell»提高忠诚度以解锁此功能。(Raise your loyalty to unlock this feature.)
+$NoAccess_ClubChest»提高忠诚度以解锁此功能。(Raise your loyalty to unlock this feature.)

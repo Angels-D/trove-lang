@@ -1,223 +1,513 @@
-$meta_rewardId_2_description=+3%最大生命
-$meta_rewardId_forum_access_description=论坛发帖权限
-$meta_rewardId_3_description=500金币
-$meta_rewardId_10003_description=职业硬币
-$meta_rewardId_4_description=100塑形石
-$meta_rewardId_10005_description=初学者的飞翼
-$meta_rewardId_6_description=500金币
-$meta_rewardId_7_description=+3%伤害
-$meta_rewardId_8_description=+1恢复瓶携带量
-$meta_rewardId_9_description=200彩虹方块植物
-$meta_rewardId_10_description=克贝斯利
-$meta_rewardId_10010_description=暗影穹顶
-$meta_rewardId_20010_description=初学者的飞翼
-$meta_rewardId_30010_description=拍卖行槽位
-$meta_rewardId_11_description=500金币
-$meta_rewardId_12_description=+3%最大生命
-$meta_rewardId_13_description=500金币
-$meta_rewardId_14_description=100蓝晶
-$meta_rewardId_15_description=+10镭射强度
-$meta_rewardId_16_description=500金币
-$meta_rewardId_17_description=+3%伤害
-$meta_rewardId_18_description=500金币
-$meta_rewardId_19_description=+20%制作速度
-$meta_rewardId_20_description=暗影穹顶
-$meta_rewardId_10020_description=初学者的飞翼
-$meta_rewardId_21_description=500金币
-$meta_rewardId_22_description=+3%最大生命
-$meta_rewardId_23_description=500金币
-$meta_rewardId_24_description=100限晶
-$meta_rewardId_25_description=+1恢复瓶携带量
-$meta_rewardId_10025_description=职业硬币
-$meta_rewardId_26_description=500金币
-$meta_rewardId_27_description=+3%伤害
-$meta_rewardId_28_description=500金币
-$meta_rewardId_29_description=智慧珍珠
-$meta_rewardId_30_description=超级滑板
-$meta_rewardId_20030_description=帝王躺椅
-$meta_rewardId_31_description=100彩币
-$meta_rewardId_32_description=+3%最大生命
-$meta_rewardId_33_description=1000金币
-$meta_rewardId_34_description=30机器零件
-$meta_rewardId_35_description=+10镭射强度
-$meta_rewardId_36_description=100彩币
-$meta_rewardId_37_description=+3%伤害
-$meta_rewardId_38_description=1000金币
-$meta_rewardId_39_description=+20%制作速度
-$meta_rewardId_40_description=帝王躺椅
-$meta_rewardId_10040_description=专家飞翼
-$meta_rewardId_41_description=100彩币
-$meta_rewardId_42_description=+3%最大生命
-$meta_rewardId_43_description=1000金币
-$meta_rewardId_44_description=25原初之炎
-$meta_rewardId_45_description=+1恢复瓶携带量
-$meta_rewardId_46_description=100彩币
-$meta_rewardId_47_description=+3%伤害
-$meta_rewardId_48_description=1000金币
-$meta_rewardId_49_description=10克苏胡之眼
-$meta_rewardId_50_description=限晶超级滑板
-$meta_rewardId_51_description=100彩币
-$meta_rewardId_52_description=+3%最大生命
-$meta_rewardId_53_description=1000金币
-$meta_rewardId_54_description=100牧草种子
-$meta_rewardId_55_description=+10镭射强度
-$meta_rewardId_56_description=100彩币
-$meta_rewardId_57_description=+3%伤害
-$meta_rewardId_58_description=1000金币
-$meta_rewardId_59_description=+20%制作速度
-$meta_rewardId_60_description=无限穹顶
-$meta_rewardId_61_description=100彩币
-$meta_rewardId_62_description=+3%最大生命
-$meta_rewardId_63_description=1000金币
-$meta_rewardId_64_description=50冰川碎片
-$meta_rewardId_65_description=+1恢复瓶携带量
-$meta_rewardId_66_description=100彩币
-$meta_rewardId_67_description=+3%伤害
-$meta_rewardId_68_description=1000金币
-$meta_rewardId_69_description=1无限框架
-$meta_rewardId_10070_description=大师快速帆船
-$meta_rewardId_71_description=100彩币
-$meta_rewardId_72_description=+3%最大生命
-$meta_rewardId_73_description=1000金币
-$meta_rewardId_74_description=3惊喜样式
-$meta_rewardId_75_description=+10镭射强度
-$meta_rewardId_76_description=100彩币
-$meta_rewardId_77_description=+3%伤害
-$meta_rewardId_78_description=1000金币
-$meta_rewardId_79_description=+20%制作速度
-$meta_rewardId_10080_description=大师船帆
-$meta_rewardId_81_description=100彩币
-$meta_rewardId_82_description=+3%最大生命
-$meta_rewardId_83_description=1000金币
-$meta_rewardId_84_description=5暗影钻石
-$meta_rewardId_85_description=+1恢复瓶携带量
-$meta_rewardId_86_description=100彩币
-$meta_rewardId_87_description=+3%伤害
-$meta_rewardId_88_description=1000金币
-$meta_rewardId_89_description=2闪耀书籍
-$meta_rewardId_90_description=专精摩托
-$meta_rewardId_91_description=100彩币
-$meta_rewardId_92_description=+3%最大生命
-$meta_rewardId_93_description=1000金币
-$meta_rewardId_94_description=1爱心喇叭
-$meta_rewardId_95_description=+10镭射强度
-$meta_rewardId_96_description=100彩币
-$meta_rewardId_97_description=+3%伤害
-$meta_rewardId_98_description=1000金币
-$meta_rewardId_99_description=+20%制作速度
-$meta_rewardId_100100_description=混沌点数币
-$meta_rewardId_100444_description=储龙器
-$meta_rewardId_110_description=大师的飞翼
-$meta_rewardId_120_description=垂钓大师的钓竿
-$meta_rewardId_130_description=帝王龙宝宝
-$meta_rewardId_140_description=半球龙冠
-$meta_rewardId_150_description=帝王龙雏龙
-$meta_rewardId_160_description=士官鸟徽章
-$meta_rewardId_170_description=魔术大师的徽章
-$meta_rewardId_180_description=大师的命令
-$meta_rewardId_190_description=大师武器
-$meta_rewardId_200_description=帝王龙
-$meta_rewardId_210_description=克贝斯利王
-$meta_rewardId_220_description=+10%最大生命
-$meta_rewardId_220444_description=5辉王币
-$meta_rewardId_230_description=至光王冠
-$meta_rewardId_240_description=精美宝珠
-$meta_rewardId_250_description=混沌点数币
-$meta_rewardId_250444_description=黄金龙像
-$meta_rewardId_260_description=3黄金混沌宝箱
-$meta_rewardId_260444_description=金翅法尔卡泽的幼崽
-$meta_rewardId_270_description=+5%伤害
-$meta_rewardId_270444_description=月食钥匙秘典
-$meta_rewardId_280_description=专精皮纳塔设计图
-$meta_rewardId_290_description=专精印记
-$meta_rewardId_300_description=瓦尔奇瑟·龙王
-$meta_rewardId_310_description=恢宏城堡墙
-$meta_rewardId_320_description=5辉王币
-$meta_rewardId_330_description=蓝色宝石之尘书籍
-$meta_rewardId_340_description=青蛙王子
-$meta_rewardId_350_description=专精音乐磁悬浮车
-$meta_rewardId_360_description=卓越的无峰驼
-$meta_rewardId_370_description=岩石宗主面具
-$meta_rewardId_380_description=星辰之力
-$meta_rewardId_390_description=岩石宗主龙冠
-$meta_rewardId_400_description=露西勒的祝福
-$meta_rewardId_410_description=恢宏城堡大门
-$meta_rewardId_420_description=10辉王币
-$meta_rewardId_430_description=黄色宝石之尘书籍
-$meta_rewardId_440_description=豪华飞飚车
-$meta_rewardId_450_description=20辉王币
-$meta_rewardId_460_description=黄金闪虫
-$meta_rewardId_470_description=皇家钓竿
-$meta_rewardId_480_description=10辉王币
-$meta_rewardId_490_description=鱼饵工厂
-$meta_rewardId_500_description=云舞者卡扎林
-$meta_rewardId_510_description=恢宏城堡塔
-$meta_rewardId_520_description=10辉王币
-$meta_rewardId_530_description=红色宝石之尘书籍
-$meta_rewardId_540_description=专精斗篷
-$meta_rewardId_550_description=超级机械挖掘者
-$meta_rewardId_560_description=华丽船帆
-$meta_rewardId_570_description=奥突斯, 马尼亚尼仓鼠
-$meta_rewardId_580_description=10辉王币
-$meta_rewardId_590_description=大师双体船
-$meta_rewardId_600_description=永恒之炎灰拉坎
-$meta_rewardId_610_description=招财杂种狗
-$meta_rewardId_620_description=15枚辉王币
-$meta_rewardId_630_description=光亮宝石账本
-$meta_rewardId_640_description=黄金全地形车
-$meta_rewardId_650_description=黄金天鸟
-$meta_rewardId_660_description=宝藏水龟
-$meta_rewardId_670_description=黄金之心格尼韦尔
-$meta_rewardId_680_description=15枚辉王币
-$meta_rewardId_690_description=炮台老虎
-$meta_rewardId_700_description=磁力龙骑瓦尔卡兹特
-$meta_rewardId_710_description=宠物:镀金靴子
-$meta_rewardId_720_description=15枚辉王币
-$meta_rewardId_730_description=书籍:纪念年监
-$meta_rewardId_740_description=坐骑:专精摩托车
-$meta_rewardId_750_description=宠物:无损拉弗恩
-$meta_rewardId_760_description=坐骑:专精游行者
-$meta_rewardId_770_description=坐骑:专精大象
-$meta_rewardId_780_description=15枚辉王币
-$meta_rewardId_790_description=船:莫蒂玛拉
-$meta_rewardId_800_description=坐骑:弗农,消瘦的美丽
-$meta_rewardId_810_description=宠物: 行走鸭
-$meta_rewardId_820_description=15枚辉王币
-$meta_rewardId_830_description=羽绒毛论文
-$meta_rewardId_840_description=坐骑: 成年的行走鸭
-$meta_rewardId_850_description=宠物: 小小行走鸭
-$meta_rewardId_860_description=翅膀: 涂油副翼
-$meta_rewardId_870_description=船: 天鹅I
-$meta_rewardId_880_description=15枚辉王币
-$meta_rewardId_890_description=坐骑: 法农，伟大的迁徙者
-$meta_rewardId_900_description=防水的福里克斯
-$meta_rewardId_data_miner_dug_too_far_description=恭喜。你的专精等级已满！
-$meta_rewardId_data_miner_dug_too_far_2_description=恭喜。你的专精等级已满！真是厉害！
-$pvpmeta_reward_battlefactor_1_description=+1 战斗点数
-$pvpmeta_rewardId_10005_description=抗争游戏内奖励！
-$pvpmeta_rewardId_30_description=失败之痛
-$pvpmeta_rewardId_40_description=胜利荣耀
-$pvpmeta_rewardId_50_description=战斗机
-$geodemeta_rewardId_2_description=1份超物质
-$geodemeta_rewardId_4_description=1份超物质
-$geodemeta_rewardId_6_description=1份超物质
-$geodemeta_rewardId_8_description=1份矿脉之星
-$geodemeta_rewardId_10_description=1份专精圣物箱
-$geodemeta_rewardId_15_description=5份加速晶
-$geodemeta_rewardId_20_description=2颗青铜伙伴蛋
-$geodemeta_rewardId_25_description=1份专精圣物箱
-$geodemeta_rewardId_30_description=5份加速晶
-$geodemeta_rewardId_35_description=2份专精圣物箱
-$geodemeta_rewardId_40_description=1份矿脉之星
-$geodemeta_rewardId_45_description=2份专精圣物箱
-$geodemeta_rewardId_50_description=1份空间扩展券（不可交易）
-$geodemeta_rewardId_55_description=2份专精圣物箱
-$geodemeta_rewardId_60_description=1颗白银伙伴蛋
-$geodemeta_rewardId_65_description=3份专精圣物箱
-$geodemeta_rewardId_70_description=10份加速晶
-$geodemeta_rewardId_75_description=3份专精圣物箱
-$geodemeta_rewardId_80_description=2份矿脉之星
-$geodemeta_rewardId_85_description=3份专精圣物箱
-$geodemeta_rewardId_90_description=1颗白银伙伴蛋
-$geodemeta_rewardId_95_description=4份专精圣物箱
-$geodemeta_rewardId_100_description=1份空间扩展券（不可交易）
+$meta_rewardId_2_description»+3%最大生命
+$meta_rewardId_forum_access_description»论坛发帖权限
+$meta_rewardId_3_description»500金币
+$meta_rewardId_10003_description»职业硬币
+$meta_rewardId_4_description»100塑形石
+$meta_rewardId_10005_description»初学者的飞翼
+$meta_rewardId_6_description»500金币
+$meta_rewardId_7_description»+3%伤害
+$meta_rewardId_8_description»+1恢复瓶携带量
+$meta_rewardId_9_description»200彩虹方块植物
+$meta_rewardId_10_description»克贝斯利
+$meta_rewardId_10010_description»暗影穹顶
+$meta_rewardId_20010_description»初学者的飞翼
+$meta_rewardId_30010_description»拍卖行槽位
+$meta_rewardId_11_description»500金币
+$meta_rewardId_12_description»+3%最大生命
+$meta_rewardId_13_description»500金币
+$meta_rewardId_14_description»100蓝晶
+$meta_rewardId_15_description»+40镭射强度
+$meta_rewardId_16_description»500金币
+$meta_rewardId_17_description»+3%伤害
+$meta_rewardId_18_description»500金币
+$meta_rewardId_19_description»+20%制作速度
+$meta_rewardId_20_description»暗影穹顶
+$meta_rewardId_10020_description»初学者的飞翼
+$meta_rewardId_21_description»500金币
+$meta_rewardId_22_description»+3%最大生命
+$meta_rewardId_23_description»500金币
+$meta_rewardId_24_description»100限晶
+$meta_rewardId_25_description»+1恢复瓶携带量
+$meta_rewardId_10025_description»职业硬币
+$meta_rewardId_26_description»500金币
+$meta_rewardId_27_description»+3%伤害
+$meta_rewardId_28_description»500金币
+$meta_rewardId_29_description»智慧珍珠
+$meta_rewardId_30_description»超级滑板
+$meta_rewardId_20030_description»帝王躺椅
+$meta_rewardId_31_description»100彩币
+$meta_rewardId_32_description»+3%最大生命
+$meta_rewardId_33_description»1000金币
+$meta_rewardId_34_description»30机器零件
+$meta_rewardId_35_description»+40镭射强度
+$meta_rewardId_36_description»100彩币
+$meta_rewardId_37_description»+3%伤害
+$meta_rewardId_38_description»1000金币
+$meta_rewardId_39_description»+20%制作速度
+$meta_rewardId_40_description»帝王躺椅
+$meta_rewardId_10040_description»专家飞翼
+$meta_rewardId_41_description»100彩币
+$meta_rewardId_42_description»+3%最大生命
+$meta_rewardId_43_description»1000金币
+$meta_rewardId_44_description»25原初之炎
+$meta_rewardId_45_description»+1恢复瓶携带量
+$meta_rewardId_46_description»100彩币
+$meta_rewardId_47_description»+3%伤害
+$meta_rewardId_48_description»1000金币
+$meta_rewardId_49_description»10克苏胡之眼
+$meta_rewardId_50_description»限晶超级滑板
+$meta_rewardId_51_description»100彩币
+$meta_rewardId_52_description»+3%最大生命
+$meta_rewardId_53_description»1000金币
+$meta_rewardId_54_description»100牧草种子
+$meta_rewardId_55_description»+40镭射强度
+$meta_rewardId_56_description»100彩币
+$meta_rewardId_57_description»+3%伤害
+$meta_rewardId_58_description»1000金币
+$meta_rewardId_59_description»+20%制作速度
+$meta_rewardId_60_description»无限穹顶
+$meta_rewardId_61_description»100彩币
+$meta_rewardId_62_description»+3%最大生命
+$meta_rewardId_63_description»1000金币
+$meta_rewardId_64_description»50冰川碎片
+$meta_rewardId_65_description»+1恢复瓶携带量
+$meta_rewardId_66_description»100彩币
+$meta_rewardId_67_description»+3%伤害
+$meta_rewardId_68_description»1000金币
+$meta_rewardId_69_description»1无限框架
+$meta_rewardId_10070_description»大师快速帆船
+$meta_rewardId_71_description»100彩币
+$meta_rewardId_72_description»+3%最大生命
+$meta_rewardId_73_description»1000金币
+$meta_rewardId_74_description»3惊喜样式
+$meta_rewardId_75_description»+40镭射强度
+$meta_rewardId_76_description»100彩币
+$meta_rewardId_77_description»+3%伤害
+$meta_rewardId_78_description»1000金币
+$meta_rewardId_79_description»+20%制作速度
+$meta_rewardId_10080_description»大师船帆
+$meta_rewardId_81_description»100彩币
+$meta_rewardId_82_description»+3%最大生命
+$meta_rewardId_83_description»1000金币
+$meta_rewardId_84_description»5暗影钻石
+$meta_rewardId_85_description»+1恢复瓶携带量
+$meta_rewardId_86_description»100彩币
+$meta_rewardId_87_description»+3%伤害
+$meta_rewardId_88_description»1000金币
+$meta_rewardId_89_description»2闪耀书籍
+$meta_rewardId_90_description»专精摩托
+$meta_rewardId_91_description»100彩币
+$meta_rewardId_92_description»+3%最大生命
+$meta_rewardId_93_description»1000金币
+$meta_rewardId_94_description»1爱心喇叭
+$meta_rewardId_95_description»+40镭射强度
+$meta_rewardId_96_description»100彩币
+$meta_rewardId_97_description»+3%伤害
+$meta_rewardId_98_description»1000金币
+$meta_rewardId_99_description»+20%制作速度
+$meta_rewardId_100100_description»混沌点数币
+$meta_rewardId_100444_description»储龙器
+$meta_rewardId_110_description»大师的飞翼
+$meta_rewardId_120_description»垂钓大师的钓竿
+$meta_rewardId_130_description»帝王龙宝宝
+$meta_rewardId_140_description»半球龙冠
+$meta_rewardId_150_description»帝王龙雏龙
+$meta_rewardId_160_description»士官鸟徽章
+$meta_rewardId_170_description»魔术大师的徽章
+$meta_rewardId_180_description»大师的命令
+$meta_rewardId_190_description»大师武器
+$meta_rewardId_200_description»帝王龙
+$meta_rewardId_210_description»克贝斯利王
+$meta_rewardId_220_description»+10%最大生命
+$meta_rewardId_220444_description»5辉王币
+$meta_rewardId_230_description»至光王冠
+$meta_rewardId_240_description»精美宝珠
+$meta_rewardId_250_description»混沌点数币
+$meta_rewardId_250444_description»黄金龙像
+$meta_rewardId_260_description»3黄金混沌宝箱
+$meta_rewardId_260444_description»金翅法尔卡泽的幼崽
+$meta_rewardId_270_description»+5%伤害
+$meta_rewardId_270444_description»万钥秘典
+$meta_rewardId_280_description»专精皮纳塔设计图
+$meta_rewardId_290_description»专精印记
+$meta_rewardId_300_description»瓦尔奇瑟·龙王
+$meta_rewardId_310_description»恢宏城堡墙
+$meta_rewardId_320_description»5辉王币
+$meta_rewardId_330_description»蓝色宝石之尘书籍
+$meta_rewardId_340_description»青蛙王子
+$meta_rewardId_350_description»专精音乐磁悬浮车
+$meta_rewardId_360_description»卓越的无峰驼
+$meta_rewardId_370_description»岩石宗主面具
+$meta_rewardId_380_description»星辰之力
+$meta_rewardId_390_description»岩石宗主龙冠
+$meta_rewardId_400_description»露西勒的祝福
+$meta_rewardId_410_description»恢宏城堡大门
+$meta_rewardId_420_description»10辉王币
+$meta_rewardId_430_description»黄色宝石之尘书籍
+$meta_rewardId_440_description»豪华飞飚车
+$meta_rewardId_450_description»20辉王币
+$meta_rewardId_460_description»黄金闪虫
+$meta_rewardId_470_description»皇家钓竿
+$meta_rewardId_480_description»10辉王币
+$meta_rewardId_490_description»鱼饵工厂
+$meta_rewardId_500_description»云舞者卡扎林
+$meta_rewardId_510_description»恢宏城堡塔
+$meta_rewardId_520_description»10辉王币
+$meta_rewardId_530_description»红色宝石之尘书籍
+$meta_rewardId_540_description»专精斗篷
+$meta_rewardId_550_description»超级机械挖掘者
+$meta_rewardId_560_description»华丽船帆
+$meta_rewardId_570_description»奥突斯, 马尼亚尼仓鼠
+$meta_rewardId_580_description»10辉王币
+$meta_rewardId_590_description»大师双体船
+$meta_rewardId_600_description»永恒之炎灰拉坎
+$meta_rewardId_610_description»招财杂种狗
+$meta_rewardId_620_description»15枚辉王币
+$meta_rewardId_630_description»光亮宝石账本
+$meta_rewardId_640_description»黄金全地形车
+$meta_rewardId_650_description»黄金天鸟
+$meta_rewardId_660_description»宝藏水龟
+$meta_rewardId_670_description»黄金之心格尼韦尔
+$meta_rewardId_680_description»15枚辉王币
+$meta_rewardId_690_description»炮台老虎
+$meta_rewardId_700_description»磁力龙骑瓦尔卡兹特
+$meta_rewardId_710_description»宠物:镀金靴子
+$meta_rewardId_720_description»15枚辉王币
+$meta_rewardId_730_description»书籍:纪念年监
+$meta_rewardId_740_description»坐骑:专精摩托车
+$meta_rewardId_750_description»宠物:无损拉弗恩
+$meta_rewardId_760_description»坐骑:专精游行者
+$meta_rewardId_770_description»坐骑:专精大象
+$meta_rewardId_780_description»15枚辉王币
+$meta_rewardId_790_description»船:莫蒂玛拉
+$meta_rewardId_800_description»坐骑:弗农,消瘦的美丽
+$meta_rewardId_810_description»宠物: 行走鸭
+$meta_rewardId_820_description»15枚辉王币
+$meta_rewardId_830_description»羽绒毛论文
+$meta_rewardId_840_description»坐骑: 成年的行走鸭
+$meta_rewardId_850_description»宠物: 小小行走鸭
+$meta_rewardId_860_description»翅膀: 涂油副翼
+$meta_rewardId_870_description»船: 天鹅I
+$meta_rewardId_880_description»15枚辉王币
+$meta_rewardId_890_description»坐骑: 法农，伟大的迁徙者
+$meta_rewardId_900_description»防水的福里克斯
+$meta_rewardId_data_miner_dug_too_far_description»恭喜。你的专精等级已满！
+$meta_rewardId_data_miner_dug_too_far_2_description»恭喜。你的专精等级已满！真是厉害！
+$pvpmeta_reward_battlefactor_1_description»+1 战斗点数
+$pvpmeta_rewardId_10005_description»抗争游戏内奖励！
+$pvpmeta_rewardId_30_description»失败之痛
+$pvpmeta_rewardId_40_description»胜利荣耀
+$pvpmeta_rewardId_50_description»战斗机
+$geodemeta_rewardId_2_description»1份超物质
+$geodemeta_rewardId_4_description»1份超物质
+$geodemeta_rewardId_6_description»1份超物质
+$geodemeta_rewardId_8_description»1份矿脉之星
+$geodemeta_rewardId_10_description»1份专精圣物箱
+$geodemeta_rewardId_15_description»5份加速晶
+$geodemeta_rewardId_20_description»2颗青铜伙伴蛋
+$geodemeta_rewardId_25_description»1份专精圣物箱
+$geodemeta_rewardId_30_description»5份加速晶
+$geodemeta_rewardId_35_description»2份专精圣物箱
+$geodemeta_rewardId_40_description»1份矿脉之星
+$geodemeta_rewardId_45_description»2份专精圣物箱
+$geodemeta_rewardId_50_description»1份空间扩展券（不可交易）
+$geodemeta_rewardId_55_description»2份专精圣物箱
+$geodemeta_rewardId_60_description»1颗白银伙伴蛋
+$geodemeta_rewardId_65_description»3份专精圣物箱
+$geodemeta_rewardId_70_description»10份加速晶
+$geodemeta_rewardId_75_description»3份专精圣物箱
+$geodemeta_rewardId_80_description»2份矿脉之星
+$geodemeta_rewardId_85_description»3份专精圣物箱
+$geodemeta_rewardId_90_description»1颗白银伙伴蛋
+$geodemeta_rewardId_95_description»4份专精圣物箱
+$geodemeta_rewardId_100_description»1份空间扩展券（不可交易）
+$GuideUI_collections_mount_dragon_qbthulhu»先祖龙\n\n这条龙可以通过消耗一个黄金虚空监视者龙蛋来解锁，或者通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_moonsilver»先祖龙\n\n这条龙可以通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_amperium»先祖龙\n\n这条龙可以通过消耗一个黄金安博瑞龙蛋来解锁，或者通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_resistor»先祖龙\n\n这条龙可以通过消耗一个黄金电阻龙蛋来解锁，或者通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragonbug_beecat»先祖龙\n\n这条龙可以通过相应的配方制作来解锁，或者在商店 [HK:Store] 的热门选项卡中购买丰厚派对包 1来解锁。
+$GuideUI_collections_mount_dragonbug_beecat_controller»先祖龙\n\n这条龙可以通过相应的配方制作来解锁，或者在商店 [HK:NavigationMenu] 的热门选项卡中购买丰厚派对包 1来解锁。 
+$GuideUI_collections_mount_dragon_newyearblue»先祖龙\n\n这条龙可以通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_chaos»先祖龙\n\n这条龙可以通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_bomberroyale_sticky»先祖龙\n\n这条龙可以通过消耗一个黄金暴怒龙蛋来解锁，或者通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_stainedglass»先祖龙\n\n这条龙可以通过消耗一个黄金休眠灰烬龙蛋来解锁，或者通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_balefire»先祖龙\n\n这条龙可以通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragonserpent_vile»先祖龙\n\n这条龙可以通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragonwyvern_amitola»先祖龙\n\n这条龙可以通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_bomber»传奇龙\n\n这条龙是通过使用 坐骑: 弗塔斯,战争之兆 来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_music»传奇龙\n\n这条龙是通过使用 坐骑: 阿尔拜恩,破晓之声 来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_newyear»传奇龙\n\n这条龙是通过消耗一个休眠银月新年龙蛋来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_darkpurple»传奇龙\n\n这条龙可以通过消耗一个黄金黄昏龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_blacksilver»传奇龙\n\n这条龙可以通过消耗一个黄金攻城龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_infineon»传奇龙\n\n这条龙可以通过消耗一个黄金英飞凌龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_pinata»传奇龙\n\n这条龙可以通过消耗一个黄金皮纳塔龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_pirate»传奇龙\n\n这条龙可以通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_toyblock»传奇龙\n\n这条龙可以通过消耗一个黄金方块龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_choko»传奇龙\n\n这条龙可以通过消耗一个黄金可可龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_pumpkin»传奇龙\n\n这条龙可以通过消耗一个黄金南瓜龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_goldblue»传奇龙\n\n这条龙可以通过消耗一个黄金智慧龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_deepsea»传奇龙\n\n这条龙可以通过消耗一个黄金深海龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_pinatatrove»传奇龙\n\n这条龙可以通过消耗一个黄金世界喷泉龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_mechshadow»传奇龙\n\n这条龙可以通过消耗一个黄金神龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_bismuth»传奇龙\n\n这条龙可以通过消耗一个黄金彩虹龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_spider»传奇龙\n\n这条龙可以通过消耗一个黄金回旋龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_flora»传奇龙\n\n这条龙可以通过消耗一个黄金植物龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_green»传奇龙\n\n这条龙可以通过消耗一个黄金维护者龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_ice»传奇龙\n\n这条龙可以通过消耗一个黄金冰龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_bubble»传奇龙\n\n这条龙可以通过消耗一个黄金泡沫龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_constellations»传奇龙\n\n这条龙可以通过消耗一个黄金星火龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_artdeco»传奇龙\n\n这条龙可以通过消耗一个黄金故事龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_block»传奇龙\n\n这条龙可以通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dog_dracorgi_red»传奇龙\n\n这条龙可以通过消耗一个黄金英勇龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_boltblade»传奇龙\n\n这条龙可以通过消耗一个黄金闪电龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_jet»传奇龙\n\n这条龙可以通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_bird»传奇龙\n\n这条龙可以通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_lightspear»传奇龙\n\n这条龙可以通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_darkshield»传奇龙\n\n这条龙可以通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_twoheads_lightdark»传奇龙\n\n这条龙可以通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_shpurple»传奇龙\n\n这条龙可以通过消耗一个黄金沙海播种者龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_twoheads_battle»传奇龙\n\n这条龙可以通过消耗一个黄金双子瘟疫龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_garden»传奇龙\n\n这条龙可以通过消耗一个黄金开花龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_data»传奇龙\n\n这条龙是通过使用 坐骑: 阿玛翠斯,六面之咒 来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_steampunk»传奇龙\n\n这条龙是通过使用 坐骑: 永恒蒸汽瓦恩塔拉 来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_atmos»传奇龙\n\n这条龙是通过使用 坐骑: 苍穹-D-R4C 来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_bomberroyale»传奇龙\n\n这条龙可以通过消耗一个黄金战争之王龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragonlong_marshmallow»传奇龙\n\n这条龙可以通过消耗一个黄金休眠泡芙龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragonserpent_ashen»传奇龙\n\n这条龙可以通过消耗一个黄金休眠觅食龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_sunseeker»传奇龙\n\n这条龙可以通过消耗一个黄金休眠光辉龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragonserpent_capricorn»传奇龙\n\n这条龙可以通过消耗一个黄金休眠摩羯龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_aquarus»传奇龙\n\n这条龙可以通过消耗一个黄金休眠水瓶龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_sol»传奇龙\n\n这条龙可以通过消耗一个黄金燃火龙蛋来解锁，或者通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_moontouched»活动传奇龙\n\n这条龙可以通过相应的配方制作来解锁。\n这条龙在使用黄金龙像时有几率解锁 。
+$GuideUI_collections_mount_dragon_gemyellow»始祖之龙\n\n这条龙可以通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_gemblue»始祖之龙\n\n这条龙可以通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_gemred»始祖之龙\n\n这条龙可以通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_gemopal»始祖之龙\n\n这条龙可以通过相应的配方制作来解锁。
+$GuideUI_collections_mount_dragon_oldblue»龙魂龙\n\n这条龙可以通过消耗苍龙魂来提升苍龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:Collections]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_oldblue_controller»龙升天\n\n这条龙可以通过消耗苍龙魂来提升苍龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:NavigationMenu]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_neon»龙魂龙\n\n这条龙可以通过消耗霓虹龙魂来提升霓虹龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:Collections]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_neon_controller»龙魂龙\n\n这条龙可以通过消耗霓虹龙魂来提升霓虹龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:NavigationMenu]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_beard»龙魂龙\n\n这条龙可以通过消耗远古之龙龙魂来提升远古之龙龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:Collections]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_beard_controller»龙魂龙\n\n这条龙可以通过消耗远古之龙龙魂来提升远古之龙龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:NavigationMenu]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_lunar»龙魂龙\n\n这条龙可以通过消耗月翼龙魂来提升月翼龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:Collections]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_lunar_controller»龙魂龙\n\n这条龙可以通过消耗月翼龙魂来提升月翼龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:NavigationMenu]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_bone»龙魂龙\n\n这条龙可以通过消耗骸骨龙魂来提升骸骨龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:Collections]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_bone_controller»龙魂龙\n\n这条龙可以通过消耗骸骨龙魂来提升骸骨龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:NavigationMenu]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_winter_2015»龙魂龙\n\n这条龙可以通过消耗冬季龙魂来提升冬季龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:Collections]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_winter_2015_controller»龙魂龙\n\n这条龙可以通过消耗冬季龙魂来提升冬季龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:NavigationMenu]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_starlight»龙魂龙\n\n这条龙可以通过消耗星光龙魂来提升星光龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:Collections]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_starlight_controller»龙魂龙\n\n这条龙可以通过消耗星光龙魂来提升星光龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:NavigationMenu]  > 勋章> 龙升天 中查看
+$GuideUI_collections_mount_dragon_flux»活动龙魂龙\n\n这条龙可以通过消耗黄金囤积者龙魂来提升黄金囤积者龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:Collections]  > 勋章> 龙升天 中查看\n\n这条龙只有在“奢龙试炼！”活动期间才能解锁。这是限时活动！\n按下[HK:WelcomeScreen]打开欢迎页面查看是否处于活动中！
+$GuideUI_collections_mount_dragon_flux_controller»活动龙魂龙\n\n这条龙可以通过消耗黄金囤积者龙魂来提升黄金囤积者龙升天成就来解锁。\n\n龙升天可以在 收藏[HK:NavigationMenu]  > 勋章> 龙升天 中查看\n\n这条龙只有在“奢龙试炼！”活动期间才能解锁。这是限时活动！\n按下[HK:NavigationMenu]打开欢迎页面查看是否处于活动中！
+$GuideUI_collections_mount_dragon_mastery»专精龙\n\n通过达到特定的宝藏专精等级可以解锁这条龙。\n专精是通过解锁收藏品、角色职业达到最高等级以及提升工作台技能等级来获得。\n专精等级进度可以在角色面板[HK:CharacterSheet]的专精标签中查看。
+$GuideUI_collections_mount_dragon_bamboo_text»活动龙\n\n这条龙只有在“杜拉文 - 翠竹龙！”活动期间才能解锁。这是限时活动！\n\n按下[HK:WelcomeScreen]打开欢迎页面查看是否处于活动中！
+$GuideUI_collections_mount_dragon_bamboo_text_controller»活动龙\n\n这条龙只有在“杜拉文 - 翠竹龙！”活动期间才能解锁。这是限时活动！\n\n按下[HK:NavigationMenu]打开欢迎页面查看是否处于活动中！
+$GuideUI_collections_mount_dragonserpent_newyear2025_text»活动龙\n\n这条龙只有在“青木虺龙蛇霞”活动期间才能解锁。这是限时活动！\n\n按下[HK:WelcomeScreen]打开欢迎页面查看是否处于活动中！
+$GuideUI_collections_mount_dragonserpent_newyear2025_text_controller»活动龙\n\n这条龙只有在“青木虺龙蛇霞”活动期间才能解锁。这是限时活动！\n\n按下[HK:NavigationMenu]打开欢迎页面查看是否处于活动中！
+$GuideUI_collections_mount_dragon_luxion_lands»活动龙\n\n这条龙只有在“奢龙试炼！”活动期间才能解锁。这是限时活动！\n\n按下[HK:WelcomeScreen]打开欢迎页面查看是否处于活动中！
+$GuideUI_collections_mount_dragon_luxion_lands_controller»活动龙\n\n这条龙只有在“奢龙试炼！”活动期间才能解锁。这是限时活动！\n\n按下[HK:NavigationMenu]打开欢迎页面查看是否处于活动中！
+$GuideUI_collections_mount_dragon_christmas_2016»活动龙\n\n这条龙只有在“冰雪庆典”活动期间才能解锁。这是限时活动！\n\n按下[HK:WelcomeScreen]打开欢迎页面查看是否处于活动中！
+$GuideUI_collections_mount_dragon_christmas_2016_controller»活动龙\n\n这条龙只有在“冰雪庆典”活动期间才能解锁。这是限时活动！\n\n按下[HK:NavigationMenu]打开欢迎页面查看是否处于活动中！
+$GuideUI_group_crafting_indirect»该收藏品可通过制作间接获得。
+$GuideUI_group_unlocker_title»消耗品解锁器
+$GuideUI_group_unlocker_text»这个收藏品可通过消耗特定物品来解锁。该物品可在拍卖行 [HK:Marketplace] 或其他地方找到。
+$GuideUI_group_unlocker_text_controller»这个收藏品可通过消耗特定物品来解锁。该物品可在拍卖行 [HK:Marketplace] 或其他地方找到。
+$GuideUI_group_crafting_direct»这个收藏品可以通过制作解锁。
+$GuideUI_group_harvest_event_title»活动获得
+$GuideUI_group_harvest_event_text»该收藏品需要从活动的特定采集物中掉落获得。
+$GuideUI_group_crafting_subcombine_title»子组合
+$GuideUI_group_crafting_subcombine»可能需要额外配方才能完全解锁。
+$GuideUI_group_progression_title»技能树
+$GuideUI_group_progression»该收藏品需要从大星象仪的星图中获得的物品。大星象仪在地图[HK:Map] W和N方向角落工匠作坊顶部的观星台中
+$GuideUI_group_event_title»活动
+$GuideUI_group_event»此收藏品需要从限时活动中获得的物品！
+$GuideUI_group_crafting_lootbox_title»Lockbox
+$GuideUI_group_crafting_lootbox»This collectible requires item(s) from Lockbox(es).
+$GuideUI_group_gde_title»GOLDEN DRAGON EFFIGY
+$GuideUI_group_gde_text»This collectible *can* be unlocked--at random--using a Golden Dragon Effigy.
+$GuideUI_group_tow_title»TROVE OF WONDERS
+$GuideUI_group_tow_text»A CONSUMABLE UNLOCKER item for this collectible comes from the Trove of Wonders Lockbox.
+$GuideUI_group_luxion_lands»TRIALS OF LUXION
+$GuideUI_generic_placeable_crafting_workbench_biome_spires_cny_2025»The MYTHICAL WORKBENCH can be found in the FORBIDDEN SPIRES biome when the Event is active.
+$GuideUI_generic_placeable_crafting_workbench_bomberroyale_interactive»The BOMBER BENCH can be found in the NORTH-EAST corner of the HUB. It's below ground in the RED, BOMB-TOPPED building.
+$GuideUI_generic_placeable_crafting_workbench_dragon_interactive»The DRAGON CRUCIBLE can be found in the NORTH-EAST corner of the HUB. Just look for the gigantic Dragonc statue!
+$GuideUI_generic_placeable_crafting_workbench_dragon_name»CRAFTING STATION found in the HUB
+$GuideUI_generic_placeable_luxion_lands_venturine_forge_name»CRAFTING STATION found in the TRIALS of LUXION World.\nRequires 'Trials of Luxion' Event to be active.
+$GuideUI_generic_placeable_luxion_lands_venturine_forge_interactive»The VENTURINE FORGE can be found in the TRIALS OF LUXION. Check the WELCOME SCREEN [HK:WelcomeScreen] to see if the Trials of Luxion event is active!
+$GuideUI_generic_placeable_luxion_lands_venturine_forge_hub_interactive_controller»The VENTURINE FORGE can be found in the TRIALS OF LUXION. Check the WELCOME SCREEN [HK:NavigationMenu] to see if the Trials of Luxion event is active!
+$GuideUI_generic_placeable_vendor_shadowshard_01_interactive»The SHADOWY MARKET is found within the SHADOW TOWER ENTRANCE, accessible via the ATLAS [HK:Atlas].
+$GuideUI_generic_placeable_vendor_shadowshard_01_interactive_controller»The SHADOWY MARKET is found within the SHADOW TOWER ENTRANCE, accessible via the ATLAS [HK:NavigationMenu].
+$GuideUI_generic_placeable_crafting_gardening_plotting»The GARDENING BENCH is found in CRAFTER'S CORNER in the HUB.
+$GuideUI_generic_placeable_crafting_home_basic»The ADVENTURER'S CRAFTING BENCH can be crafted at the NOVICE CRAFTING BENCH, and placed on Cornerstones and in Club Worlds.
+$GuideUI_generic_placeable_crafting_funfactory»The FUN FACTORY can be crafted at the BUILDER'S CRAFTING BENCH, and placed on Cornerstones and in Club Worlds.
+$GuideUI_generic_item_currency_coin_bomb_current»BLAST COINS are given out by the BOMBER ROYALE Player-versus-Player system [HK:BomberRoyale]!\n\nScaredy cats can obtain these coins using the Bomb-nanza Balance Sheet: Blast Coins TOME, found on the BOMBER BENCH.
+$GuideUI_generic_item_currency_coin_bomb_current_controller»BLAST COINS are given out by the BOMBER ROYALE Player-versus-Player system [HK:NavigationMenu]!\n\nScaredy cats can obtain these coins using the Bomb-nanza Balance Sheet: Blast Coins TOME, found on the BOMBER BENCH.
+$GuideUI_generic_item_currency_progression_progression_essence»ASTRAL ECHOES can be obtained from Dungeon Chests all across Trove, and can be purchased from THE CELESTIAL in the Crafter's Corner Observatory in the NORTH-WEST corner of the HUB.
+$GuideUI_generic_item_crafting_bamboo»BAMBOO SHOOTS are harvested in the FORBIDDEN SPIRES biome when the Event is active.
+$GuideUI_generic_item_crafting_gl_sundercharge_crystal»SUNDERCHARGE CRYSTALS can be obtained by completing 5-Star Dungeons in the SUNDERED UPLANDS.
+$GuideUI_generic_item_crafting_gl_irradiantsoul»IRRADIANT SOULS come from the Irradiated enemies in the upper, "Cloud Layer" of the SUNDERED UPLANDS biome.
+$GuideUI_generic_item_crafting_gl_ashensoul»ASHEN SOULS come from the Ashen enemies in the lower, "Ashen Wastes" of the SUNDERED UPLANDS biome.
+$GuideUI_generic_item_crafting_solarion_phoenixmote»PHOENIX MOTES can be found rarely from the SUNDERED UPLANDS biome.
+$GuideUI_generic_item_crafting_dragoncoin»DRAGON COINS are found within DRAGON CACHES.\n\nLesser Dragon Caches are awarded for participating in the periodic, time-limited Challenges (including Rampages, Hub-portal minigames, and Dungeon Challenges).\n\nGreater Dragon Caches can always be purchased from the Store [HK:Store] using Credits or Cubits.
+$GuideUI_generic_item_currency_progression_fishing_coin»MARKS OF THE ANGLER are obtained when FISHING, but only once enough progression has been made at the POND OF POWER in the HUB.
+$GuideUI_generic_item_crafting_scale_depths»SCALE OF THE DEPTHS is obtained by LOOT COLLETING specific Rare Depths Fish.
+$GuideUI_generic_item_crafting_fish_paste_rare»PREMIUM CANNED FISH is obtained by LOOT COLLETING specific Rare Fish.
+$GuideUI_generic_item_crafting_enchwood»ENCHANTED WOOD is commonly harvested in the FAE WILDS biome.
+$GuideUI_generic_item_crafting_events_coin_newyear2025»MYTHICAL COINS are rarely found from DUNGEONS within the FORBIDDEN SPIRES biome when the Event is active.
+$GuideUI_generic_item_luxion_lands_currency_signet»VENTURINE SIGNETS can be crafted at the Venturine Forge when the Trials of Luxion event is active.
+$GuideUI_generic_item_luxion_lands_resource_token»VENTURINE is obtained by completing quests and defeating enemies within the TRIALS OF LUXION when the event is active.
+$GuideUI_generic_item_crafting_flux»FLUX is obtained by doing almost anything across Trove. Bust open a Chest? Flux. Loot Collect equipment? Flux. Open a Chaos Chest?! Flux
+$GuideUI_generic_item_bomb»BOMBS are easily crafted at the ADVENTURER'S CRAFTING BENCH.
+$GuideUI_generic_item_lootbox_chaoschest_notrade»CHAOS CHESTS are obtained occasionally when opening Dungeon Chests, and always available from the Store [HK:Store]!\n\nThe maximum amount of Chaos Chests obtained from Dungeons is impacted by your CHAOS FACTOR stat!
+$GuideUI_generic_item_lootbox_chaoschest_controller»CHAOS CHESTS are obtained occasionally when opening Dungeon Chests, and always available from the Store [HK:NavigationMenu]!
+$GuideUI_generic_item_crafting_glim»GLIM can drop in small amounts from almost any enemy across Trove, in larger amounts for Loot Collecting Trophy fish from Fishing.
+$GuideUI_generic_placeable_block_gameplay_spikes»SPIKES can be crafted at the FUN FACTORY.
+$GuideUI_generic_placeable_block_gameplay_lava»LAVA can be obtained by throwing a LAVA SPONGE into some lava.
+$GuideUI_generic_item_crafting_rune_water»ABYSSAL ESSENCES can be found across DEPTHS related content, found in LONG SHADE Difficulty (15) worlds.
+$GuideUI_generic_item_crafting_rune_air»ZEPHYR ESSENCES can be found across DEPTHS related content, found in LONG SHADE Difficulty (15) worlds.
+$GuideUI_generic_item_crafting_rune_fire»PYRIC ESSENCES can be found across DEPTHS related content, found in LONG SHADE Difficulty (15) worlds.
+$GuideUI_generic_item_crafting_inkbladder»INK BLADDERS can be found from abyssal invaders in LONG SHADE Difficulty (15) worlds.
+$GuideUI_generic_item_crafting_deepsand»DEPTHS SAND can be found from zepyhr invaders in LONG SHADE Difficulty (15) worlds.
+$GuideUI_generic_item_crafting_goldensoul»GOLDEN SOULS are found rarely when MINING ORES across Trove.
+$GuideUI_generic_item_crafting_shadowsoul»HEARTS OF DARKNESS are found within SHADOW CACHES, purchased from the Shadowy Market in the SHADOW TOWER.
+$GuideUI_generic_item_crafting_darksoul»SOMBER SOULS are found rarely when MINING ORES in the CURSED VALE biome.
+$GuideUI_generic_item_crafting_ore_common»SHAPESTONE can be MINED in most biomes across Trove.
+$GuideUI_generic_item_crafting_ore_ice»GLACIAL SHARDS can be MINED in the PERMAFROST biome.
+$GuideUI_generic_item_crafting_ore_fire»PRIMORDIAL FLAME can be MINED uncommonly from biomes across Trove.
+$GuideUI_generic_item_crafting_ore_cinnabar»CINNABAR can be MINED from the FORBIDDEN SPIRES biome.
+$GuideUI_generic_item_crafting_robotparts»ROBOTIC SALVAGE is found on robotic enemies in Neon City and Luminopolis.
+$GuideUI_generic_item_crafting_mushroomparts»MUSHROOM CHUNKS can be easily harvested from Mushrooms found across Trove, or planted with Gardening.
+$GuideUI_generic_item_crafting_faeriedust»FAERIE DUST is found on Fae enemies, found commonly in the FAE WILDS biome.
+$GuideUI_generic_item_crafting_bulb_sun»SUNLIGH BULBS are most commonly harvested from the PEACEFUL HILLS biome.
+$GuideUI_generic_item_crafting_bones»BLEACHED BONES can be harvested from the DRAGONFIRE PEAKS biome.
+$GuideUI_generic_item_crafting_diamond»DIAMONDS can be crafted by Newbie RINGCRAFTERS at the Ringcrafting Bench.
+$GuideUI_generic_item_crafting_divinesoul»Up to five (5) DESPOILED DIVINITY per week can be obtained from SHADOWY SOUL VAULTS, found periodically in Delves. A DELVE SHADOWKEY must be used to open Shadowy Soul Vaults. These can be crated at an All Purpose Key Mold, which are found nearby the Shadowy Soul Vault.\n\nCan also be obtained rarely through other methods.
+$GuideUI_generic_item_dragonscale_blue»SAGELY BLUE DRAGONSCALES are rarely found on draconic creatures within the FORBIDDEN SPIRES biome.
+$GuideUI_generic_item_crafting_logic_loop»LOGIC LOOPS can be found in LESSER NEON CACHES, or crafted at the RESISTOR WORKBENCH found in the LUMINOPOLIS sub-biome of NEON CITY.
+$GuideUI_generic_item_crafting_sentience_shard»SENTIENCE SHARDS are obtained from completing RAMPAGE CHALLENGES, but can also be found in GREATER NEON CACHES and other locations.
+$GuideUI_generic_item_crafting_charged_circuit»CHARGED CIRCUITS can be crafted at the RESISTOR WORKBENCH found in the LUMINOPOLIS sub-biome of the NEON CITY, but can also be found in LESSER NEON CACHES.
+$GuideUI_generic_item_crafting_memory_matrix»MEMORY MATRICES can be found in LESSER NEON CACHES, or crafted at the RESISTOR WORKBENCH found in the LUMINOPOLIS sub-biome of NEON CITY.
+$GuideUI_generic_item_crafting_gemdust_yellow»GEM DUST is primarily obtained by LOOT COLLECTING Gems of the appropriate element.\n\nAIR GEMS are found inside AIR GEM BOXES, obtained from Dungeons in CURSED SKYLANDS Adventure Worlds.
+$GuideUI_generic_item_crafting_gemdust_red»GEM DUST is primarily obtained by LOOT COLLECTING Gems of the appropriate element.\n\nFIRE GEMS are found inside FIRE GEM BOXES, obtained from Dungeons in IGENEOUS ISLANDS Adventure Worlds.
+$GuideUI_generic_item_crafting_gemdust_blue»GEM DUST is primarily obtained by LOOT COLLECTING Gems of the appropriate element.\n\nWATER GEMS are found inside WATER GEM BOXES, obtained from Dungeons in DROWNED WORLD Adventure Worlds.
+$GuideUI_generic_item_crafting_gemdust_opal»GEM DUST is primarily obtained by LOOT COLLECTING Gems of the appropriate element.\n\nCOSMIC GEMS are found inside COSMIC GEM BOXES, obtained from Dungeons in GEODE TOPSIDE Adventure Worlds.
+$GuideUI_generic_item_dragon_egg_dragonserpent_vile_notrade_fragment»ACID-INCUBATED DRAGON EGG FRAGMENTS are dropped very rarely from abyssal invaders in LONG SHADE Difficulty (15) worlds.
+$GuideUI_generic_item_dragon_egg_dragonwyvern_amitola_notrade_fragment»ZEPHYR-TOUCHED DRAGON EGG FRAGMENTS are dropped very rarely from zephyr invaders in LONG SHADE Difficulty (15) worlds.
+$GuideUI_generic_item_dragon_egg_qbthulhu_notrade_fragment»VOIDWATCHER DRAGON EGG FRAGMENTS found within SHADOW CACHES, purchased from the SHADOWY MARKET in the SHADOW TOWER.
+$GuideUI_generic_item_dragon_egg_moonsilver_notrade_fragment»MOONSILVER DRAGON EGG FRAGMENTS can be crafted at the SHADOWY MARKET in the SHADOW TOWER.
+$GuideUI_generic_item_dragon_egg_amperium_notrade_fragment»AMPERIUM DRAGON EGG FRAGMENTS can be found within LESSER NEON CACHES.
+$GuideUI_generic_item_dragon_egg_resistor_notrade_fragment»RESISTOR DRAGON EGG FRAGMENTS can be found within LESSER NEON CACHES.
+$GuideUI_generic_item_dragon_egg_beecat_notrade_fragment»HONEYBREEZE DRAGON EGG FRAGMENTS can be found from BEES and BEE-LIKE creatures across Trove.
+$GuideUI_generic_item_dragon_egg_lava_notrade_fragment»WRATHFLAME DRAGON EGG FRAGMENTS can be found rarely from enemies in the DRAGONFIRE PEAKS biome, or even less often when MINING Primordial Flame.
+$GuideUI_generic_item_dragon_egg_chaos_notrade_fragment»CHAOS DRAGON EGG FRAGMENTS can be purchased from Corruxion, who periodically visits LIGHT'S DEN in the HUB.
+$GuideUI_generic_item_dragon_egg_bomberroyale_stickybomb_notrade»The DORMANT FURIOUS DRAGON EGG can be crafted at the BOMBER BENCH or the DRAGON CRUCIBLE.
+$GuideUI_generic_item_dragon_egg_bomberroyale_stickybomb_fragment_notrade»DORMANT FURIOUS DRAGON FRAGMENTS can be crafted at the BOMBER BENCH.
+$GuideUI_generic_item_dragon_egg_balefire_notrade»The DORMANT BALEFIRE DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_balefire_notrade_fragment»BALEFIRE DRAGON EGG FRAGMENTS are obtained by unlocking branches in the STAR CHART using Constellation Keys.
+$GuideUI_generic_item_dragon_egg_dragon_stainedglass_notrade»The DORMANT STAINED DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_dragon_stainedglass_fragment_notrade»STAINED DRAGON EGG FRAGMENTS can be found from 5-Star Dungeon Bosses in the SUNDERED UPLANDS biome.
+$GuideUI_generic_item_dragon_egg_bamboo_notrade»DORMANT BAMBOO DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_bamboo_notrade_fragment»BAMBOO DRAGON EGG FRAGMENTS are found rarely when harvesting BAMBOO in the FORBIDDEN SPIRES biome when the event is active.
+$GuideUI_generic_item_dragon_egg_wood_snake_newyear2025_notrade»DORMANT MYTHICAL WOODEN EGGS can be crated at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_wood_snake_newyear2025_notrade_fragment»POLISHED WOOD EGG FRAGMENTS can be crafted at MYTHICAL WORKBENES found in the FORBIDDEN SPIRES biome when the Event is active.
+$GuideUI_generic_item_dragon_egg_dragon_luxion_lands_notrade»The DORMANT LUXURIOUS DRAGON EGG can be crafted the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_dragon_luxion_lands_notrade_fragment»LUXURIOUS DRAGON EGG FRAGMENTS can be crafted at the VENTURINE FORGE when the Event is active.
+$GuideUI_generic_item_dragon_egg_newyear_notrade»The DORMANT LUNAR NEW YEAR DRAGON EGG can be obtained from the Store!
+$GuideUI_generic_event_bamboo»The Duraveln - the Bamboo Dragon event runs occasionally, allowing this Dragon's fragments to be obtained.\n\nCheck your Welcome Screen [HK:WelcomeScreen] to see if it's currently active!
+$GuideUI_generic_event_bamboo_controller»The Duraveln - the Bamboo Dragon event runs occasionally, allowing this Dragon's fragments to be obtained.\n\nCheck your Welcome Screen [HK:NavigationMenu] to see if it's currently active!
+$GuideUI_generic_item_unlocker_dragon»The GOLDEN DRAGON EFFIGY unlocks a random, unowned LEGENDARY DRAGON. It is primarily obtained within various, limited-time products found in the Trove Store [HK:Store] like the DRAGON WEEKLY DEAL in the DEALS tab!
+$GuideUI_collections_mount_dragon_mastery_01_text»This Dragon is automatically unlocked upon reaching 150 Trove Mastery Rank.
+$GuideUI_collections_mount_dragon_mastery_02_text»This Dragon is automatically unlocked upon reaching 200 Trove Mastery Rank.
+$GuideUI_collections_mount_dragon_mastery_03_text»This Dragon is automatically unlocked upon reaching 300 Trove Mastery Rank.
+$GuideUI_collections_mount_dragon_magmaster_text»This Dragon is automatically unlocked upon reaching 700 Trove Mastery Rank.
+$GuideUI_collections_mount_dragon_friend_01_text»This Dragon is automatically unlocked when 5 Trovians--who joined the game using your Refer-A-Friend code--have reached Mastery Rank 20.
+$GuideUI_collections_mount_dragon_friend_02_text»This Dragon is automatically unlocked when 10 Trovians--who joined the game using your Refer-A-Friend code--have reached Mastery Rank 20.
+$GuideUI_collections_mount_dragon_friend_03_text»This Dragon is automatically unlocked when 30 Trovians--who joined the game using your Refer-A-Friend code--have reached Mastery Rank 20.
+$GuideUI_collections_mount_dragon_friend_03_store_text»This Dragon can be unlocked at the Store [HK:Store] for FREE after purchasing any pack for real currency!
+$GuideUI_collections_mount_dragon_friend_03_store_text_controller»This Dragon can be unlocked at the Store for FREE after purchasing any pack for real currency!
+$guideui_collections_mount_dragon_newyear_store_text»This Dragon requires an item obtained from the Store [HK:Store].
+$guideui_collections_mount_dragon_newyear_store_text_controller»This Dragon requires an item obtained from the Store [HK:NavigationMenu].
+$GuideUI_generic_item_lootbox_neon_lesser»LESSER NEON CACHES can be obtained by completing RAMPAGE CHALLENGES, which periodically occur.\n\nChallenges are only available to players Mastery Rank 10 and higher.
+$GuideUI_generic_item_lootbox_shadow»SHADOW CACHES are crafted at the SHADOWY MARKET.
+$GuideUI_generic_item_lootbox_wonder»TROVES OF WONDER are sold by ship-bound merchants, sailing THE LOST ISLES biome.
+$GuideUI_generic_item_crafting_gardening_vegetable_corn»CORN ON THE CUBE can be cultivated and harvested using GARDENING.
+$GuideUI_generic_item_crafting_gardening_vegetable_carrot»BUNFEED can be cultivated and harvested using GARDENING.
+$GuideUI_generic_item_crafting_meteor_fragment»METEORITE FRAGMENTS can be found in the Primal Preserve tree canopy of the JURASSIC JUNGLE biome.
+$GuideUI_generic_item_crafting_events_wood_newyear2025»POLISHED MYTHICAL WOOD can be found from enemies in the FORBIDDEN SPIRES biome when the Event is active.
+$GuideUI_generic_item_crafting_seashell»GOLDEN SEASHELLS can be found in the LOST ISLES biome.
+$GuideUI_generic_item_crafting_cupcake»WILD CUPCAKES are usually found in the CANDORIA biome.
+$GuideUI_generic_item_crafting_shadowshard»SHADOW SHARDS are found in Delves of sufficient Depth.
+$GuideUI_generic_item_crafting_scale»ANCIENT SCALES are found when LOOT COLLECTING rare Fish.
+$GuideUI_generic_item_crafting_scale_ench»ENCHANTED SCALES are found when LOOT COLLETING rare, Enchanted Fish.
+$GuideUI_generic_item_crafting_chestnut»CHESTNUTS can be cultivated and harvested using GARDENING.
+$GuideUI_generic_item_crafting_events_december2024_pristine_snow»PRISTINE SNOW can be found in TREE DUNGEONS during the SNOWFEST event.
+$GuideUI_generic_item_crafting_fertilizer_plasma»PLASMIC SOLUTION can be harvested from PLASMA CONDENSERS, craftable by GARDENING.
+$GuideUI_generic_item_crafting_bottle»BOTTLES can be harvested throughout Trove Adventure Worlds.
+$GuideUI_generic_item_crafting_buggoo»STICKY ICHOR can be found on bug enemies across Trove.
+$GuideUI_generic_item_crafting_ore_sky»CRYSTALLIZED CLOUD can be MINED from CURSED SKYLANDS Worlds.
+$GuideUI_generic_item_crafting_ore_uncommon»FORMICITE ORE can be MINED throughout Trove Adventure Worlds.
+$GuideUI_generic_item_crafting_ore_rare»INFINIUM ORE can be MINED throughout Trove Adventure Worlds.
+$GuideUI_generic_item_crafting_radiantshard»RADIANT SHARDS can be obtained by completing the Dark Heart Dungeons found in CURSED SKYLANDS Worlds.
+$GuideUI_generic_item_crafting_pumpkin»PUMPKINS can be cultivated and harvested using GARDENING.
+$GuideUI_generic_placeable_block_primal_red»PRIMAL RED blocks can be obtained by destroying blocks across Trove.
+$GuideUI_generic_placeable_block_primal_blue»PRIMAL BLUE blocks can be obtained by destroying blocks across Trove.
+$GuideUI_generic_placeable_block_primal_green»PRIMAL GREEN blocks can be obtained by destroying blocks across Trove.
+$GuideUI_generic_item_dragon_egg_christmas_2016»The DORMANT JOYOUS DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_pinatatrove_notrade»The DORMANT WORLDSPRING DRAGON EGG can be obtained during the Sunfest event.
+$GuideUI_generic_item_dragon_egg_goldblue»The DORMANT WISDOM DRAGON EGG can be purchased from WEAVERS OF WONDERS, merchants found rarely in the LOST ISLES biome.
+$GuideUI_generic_item_dragon_egg_pumpkin»The DRAK-O-LANTERN DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_bismuth_notrade_fragment_new»IRIDESCENT DRAGON EGG FRAGMENTS can be found rarely when MINING Infinium Ore.
+$GuideUI_generic_item_dragon_egg_choko_notrade_fragment»CANDORIAN DRAGON EGG FRAGMENTS can be found when defeating DRACOCOLATL Dragons found in the CANDORIA biome.
+$GuideUI_generic_item_dragon_egg_toyblock»BLOCK DRAGON EGG FRAGMENTS can be found rarely from ADVENTURE BOXES.
+$GuideUI_generic_item_dragon_egg_pinata_notrade»The DORMANT PINATA DRAGON EGG can be found rarely from Pinatas.
+$GuideUI_generic_item_dragon_egg_infineon_notrade»The DORMANT INFINEON DRAGON EGG can be found rarely within SHADOW CACHES.
+$GuideUI_generic_item_dragon_egg_darkpurple_notrade»The DORMANT DUSK DRAGON EGG can be purchased from the Store [HK:Store] individually, or as part of the Double Dragon Pack.
+$GuideUI_generic_item_dragon_egg_blacksilver_notrade»The DORMANT SIEGE DRAGON EGG can be purchased from the Store [HK:Store] individually, or as part of the Double Dragon Pack.
+$GuideUI_generic_item_dragon_egg_pirate_notrade_fragment»PIRATE DRAGON EGG FRAGMENTS are obtained by defeating FLAKBEARD, found rarely in the LOST ISLES biome.
+$guideui_collections_mount_dragon_darkpurple_store_text»
+$guideui_collections_mount_dragon_blacksilver_store_text»
+$GuideUI_generic_item_dragon_egg_deepsea_notrade_fragment»DEEP SEA DRAGON EGG FRAGMENTS are obtained by defeating THALLASION, found rarely in DROWNED WORLDS.
+$GuideUI_generic_item_dragon_egg_mechshadow_notrade_fragment_new»KAMI DRAGON EGG FRAGMENTS are obtained by defeating robotic enemies.
+$GuideUI_generic_item_dragon_egg_spider_notrade_fragment_new»SPINNER DRAGON EGG FRAGMENTS are obtained by defeating spider and spider-like enemies.
+$GuideUI_generic_item_lootbox_gems_empowered»EMPOWERED GEM BOXES are included in many Store DEALS, but also sold in the GEMS tab [HK:Store]. They may also be found in Gem Booster Boxes or elsewhere in Trove.
+$GuideUI_generic_item_dragon_egg_primordial_notrade»The incredibly potent DIAMOND DRAGON EGGs can rarely be found within EMPOWERED GEM BOXES. But are otherwise crafted by combining DIAMOND DRAGONITE--obtained by completing your STAR BAR Daily, but also found elsewhere across Trove--at the Dragon Crucible.
+$GuideUI_generic_item_dragon_egg_dragon_moontouched_notrade_fragment»MOONTOUCHED DRAGON EGG FRAGMENTS can be obtained during the SUNFEST event.
+$GuideUI_generic_item_dragon_egg_dragon_moontouched_notrade»The DORMANT MOONTOUCHED DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_dragon_sol_notrade_fragment»PYRIC DRAGON EGG FRAGMENTS can be found from pyric invaders in LONG SHADE Difficulty (15) worlds.
+$GuideUI_generic_item_dragon_egg_dragon_sol_notrade»The DORMANT PYRIC DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_dragon_aquarus_fragment_notrade»AQUARAN DRAGON EGG FRAGMENTS can be found rarely when Fishing from FISHING POOLS.
+$GuideUI_generic_item_dragon_egg_dragon_aquarus_notrade»The DORMANT AQUARAN DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_dragonserpent_capricorn_fragment_notrade»CAPRIAN DRAGON EGG FRAGMENTS can be found by interacting with the STAR CHART and FISHING Progression systems.
+$GuideUI_generic_item_dragon_egg_dragonserpent_capricorn_notrade»The DORMANT CAPRIAN DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_dragon_sunseeker_fragment_notrade»IRRADIANT DRAGON EGG FRAGMENTS are dropped rarely by Empowered Irradiant Sky Admirals in the SUNDERED UPLANDS biome.
+$GuideUI_generic_item_dragon_egg_dragon_sunseeker_notrade»The DORMANT IRRADIANT DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_dragonserpent_ashen_fragment_notrade»FORAGED DRAGON EGG FRAGMENTS are dropped rarely by Empowered Devourers and Empowered Threshers in the SUNDERED UPLANDS biome.
+$GuideUI_generic_item_dragon_egg_dragonserpent_ashen_notrade»The DORMANT FORAGED DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_dragonlong_marshmallow_notrade»The DORMANT PUFFED DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_dragonlong_marshmallow_fragment_notrade»PUFFED DRAGON EGG FRAGMENTS can be found rarely from Dungeons in the CANDORIA biome.
+$GuideUI_generic_item_currency_coin_bomb_legacy»Obtained by converting Blast Coins at the BOMBER BENCH.\n\nScaredy cats can obtain these coins using the Bomb-nanza Balance Sheet: Blast Coins TOME, found on the BOMBER BENCH.
+$GuideUI_generic_item_dragon_egg_atmos_notrade_fragment»E.G.G. FRAGMENTS are found rarely when defeating Dungeons in CURSED SKYLANDS worlds.
+$GuideUI_generic_item_dragon_egg_steampunk_notrade_fragment»IRONCLAD EGG FRAGMENTS are found rarely in the VOLCANIC VAULTS Delve biome.
+$GuideUI_generic_item_dragon_egg_data_notrade_fragment»HEXED EGG FRAGMENTS are found rarely in the AMPERIA and NEON UNDERGROUND Delve biomes.
+$GuideUI_generic_item_dragon_egg_garden_notrade_fragment»BLOSSOMING EGG FRAGMENTS are found rarely from Bobble Pods from GARDENING.
+$GuideUI_generic_item_dragon_egg_shpurple_notrade_fragment»SANDSEASOWER EGG FRAGMENTS are found rarely when MINING in GEODE TOPSIDE Worlds.
+$GuideUI_generic_item_dragon_egg_lightspear_notrade»DORMANT LIGHTSPEAR DRAGON EGGS can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_lightspear_notrade_fragment»LIGHTSPEAR DRAGON EGG FRAGMENTS can be obtained from LIGHT CHAOS VAULTS, craftable at the CHAOS CORE CRAFTER in the HUB.
+$GuideUI_generic_item_dragon_egg_darkshield_notrade»DORMANT DARKSHIELD DRAGON EGGS can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_darkshield_notrade_fragment»DARKSHIELD DRAGON EGG FRAGMENTS can be obtained from DARK CHAOS VAULTS, craftable at the CHAOS CORE CRAFTER in the HUB.
+$GuideUI_generic_item_dragon_egg_bird_notrade_fragment»GOLDEN VALE DRAGON EGG FRAGMENTS can be obtained rarely when MINING Crystallized Cloud in CURSED SKYLANDS Worlds.
+$GuideUI_generic_item_dragon_egg_jet_notrade_fragment»TEMPEST DRAGON EGG FRAGMENTS can be purchased for 12,000 ADVENTURINE at Tier three TRAVELING MERCHANT club FIXTURES.
+$GuideUI_generic_item_dragon_egg_dracorgired_notrade»The DORMANT VALIANT DRAGON EGG can be crated at the DRAGON CRUCIBLE in the HUB, or purchased from the Store [HK:Store] as part of the MEGA MENAGERIE PACK
+$GuideUI_generic_item_dragon_egg_dracorgired_notrade_controller»The DORMANT VALIANT DRAGON EGG can be crated at the DRAGON CRUCIBLE in the HUB, or purchased from the Store [HK:NavigationMenu] as part of the MEGA MENAGERIE PACK
+$GuideUI_generic_item_dragon_egg_boltblade_notrade»DORMANT LIGHTNING DRAGON EGG can be crated at the DRAGON CRUCIBLE in the HUB, or purchased from the Store [HK:Store] as part of the MEGA MENAGERIE PACK
+$GuideUI_generic_item_dragon_egg_boltblade_notrade_controller»DORMANT LIGHTNING DRAGON EGG can be crated at the DRAGON CRUCIBLE in the HUB, or purchased from the Store [HK:NavigationMenu] as part of the MEGA MENAGERIE PACK
+$GuideUI_generic_item_dragon_egg_block_notrade_fragment»BLOCKTRON DRAGON EGG FRAGMENTS can be purchased for 12,000 ADVENTURINE at Tier three TRAVELING MERCHANT club FIXTURES.
+$GuideUI_generic_item_dragon_egg_artdeco_notrade»The DORMANT LOREKEEPER DRAGON EGG can be crafted at the DRAGON CRUCIBLE in the HUB.
+$GuideUI_generic_item_dragon_egg_artdeco_fragment»LOREKEEPER DRAGON EGG FRAGMENTS can be crafted occasionally at the VENTURINE FORGE when the TRIALS OF LUXION Event is active.
+$GuideUI_generic_item_dragon_egg_constellations_notrade_fragment_new»STARFIRE DRAGON EGG FRAGMENTS can be obtained rarely from SHADOWY SOUL VAULTS and RUNIC DEPTHS VAULTS in Delves, or World Bosses across Trove.
+$GuideUI_generic_item_dragon_egg_bubble_notrade_fragment_new»BUBBLE DRAGON EGG FRAGMENTS can be obtained rarely when FISHING.
+$GuideUI_generic_item_dragon_egg_ice_notrade_fragment_new»ICE DRAGON EGG FRAGMENTS can be obtained rarely when MINING Glacial Shards.
+$GuideUI_generic_item_dragon_egg_green_notrade_fragment_new»PRESERVER DRAGON EGG FRAGMENTS can be obtained rarely when defeating Dinosaurs.
+$GuideUI_generic_item_dragon_egg_flora_notrade_fragment_new»FLORAL DRAGON EGG FRAGMENTS can be obtained rarely when HARVESTING Sunlight Bulbs.
+$GuideUI_generic_item_crafting_talisman_corgi»Found rarely in Moonless Dark (10) and lower Adventure Worlds.
+$GuideUI_generic_item_crafting_mountfood»Cultivated from the GARDENING profession.

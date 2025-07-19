@@ -1,0 +1,8 @@
+$prefabs_item_fish_chocolate_rare_ancient_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在高度「20&lt;高度&lt;199」且没有其他稀有鱼（巧克力）的世界:和平山丘、中世纪高原等等中的普通巧克力中垂钓才有几率可以钓到
+$prefabs_item_fish_chocolate_rare_chocodile_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在任何世界，高度「20&lt;高度&lt;200」的普通巧克力中垂钓才有几率可以钓到
+$prefabs_item_fish_chocolate_rare_cottoncandy_blue_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在任何世界，高度「200&lt;高度&lt;255」的普通巧克力中垂钓才有几率可以钓到
+$prefabs_item_fish_chocolate_rare_cottoncandy_pink_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在任何世界，高度「200&lt;高度&lt;255」的普通巧克力中垂钓才有几率可以钓到
+$prefabs_item_fish_chocolate_rare_gobstopper_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在除主城以外世界，高度「1&lt;高度&lt;20」的普通巧克力中垂钓才有几率可以钓到
+$prefabs_item_fish_chocolate_rare_octopus_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在侏罗纪丛林的蜥蜴沼泽中的的普通巧克力中垂钓才有几率可以钓到
+$prefabs_item_fish_chocolate_uncommon_ore_cinnabar_item_desc»罕见的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在蓬丘仙境的普通巧克力中垂钓才有几率可以钓到
+$prefabs_item_fish_chocolate_rare_zebrafish_item_desc»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在蓬丘仙境的普通巧克力中垂钓才有几率可以钓到
