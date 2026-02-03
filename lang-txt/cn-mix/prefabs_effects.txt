@@ -12,3 +12,5 @@ $prefabs_effects_catastrophe_gemerald_mining_name»翡翠矿工
 $prefabs_effects_catastrophe_gemerald_mining_description»在冒险世界中开采塑形石矿、蓝晶矿或限晶矿时有几率获得猫眼翡翠宝石
 $prefabs_effects_pet_pebble_bamboo_dropchance_name»竹子收藏家
 $prefabs_effects_pet_pebble_bamboo_dropchance_description»在蓬丘仙境收获竹笋时，增加获得竹笋的数量，并略微增加翠竹龙蛋碎片的掉落几率。\n\n当处于"杜拉文-翠竹龙'"活动时，该效果才会被激活。（请输入/welcome指令或者按下[HK:WelcomeScreen]打开欢迎页面查看是否处于活动中！）
+$prefabs_effects_pet_goat_newyear2026_dropchance_name»吃煤渣的人(Cinder Eater)
+$prefabs_effects_pet_goat_newyear2026_dropchance_description»采集余烬踪迹时，增加获得的余烬踪迹数量，并略微增加掉落余烬卵碎片的几率，增加余烬幻影出现的几率。\n<font color="#cccccc">When harvesting Ember Trails, increases the amount of Ember Trails obtained, and slightly increases the drop chance of Emberscale Egg Fragments and increases the chance for the Ember Apparition to appear. </font>\n\n“Cindrakken - the Emberscale Dragon”活动必须当前处于活动状态（查看/welcome屏幕！[HK:Welcomescreen]）。\n<font color="#cccccc">The 'Cindrakken - the Emberscale Dragon' event must currently be ACTIVE (check the /welcome screen! [HK:Welcomescreen]).</font>

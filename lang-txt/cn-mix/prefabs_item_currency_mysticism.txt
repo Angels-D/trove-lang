@@ -8,3 +8,4 @@ $prefabs_item_currency_mysticism_trovian_mana_opal_name»宇宙魔力结晶
 $prefabs_item_currency_mysticism_trovian_mana_opal_description»从晶洞地表冒险世界中获得。\n\n从秘术中使用。
 $prefabs_item_currency_mysticism_trovian_mana_water_name»沫水魔力结晶
 $prefabs_item_currency_mysticism_trovian_mana_water_description»从浸末冒险世界中获得。\n\n从秘术中使用。
+$prefabs_item_currency_ember_trail_name»Ember Trail

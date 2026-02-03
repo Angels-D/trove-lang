@@ -121,7 +121,7 @@ $prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_luminopolis»装�
 $prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_paragon»装饰: 隐藏的兔子庆典蛋: 巅峰蛋
 $prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_sakura»装饰: 隐藏的兔子庆典蛋: 樱花蛋
 $prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_shadow»装饰: 隐藏的兔子庆典蛋: 暗影蛋
-$prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_cyberbun»装饰品：可隐藏的兔子庆典彩蛋：霓虹样式
+$prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_cyberbun»装饰：隐藏的兔子庆典蛋：赛博蛋
 $prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_cyberbun_desc»你所说的“新”是什么意思？它一直都在这里。
 $prefabs_placeable_crafting_events_april2022_deco_trophy_april2022_bunsmasher»巨大兔子人战利品
 $prefabs_placeable_crafting_events_july2022_deco_sunfest_boot_carys»装饰: 卡瑞斯家族: 靴子

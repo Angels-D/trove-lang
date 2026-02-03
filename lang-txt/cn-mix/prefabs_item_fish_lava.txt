@@ -13,17 +13,17 @@ $prefabs_item_fish_lava_common_06_item_description»常见的鱼。分解即可�
 $prefabs_item_fish_lava_common_07_item_name»影裔三叶虫
 $prefabs_item_fish_lava_common_07_item_description»常见的鱼。分解即可获得资源并添加到你的收藏中
 $prefabs_item_fish_lava_rare_ancient_item_name»远古岩浆骑士
-$prefabs_item_fish_lava_rare_ancient_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在没有其他稀有鱼（岩浆）的世界:和平山丘、中世纪高原...等中的普通岩浆中垂钓才有几率可以钓到
+$prefabs_item_fish_lava_rare_ancient_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n在没有其他稀有鱼（岩浆）的世界:和平山丘、中世纪高原...等中的普通岩浆中垂钓才有几率可以钓到。
 $prefabs_item_fish_lava_rare_hub_item_name»焦炎主城鱼
-$prefabs_item_fish_lava_rare_hub_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在主城中的普通岩浆中垂钓才有几率可以钓到
+$prefabs_item_fish_lava_rare_hub_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在主城中的普通岩浆中垂钓才有几率可以钓到\n或许光明龙穴和龙台附近有岩浆呢 - MewsCat
 $prefabs_item_fish_lava_rare_ice_item_name»寒火鱼
-$prefabs_item_fish_lava_rare_ice_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在教程世界中的普通岩浆中垂钓才有几率可以钓到
+$prefabs_item_fish_lava_rare_ice_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在永冻界中的普通岩浆中垂钓才有几率可以钓到\n或许副本中有岩浆呢，实在不行就把龙火山峰的岩浆引流到永冻界吧 - MewsCat
 $prefabs_item_fish_lava_rare_newbie_item_name»火烤笨鱼
-$prefabs_item_fish_lava_rare_newbie_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中
+$prefabs_item_fish_lava_rare_newbie_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在教程世界中的普通岩浆中垂钓才有几率可以钓到\n或许副本中有岩浆呢 - MewsCat
 $prefabs_item_fish_lava_rare_sky_item_name»翱翔焰鱼
 $prefabs_item_fish_lava_rare_sky_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在光辉遗迹的光辉碎片副本中的普通岩浆中垂钓才有几率可以钓到
 $prefabs_item_fish_lava_rare_treasureisle_item_name»热带火山鱼
-$prefabs_item_fish_lava_rare_treasureisle_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在失落岛屿（不是浸末世界）中的普通岩浆中垂钓才有几率可以钓到
+$prefabs_item_fish_lava_rare_treasureisle_item_description»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在失落岛屿中的普通岩浆中垂钓才有几率可以钓到\n浸没世界不行哦。\n或许副本中有岩浆呢 - MewsCat
 $prefabs_item_fish_lava_uncommon_bottle_item_name»玻璃瞪鱼
 $prefabs_item_fish_lava_uncommon_bottle_item_description»罕见的鱼。分解即可获得资源并添加到你的收藏中
 $prefabs_item_fish_lava_uncommon_diamond_item_name»高压煤黑鱼
@@ -49,10 +49,10 @@ $prefabs_item_fish_lava_uncommon_anglerfish_item_desc»罕见的鱼。分解即�
 $prefabs_item_fish_lava_uncommon_elemental_item_name»火元素
 $prefabs_item_fish_lava_uncommon_elemental_item_desc»罕见的鱼。分解即可获得资源并添加到你的收藏中。\n\n只能从岩浆鱼池中钓到。
 $prefabs_item_fish_lava_uncommon_ore_gl_lower_item_name»灰烬裂矿鱼
-$prefabs_item_fish_lava_uncommon_ore_gl_lower_item_desc»罕见的鱼。分解即可获得资源并添加到你的收藏中。\n\n只能从断裂高地的普通岩浆中钓到。\n（boss喷的岩浆？）
+$prefabs_item_fish_lava_uncommon_ore_gl_lower_item_desc»罕见的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在断裂高地的普通岩浆中垂钓才有几率可以钓到
 $prefabs_item_fish_lava_uncommon_squid_item_name»火鱿鱼
 $prefabs_item_fish_lava_uncommon_squid_item_desc»罕见的鱼。分解即可获得资源并添加到你的收藏中。\n\n只能从岩浆鱼池中钓到。
 $prefabs_item_fish_lava_rare_shark_item_name»姜鲨鱼
 $prefabs_item_fish_lava_rare_shark_item_desc»稀有的鱼。分解即可获得资源并添加到你的收藏中。\n\n只能从岩浆鱼池中钓到。
 $prefabs_item_fish_lava_rare_zebrafish_item_name»火红流鱼
-$prefabs_item_fish_lava_rare_zebrafish_item_desc»稀有的鱼。分解即可获得资源并添加到你的收藏中。\n\n只能从侏罗纪丛林蜥蜴沼泽(没有顶的地形)的普通岩浆中钓到。
+$prefabs_item_fish_lava_rare_zebrafish_item_desc»稀有的鱼。分解即可获得资源并添加到你的收藏中\n\n只有在侏罗纪丛林的蜥蜴沼泽中的普通岩浆中垂钓才有几率可以钓到

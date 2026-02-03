@@ -870,6 +870,12 @@ $StoreProduct_gearcrafters_collection_pack_name»锻造者行囊
 $StoreProduct_gearcrafters_collection_pack_description»准备好迎接冒险，带上装备工匠包！包含：\n让你的Trove体验更上一层楼的必备物品：\n5个锻造强化药剂\n5个宝箱磁力药剂\n5个装备锻造者宝箱钥匙\n5个双倍经验药剂\n1个15天会员\n\n坐骑：齿轮狮鹫\n\n宠物：齿轮巡洋舰
 $StoreProduct_cheese_collection_pack_name»浓香芝士大礼包
 $StoreProduct_cheese_collection_pack_description»尽情享受这款以奶酪为灵感的套装带来的浓郁乐趣吧！\n\n包含内容：\n宠物：奶酪火锅门徒、混乱杂糅者\n坐骑：溢出的马苏里拉邦特蛋糕、佩科里诺\n糖果野蛮人服饰：酸酪公主布里安
+$StoreProduct_sprout_collection_pack_name»芽苗收藏礼包(Sprout Collection Pack)
+$StoreProduct_sprout_collection_pack_description»用这个限时礼包萌芽到春天！(Sprout into spring with this limited time pack!)\n\n包括：(Includes:)\n盟友： Mosswhisker Hopper、Petalspout Pal(Allies: Mosswhisker Hopper, Petalspout Pal)\n坐骑： Honeyblossom Planter、Willowback Hedgerunner、(Mounts: Honeyblossom Planter, Willowback Hedgerunner, )\n掘墓人时装： Bloomgrave死灵法师、海盗船长时装： Petalpowder Pirate( Tomb Raiser Costume: Bloomgrave Necromancer, Pirate Captain Costume: Petalpowder Pirate)
+$StoreProduct_creepy_candy_collection_pack_name»令人毛骨悚然的糖果包(Creepy Candy Pack)
+$StoreProduct_creepy_candy_collection_pack_description»吓坏了！带着这个可怕的糖果包！(Get creeped out! With this scary candy Pack!)\n\n包括：(Includes:)\n盟友： Chompy Chewcrew、Taffy Charmer、Nougat Hopper(Allies: Chompy Chewcrew, Taffy Charmer, Nougat Hopper)\n坐骑： Swirlin 'Shelly、Candy-Crank Captain、Gooey Slowpoke(Mounts: Swirlin' Shelly, Candy-Crank Captain, Gooey Slowpoke)\nChloromancer时装： Sugarspore Sproutmancer、Shadow Hunter时装： Mintbreaker Marksman( Chloromancer Costume: Sugarspore Sproutmancer, Shadow Hunter Costume: Mintbreaker Marksman)
+$StoreProduct_zodiac_horse_collection_pack_name»十二生肖马匹礼包(Zodiac Horse Pack)
+$StoreProduct_zodiac_horse_collection_pack_description»使用此限时礼包，开启新的一年！(Ride into the new year with this limited time pack!)\n\n包括：(Includes:)\n盟友： Snap、Crackle & Trot、Glowmare Lantern(Allies: Snap, Crackle & Trot, Glowmare Lantern)\n坐骑：丝翼皇、花夜母马(Mounts: Silkwing Sovereign, Blossom Night Mare)\nSolarion服装：引导光芒，Dracolyte服装： Qilinfire充电器( Solarion Costume: Guiding Glow, Dracolyte Costume: Qilinfire Charger)
 $StoreProduct_asteroid_collection_pack_name»小行星套装
 $StoreProduct_asteroid_collection_pack_description»通过这款小行星套装逃离这个世界！\n\n包含内容：\n宠物：梦幻霓虹狂热粉，打碟小行星\n坐骑：警觉的太空卫士，太空合成器，动态鼓组\n吟游诗人服饰：星际陨石吟游者
 $StoreProduct_beachparty_collection_pack_name»夏日海滩狂欢礼包
@@ -1190,7 +1196,7 @@ $StoreProduct_trove_celebration_collection_pack_description»这个限时包可�
 $StoreProduct_tome_progression_essence_legendary_name»星空回响年鉴
 $StoreProduct_tome_progression_essence_legendary_description»每周充能一次，使用这本书籍可以获得5000个星空回响。
 $StoreProduct_item_fishing_net_name»垂钓大师的渔网
-$StoreProduct_item_fishing_net_description»一张能同时捕获许多鱼的网。当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。
+$StoreProduct_item_fishing_net_description»一张能同时捕获许多鱼的网。当被扔进任何鱼池或可垂钓的液体时，能捕获5条鱼。\n\n需要玩家拥有已经激活的鱼饵层数Buff。
 $StoreProduct_item_currency_progression_progression_branch_unlock_name»星座钥匙
 $StoreProduct_item_currency_progression_progression_branch_unlock_description»星座钥匙可以在星图中使用，可以解锁分支或重置星图并返还所有已使用的天球。
 $StoreProduct_trove_heckbug_horde_pack_name»巨型的地狱虫群(2023)
@@ -1227,6 +1233,8 @@ $StoreProduct_trove_bamboodragon_pack_name»翠竹龙礼包
 $StoreProduct_trove_bamboodragon_pack_description»迎接翠竹精灵杜拉文，尝试与他成为同伴吧！\n\n翠竹精灵杜拉文 * 1\n高等龙箱 * 33\n龙币 * 333\n钻龙石袋 * 3\n\n50特权点!
 $StoreProduct_trove_cny2025_pack_name»木蛇龙礼包
 $StoreProduct_trove_cny2025_pack_description»遇见神话中的蛇霞，今日邀她共赴奇缘！\n\n * 青木虺龙蛇霞\n * 33个大型龙箱\n * 333枚龙币\n * 3个钻龙石袋\n\n50特权点！
+$StoreProduct_trove_cny2026_pack_name»火马龙礼包(Fire Horse Dragon Pack)
+$StoreProduct_trove_cny2026_pack_description»认识Cindrakken，Emberscale。邀请他加入你的马厩！(Meet Cindrakken, the Emberscale. Invite him into your Stable!)\n\n* Cindrakken, the Emberscale( * Cindrakken, the Emberscale)\n* 33个高级龙宝箱( * 33 Greater Dragon Caches)\n* 333龙币( * 333 Dragon Coins)\n* 3个钻石Dragonite袋( * 3 Diamond Dragonite Pouches)\n\n50个订阅会员积分！(50 Patron Points!)
 $StoreProduct_item_key_gearcrafting_name»装备锻造者宝箱钥匙
 $StoreProduct_item_key_gearcrafting_description»使用该钥匙打开装备锻造者宝箱时获得稀有的奖励。
 $StoreProduct_gearcrafting_lootbox_boosterpack_name»装备锻造者宝箱增强包

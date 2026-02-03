@@ -12,7 +12,7 @@ $Quest_GoldenThread_event_january_04_name»收集迎新蝴蝶
 $Quest_GoldenThread_event_january_04_description»迎新节5/9：在前往宝藏世界的各个冒险世界时始终装备旗帜，你就能找到迎新蝴蝶！
 $Quest_GoldenThread_event_january_05_name»捐赠迎新蝴蝶
 $Quest_GoldenThread_event_january_05_description»迎新节6/9：干得漂亮！将蝴蝶捐给我，帮我们保护蝴蝶的未来！以科学的名义！
-$Quest_GoldenThread_event_january_06_name»完成一个GARX的热身练习(Complete one of GARX'S WARM UP Exercises)
+$Quest_GoldenThread_event_january_06_name»完成加尔斯的一项热身锻炼
 $Quest_GoldenThread_event_january_06_description»迎新节7/9：挺简单的吧！继续保持。寻宝者，有你这样的盟友是迎新蝴蝶的幸运！\n\n\n哦对了！你去跟加尔斯聊过了吗？对于今年的迎新节他也很兴奋，不过他兴奋的点似乎不在蝴蝶上……
 $Quest_GoldenThread_event_january_07_name»打击主城的迎新球
 $Quest_GoldenThread_event_january_07_description»迎新节8/9：享受肌肉酸痛的成就感！我喜欢加尔斯，但我没他那么精力旺盛。希望他已经带你做好了热身，因为还有最后一项迎新节传统活动需要你参与……用力打击迎新球！主城中的迎新球每隔几分钟就会落下。等球落下时狠狠击打几下！
@@ -191,5 +191,7 @@ $Quest_GoldenThread_event_november_00_name»活动：火鸡之乡
 $Quest_GoldenThread_event_november_00_description»必须先完成克贝斯利的新手主线任务，才可参与火鸡之乡活动！可按 [HK:ActivityTracker] 查看任务列表！
 $Quest_GoldenThread_event_december_00_name»活动：冰雪庆典
 $Quest_GoldenThread_event_december_00_description»要开启冰雪庆典任务线，你必须先在克贝斯利的教程任务[HK:ActivityTracker]中做完“完成一层秘境”！
-$Quest_GoldenThread_cyclic_event_celestial_name»为Qubesly与天神对话(Speak with THE CELESTIAL for Qubesly)
-$Quest_GoldenThread_cyclic_event_celestial_description»Trovian！很抱歉打扰您，但我现在很忙，我忘了给集线器中的天体一个非常重要的消息。你能去告诉他吗，Qubesly说： “好吧！”\n<font color="#cccccc">Trovian! I'm sorry to bother you, but I'm rather busy right now, and I forgot to get a very important message to THE CELESTIAL here in the HUB. Can you go and let him know Qubesly says: "Ok!"</font>
+$Quest_GoldenThread_cyclic_event_celestial_name»帮克贝斯利给苍穹商人带个话
+$Quest_GoldenThread_cyclic_event_celestial_description»寻宝者！我现在非常忙，有一件非常重要的事忘记给主城的苍穹商人说了。不知道能不能劳烦你跑一趟？告诉他，克贝斯利说：“好的！”
+$Quest_GoldenThread_Event_february2026_00_Name»活动：坠入爱河的黑虫(Event: Heckbugs in Love)
+$Quest_GoldenThread_Event_february2026_00_Description»要访问爱情任务线中的黑克虫，您必须首先在Qubesly的教程任务线[HK:Activitytracker]中完成“完成一个探索层”！(To access the Heckbugs in Love Questline, you must first complete "Complete a Delve Floor" in Qubesly's Tutorial Questline [HK:Activitytracker]!)
