@@ -1,2 +1,2 @@
-$Quest_GoldenThread_Event_february2026_00_Name»活动：坠入爱河的黑虫(Event: Heckbugs in Love)
-$Quest_GoldenThread_Event_february2026_00_Description»要访问爱情任务线中的黑克虫，您必须首先在Qubesly的教程任务线[HK:Activitytracker]中完成“完成一个探索层”！(To access the Heckbugs in Love Questline, you must first complete "Complete a Delve Floor" in Qubesly's Tutorial Questline [HK:Activitytracker]!)
+$Quest_GoldenThread_Event_february2026_00_Name»活动：坠入爱河的地狱虫(Event: Heckbugs in Love)
+$Quest_GoldenThread_Event_february2026_00_Description»要访问爱情任务线中的地狱虫，您必须首先在克贝斯利的教程任务线[HK:Activitytracker]中完成“完成一个探索层”！(To access the Heckbugs in Love Questline, you must first complete "Complete a Delve Floor" in Qubesly's Tutorial Questline [HK:Activitytracker]!)

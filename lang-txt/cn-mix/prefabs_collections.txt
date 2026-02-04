@@ -46,7 +46,7 @@ $CollectionName_Enchanted»附魔
 $CollectionName_Depths»深渊
 $CollectionName_Turtles»乌龟
 $CollectionName_Crafted»已制作
-$CollectionName_MountTamingBench»Mount Taming Bench
+$CollectionName_MountTamingBench»坐骑工作台
 $CollectionName_Store»商店
 $CollectionName_StoreFrameworks»商店框架
 $CollectionName_Seasonal»季度
@@ -190,7 +190,7 @@ $CollectionName_ExtraLife»额外生命
 $CollectionName_StreamerDream»主播之梦
 $CollectionName_StreamerDream2»主播之梦2
 $CollectionName_StreamerDream3»主播之梦3
-$CollectionName_StreamerDream4»Streamer Dream 4
+$CollectionName_StreamerDream4»主播之梦4
 $CollectionName_DevDream»开发者的梦想
 $CollectionName_READY_FOR_GAME»准备开始游戏
 $CollectionName_Starter»初始
@@ -276,7 +276,7 @@ $CollectionName_Curiosities»珍品
 $CollectionName_Catastrophe»灾厄菲奥娜
 $CollectionName_CatastropheTemporary»灾厄菲奥娜 (临时)
 $CollectionName_EventVault»活动金库
-$CollectionName_TrialsofLuxion»卢西翁之试炼(Trials of Luxion)
+$CollectionName_TrialsofLuxion»奢龙的试炼
 $CollectionName_TitleCertificates»称号证书
 $CollectionName_Mysticism»秘术
 $CollectionName_MartialArts»武术

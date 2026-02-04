@@ -200,9 +200,9 @@ $prefabs_item_dragon_egg_dragon_moontouched_notrade_name»休眠月染龙蛋
 $prefabs_item_dragon_egg_dragon_moontouched_notrade_description»通过主城的龙台将龙蛋孵化成新生的飞龙!
 $prefabs_item_dragon_egg_dragon_moontouched_notrade_fragment_name»月染龙蛋碎片
 $prefabs_item_dragon_egg_dragon_moontouched_notrade_fragment_description»通过主城的龙台将龙蛋孵化成新生的飞龙!
-$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_fragment_name»火鳞龙蛋碎片(Emberscale Dragon Egg Fragment)
-$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_fragment_description»在集线器中使用龙坩埚从蛋中哄取一只新的飞龙！\n<font color="#cccccc">Coax a new flying dragon from the egg using the Dragon Crucible in the Hub!</font>\n\n当“Cindraken - the Emberscale”活动当前激活时，很少可以从冒险世界的余烬小径中获得这些碎片（请查看/welcome屏幕！[HK:Welcomescreen]）。\n<font color="#cccccc">These fragments can be obtained very rarely from Ember Trails found in Adventure Worlds when the 'Cindraken - the  Emberscale' event is currently ACTIVE (check the /welcome screen! [HK:Welcomescreen]).</font>
-$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_notrade_name»休眠火鳞龙蛋(Dormant Emberscale Dragon Egg)
-$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_notrade_description»在集线器中使用龙坩埚从蛋中哄取一只新的飞龙！\n<font color="#cccccc">Coax a new flying dragon from the egg using the Dragon Crucible in the Hub!</font>
-$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_name»金色休眠火鳞龙蛋(Golden Dormant Emberscale Dragon Egg)
-$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_description»消耗以解锁龙： Cindrakken, the Emberscale！\n<font color="#cccccc">Consume to unlock the Dragon: Cindrakken, the Emberscale!</font>
+$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_fragment_name»余烬龙蛋碎片(Emberscale Dragon Egg Fragment)
+$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_fragment_description»通过主城的龙台将龙蛋孵化成新生的飞龙!\n<font color="#cccccc">Coax a new flying dragon from the egg using the Dragon Crucible in the Hub!</font>\n\n在“余烬巨龙-辛德拉肯”活动期间，有低概率可以从冒险世界的余烬痕迹中获得这些碎片（请查看/welcome屏幕！[HK:Welcomescreen]）。\n<font color="#cccccc">These fragments can be obtained very rarely from Ember Trails found in Adventure Worlds when the 'Cindraken - the  Emberscale' event is currently ACTIVE (check the /welcome screen! [HK:Welcomescreen]).</font>
+$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_notrade_name»休眠余烬龙蛋(Dormant Emberscale Dragon Egg)
+$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_notrade_description»通过主城的龙台将龙蛋孵化成新生的飞龙!\n<font color="#cccccc">Coax a new flying dragon from the egg using the Dragon Crucible in the Hub!</font>
+$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_name»黄金休眠余烬龙蛋(Golden Dormant Emberscale Dragon Egg)
+$prefabs_item_dragon_egg_dog_dracorgi_newyear2026_description»使用后可孵化 Cindrakken, the Emberscale！\n<font color="#cccccc">Consume to unlock the Dragon: Cindrakken, the Emberscale!</font>

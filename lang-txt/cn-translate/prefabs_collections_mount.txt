@@ -2,23 +2,23 @@ $prefabs_collections_mount_rocket_captain_name»糖果曲柄队长(Candy-Crank C
 $prefabs_collections_mount_rocket_captain_description»这款糖果饮水机小淘气，留着大胆的胡子，自负相配。\n<font color="#cccccc">This candy dispenser rascal sports a bold moustache and an ego to match.</font>
 $prefabs_collections_mount_dragonbug_swirl_name»漩涡雪莉(Swirlin' Shelly)
 $prefabs_collections_mount_dragonbug_swirl_description»据传闻，它含糖的螺旋壳含有古老的秘密……或者它真的很粘。很难说。\n<font color="#cccccc">Its sugary spiral shell is rumoured to hold ancient secrets… or maybe it's just really sticky. Hard to tell.</font>
-$prefabs_collections_mount_foxspirit_goo_name»Gooey Slowpoke
+$prefabs_collections_mount_foxspirit_goo_name»黏糊糊的慢吞吞(Gooey Slowpoke)
 $prefabs_collections_mount_foxspirit_goo_description»粘稠、湿漉漉的巧克力屋。慢而稳定地赢得零食。\n<font color="#cccccc">Sticky, squishy, and sporting a cracked chocolate home. Slow and steady wins the snack.</font>
-$prefabs_collections_mount_dog_dracorgi_newyear2026_name»Cindrakken, the Emberscale
+$prefabs_collections_mount_dog_dracorgi_newyear2026_name»烬鳞龙辛德拉肯(Cindrakken, the Emberscale)
 $prefabs_collections_mount_dog_dracorgi_newyear2026_description»辛德拉肯（Cindrakken）像报复之火一样炽热，旅行时脚下有余烬。\n<font color="#cccccc">Blazing like the fires of retribution, Cindrakken leaves embers beneath her feet as she travels.</font>\n解锁该龙后，将获得永久+10%生命上限、+5%攻击速度和+50魔法查找\n<font color="#cccccc">Having this Dragon unlocked grants a permanent +10% Max Health, +5% Attack Speed and +50 Magic Find</font>
 $prefabs_collections_mount_carpet_planter_name»蜜花种植机(Honeyblossom Planter)
 $prefabs_collections_mount_carpet_planter_description»这么大的锅只意味着一件事：最大的花朵和充满活力的蜜蜂。\n<font color="#cccccc">A pot this big can only mean one thing: maximum bloom and very motivated bees.</font>
-$prefabs_collections_mount_cat_hedge_name»Willowback Hedgerunner
+$prefabs_collections_mount_cat_hedge_name»柳背树篱奔跑者(Willowback Hedgerunner)
 $prefabs_collections_mount_cat_hedge_description»部分树篱，部分猪，所有花园。\n<font color="#cccccc">Part hedge, part hog, all garden.</font>
-$prefabs_collections_mount_pwny_heckbug_name»H.E.C.K. Hover-vespa
+$prefabs_collections_mount_pwny_heckbug_name»H.E.C.K.悬浮小摩托(H.E.C.K. Hover-vespa)
 $prefabs_collections_mount_pwny_heckbug_description»适用于低重力环境的可靠车辆。\n<font color="#cccccc">A Reliable vehicle for low-gravity environments.</font>
-$prefabs_collections_mount_chariot_heckbug_name»H.E.C.K.课程(Curricle of H.E.C.K.)
+$prefabs_collections_mount_chariot_heckbug_name»H.E.C.K.双轮轻便马车(Curricle of H.E.C.K.)
 $prefabs_collections_mount_chariot_heckbug_description»有自己的想法。\n<font color="#cccccc">Has a mind of it's own.</font>
-$prefabs_collections_mount_platypus_axolotl_name»可爱的Axolotl(Adorable Axolotl)
+$prefabs_collections_mount_platypus_axolotl_name»可爱的美西螈(Adorable Axolotl)
 $prefabs_collections_mount_platypus_axolotl_description»永远不要停止摆动！\n<font color="#cccccc">Never stops wiggling!</font>
-$prefabs_collections_mount_griffon_lion_shadow_name»Shadeclaw
+$prefabs_collections_mount_griffon_lion_shadow_name»暗影利爪(Shadeclaw)
 $prefabs_collections_mount_griffon_lion_shadow_description»每当最后一丝光芒消失时，他就会出现。\n<font color="#cccccc">He appears when every last spark of light fades.</font>
-$prefabs_collections_mount_board_remote_name»Channel Surfer
+$prefabs_collections_mount_board_remote_name»频道冲浪板(Channel Surfer)
 $prefabs_collections_mount_board_remote_description»安全舒适地坐在沙发上，环游世界！\n<font color="#cccccc">Travel the world, from the safety and comfort of your couch!</font>
 $prefabs_collections_mount_cycle_quad_dustbuster_name»至尊除尘器(Dust Buster Supreme)
 $prefabs_collections_mount_cycle_quad_dustbuster_description»空中卫生技术的巅峰之作。\n<font color="#cccccc">The pinnacle of airborne sanitation technology.</font>

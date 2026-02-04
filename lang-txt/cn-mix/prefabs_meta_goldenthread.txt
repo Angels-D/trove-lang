@@ -193,5 +193,5 @@ $Quest_GoldenThread_event_december_00_name»活动：冰雪庆典
 $Quest_GoldenThread_event_december_00_description»要开启冰雪庆典任务线，你必须先在克贝斯利的教程任务[HK:ActivityTracker]中做完“完成一层秘境”！
 $Quest_GoldenThread_cyclic_event_celestial_name»帮克贝斯利给苍穹商人带个话
 $Quest_GoldenThread_cyclic_event_celestial_description»寻宝者！我现在非常忙，有一件非常重要的事忘记给主城的苍穹商人说了。不知道能不能劳烦你跑一趟？告诉他，克贝斯利说：“好的！”
-$Quest_GoldenThread_Event_february2026_00_Name»活动：坠入爱河的黑虫(Event: Heckbugs in Love)
-$Quest_GoldenThread_Event_february2026_00_Description»要访问爱情任务线中的黑克虫，您必须首先在Qubesly的教程任务线[HK:Activitytracker]中完成“完成一个探索层”！(To access the Heckbugs in Love Questline, you must first complete "Complete a Delve Floor" in Qubesly's Tutorial Questline [HK:Activitytracker]!)
+$Quest_GoldenThread_Event_february2026_00_Name»活动：坠入爱河的地狱虫(Event: Heckbugs in Love)
+$Quest_GoldenThread_Event_february2026_00_Description»要访问爱情任务线中的地狱虫，您必须首先在克贝斯利的教程任务线[HK:Activitytracker]中完成“完成一个探索层”！(To access the Heckbugs in Love Questline, you must first complete "Complete a Delve Floor" in Qubesly's Tutorial Questline [HK:Activitytracker]!)

@@ -383,5 +383,5 @@ $prefabs_item_crafting_events_january_renewus_quest_run_name»热身：快跑！
 $prefabs_item_crafting_events_january_renewus_quest_run_description»奔跑三百步，证明你的身体素质！
 $prefabs_item_crafting_events_december2025_workbench_classic_snowman_release_name»释放经典雪人！
 $prefabs_item_crafting_events_december2025_workbench_classic_snowman_release_description»将经典雪人送回他在永冻之界的幸福之家！
-$prefabs_item_crafting_events_cny2026_fire_horse_beacon_name»余烬之印(Sigil of Embers)
-$prefabs_item_crafting_events_cny2026_fire_horse_beacon_description»吸引Cindrakken的注意力。当你被这个徽章标记时，当你触发魔法发现时，你将有机会看到火焰鳞片幻影。摧毁这些幽灵会获得余鳞龙蛋碎片。\n<font color="#cccccc">Attracts the attention of the Cindrakken. While marked by this sigil, you are granted a chance to see Emberscale Apparitions when you trigger MAGIC FIND. Destroying these apparitions grants Emberscale Dragon Egg Fragments.</font>
+$prefabs_item_crafting_events_cny2026_fire_horse_beacon_name»余烬徽章(Sigil of Embers)
+$prefabs_item_crafting_events_cny2026_fire_horse_beacon_description»吸引辛德拉肯的注意力。当你被这个徽章标记时，触发魔寻时，你将有机会看到余烬幻影。摧毁这些幻影会获得余烬龙蛋碎片。\n<font color="#cccccc">Attracts the attention of the Cindrakken. While marked by this sigil, you are granted a chance to see Emberscale Apparitions when you trigger MAGIC FIND. Destroying these apparitions grants Emberscale Dragon Egg Fragments.</font>
