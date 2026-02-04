@@ -1,3 +1,3 @@
-$Welcome_store_dragon_fire_horse»Cindrakken -火鳞龙！(Cindrakken - the Emberscale Dragon!)
+$Welcome_store_dragon_fire_horse»余烬巨龙-辛德拉肯！(Cindrakken - the Emberscale Dragon!)
 $Welcome_store_dragon_fire_horse_subtitle»通过冒险世界追踪辛德拉肯！她的蹄印可以在大多数Trove生物群落中找到！(Track down the Cindrakken through Adventure Worlds! Her hoofprints can be found in most of the Trove biomes!)
-$Welcome_store_dragon_fire_horse_description»将足够多的余烬小径带到龙火峰的龙族工作台，制作余烬痕迹并收集余烬龙蛋碎片！(Bring enough Ember Trails to Draconic Workbench in the Dragonfire Peaks to craft Sigil of Embers and collect Emberscale Dragon Egg Fragments!)
+$Welcome_store_dragon_fire_horse_description»将足够多的余烬痕迹带到龙火山峰工作台，制作余烬痕迹并收集余烬龙蛋碎片！(Bring enough Ember Trails to Draconic Workbench in the Dragonfire Peaks to craft Sigil of Embers and collect Emberscale Dragon Egg Fragments!)

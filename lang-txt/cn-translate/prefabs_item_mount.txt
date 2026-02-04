@@ -1,2 +1,2 @@
 $prefabs_item_mount_mammoth_sunlightbulb_name»坐骑：光滑的阳光龙(Mount: Smooth Sunlightosaur)
-$prefabs_item_mount_rocket_heckbug_name»坐骑： H.E.C.K. Hover-Rover(Mount: H.E.C.K. Hover-Rover)
+$prefabs_item_mount_rocket_heckbug_name»坐骑：H.E.C.K. Hover-Rover(Mount: H.E.C.K. Hover-Rover)

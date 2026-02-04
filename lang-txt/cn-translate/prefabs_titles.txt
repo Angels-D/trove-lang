@@ -1,2 +1,2 @@
-$prefabs_titles_dog_dracrogi_newyear2026_name»，the Emberscale(, the Emberscale)
-$prefabs_titles_dracrogi_newyear2026_description»龙坩埚季节性推出。需要拥有Mount: Cindrakken, the Emberscale\n<font color="#cccccc">Seasonally available at the DRAGON CRUCIBLE. Requires ownership of Mount: Cindrakken, the Emberscale</font>
+$prefabs_titles_dog_dracrogi_newyear2026_name»，the Emberscale
+$prefabs_titles_dracrogi_newyear2026_description»可在龙台制作季节性称号。需要拥有坐骑: 余烬巨龙辛德拉肯\n<font color="#cccccc">Seasonally available at the DRAGON CRUCIBLE. Requires ownership of Mount: Cindrakken, the Emberscale</font>

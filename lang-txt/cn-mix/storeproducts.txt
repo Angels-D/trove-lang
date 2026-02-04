@@ -1234,7 +1234,7 @@ $StoreProduct_trove_bamboodragon_pack_description»迎接翠竹精灵杜拉文�
 $StoreProduct_trove_cny2025_pack_name»木蛇龙礼包
 $StoreProduct_trove_cny2025_pack_description»遇见神话中的蛇霞，今日邀她共赴奇缘！\n\n * 青木虺龙蛇霞\n * 33个大型龙箱\n * 333枚龙币\n * 3个钻龙石袋\n\n50特权点！
 $StoreProduct_trove_cny2026_pack_name»火马龙礼包(Fire Horse Dragon Pack)
-$StoreProduct_trove_cny2026_pack_description»认识Cindrakken，Emberscale。邀请他加入你的马厩！(Meet Cindrakken, the Emberscale. Invite him into your Stable!)\n\n* Cindrakken, the Emberscale( * Cindrakken, the Emberscale)\n* 33个高级龙宝箱( * 33 Greater Dragon Caches)\n* 333龙币( * 333 Dragon Coins)\n* 3个钻石Dragonite袋( * 3 Diamond Dragonite Pouches)\n\n50个订阅会员积分！(50 Patron Points!)
+$StoreProduct_trove_cny2026_pack_description»会见余烬巨龙辛德拉肯并邀请他加入你的马厩！(Meet Cindrakken, the Emberscale. Invite him into your Stable!)\n\n* Cindrakken, the Emberscale( * Cindrakken, the Emberscale)\n* 33个高级龙宝箱( * 33 Greater Dragon Caches)\n* 333龙币( * 333 Dragon Coins)\n* 3个钻石Dragonite袋( * 3 Diamond Dragonite Pouches)\n\n50个订阅会员积分！(50 Patron Points!)
 $StoreProduct_item_key_gearcrafting_name»装备锻造者宝箱钥匙
 $StoreProduct_item_key_gearcrafting_description»使用该钥匙打开装备锻造者宝箱时获得稀有的奖励。
 $StoreProduct_gearcrafting_lootbox_boosterpack_name»装备锻造者宝箱增强包

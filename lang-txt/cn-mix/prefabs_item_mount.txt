@@ -976,4 +976,4 @@ $prefabs_item_mount_llama_nightstag_name»坐骑: 月影雄鹿
 $prefabs_item_mount_rocket_september2024_name»坐骑: 慢速悬浮喷气机
 $prefabs_item_mount_carpet_cauldron_name»坐骑: 悬浮坩埚
 $prefabs_item_mount_mammoth_sunlightbulb_name»坐骑：光滑的阳光龙(Mount: Smooth Sunlightosaur)
-$prefabs_item_mount_rocket_heckbug_name»坐骑： H.E.C.K. Hover-Rover(Mount: H.E.C.K. Hover-Rover)
+$prefabs_item_mount_rocket_heckbug_name»坐骑：H.E.C.K. Hover-Rover(Mount: H.E.C.K. Hover-Rover)
