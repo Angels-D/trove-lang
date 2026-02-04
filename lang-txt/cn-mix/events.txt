@@ -347,8 +347,8 @@ $Welcome_fluxion_voting_welcome_description»在主城的奢龙平台区域附�
 $Event_december2023_welcomescreen_description»冰雪庆典又回来了，寻日者们正在分享这一奇迹。
 $Event_renewus2024_welcomescreen_name»迎新: 加克斯的挑战
 $Event_renewus2024_welcomescreen_description»重量级拳王在主城寻找挑战者。
-$Event_renewus_welcomescreen_name»迎新节来临！
-$Event_renewus_welcomescreen_description»帮助克贝斯利庆祝新年！
+$Event_renewus_welcomescreen_name»迎新节！
+$Event_renewus_welcomescreen_description»新的一年，全新的宝藏世界！到主城寻找克贝斯利，一起开启庆典吧！
 $Event_august2024_welcomescreen_name»月球陨落2024
 $Event_august2024_welcomescreen_description»抵御入侵的混沌之狼与暗影之狼！
 $Event_goldenthread_event_august2024_10_claim»也许你可以使用一些捐赠的纯净的月光之星！谢谢！
@@ -362,4 +362,4 @@ $Event_august2025_welcomescreen_description»与金牛和太阳女神骑士团�
 $Event_september2025_name»健康食品与垃圾食品
 $Event_september2025_description»帮助克贝斯利解决这场美食大辩论！
 $Event_december2025_welcomescreen_name»冰雪庆典：入侵！
-$Event_december2025_welcomescreen_description»雪人军团今年全员集结，声势浩大地来进犯了！
+$Event_december2025_welcomescreen_description»今年的雪人大军已全面抵达！

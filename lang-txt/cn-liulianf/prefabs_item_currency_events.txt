@@ -1,0 +1,2 @@
+$prefabs_item_currency_events_january_renewus_name»迎新之印
+$prefabs_item_currency_events_january_renewus_description»象征更新、复苏与重生的铸造印记！\n通常通过向主城的克斯贝利捐献焕新之蝶获得。

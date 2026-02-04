@@ -121,7 +121,7 @@ $prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_luminopolis»装�
 $prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_paragon»装饰: 隐藏的兔子庆典蛋: 巅峰蛋
 $prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_sakura»装饰: 隐藏的兔子庆典蛋: 樱花蛋
 $prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_shadow»装饰: 隐藏的兔子庆典蛋: 暗影蛋
-$prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_cyberbun»装饰：隐藏的兔子庆典蛋：赛博蛋
+$prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_cyberbun»装饰品：可隐藏的兔子庆典彩蛋：霓虹样式
 $prefabs_placeable_crafting_events_april2022_deco_bunfest_egg_cyberbun_desc»你所说的“新”是什么意思？它一直都在这里。
 $prefabs_placeable_crafting_events_april2022_deco_trophy_april2022_bunsmasher»巨大兔子人战利品
 $prefabs_placeable_crafting_events_july2022_deco_sunfest_boot_carys»装饰: 卡瑞斯家族: 靴子
@@ -194,7 +194,7 @@ $prefabs_placeable_crafting_events_september2023_fire_name»冰冻的宝藏
 $prefabs_placeable_crafting_events_october2023_buff_name»南瓜祭坛
 $prefabs_placeable_crafting_events_october2023_buff_desc»允许玩家向南瓜祭坛捐献原晶、格利姆和南瓜，每周一次，给予三小时的艾莉菲德尔祝福。
 $prefabs_placeable_crafting_events_renewus2024_training_weights_name»拳王的训练负重
-$prefabs_placeable_crafting_events_renewus2024_training_weights_desc»拳王是一天又一天一次又一次的举起一滴而又一滴的汗水铸就的。\n\n为你提供日常训练方案的训练任务。
+$prefabs_placeable_crafting_events_renewus2024_training_weights_desc»英雄非一日铸就，皆是一日复一日的锤炼，一举复一举的坚持，一滴又一滴的汗水累积而成。
 $prefabs_placeable_crafting_martialarts_tomb_lords_cauldron_name»墓穴领主熔炉
 $prefabs_placeable_crafting_events_july2024_printer_name»故障的平索打印机
 $prefabs_placeable_crafting_events_july2024_printer_feedme_name»喂我

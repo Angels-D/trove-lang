@@ -169,3 +169,29 @@ $Quest_GoldenThread_event_october_00_name»活动：暗影之夕
 $Quest_GoldenThread_event_october_00_description»必须先完成克贝斯利的新手主线任务，才可参与暗影之夕活动！可按 [HK:ActivityTracker] 查看任务列表！
 $Quest_GoldenThread_event_november_00_name»活动：火鸡之乡
 $Quest_GoldenThread_event_november_00_description»必须先完成克贝斯利的新手主线任务，才可参与火鸡之乡活动！可按 [HK:ActivityTracker] 查看任务列表！
+$Quest_GoldenThread_event_january_prereq_name»活动：迎新节
+$Quest_GoldenThread_event_january_prereq_description»要参加迎新节活动任务，你必须完成克贝斯利新手主线任务全流程才可参与！你可以在冒险面板 [HK:ActivityTracker] 查看或者更改你的追踪任务。
+$Quest_GoldenThread_event_january_00_name»前往主城拜访克贝斯利
+$Quest_GoldenThread_event_january_00_description»迎新节1/9: 寻宝者新的一年到了！你知道这意味着什么吧？没错，正是迎新时刻！名如其名，此时正是万物复苏的时节……对我们所有人都是！来到主城[HK:Homeworld]找我，一起开始庆祝节日吧！
+$Quest_GoldenThread_event_january_01_name»投掷糖果球
+$Quest_GoldenThread_event_january_01_description»迎新节2/9: 首要之事，迎新节重在欢庆！制作一些糖果球，尽情抛洒吧！
+$Quest_GoldenThread_event_january_02_name»制作茧缚者旗帜
+$Quest_GoldenThread_event_january_02_description»迎新节3/9: 好了好了，欢庆暂告一段落。现在该办正事了——迎新之蝶回来了！我们曾以为它们已然灭绝，但幸好事实并非如此！我们正全力助其复苏，而你也可以贡献力量！只需制作一面茧缚者旗帜即可参与！
+$Quest_GoldenThread_event_january_03_name»装备茧缚者旗帜
+$Quest_GoldenThread_event_january_03_description»迎新节4/9: 装备这面旌旗后，你将获得收集珍稀迎新之蝶所需的魔法之力！若无此旗？怕是连它们的翅膀都碰不着呢……
+$Quest_GoldenThread_event_january_04_name»收集迎新之蝶
+$Quest_GoldenThread_event_january_04_description»迎新节5/9: 请保持旗帜处于装备状态，前往世界的各处寻找迎新之蝶吧！
+$Quest_GoldenThread_event_january_05_name»捐献迎新之蝶
+$Quest_GoldenThread_event_january_05_description»迎新节6/9: 就是这样！现在请将它们捐赠给我，助力守护它们的未来吧——这都是为了科学！
+$Quest_GoldenThread_event_january_06_name»完成一项加克斯的热身训练
+$Quest_GoldenThread_event_january_06_description»迎新节7/9: 很简单！继续保持就好。迎新之蝶能有你这样的朋友，实属幸事！\n\n对了！你和加克斯聊过了吗？他每年这时候也很兴奋，虽然我不确定这跟蝴蝶有多大关系……
+$Quest_GoldenThread_event_january_07_name»敲打在主城的迎新节宝珠
+$Quest_GoldenThread_event_january_07_description»迎新节8/9: 感受到燃起来的斗志了吧！我喜欢加克斯，但他精力实在比我旺盛多了。希望他的热身训练让你活动开来了，因为我还有一个迎新传统项目等你参与——敲打迎新节宝珠！\n迎新节宝珠每隔几分钟就会在主城这里出现。稍作等待，等它一出现就上去敲几下吧！
+$Quest_GoldenThread_event_january_08_name»返回克贝斯利身边
+$Quest_GoldenThread_event_january_08_description»迎新节9/9: 玩得开心吧？这就是迎新的意义！请继续助力我们保护美妙的迎新之蝶，并尽情享受即将到来的一年吧！
+$Quest_GoldenThread_event_december_00_name»活动：冰雪庆典
+$Quest_GoldenThread_event_december_00_description»要参加冰雪庆典活动任务，你必须完成克贝斯利新手主线任务全流程才可参与！你可以在冒险面板 [HK:ActivityTracker] 查看或者更改你的追踪任务。
+$Quest_GoldenThread_cyclic_event_celestial_name»代访克贝斯利与天球商人交谈
+$Quest_GoldenThread_cyclic_event_celestial_description»抱歉打扰，但我现在实在脱不开身，忘了给主城的天球商人传个特别重要的口信。你能替我去告诉他，克贝斯利说的是：“行！”吗？
+$Quest_GoldenThread_Event_february2026_00_Name»活动：地狱虫的爱情
+$Quest_GoldenThread_Event_february2026_00_Description»要参加地狱虫的爱情活动任务，你必须完成克贝斯利新手主线任务全流程才可参与！你可以在冒险面板 [HK:ActivityTracker] 查看或者更改你的追踪任务。

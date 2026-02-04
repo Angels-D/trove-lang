@@ -853,6 +853,6 @@ $Adventure_adv_daily_xmas_club_sock_name»是时候把这只袜子塞满了！
 $Adventure_adv_daily_xmas_club_sock_shortdesc»让我们看看能塞进……还是拿出多少宝物。
 $Adventure_adv_daily_xmas_club_gnome_01_name»哦，那是雪花吗？！
 $Adventure_adv_daily_xmas_club_gnome_01_shortdesc»直接加入专辑！
-$Adventure_adv_daily_xmas_club_elfsly_donate_name»廷纳克斯利需要你的帮助！
+$Adventure_adv_daily_xmas_club_elfsly_donate_name»廷克斯利需要你的帮助！
 $Adventure_adv_daily_xmas_club_elfsly_donate_shortdesc»请使用欢乐包装Mk.2包装一个或两个包裹。
 $Adventure_adv_daily_xmas_club_elfsly_donate_description»你是驯鹿派来的，请帮帮我！德克林又跑去追雪花玩了，我实在没办法把包裹包好。

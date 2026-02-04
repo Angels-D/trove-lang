@@ -556,3 +556,5 @@ $prefabs_item_consumable_titles_events_aug2025_knightofelysia_name»称号: Knig
 $prefabs_item_consumable_titles_events_aug2025_knightofelysia_description»授予 ', Knight of Elysia' 称号后缀。
 $prefabs_item_consumable_titles_events_aug2025_elysianknight_name»称号: Elysian Knight
 $prefabs_item_consumable_titles_events_aug2025_elysianknight_description»授予 'Elysian Knight'  称号前缀。
+$prefabs_item_consumable_titles_dog_dracorgi_newyear2026_name»季节称号: 烬鳞
+$prefabs_item_consumable_titles_dog_dracorgi_newyear2026_description»制作获得限时的“烬鳞”称号后缀。\n在冬季（12月1日）时取消该称号的使用权。

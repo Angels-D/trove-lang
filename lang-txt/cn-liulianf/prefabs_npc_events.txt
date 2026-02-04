@@ -71,3 +71,10 @@ $prefabs_npc_events_2025_august_hub_lunarpriest_quest_sign_title»大祭司,鲁�
 $prefabs_npc_events_2025_august_hub_lunarpriest_quest_sign_content»忠诚骑士，银月枪兵兵团领袖\n按 [HK:Loot] 键制作。
 $prefabs_npc_events_aug2025_rowan_sign_title»寻日者罗万
 $prefabs_npc_events_aug2025_rowan_sign_content»坚韧骑士。至今仍未停止追寻。\n按 [HK:Loot] 键制作。
+$prefabs_npc_events_january_renewus_hub_qubesly_sign_title»克斯贝利
+$prefabs_npc_events_january_renewus_hub_qubesly_sign_content»欢庆新年，钟声正响！按下[HK:Loot]键，查看可制作物品吧！
+$prefabs_npc_events_january_renewus_hub_qubesly_crafting_recipeCategories_title_0»迎新节
+$prefabs_npc_events_january_renewus_hub_qubesly_crafting_recipeCategories_title_1»往届的迎新节传承奖励
+$prefabs_npc_events_january_renewus_hub_garx_sign_title»加克斯
+$prefabs_npc_events_january_renewus_hub_garx_sign_content»新年已至，加克斯依旧。
+$prefabs_npc_events_2026_february_hub_heckbug_hunter_soldier_sign_title»地狱虫猎人行动员

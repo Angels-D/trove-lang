@@ -1306,7 +1306,7 @@ $Gardening_Decay_In»凋谢时间还剩:{0}。
 $Gardening_Upkeep_Ready»准备浇水。
 $Gardening_Upkeep»浇水次数：{0} / {1}
 $Gardening_Harvest_Ready_Single»按[HK:Loot]拾取。
-$Gardening_Harvest_Ready_Ember_Trails»按[HK:Loot]收集余烬痕迹。这是一条龙在这里的迹象。(Press [HK:Loot] to collect Ember Trails. A sign that a dragon was here.)
+$Gardening_Harvest_Ready_Ember_Trails»按下[HK:Loot]键采集烬痕。此乃巨龙曾临的印记。
 $Gardening_Remove_weed»按 [HK:Loot] 拔除。
 $Gardening_Harvest_Ready_AllyHome»按[HK:Loot]收集来访的宠物。
 $Gardening_Harvest_In_AllyHome»宠物可以在{0}中访问
@@ -2604,8 +2604,8 @@ $Collections_Category_Cart»磁悬浮车
 $Collections_Category_Cart_Description»收集的磁悬浮车。
 $Collections_Category_Boat»船只
 $Collections_Category_Boat_Description»收集到的船只。船有不同的属性，把它们都收集起来。
-$Collections_Category_Sail»帆(Sails)
-$Collections_Category_Sail_Description»收集帆。每艘船都需要装备帆才能移动！(Collected sails. Every ship requires an equipped sail to be able to move!)
+$Collections_Category_Sail»帆
+$Collections_Category_Sail_Description»已收集的船帆。每艘船需装备船帆方可航行！
 $Collections_Category_Wings»翅膀
 $Collections_Category_Wings_Description»收集翅膀。这些看起来都不错，有些动作比其他的快。
 $Collections_Category_Dragon»龙
@@ -3733,10 +3733,10 @@ $GuideUI_CollectedLabel»已收集：
 $GuideUI_HideCollected»隐藏已收藏
 $GuideUI»寻路者
 $GuideUI_SearchLegend»搜索
-$GuideUI_ProductLegend»前往产品
-$TradingPost_NotAccessable»获得更多特权点即可解锁该功能。
-$Trading_NotAccessable»提高忠诚度以解锁此功能。(Raise your loyalty to unlock this feature.)
-$Marketplace_Restriction»获得更多特权点即可解锁该功能。输入“/stats”即可查看特权点以及其他属性。对游戏的支持（资助）越多，特权点就越多。
-$Marketplace_NotEligibleToBuy»提高忠诚度以解锁此功能。(Raise your loyalty to unlock this feature.)
-$Marketplace_NotEligibleToSell»提高忠诚度以解锁此功能。(Raise your loyalty to unlock this feature.)
-$NoAccess_ClubChest»提高忠诚度以解锁此功能。(Raise your loyalty to unlock this feature.)
+$GuideUI_ProductLegend»前往商品页
+$TradingPost_NotAccessable»提升特权点以解锁此功能。
+$Trading_NotAccessable»提升特权点以解锁此功能。
+$Marketplace_Restriction»提升您的特权点以解锁此功能。输入 /stats 可查看包括特权点在内的角色数据。特权点随您对游戏的（充值的钱）支持而增长。
+$Marketplace_NotEligibleToBuy»提升特权点以解锁此功能。
+$Marketplace_NotEligibleToSell»提升特权点以解锁此功能。
+$NoAccess_ClubChest»提升特权点以解锁此功能。

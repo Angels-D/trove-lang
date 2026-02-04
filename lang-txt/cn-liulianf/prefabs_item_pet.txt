@@ -474,3 +474,9 @@ $prefabs_item_pet_floateye_lantern_name»宠物: 魔灯
 $prefabs_item_pet_griffon_lunaraxolotl_name»宠物: 月翼夜狮
 $prefabs_item_pet_qubesly_lasagna_name»宠物: 烤千层面
 $prefabs_item_pet_unicorn_moonboar_name»宠物: 月影守护者
+$prefabs_item_pet_trex_sunlightbulb_name»宠物: 暖阳霸王龙
+$prefabs_item_pet_mammoth_sunlightbulb_name»宠物: 含羞阳光龙
+$prefabs_item_pet_spidermonkey_heckbug_name»宠物: 球根地狱螳螂
+$prefabs_item_pet_bird_heckbug_name»宠物: 地狱鸟
+$prefabs_item_pet_dreambro_heckbug_name»宠物: 地狱虫热吸者
+$prefabs_item_pet_ball_bee_name»宠物: 蹦跳的小蜜蜂

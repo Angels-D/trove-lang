@@ -1,0 +1,2 @@
+$prefabs_equipment_banner_event_january_renewus_butterfly_name»茧缚者旗帜
+$prefabs_equipment_banner_event_january_renewus_butterfly_description»专为安全采集宝藏世界中的迎新之蝶而精心打造！

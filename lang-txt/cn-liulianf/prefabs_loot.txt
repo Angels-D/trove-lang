@@ -2603,27 +2603,27 @@ $prefabs_loot_Weapon_Spear_equipment_weapon_1h_spear_318[Aseh]_name»云豹号�
 $prefabs_loot_Weapon_Spear_equipment_weapon_1h_spear_318[Aseh]_desc»从破晓到黄昏，云豹一直辛勤劳作不知疲倦，翻新着土壤，保障着所有植物的兴旺。
 $prefabs_loot_Hat_equipment_helm_candybarbarian_boltblade[Rosain]_name»沉天剑圣龙盔
 $prefabs_loot_Hat_equipment_helm_tombraiser_balefire[Jeranydus]_name»骨火术士头盔
-$prefabs_loot_Hat_2019_lunarlancer_hydrakken_helm_name»暗影九头蛇龙头盔
-$prefabs_loot_Hat_2019_knight_enforcederadicator_white_helm_name»绝灭者的头盔：白色
-$prefabs_loot_Hat_2019_knight_enforcederadicator_red_helm_name»绝灭者的头盔：红色
-$prefabs_loot_Hat_2019_faetrickster_necrotrickster_helm_name»可怖面容
-$prefabs_loot_Hat_2019_neonninja_evilmonkey_helm_name»微笑的猿人头盔
-$prefabs_loot_Hat_2019_icemage_warlockwind_helm_name»四元素之冠
+$prefabs_loot_Hat_2019_lunarlancer_hydrakken_helm_name»九头蛇龙枪兵头盔
+$prefabs_loot_Hat_2019_knight_enforcederadicator_white_helm_name»绝灭执法者头盔：白色
+$prefabs_loot_Hat_2019_knight_enforcederadicator_red_helm_name»绝灭执法者的头盔：红色
+$prefabs_loot_Hat_2019_faetrickster_necrotrickster_helm_name»亡灵诡术师的可怖面容
+$prefabs_loot_Hat_2019_neonninja_evilmonkey_helm_name»恶魔猿人头盔
+$prefabs_loot_Hat_2019_icemage_warlockwind_helm_name»风之术师之冠
 $prefabs_loot_Hat_2019_piratelord_cold_helm_name»冻骨兜帽
-$prefabs_loot_Hat_2019_candybarbarian_demonicinferno_helm_name»愤怒牢笼
-$prefabs_loot_Hat_2019_dinotamer_fabricator_helm_name»编织者的平视显示器
-$prefabs_loot_Hat_2019_adventurer_chaotic_helm_name»我看见你了
-$prefabs_loot_Weapon_Bow_2019_adventurer_chaotic_weapon_bow_name»有序混乱
-$prefabs_loot_Weapon_Melee_2019_neonninja_evilmonkey_1h_sword_name»微笑的镰刀
-$prefabs_loot_Weapon_Melee_2019_candybarbarian_demonicinferno_1h_axe_name»地狱之刃
-$prefabs_loot_Weapon_Melee_2019_knight_enforcederadicator_1h_sword_name»绝灭者的工具
-$prefabs_loot_Weapon_Melee_2019_adventurer_chaotic_1h_sword_name»混沌之斧
+$prefabs_loot_Hat_2019_candybarbarian_demonicinferno_helm_name»炼狱恶魔的愤怒牢笼
+$prefabs_loot_Hat_2019_dinotamer_fabricator_helm_name»框架编织者的平视显示器
+$prefabs_loot_Hat_2019_adventurer_chaotic_helm_name»混沌徘徊者的洞悉之眼
+$prefabs_loot_Weapon_Bow_2019_adventurer_chaotic_weapon_bow_name»混沌徘徊者的有序混乱
+$prefabs_loot_Weapon_Melee_2019_neonninja_evilmonkey_1h_sword_name»恶魔猿人的镰刀
+$prefabs_loot_Weapon_Melee_2019_candybarbarian_demonicinferno_1h_axe_name»炼狱恶魔之刃
+$prefabs_loot_Weapon_Melee_2019_knight_enforcederadicator_1h_sword_name»绝灭执法者的工具
+$prefabs_loot_Weapon_Melee_2019_adventurer_chaotic_1h_sword_name»混沌徘徊者之斧
 $prefabs_loot_Weapon_Pistol_2019_piratelord_cold_weapon_pistol_name»霜钢光刃
-$prefabs_loot_Weapon_Pistol_2019_dinotamer_fabricator_weapon_pistol_name»编织者的火器
+$prefabs_loot_Weapon_Pistol_2019_dinotamer_fabricator_weapon_pistol_name»框架编织者的火器
 $prefabs_loot_Weapon_Staff_2019_shadowhunter_blueranger_helm_name»蓝色寻宝者的头盔
 $prefabs_loot_Weapon_Staff_2019_shadowhunter_blueranger_weapon_bow_name»蓝色寻宝者的复合弓
-$prefabs_loot_Weapon_Staff_2019_spirittank_starforger_helm_name»宇宙王冠
-$prefabs_loot_Weapon_Staff_2019_spirittank_starforger_weapon_1h_spear_name»熔合刺矛
+$prefabs_loot_Weapon_Staff_2019_spirittank_starforger_helm_name»锻星者宇宙王冠
+$prefabs_loot_Weapon_Staff_2019_spirittank_starforger_weapon_1h_spear_name»锻星者熔合刺矛
 $prefabs_loot_Weapon_Staff_2019_tombraiser_rabbit_helm_name»公鸡风帽
 $prefabs_loot_Weapon_Staff_2019_tombraiser_rabbit_weapon_staff_name»兔子死神
 $prefabs_loot_Weapon_Staff_2019_gunslinger_gumball_helm_name»空心口香糖
@@ -3024,8 +3024,8 @@ $prefabs_loot_Weapon_Spear_equipment_weapon_spear_lunarlancer_rainbow_name»Luna
 $prefabs_loot_Hat_equipment_hat_bard_mime_name»Silent Singer Chapeau
 $prefabs_loot_Face_equipment_face_bard_mime_name»Silent Singer Smile
 $prefabs_loot_Weapon_Fist_equipment_weapon_fist_bard_mime_name»Silent Singer Silencer
-$prefabs_loot_Hat_equipment_helm_bard_lemonade_name»Sweet Side Singer Side Tails
-$prefabs_loot_Weapon_Fist_equipment_weapon_fist_bard_lemonade_name»Sweet Side Singer Strummer
+$prefabs_loot_Hat_equipment_helm_bard_lemonade_name»甜蜜边缘歌手双尾发辫
+$prefabs_loot_Weapon_Fist_equipment_weapon_fist_bard_lemonade_name»甜蜜边缘歌手漫弹琴
 $prefabs_loot_Hat_equipment_helm_spirit_tank_crab_name»Crabenant Eyestalks
 $prefabs_loot_Hat_equipment_helm_spirit_tank_crab_description»Lose your head for best results.
 $prefabs_loot_Weapon_Spear_equipment_weapon_1h_spear_spirittank_crab_name»Crabenant Coral Spear

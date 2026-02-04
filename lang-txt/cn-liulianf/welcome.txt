@@ -145,3 +145,6 @@ $Welcome_fri_13_description»翠竹龙礼包现已开放购买，竹笋可在蓬
 $Event_july2025_description»太阳庆典与龙族再度归来！
 $Welcome_community_donation_drive»捐赠活动开始啦！
 $Welcome_community_donation_drive_subtitle»社区捐赠活动正在进行中！前往主城找到捐赠站即可参与捐赠！
+$Welcome_store_dragon_fire_horse»辛德拉肯——烬鳞巨龙！
+$Welcome_store_dragon_fire_horse_subtitle»在冒险世界中追踪烬鳞龙，辛德拉肯的踪迹！她的蹄印遍布宝藏世界大多数生态域！
+$Welcome_store_dragon_fire_horse_description»集齐足够烬痕，前往龙火山峰的龙族工作台合成余烬之印，并收集烬鳞龙蛋碎片！

@@ -7,13 +7,13 @@ $prefabs_item_consumable_adv_good_karma_pinzo_item_desc»平索完美的产品�
 $adv_good_karma_pinzo_claim»整个宝藏世界都会感谢你的牺牲。
 $adv_good_karma_pinzo_name»购买平索的产品
 $adv_good_karma_pinzo_short_desc»与你的朋友查克,平索开始疯狂的购物吧！
-$adv_good_karma_pinzo_long_desc»一个真正值得同情的人。他只看到物质的价值。暴力不是解决的方法，更简单的方法是让他看到财富是多么的脆弱。买下他所有的产品，让他明白财富并不能带来智慧。并且毁掉他给你的任何小饰品，它们是一文不值的东西。\n\n为了整个宝藏世界的利益，购买他的东西并毁掉它。有传言道：查克，平索一直躲藏在宝藏世界和晶洞世界中强大的敌人的附近。
+$adv_good_karma_pinzo_long_desc»一个真正值得同情的人。他只看到物质的价值。暴力不是解决的方法，更简单的方法是让他看到财富是多么的脆弱。买下他所有的产品，让他明白财富并不能带来智慧。并且毁掉他给你的任何小饰品，它们是一文不值的东西。\n\n为了整个宝藏世界的利益，买下他卖的东西并毁掉它。有传言道：查克，平索一直躲藏在宝藏世界和晶洞世界中强大的敌人的附近。
 $adv_good_karma_knights_name»治疗墓穴领主骑士
 $adv_good_karma_knights_short_desc»诅咒，又是诅咒。
 $adv_good_karma_knights_long_desc»你好朋友，这些诅咒对我们的骑士造成了严重的伤害，他们的诅咒在过去被已经被治疗过了，但现在诅咒又重新激活了，月亮骑士团给了我们一些治疗诅咒药品，现在我们需要你的一些帮助，你能帮助我们治疗一些骑士吗？\n\n制作艾莉菲德尔的祝福，然后在诅咒峡谷找到被诅咒的狼人并治愈他们。
 $adv_good_karma_snowman_name»寻找小雪人辣椒的身体
 $adv_good_karma_snowman_short_desc»我们有时都会迷失方向....
-$adv_good_karma_snowman_long_desc»寻宝者如你现在所见，我遇到了一点麻烦。现在每隔一段时间，猛烈的阳光就会照射在我身上，我的头就会开始融化。这还不是最糟糕的，现在最糟糕的是，我的身体似乎并没有意识到这一点。你能帮我个忙找到我的身体吗？上次发生这种情况时，我直到冰雪庆典的到来才得到恢复！\n\n按 [HK:Loot] 键与小雪人辣椒的身体互动。\n\n提示：小雪人辣椒的身体随机出现在永东界野外，NPC头顶高亮，按 [HK:Loot] 键交互以完成任务。
+$adv_good_karma_snowman_long_desc»寻宝者如你现在所见，我遇到了一点麻烦。现在每隔一段时间，猛烈的阳光就会照射在我身上，我的头就会开始融化。这还不是最糟糕的，现在最糟糕的是，我的身体似乎并没有意识到这一点。你能帮我个忙找到我的身体吗？上次发生这种情况时，我直到冰雪庆典的到来才得到恢复！\n\n按 [HK:Loot] 键与小雪人辣椒的身体互动。
 $adv_good_karma_snowman_claim»谢谢你寻宝者。如果你不介意的话，请帮我留意一下，发生这种情况比你想象的还要多。
 $adv_good_karma_pirate_name»归还海盗帽
 $adv_good_karma_pirate_short_desc»一顶海盗帽遗失在海上，这真是一个悲剧。
@@ -88,13 +88,13 @@ $adv_good_karma_martialist_visibilityrequirement_failureLoc»成为武术家才�
 $adv_good_karma_champion_visibilityrequirement_failureLoc»成为武术冠军才可以解锁此奉献服务。
 $adv_good_karma_oneoff_snowman_name»帮助小雪人辣椒
 $adv_good_karma_oneoff_snowman_item_name»奉献服务：帮助朋友
-$adv_good_karma_oneoff_snowman_long_desc»我以前的一个学生住在永冻界中。他总是不耐烦，从不听我的课。我想尽可能地帮助他，但如今他已很难再踏上旅途。请你在永冻界中留意一下我这位年轻朋友。麻烦就像太阳追逐月亮一样追寻着他。\n\n\n提示：小雪人辣椒随机出现在永东界野外，NPC头顶高亮，按 [HK:Loot] 键交互并开启下一步任务。
+$adv_good_karma_oneoff_snowman_long_desc»我以前的一个学生住在永冻界中。他总是不耐烦，从不听我的课。我想尽可能地帮助他，但如今他已很难再踏上旅途。请你在永冻界中留意一下我这位年轻朋友。麻烦就像太阳追逐月亮一样追寻着他。\n\n找到小雪人辣椒，并在永冻界中帮助他。
 $adv_good_karma_oneoff_faeking_name»帮助法比奥,费伊拉费索
 $adv_good_karma_oneoff_faeking_item_name»奉献服务：帮助忘恩负义的人
-$adv_good_karma_oneoff_faeking_long_desc»法比奥,费伊拉费索可以考验你的耐心。他是一位国王，希望你们能给予他难得的尊重。不过，我们不能记仇，以免被对我们怀恨在心。找到他并帮助他，也许一个善意的举动会改变他的看法。\n\n\n提示：法比奥,费伊拉费索出现在妖精森林哨站，NPC头顶高亮，按 [HK:Loot] 键交互并开启下一步任务。
+$adv_good_karma_oneoff_faeking_long_desc»法比奥,费伊拉费索可以考验你的耐心。他是一位国王，希望你们能给予他难得的尊重。不过，我们不能记仇，以免被对我们怀恨在心。找到他并帮助他，也许一个善意的举动会改变他的看法。
 $adv_good_karma_oneoff_pinzo_name»寻找骗子
 $adv_good_karma_oneoff_pinzo_item_name»奉献服务：保护宝藏世界
-$adv_good_karma_oneoff_pinzo_long_desc»在我教过的所有学生中，没有一个像查克，平索这样充满了恶业。他处处自私自利。我听说有人在断裂高地看到了他的帕蒂。去找他，看看现在他在做什么。\n\n\n提示：平索出现在晶洞地表利维坦洞穴附近，NPC头顶高亮，按 [HK:Loot] 键交互并开启下一步任务。
+$adv_good_karma_oneoff_pinzo_long_desc»在我教过的所有学生中，没有一个像查克，平索这样充满了恶业。他处处自私自利。我听说有人在断裂高地看到了他的帕蒂。去找他，看看现在他在做什么。\n\n传言查克，平索在宝藏世界和晶洞世界中强大的敌人的附近。
 $adv_good_karma_oneoff_pirate_name»寻找帽子
 $adv_good_karma_oneoff_pirate_item_name»奉献服务：海盗的青睐
-$adv_good_karma_oneoff_pirate_long_desc»我很享受在主城的时光。我认识了各种各样新的朋友。盐水山姆是个有趣的家伙。他最近钓鱼时丢了帽子，很伤心。显然，这种事经常发生，也许你能帮他一把？他说是在宝藏岛附近弄丢的。\n\n\n提示：盐水山姆的帽子随机出现在宝藏岛野外，NPC头顶高亮，按 [HK:Loot] 键交互并开启下一步任务。
+$adv_good_karma_oneoff_pirate_long_desc»我很享受在主城的时光。我认识了各种各样新的朋友。盐水山姆是个有趣的家伙。他最近钓鱼时丢了帽子，很伤心。显然，这种事经常发生，也许你能帮他一把？他说是在宝藏岛附近丢的。

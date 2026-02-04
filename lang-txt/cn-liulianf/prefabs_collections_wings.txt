@@ -175,3 +175,5 @@ $prefabs_collections_wings_glider_turkey_name»曳尾小火鸡
 $prefabs_collections_wings_glider_turkey_description»保障上升顺滑，确保下降安稳。
 $prefabs_collections_wings_ancestral_item_name»祖龙之翼
 $prefabs_collections_wings_ancestral_item_description»虽披亡龙之骨，然烈焰仍在其遗骸间流转，先祖之魂犹存不息。
+$prefabs_collections_wings_glider_renewus_name»迎新生翼
+$prefabs_collections_wings_glider_renewus_description»最艰难的蜕变，终将予你翱翔云端的羽翼。

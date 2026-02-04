@@ -227,7 +227,7 @@ $prefabs_placeable_crafting_workbench_interactive_craftingcategory_4_name»诅�
 $prefabs_placeable_crafting_workbench_interactive_craftingcategory_FW_4_name»诅咒峡谷架构
 $prefabs_placeable_crafting_workbench_interactive_craftingcategory_5_name»妖精荒原装饰品
 $prefabs_placeable_crafting_workbench_interactive_craftingcategory_6_name»龙火山峰装饰品
-$prefabs_placeable_crafting_workbench_interactive_craftingcategory_cny_2026_6_name»龙火峰余鳞猎龙之旅(Dragonfire Peaks Emberscale Dragon Hunt)
+$prefabs_placeable_crafting_workbench_interactive_craftingcategory_cny_2026_6_name»龙火山峰烬鳞龙狩猎
 $prefabs_placeable_crafting_workbench_interactive_craftingcategory_7_name»霓虹城装饰品
 $prefabs_placeable_crafting_workbench_resistor_interactive_craftingcategory_0_name»荧光都市的英雄
 $prefabs_placeable_crafting_workbench_resistor_interactive_craftingcategory_1_name»信标
@@ -496,5 +496,5 @@ $prefabs_placeable_crafting_tutorial_startingzone_feedtrough_name»塞巴斯蒂�
 $prefabs_placeable_crafting_tutorial_startingzone_feedtrough_description»一匹吃得饱的骏马是一生的朋友。按 [HK:Loot] 检查饲料槽是否有食物。
 $prefabs_placeable_crafting_workbench_biome_spires_cny_2025_name»神话工作台
 $prefabs_placeable_crafting_workbench_biome_spires_cny_2025_description»按下 [HK:Loot] 键来转化抛光神话木料
-$prefabs_placeable_crafting_heckbug_helper_craftingcategory_february_event_name»Hailey的异国情调Korner制作体验(Hailey's Exotic Crafting Korner)
-$prefabs_placeable_crafting_heckbug_helper_craftingcategory_february_02_event_name»Heckbugs in Love传统食谱(Heckbugs in Love Legacy Recipes)
+$prefabs_placeable_crafting_heckbug_helper_craftingcategory_february_event_name»海莉的奇物工作台
+$prefabs_placeable_crafting_heckbug_helper_craftingcategory_february_02_event_name»地狱虫的爱情传承配方

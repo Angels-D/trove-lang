@@ -1536,8 +1536,8 @@ $prefabs_loot_equipment_helm_candybarbarian_maybeetle_name»威猛甲虫杯
 $prefabs_loot_equipment_helm_sunlightbulb_name»阳光鲍勃
 $prefabs_loot_equipment_helm_sunlightbulb_item_name»舵轮：阳光鲍勃
 $prefabs_loot_equipment_helm_sunlightbulb_description»100%合法。
-$prefabs_loot_equipment_weapon_bow_solarion_fate_name»命运之艾尔法姆巨弓
-$prefabs_loot_equipment_helm_solarion_fate_name»命运之艾尔法姆头盔
+$prefabs_loot_equipment_weapon_bow_solarion_fate_name»命定灵境战甲巨弓
+$prefabs_loot_equipment_helm_solarion_fate_name»命定灵境战甲头盔
 $prefabs_loot_equipment_helm_tombraiser_fate_name»命运收割者兜帽
 $prefabs_loot_equipment_weapon_staff_tombraiser_fate_name»命运收割者法杖
 $prefabs_loot_equipment_weapon_staff_dracolyte_scavenger_name»拾荒者潜行者法杖
@@ -1549,7 +1549,7 @@ $prefabs_loot_equipment_weapon_pistol_gunslinger_scavenger_description»即便�
 $prefabs_loot_hat_equipment_helm_gunslinger_scavenger_name»沙漠猎手兜帽
 $prefabs_loot_hat_equipment_helm_gunslinger_scavenger_description»让你的秀发远离沙尘。
 $prefabs_loot_equipment_helm_crimefighter_cyberbun_name»赛博兔战士头盔
-$prefabs_loot_equipment_weapon_fist_crimefighter_cyberbun_name»赛博兔拳
+$prefabs_loot_equipment_weapon_fist_crimefighter_cyberbun_name»赛博兔铠拳
 $prefabs_loot_Weapon_Pistol_equipment_weapon_pistol_pirate_davinci_name»立方体创造者齿轮枪
 $prefabs_loot_Weapon_Pistol_equipment_weapon_pistol_pirate_davinci_desc»不惜一切代价保护他的发明！
 $prefabs_loot_equipment_helm_pirate_davinci_name»立方体创造者假发
@@ -1606,10 +1606,10 @@ $prefabs_loot_equipment_helm_solarion_beachparty_name»周日防晒遮阳帽
 $prefabs_loot_equipment_weapon_bow_adventurer_beachparty_name»沙滩球战斗弓
 $prefabs_loot_equipment_helm_adventurer_beachparty_name»沙滩球战斗者棒球帽
 $prefabs_loot_equipment_weapon_sword_adventurer_beachparty_name»沙滩球战斗者泳池面条
-$prefabs_loot_Hat_equipment_helm_solarion_darkfae_name»暗影精灵弗莱彻·弗尔海姆
-$prefabs_loot_equipment_weapon_bow_solarion_darkfae_name»暗影精灵弗莱彻之弓
-$prefabs_loot_Hat_equipment_helm_bard_frozenviking_name»哀鸣的苍白之王冠
-$prefabs_loot_equipment_weapon_fist_bard_frozenviking_name»哀嚎亡魂之王战爪
+$prefabs_loot_Hat_equipment_helm_solarion_darkfae_name»暗影妖精射手前额盔
+$prefabs_loot_equipment_weapon_bow_solarion_darkfae_name»暗影妖精射手之弓
+$prefabs_loot_Hat_equipment_helm_bard_frozenviking_name»哀鸣亡魂之主王冠
+$prefabs_loot_equipment_weapon_fist_bard_frozenviking_name»哀鸣亡魂之主战爪
 $prefabs_loot_equipment_helm_knight_tabby_name»友好的毛球脸
 $prefabs_loot_equipment_weapon_sword_knight_tabby_name»友善的毛球鱼
 $prefabs_loot_equipment_hat_faetrickster_redpanda_name»春樱华冠
@@ -1731,26 +1731,26 @@ $prefabs_loot_equipment_hat_spirittank_butcher_name»屠戮战将帽
 $prefabs_loot_equipment_weapon_spear_spirittank_butcher_name»屠戮战将叉子
 $prefabs_loot_equipment_helm_chloromancer_crop_name»作物指挥官帽
 $prefabs_loot_equipment_weapon_staff_chloromancer_crop_name»作物指挥官权杖
-$prefabs_loot_equipment_helm_icemage_frostfather_name»霜父德鲁伊帽子
+$prefabs_loot_equipment_helm_icemage_frostfather_name»霜父德鲁伊帽
 $prefabs_loot_equipment_weapon_staff_icemage_frostfather_name»霜父德鲁伊法杖
-$prefabs_loot_equipment_helm_adventurer_snowtrail_name»雪迹追踪者帽子
-$prefabs_loot_equipment_weapon_sword_adventurer_snowtrail_name»雪迹追踪者宝剑
-$prefabs_loot_equipment_weapon_bow_adventurer_snowtrail_name»雪迹追踪者弓
-$prefabs_loot_equipment_helm_crimefighter_dragon_name»飞龙英才头盔
-$prefabs_loot_equipment_weapon_fist_crimefighter_dragon_name»飞龙英才拳套
-$prefabs_loot_equipment_helm_candybarbarian_turtle_name»神龟哨卫头盔
-$prefabs_loot_equipment_weapon_sword_candybarbarian_turtle_name»神龟哨卫宝剑
-$prefabs_loot_equipment_hat_neonninja_janitor_name»监守者暗影帽
-$prefabs_loot_equipment_weapon_sword_neonninja_janitor_name»监守者暗影拖把
-$prefabs_loot_equipment_helm_solarion_glow_name»引导之光头盔
-$prefabs_loot_equipment_weapon_bow_solarion_glow_name»引导之光弓
-$prefabs_loot_equipment_helm_dracolyte_qilin_name»麒麟冲锋者头盔
-$prefabs_loot_equipment_weapon_staff_dracolyte_qilin_name»麒麟冲锋者法杖
-$prefabs_loot_equipment_weapon_bow_shadowhunter_mint_name»Mintbreaker射手弓(Mintbreaker Marksman Bow)
-$prefabs_loot_equipment_hat_shadowhunter_mint_name»Mintbreaker射手帽(Mintbreaker Marksman Hat)
-$prefabs_loot_equipment_weapon_staff_chloromancer_sugar_name»Sugarspore Sproutmancer员工(Sugarspore Sproutmancer Staff)
-$prefabs_loot_equipment_helm_chloromancer_sugar_name»Sugarspore Sproutmancer帽子(Sugarspore Sproutmancer Hat)
-$prefabs_loot_equipment_weapon_pistol_pirate_petal_name»花瓣粉海盗手枪(Petalpowder Pirate Pistol)
-$prefabs_loot_equipment_helm_pirate_petal_name»花瓣粉海盗头盔(Petalpowder Pirate Helm)
-$prefabs_loot_equipment_weapon_staff_tombraiser_bloom_name»绽放巫师法杖(Bloomgrave Necromancer Staff)
-$prefabs_loot_equipment_helm_tombraiser_bloom_name»绽放巫师头盔(Bloomgrave Necromancer Helm)
+$prefabs_loot_equipment_helm_adventurer_snowtrail_name»雪踪潜猎帽
+$prefabs_loot_equipment_weapon_sword_adventurer_snowtrail_name»雪踪潜猎剑
+$prefabs_loot_equipment_weapon_bow_adventurer_snowtrail_name»雪踪潜猎弓
+$prefabs_loot_equipment_helm_crimefighter_dragon_name»气龙奇才战盔
+$prefabs_loot_equipment_weapon_fist_crimefighter_dragon_name»气龙奇才拳刃
+$prefabs_loot_equipment_helm_candybarbarian_turtle_name»坚壳哨卫战盔
+$prefabs_loot_equipment_weapon_sword_candybarbarian_turtle_name»坚壳哨卫长剑
+$prefabs_loot_equipment_hat_neonninja_janitor_name»暗影司务帽
+$prefabs_loot_equipment_weapon_sword_neonninja_janitor_name»暗影司务拖把
+$prefabs_loot_equipment_helm_solarion_glow_name»引路辉光战盔
+$prefabs_loot_equipment_weapon_bow_solarion_glow_name»引路辉光长弓
+$prefabs_loot_equipment_helm_dracolyte_qilin_name»麒麟火驭战盔
+$prefabs_loot_equipment_weapon_staff_dracolyte_qilin_name»麒麟火驭法杖
+$prefabs_loot_equipment_weapon_bow_shadowhunter_mint_name»薄荷破碎神射手长弓
+$prefabs_loot_equipment_hat_shadowhunter_mint_name»薄荷破碎神射手帽
+$prefabs_loot_equipment_weapon_staff_chloromancer_sugar_name»糖孢萌生术士法杖
+$prefabs_loot_equipment_helm_chloromancer_sugar_name»糖孢萌生术士帽
+$prefabs_loot_equipment_weapon_pistol_pirate_petal_name»瓣粉海盗手枪
+$prefabs_loot_equipment_helm_pirate_petal_name»瓣粉海盗头盔
+$prefabs_loot_equipment_weapon_staff_tombraiser_bloom_name»花冢死灵法杖
+$prefabs_loot_equipment_helm_tombraiser_bloom_name»花冢死灵头盔

@@ -1,7 +1,0 @@
-$prefabs_placeable_deco_trophy_solarion_darkfae_item_name»Dark Fae Fletcher奖杯(Dark Fae Fletcher Trophy)
-$prefabs_placeable_deco_trophy_neonninja_wolf_item_name»Wolfsire Gheist奖杯(Wolfsire Gheist Trophy)
-$prefabs_placeable_deco_trophy_knight_tabby_item_name»友谊毛球奖杯(Friendly Furball Trophy)
-$prefabs_placeable_deco_trophy_icemage_ghost_item_name»幽灵微光奖杯(Ghostly Glimmerfly Trophy)
-$prefabs_placeable_deco_trophy_crimefighter_cyberbun_item_name»网络兔子格斗家奖杯(Cyber Bunny Brawler Trophy)
-$prefabs_placeable_deco_trophy_bard_lemonade_item_name»甜蜜的一面歌手奖杯(Sweet Side Singer Trophy)
-$prefabs_placeable_deco_trophy_bard_frozenviking_item_name»Warbling Wight King奖杯(Warbling Wight King Trophy)

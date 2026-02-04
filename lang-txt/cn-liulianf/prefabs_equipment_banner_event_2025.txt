@@ -3,7 +3,7 @@ $prefabs_equipment_banner_event_2025_february_heckbug_heartwarmer_description»�
 $prefabs_equipment_banner_event_2025_february_heckbug_heartwarmer_description_item»每次帮助两只地狱虫，让地狱虫种群繁荣！\n在龙火山峰帮助地狱虫时，有机会获得额外H.E.C.K救助币。
 $prefabs_equipment_banner_event_2025_february_heckbug_helper_name»H.E.C.K旗帜：地狱虫助手
 $prefabs_equipment_banner_event_2025_february_heckbug_helper_description»通过温暖、滋养和恢复，助力新一代地狱虫茁壮成长。
-$prefabs_equipment_banner_event_2025_february_heckbug_hunter_name»猎虫者的旗帜
+$prefabs_equipment_banner_event_2025_february_heckbug_hunter_name»H.E.C.K.猎虫者的旗帜
 $prefabs_equipment_banner_event_2025_february_heckbug_hunter_description»守护像宝藏世界这样的世界免受地狱虫的威胁！
 $prefabs_equipment_banner_event_2025_february_heckbug_hunter_description_item»守护像宝藏世界这样的世界免受地狱虫的威胁！\n定期移除龙火山峰附近地狱虫的护盾。\n提高地狱虫钳子的掉落率。
 $prefabs_equipment_banner_event_2025_july_moontouched_carys_name»卡瑞斯旗帜'25

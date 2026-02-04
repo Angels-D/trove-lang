@@ -1,23 +1,23 @@
 $Quest_GoldenThread_event_january_prereq_name»活动：迎新节
-$Quest_GoldenThread_event_january_prereq_description»要开启迎新节任务线，你必须先在克贝斯利的教程任务[HK:ActivityTracker]中做完“完成一层秘境”！
-$Quest_GoldenThread_event_january_00_name»在主城找到克贝斯利
-$Quest_GoldenThread_event_january_00_description»迎新节1/9：寻宝者！新年来了！你知道这意味着什么吧？没错，就是迎新节！顾名思义，“迎新节”就是焕新的节日……对所有人来说都是这样！来主城[HK:Homeworld]找我，开始节日准备吧！
-$Quest_GoldenThread_event_january_01_name»抛掷彩屑球！
-$Quest_GoldenThread_event_january_01_description»迎新节2/9：迎新节最最重要的关键词是“狂欢”！制作一些彩屑球，丢出去庆祝吧！
-$Quest_GoldenThread_event_january_02_name»制作一面蝶茧守护者旗帜
-$Quest_GoldenThread_event_january_02_description»迎新节3/9：好了好了。暂时先别玩了。我们还有正事要处理呢。迎新蝴蝶又出现了！之前我们以为迎新蝴蝶已经灭绝了。看来我们错了——很高兴我们错了！我们打算投入更多精力保护好它们，你也来帮忙吧！只要制作一面蝶茧守护者旗帜就好！
-$Quest_GoldenThread_event_january_03_name»装备一面蝶茧守护者旗帜
-$Quest_GoldenThread_event_january_03_description»迎新节4/9：装备这面旗帜，你就能获得强大的奥术力量，成功收集珍贵的迎新蝴蝶！如果没有旗帜会怎么样？八成是抓不到蝴蝶的……
-$Quest_GoldenThread_event_january_04_name»收集迎新蝴蝶
-$Quest_GoldenThread_event_january_04_description»迎新节5/9：在前往宝藏世界的各个冒险世界时始终装备旗帜，你就能找到迎新蝴蝶！
-$Quest_GoldenThread_event_january_05_name»捐赠迎新蝴蝶
-$Quest_GoldenThread_event_january_05_description»迎新节6/9：干得漂亮！将蝴蝶捐给我，帮我们保护蝴蝶的未来！以科学的名义！
-$Quest_GoldenThread_event_january_06_name»完成加尔斯的一项热身锻炼
-$Quest_GoldenThread_event_january_06_description»迎新节7/9：挺简单的吧！继续保持。寻宝者，有你这样的盟友是迎新蝴蝶的幸运！\n\n\n哦对了！你去跟加尔斯聊过了吗？对于今年的迎新节他也很兴奋，不过他兴奋的点似乎不在蝴蝶上……
-$Quest_GoldenThread_event_january_07_name»打击主城的迎新球
-$Quest_GoldenThread_event_january_07_description»迎新节8/9：享受肌肉酸痛的成就感！我喜欢加尔斯，但我没他那么精力旺盛。希望他已经带你做好了热身，因为还有最后一项迎新节传统活动需要你参与……用力打击迎新球！主城中的迎新球每隔几分钟就会落下。等球落下时狠狠击打几下！
+$Quest_GoldenThread_event_january_prereq_description»要参加迎新节活动任务，你必须完成克贝斯利新手主线任务全流程才可参与！你可以在冒险面板 [HK:ActivityTracker] 查看或者更改你的追踪任务。
+$Quest_GoldenThread_event_january_00_name»前往主城拜访克贝斯利
+$Quest_GoldenThread_event_january_00_description»迎新节1/9: 寻宝者新的一年到了！你知道这意味着什么吧？没错，正是迎新时刻！名如其名，此时正是万物复苏的时节……对我们所有人都是！来到主城[HK:Homeworld]找我，一起开始庆祝节日吧！
+$Quest_GoldenThread_event_january_01_name»投掷糖果球
+$Quest_GoldenThread_event_january_01_description»迎新节2/9: 首要之事，迎新节重在欢庆！制作一些糖果球，尽情抛洒吧！
+$Quest_GoldenThread_event_january_02_name»制作茧缚者旗帜
+$Quest_GoldenThread_event_january_02_description»迎新节3/9: 好了好了，欢庆暂告一段落。现在该办正事了——迎新之蝶回来了！我们曾以为它们已然灭绝，但幸好事实并非如此！我们正全力助其复苏，而你也可以贡献力量！只需制作一面茧缚者旗帜即可参与！
+$Quest_GoldenThread_event_january_03_name»装备茧缚者旗帜
+$Quest_GoldenThread_event_january_03_description»迎新节4/9: 装备这面旌旗后，你将获得收集珍稀迎新之蝶所需的魔法之力！若无此旗？怕是连它们的翅膀都碰不着呢……
+$Quest_GoldenThread_event_january_04_name»收集迎新之蝶
+$Quest_GoldenThread_event_january_04_description»迎新节5/9: 请保持旗帜处于装备状态，前往世界的各处寻找迎新之蝶吧！
+$Quest_GoldenThread_event_january_05_name»捐献迎新之蝶
+$Quest_GoldenThread_event_january_05_description»迎新节6/9: 就是这样！现在请将它们捐赠给我，助力守护它们的未来吧——这都是为了科学！
+$Quest_GoldenThread_event_january_06_name»完成一项加克斯的热身训练
+$Quest_GoldenThread_event_january_06_description»迎新节7/9: 很简单！继续保持就好。迎新之蝶能有你这样的朋友，实属幸事！\n\n对了！你和加克斯聊过了吗？他每年这时候也很兴奋，虽然我不确定这跟蝴蝶有多大关系……
+$Quest_GoldenThread_event_january_07_name»敲打在主城的迎新节宝珠
+$Quest_GoldenThread_event_january_07_description»迎新节8/9: 感受到燃起来的斗志了吧！我喜欢加克斯，但他精力实在比我旺盛多了。希望他的热身训练让你活动开来了，因为我还有一个迎新传统项目等你参与——敲打迎新节宝珠！\n迎新节宝珠每隔几分钟就会在主城这里出现。稍作等待，等它一出现就上去敲几下吧！
 $Quest_GoldenThread_event_january_08_name»返回克贝斯利身边
-$Quest_GoldenThread_event_january_08_description»迎新节9/9：是不是很欢乐？迎新节就是这么热闹，寻宝者！请继续努力，帮助我们保护好美丽的迎新蝴蝶。希望你在新的一年事事顺意，开心幸福！
+$Quest_GoldenThread_event_january_08_description»迎新节9/9: 玩得开心吧？这就是迎新的意义！请继续助力我们保护美妙的迎新之蝶，并尽情享受即将到来的一年吧！
 $Quest_GoldenThread_Event_june2019_01_Name»选择你的夏季外观
 $Quest_GoldenThread_Event_june2019_01_Description»灿烂之夏 1/6：你好寻宝者，是我，琥珀玉髓！在晶洞可没有什么季节，但宝藏世界从来都不是一成不变之地，她会变得越来越漂亮。你应该为自己和自己的星球感到骄傲。选择一套夏季外观来庆祝吧！
 $Quest_GoldenThread_Event_june2019_02_Name»在炸弹大逃杀里击败寻宝者或者获得胜利。
@@ -190,8 +190,8 @@ $Quest_GoldenThread_event_october_00_description»必须先完成克贝斯利的
 $Quest_GoldenThread_event_november_00_name»活动：火鸡之乡
 $Quest_GoldenThread_event_november_00_description»必须先完成克贝斯利的新手主线任务，才可参与火鸡之乡活动！可按 [HK:ActivityTracker] 查看任务列表！
 $Quest_GoldenThread_event_december_00_name»活动：冰雪庆典
-$Quest_GoldenThread_event_december_00_description»要开启冰雪庆典任务线，你必须先在克贝斯利的教程任务[HK:ActivityTracker]中做完“完成一层秘境”！
-$Quest_GoldenThread_cyclic_event_celestial_name»帮克贝斯利给苍穹商人带个话
-$Quest_GoldenThread_cyclic_event_celestial_description»寻宝者！我现在非常忙，有一件非常重要的事忘记给主城的苍穹商人说了。不知道能不能劳烦你跑一趟？告诉他，克贝斯利说：“好的！”
-$Quest_GoldenThread_Event_february2026_00_Name»活动：坠入爱河的地狱虫(Event: Heckbugs in Love)
-$Quest_GoldenThread_Event_february2026_00_Description»要访问爱情任务线中的地狱虫，您必须首先在克贝斯利的教程任务线[HK:Activitytracker]中完成“完成一个探索层”！(To access the Heckbugs in Love Questline, you must first complete "Complete a Delve Floor" in Qubesly's Tutorial Questline [HK:Activitytracker]!)
+$Quest_GoldenThread_event_december_00_description»要参加冰雪庆典活动任务，你必须完成克贝斯利新手主线任务全流程才可参与！你可以在冒险面板 [HK:ActivityTracker] 查看或者更改你的追踪任务。
+$Quest_GoldenThread_cyclic_event_celestial_name»代访克贝斯利与天球商人交谈
+$Quest_GoldenThread_cyclic_event_celestial_description»抱歉打扰，但我现在实在脱不开身，忘了给主城的天球商人传个特别重要的口信。你能替我去告诉他，克贝斯利说的是：“行！”吗？
+$Quest_GoldenThread_Event_february2026_00_Name»活动：地狱虫的爱情
+$Quest_GoldenThread_Event_february2026_00_Description»要参加地狱虫的爱情活动任务，你必须完成克贝斯利新手主线任务全流程才可参与！你可以在冒险面板 [HK:ActivityTracker] 查看或者更改你的追踪任务。

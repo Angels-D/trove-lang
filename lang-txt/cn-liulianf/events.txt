@@ -262,8 +262,8 @@ $Event_snowfest2018_welcomescreen_name»2018冰雪庆典！
 $Event_snowfest2018_welcomescreen_description»登录加成，冒险还有奖励！天呐！
 $Event_renewus2019_welcomescreen_name»2019迎新节！
 $Event_renewus2019_welcomescreen_description»帮助克贝斯利庆祝新年！
-$Event_renewus_welcomescreen_name»迎新节来临！
-$Event_renewus_welcomescreen_description»帮助克贝斯利庆祝新年！
+$Event_renewus_welcomescreen_name»迎新节！
+$Event_renewus_welcomescreen_description»新的一年，全新的宝藏世界！到主城寻找克贝斯利，一起开启庆典吧！
 $Event_scramble2019_welcomescreen_name»地底混乱
 $Event_scramble2019_welcomescreen_description»帮助钻头鼹鼠找到他的影子并在晶洞洞窟内找到希望之蛋！
 $Event_scramble2019_welcomescreen_advertisement_name»地底混乱
@@ -327,6 +327,7 @@ $Event_october2021_description»这个暗影之夕给主城带来了新的朋友
 $Event_november2021_welcomescreen_name»火鸡庆典: 友谊
 $Event_november2021_welcomescreen_description»有人在做饭......是厨师长! 克贝斯利在做饭！
 $Event_november2022_welcomescreen_description»厨师长回来了，为朋友与敌人做了一场友谊的盛宴!
+$Event_november2025_welcomescreen_description»厨师长回来啦，正忙着为朋友们准备友谊庆典的大餐！
 $Event_october2022_name»暗影之夜: 撕咬的诅咒
 $Event_october2023_name»暗影之夜: 田园王子
 $Event_october2024_name»暗影之夕: 猫的呼唤
@@ -360,4 +361,5 @@ $Event_august2025_welcomescreen_name»太阳女神的入圣礼
 $Event_august2025_welcomescreen_description»与金牛和太阳女神骑士团共贺八月典礼！
 $Event_september2025_name»健康食品与垃圾食品
 $Event_september2025_description»帮助克贝斯利解决这场美食大辩论！
-$Event_november2025_welcomescreen_description»厨师长回来啦，正忙着为朋友们准备友谊庆典的大餐！
+$Event_december2025_welcomescreen_name»冰雪庆典：入侵！
+$Event_december2025_welcomescreen_description»今年的雪人大军已全面抵达！

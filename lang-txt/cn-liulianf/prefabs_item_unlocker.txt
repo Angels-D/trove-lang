@@ -246,3 +246,5 @@ $prefabs_item_unlocker_recipe_depths_item_description»随机解锁一个你尚�
 $prefabs_item_unlocker_granny_name»奶奶的编织工具包
 $prefabs_item_unlocker_granny_description»解锁一个未拥有的珍品小猫的收藏品。
 $prefabs_effects_item_unlocker_granny_description»奶奶随时为你准备一切，有空常来喝杯茶。
+$prefabs_item_unlocker_streamer_twitch_04_item_name»主播之梦 4
+$prefabs_item_unlocker_streamer_twitch_04_item_description»随机授予一个你尚未解锁的特殊主播之梦4的奖励。

@@ -1,7 +1,0 @@
-$Quest_GoldenThread_event_june2022_01_Description»灿烂夏日 1/8:  来看看我五彩缤纷商品吧! 庆祝自己是一个骄傲的寻宝者!
-$Quest_GoldenThread_event_june2022_02_Description»灿烂夏日 2/8: 从领取菜单[HK:Claims]中领取你的英勇币来购买物品。
-$Quest_GoldenThread_event_june2022_03_Description»灿烂夏日 3/8: 你的下一个任务需要强大的力量，清除3星地下城，并收集更多的英勇币从我的商店购买更多的奖励!
-$Quest_GoldenThread_event_june2022_04_Description»灿烂夏日 4/8: 请回到主城来拜访我! 你已经收获了许多英勇币，我可以给你兑换更多的奖励! 来看看吧！
-$Quest_GoldenThread_event_june2022_05_Description»灿烂夏日 5/8:  整个月都要展示你的勇气! 这个月提醒我们要以更多的方式去支持、去鼓励和去表达爱。与你的寻宝者同伴分享。
-$Quest_GoldenThread_event_june2022_06_Description»灿烂夏日 6/8: 庆祝你的力量和勇气! 你的力量是我们所处的虚空无法比拟的。在这个领域和下一个领域展现你真正的实力，打倒强大的敌人!!
-$Quest_GoldenThread_event_june2022_07_Description»灿烂夏日 7/8:  这个月的主题是，众志成城！以携手解决世界难题为荣，加入挑战，与他人共同踏上旅程，体验真正的社群精神！

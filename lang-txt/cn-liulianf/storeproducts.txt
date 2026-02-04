@@ -878,6 +878,10 @@ $StoreProduct_ugcsummer2025_collection_pack_name»宝藏世界史诗礼包
 $StoreProduct_ugcsummer2025_collection_pack_description»在这个限时礼包中重温宝藏世界过往的所有精彩瞬间！\n\n包含内容：\n宠物：喵暴龙、辉光骰子、灰烬骰子、宝石学家\n坐骑：灰烬四驱车、黎明战马、烈焰弗拉米努斯\n暗影猎手服饰：暗影响音、爆破游侠服饰：宝石游侠、吟游诗人服饰：吟游医师、妖精诡术师服饰：春樱
 $StoreProduct_chinesemyth_collection_pack_name»元素传说礼包
 $StoreProduct_chinesemyth_collection_pack_description»限时礼包中驾驭远古元素力量！\n\n包含：\n宠物：天空绒毛小羊、叶冠之灵\n坐骑：蔚蓝珍珠龙、焰石守卫\n霓虹忍者服饰：炎裔鸿的弟子\n妖精诡术师服饰：唤潮者澜的弟子
+$StoreProduct_detective_thief_collection_pack_name»侦探对决盗贼包
+$StoreProduct_detective_thief_collection_pack_description»限时礼包，抓住盗贼！\n\n包含内容：\n宠物：负鼠斯库普、吱吱警长\n坐骑：宝箱秃鹫、警笛绵羊\n银月枪兵服饰：狼爪探长、骑士服饰：兔脚神偷
+$StoreProduct_halloween_2025_collection_pack_name»恐怖怪物包
+$StoreProduct_halloween_2025_collection_pack_description»用这个恐怖怪物包对克贝斯利说'嘘'！\n\n包含：\n宠物：幽灵山羊、伯爵棺材\n坐骑：亡者凝视、恐惧马车\n海洋探索者服饰：骨骸海盗、驯龙师服装：僵尸驯养师
 $StoreProduct_backtoschool_collection_pack_name»学习必备！套装
 $StoreProduct_backtoschool_collection_pack_description»限时礼包重返校园！\n\n包含内容：\n宠物：小比特伙伴、食堂传奇\n坐骑：走秀果酱、迷糊校车\n先锋卫士服饰：铅头\n曜日射手服装：曜日咆哮
 $StoreProduct_greekmythology_collection_pack_name»Legends of Olympus Pack
@@ -1114,7 +1118,7 @@ $StoreProduct_trove_prestiging_pack_large_description»包含125个原初巅峰�
 $StoreProduct_trove_snowfest_snugglies_pack_name»冰雪庆典眷恋
 $StoreProduct_trove_snowfest_snugglies_pack_description»这个限时包可以解锁编织机切割者船和编织帆，Reindeer Rex、Snuggly Llama和Season's Snuggles坐骑，铃儿叮叮当磁悬浮车，Cardinal Joy和Robby宠物，以及Captain Snowfest、Gingerbard和Snow Hare服饰。\n\n总共1船，1帆，3坐骑，1磁悬浮，2宠物，3服饰。\n\n在它们解冻之前得到它们!
 $StoreProduct_trove_renewus_reunion_pack_name»迎新团圆
-$StoreProduct_trove_renewus_reunion_pack_description»这个限时包可以解锁Lucky Onion、Jumping Chair和Rock-it宠物，Liveried Delivered、Warden W.A.L.T和Astrological Augur坐骑，泡沫电翼，以及Brigadier Baihu、B.A.R.D. S和 I.C.E. Rave服饰。\n\n趁着它们还没降价，赶紧去买吧!
+$StoreProduct_trove_renewus_reunion_pack_description»这个限时包可以解锁\n宠物：幸运洋葱、跳跃椅、摇滚箭\n坐骑：已送达的货物、典狱长W.A.L.T.、占星仪\n翅膀：泡沫电翼\n白虎准将、B.A.R.D. S和 I.C.E.狂欢 服饰。\n\n趁着它们还没降价，赶紧去买吧!
 $StoreProduct_trove_starcrossed_heckbugs_pack_name»星海地狱虫
 $StoreProduct_trove_starcrossed_heckbugs_pack_description»这个限时包解锁了Meowcutio和Hecksquito宠物，Heckfly和Poisonous Philter坐骑，糖果爱心传递 磁悬浮车，迷人的城堡和地狱虫洞穴（配方及可放置的构架），以及Trovio、Cubeliet和Heckbug Harrier服装。\n\n2宠物，2坐骑，1磁悬浮，2建筑构架配方，3服饰\n\n在命运召唤它们之前得到!
 $StoreProduct_trove_fiery_friends_pack_name»炽热的朋友
@@ -1241,7 +1245,17 @@ $StoreProduct_conveyance_uber_crafting_water_expansion_name»提高以下资源�
 $StoreProduct_conveyance_uber_crafting_stone_expansion_name»提高以下资源的背包上限 by #; J, K, L
 $NPCStoreProduct_insufficient_maxarmor»你的最大战斗护盾不足，无法购买此商品。
 $NPCStoreProduct_insufficient_maxarmor_interact»你的帽子、武器和面部装备需要提升最大生命值、生命回复或稳定性，才能储存战斗护盾。
-$StoreProduct_detective_thief_collection_pack_name»侦探对决盗贼包
-$StoreProduct_detective_thief_collection_pack_description»限时礼包，抓住盗贼！\n\n包含内容：\n宠物：负鼠斯库普、吱吱警长\n坐骑：宝箱秃鹫、警笛绵羊\n银月枪兵服饰：狼爪探长、骑士服饰：兔脚神偷
-$StoreProduct_halloween_2025_collection_pack_name»恐怖怪物包
-$StoreProduct_halloween_2025_collection_pack_description»用这个恐怖怪物包对克贝斯利说'嘘'！\n\n包含：\n宠物：幽灵山羊、伯爵棺材\n坐骑：亡者凝视、恐惧马车\n海洋探索者服饰：骨骸海盗、驯龙师服装：僵尸驯养师
+$StoreProduct_sprout_collection_pack_name»萌生收藏礼包
+$StoreProduct_sprout_collection_pack_description»趁此限时礼包，萌动迎春！\n\n内含：\n宠物：苔须蹦蹦兽，花语倾心友\n坐骑：蜜花播种盆,，柳背篱刺兽\n墓灵术士的服饰：花冢死灵，海洋探索者的服饰：瓣粉海盗
+$StoreProduct_creepy_candy_collection_pack_name»诡趣糖礼包
+$StoreProduct_creepy_candy_collection_pack_description»惊悚来袭！用这份怪奇糖果礼包吓唬自己吧\n\n内含：\n宠物：彩虹嚼嚼队，太妃魅影蛇， 牛轧弹跳蛙\n坐骑：旋甜壳贝，糖闸船长，黏糯憨慢兽\n碧叶使者的服饰：糖孢萌生术士，暗影猎手的服饰：薄荷破碎神射手
+$StoreProduct_zodiac_horse_collection_pack_name»天驷礼包
+$StoreProduct_zodiac_horse_collection_pack_description»策此限时礼包，驰骋迎新之年！\n\n内含：\n宠物：噼啪脆响兽，辉光梦魇提灯\n坐骑：绢翼君临蝶，花绽夜魇马\n曜日射手的服饰：引路辉光，驯龙师的服饰：麒麟火驭
+$StoreProduct_harvest_collection_pack_name»丰收庆典礼包
+$StoreProduct_harvest_collection_pack_description»备此限时礼包，赴一场欢庆盛宴！\n\n内含：\n宠物： 胡子捣蛋鹅，忠厕路易\n坐骑：奥印克船长，丰收羽鸡\n无头骑士的服饰：屠戮战将，碧叶使者的服饰：作物指挥官
+$StoreProduct_winter_sport_collection_pack_name»冰雪幻境礼包
+$StoreProduct_winter_sport_collection_pack_description»备此限时礼包，驰骋雪境之巅！\n\n内含：\n宠物：银鼬搭便客，摇摆滑雪手诺伯特，重击海豹\n坐骑：哨喙鸟，霜角驿使，“霜原之王，冰川巨兽”\n爆破游侠的服饰：雪踪潜猎，寒冰贤者的服饰：霜父德鲁伊
+$StoreProduct_dragon_legend_collection_pack_name»龙族传奇礼包
+$StoreProduct_dragon_legend_collection_pack_description»携此限时礼包，亲历真龙传说！\n\n内含：\n宠物：达摩幼龙，云游大师\n坐骑：四相天穹龙，蹦跶猴\n先锋卫士的服饰：气龙奇才，糖果野蛮人的服饰：坚壳哨卫
+$StoreProduct_trove_cny2026_pack_name»焰驹鳞龙礼包
+$StoreProduct_trove_cny2026_pack_description»结识烬鳞龙，辛德拉肯，迎请其入驻你的龙厩吧！\n\n包含：\n坐骑：烬鳞龙，辛德拉肯\n33个高等龙箱\n333枚龙币\n3个钻龙石袋\n50特权点

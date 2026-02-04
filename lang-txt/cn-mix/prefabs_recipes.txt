@@ -36,5 +36,5 @@ $prefabs_recipe_sunfest_phase2_generic»只有在龙族为太阳庆典（7月8�
 $prefabs_recipe_item_august2025_lunavic_gratitude_failureLoc»你已经帮过鲁纳维克了！他很好。
 $prefabs_recipe_title_events_aug2025_failureLoc»在制作此物品前，你必须先完成金牛的任务。
 $prefabs_recipe_event_september_2025_deliver_food_failureLoc»这个居民不再饥饿。
-$prefabs_recipe_item_crafting_events_january_renewus_quest_challenge_failureLoc_setany»必须先完成热身才能尝试该挑战。
-$prefabs_recipe_item_crafting_events_january_renewus_quest_challenge_failureLoc_setnone»该挑战每天只能完成一次。
+$prefabs_recipe_item_crafting_events_january_renewus_quest_challenge_failureLoc_setany»挑战前务必完成热身
+$prefabs_recipe_item_crafting_events_january_renewus_quest_challenge_failureLoc_setnone»每日仅可完成一次此挑战。

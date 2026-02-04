@@ -606,6 +606,15 @@ $prefabs_titles_devgrant_developerhelper»Developer Helper
 $prefabs_titles_devgrant_goodsamaritan»the Good Samaritan
 $prefabs_titles_devgrant_ptshero»PTS Hero
 $prefabs_titles_devgrant_friendofpan», Friend of Pan
+$prefabs_titles_devgrant_teamtrove»Trove团队
+$prefabs_titles_devgrant_teamgamigo»gamigo团队
+$prefabs_titles_devgrant_communitymanager»社区经理
+$prefabs_titles_devgrant_customersupport»客户支持
+$prefabs_titles_devgrant_seniormoderator»高级版主
+$prefabs_titles_devgrant_moderator»版主
+$prefabs_titles_devgrant_contentcreator»内容创作者
+$prefabs_titles_devgrant_cheesy»俗气
+$prefabs_titles_devgrant_friendofcheese», 奶酪之友
 $prefabs_titles_lootbox_titles_incrementor_weekly_suffix», Weekly M.N.G.U. {0}
 $prefabs_titles_lootbox_titles_incrementor_alltime_suffix», M.N.G.U. GOAT: {0}
 $prefabs_titles_lootbox_titles_enemy_kills_suffix», Slayer ({0})
@@ -799,12 +808,5 @@ $prefabs_titles_events_aug2025_elysianknight_name»Elysian Knight
 $prefabs_titles_events_aug2025_desc»授予完成太阳女神的入圣礼的寻宝者。
 $prefabs_titles_manual_numbercruncher_name»Number Cruncher
 $prefabs_titles_manual_numbercruncher_description»我们最喜欢的社区数据科学家的个人称谓：Sly
-$prefabs_titles_devgrant_teamtrove»Trove团队
-$prefabs_titles_devgrant_teamgamigo»gamigo团队
-$prefabs_titles_devgrant_communitymanager»社区经理
-$prefabs_titles_devgrant_customersupport»客户支持
-$prefabs_titles_devgrant_seniormoderator»高级版主
-$prefabs_titles_devgrant_moderator»版主
-$prefabs_titles_devgrant_contentcreator»内容创作者
-$prefabs_titles_devgrant_cheesy»俗气
-$prefabs_titles_devgrant_friendofcheese», 奶酪之友
+$prefabs_titles_dog_dracrogi_newyear2026_name», 烬鳞龙
+$prefabs_titles_dracrogi_newyear2026_description»季节性开放于龙台制作。需已拥有坐骑：烬鳞龙，辛德拉肯。

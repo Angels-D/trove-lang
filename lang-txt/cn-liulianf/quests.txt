@@ -1579,19 +1579,19 @@ $Quest_GoldenThread_event_may2022_07_Description»春日起舞 7/8: 嘎嘎！嘎
 $Quest_GoldenThread_Event_may2022_08_Name»从永冻界的黄蜂那里收集稀有的宝藏\n
 $Quest_GoldenThread_event_may2022_08_Description»春日起舞 8/8: 谢谢你的帮助。现在，去让花朵传播的更远，继续去帮助并拯救蜜蜂。当你在猎杀黄蜂时，它们可能会掉落一两只宠物。在它们融化之前，你应该从永冻界中抓一只!\n
 $Quest_GoldenThread_Event_june2022_01_Name»拜访主城中的英勇大师克贝斯利
-$Quest_GoldenThread_event_june2022_01_Description»灿烂夏日 1/7:  来看看我五彩缤纷商品吧! 庆祝自己是一个骄傲的寻宝者!
+$Quest_GoldenThread_event_june2022_01_Description»灿烂夏日 1/8:  来看看我五彩缤纷商品吧! 庆祝自己是一个骄傲的寻宝者!
 $Quest_GoldenThread_Event_june2022_02_Name»花费英勇币
-$Quest_GoldenThread_event_june2022_02_Description»灿烂夏日 2/7: 从领取菜单[HK:Claims]中领取你的英勇币来购买物品。
+$Quest_GoldenThread_event_june2022_02_Description»灿烂夏日 2/8: 从领取菜单[HK:Claims]中领取你的英勇币来购买物品。
 $Quest_GoldenThread_Event_june2022_03_Name»保卫你的寻宝者同胞吧!
-$Quest_GoldenThread_event_june2022_03_Description»灿烂夏日 3/7: 你的下一个任务需要强大的力量，清除3星地下城，并收集更多的英勇币从我的商店购买更多的奖励!
+$Quest_GoldenThread_event_june2022_03_Description»灿烂夏日 3/8: 你的下一个任务需要强大的力量，清除3星地下城，并收集更多的英勇币从我的商店购买更多的奖励!
 $Quest_GoldenThread_Event_june2022_04_Name»返回主城找英勇元帅克贝斯利
-$Quest_GoldenThread_event_june2022_04_Description»灿烂夏日 4/7: 请回到主城来拜访我! 你已经收获了许多英勇币，我可以给你兑换更多的奖励! 来看看吧！
+$Quest_GoldenThread_event_june2022_04_Description»灿烂夏日 4/8: 请回到主城来拜访我! 你已经收获了许多英勇币，我可以给你兑换更多的奖励! 来看看吧！
 $Quest_GoldenThread_Event_june2022_05_Name»炫耀你的新装备，在主城跳跃!
-$Quest_GoldenThread_event_june2022_05_Description»灿烂夏日 5/7:  整个月都要展示你的勇气! 这个月提醒我们要以更多的方式去支持、去鼓励和去表达爱。与你的寻宝者同伴分享。
+$Quest_GoldenThread_event_june2022_05_Description»灿烂夏日 5/8:  整个月都要展示你的勇气! 这个月提醒我们要以更多的方式去支持、去鼓励和去表达爱。与你的寻宝者同伴分享。
 $Quest_GoldenThread_Event_june2022_06_Name»清除3星地下城
-$Quest_GoldenThread_event_june2022_06_Description»灿烂夏日 6/7: 庆祝你的力量和勇气! 你的力量是我们所处的虚空无法比拟的。在这个领域和下一个领域展现你真正的实力，打倒强大的敌人!!
+$Quest_GoldenThread_event_june2022_06_Description»灿烂夏日 6/8: 庆祝你的力量和勇气! 你的力量是我们所处的虚空无法比拟的。在这个领域和下一个领域展现你真正的实力，打倒强大的敌人!!
 $Quest_GoldenThread_Event_june2022_07_Name»完成挑战，和所有人交朋友吧！
-$Quest_GoldenThread_event_june2022_07_Description»灿烂夏日 7/7:  这个月的主题是，众志成城！以携手解决世界难题为荣，加入挑战，与他人共同踏上旅程，体验真正的社群精神！
+$Quest_GoldenThread_event_june2022_07_Description»灿烂夏日 7/8:  这个月的主题是，众志成城！以携手解决世界难题为荣，加入挑战，与他人共同踏上旅程，体验真正的社群精神！
 $Quest_GoldenThread_Event_june2022_08_Name»保护你的兔子朋友免受伤害，并击败他们的敌人！
 $Quest_GoldenThread_event_june2022_08_Description»灿烂夏日 8/8：这个月的主题是做真实的自己，也允许他人展现真我。保护兔子朋友免受那些阻挠真爱的敌人伤害。并分享爱意，鼓励他人，寻宝者你就尽情享受当前的乐趣吧！
 $Quest_GoldenThread_Event_july2022_01_Name»认识查克,平索
@@ -2025,7 +2025,7 @@ $Quest_GoldenThread_event_dec2023_11_Description»冰雪庆典2023 11/12: 感谢
 $Quest_GoldenThread_event_dec2023_12_Name»打开排行榜
 $Quest_GoldenThread_event_dec2023_12_Description»冰雪庆典2023 12/12: 太棒了，现在到了惊喜时刻！今年，我们一直在追踪你在冰雪庆典中的所有事情！\n\n每次拆开礼物、完成冰雪庆典每日任务、使用暖意或向捐赠站进行捐赠，都会增加你在冰雪庆典每日奉献榜上的排名。\n\n每天排行榜的第一名都将获得一份特殊的奖品！不过不用担心，参加活动总会有收获，因为这才是冰雪庆典的真正意义所在！\n\n按 [HK:Leaderboards] 打开排行榜查看。
 $Quest_GoldenThread_event_dec2023_gift_Name»打开你的礼物
-$Quest_GoldenThread_event_dec2023_gift_Description»冰雪庆典2024奖励: 可在主城中找到礼物，按 [HK:Loot] 来与你的礼物互动。\n
+$Quest_GoldenThread_event_dec2023_gift_Description»冰雪庆典2025奖励: 可在主城中找到礼物，按 [HK:Loot] 来与你的礼物互动。\n
 $Quest_GoldenThread_event_return_name»将马基托带给马科斯伊巴拉船长
 $Quest_GoldenThread_event_return_description»所以这就是他下车的地方！你介意有机会的时候把他还给我吗？我周末都主城！
 $Quest_GoldenThread_event_jan2024_01_Name»与加克斯交谈
@@ -2594,3 +2594,53 @@ $Quest_GoldenThread_Event_november2025_14_Name»返回主城与厨师长见面
 $Quest_GoldenThread_Event_november2025_14_Description»友谊庆典 2025 14/15：啊，你解决了骚乱，谢谢！如果一切平安无事，就快回来和我们一起庆祝吧！我们还为你准备了礼物！
 $Quest_GoldenThread_Event_november2025_15_Name»完成友谊庆典每日任务
 $Quest_GoldenThread_Event_november2025_15_Description»友谊庆典 2025 15/15：又有几位客人晚到了，是克贝斯利一家。他们似乎需要你的帮助，去看看吧。我这里没有其他任务了，我祝你友谊长存！\n\n克贝斯利一家在工匠工坊旁边的克贝斯利桌前，他们有一些请求要你去完成。去完成他们的一些日常要求吧！
+$Quest_GoldenThread_Event_december2025_01_Name»Speak with Elfsly in the Hub
+$Quest_GoldenThread_Event_december2025_01_Description»Snowvasion 1/13: Trovian! I've got terrible, chilling news! Snowmen have come in full force with their INVASION! Come speak with me in the hub as soon as you can, please! We have to put a stop to this!
+$Quest_GoldenThread_Event_december2025_02_Name»Speak with Frostay the Snowman
+$Quest_GoldenThread_Event_december2025_02_Description»Snowvasion 2/13: Our friend and ally, Frostay the Snowman, is also here to help! He and I have come up with a plan to end this invasion.
+$Quest_GoldenThread_Event_december2025_03_Name»Collect Snowvader Remnants
+$Quest_GoldenThread_Event_december2025_03_Description»Snowvasion 3/13: Ice to meet you, Trovian! We're not sure what went wrong with these invading Snowmen, but we think we have a way to fix it! To implement this plan, the first thing we need are some SNOWVADER REMNANTS. Although Snowvaders can technically show up across all of Trove, they are naturally most concentrated in PERMAFROST--they much prefer the cold, you see. Head there and collect a SNOWVADER REMNANT!
+$Quest_GoldenThread_Event_december2025_04_Name»Speak with Elfsly in the Hub
+$Quest_GoldenThread_Event_december2025_04_Description»Snowvasion 4/13: If we repurpose those Remnants you've gathered, we can reconstitute classic, kind-hearted Snowmen. If we get enough Classic Snowmen in Permafrost, that should stop the invasion! Elfsly has agreed to help us with the next step, go speak with him!
+$Quest_GoldenThread_Event_december2025_05_Name»Bleach Snowvader Remnants
+$Quest_GoldenThread_Event_december2025_05_Description»Snowvasion 5/13: To make Classic Snowmen, we need Classic Snowman Gear. Frostay can dye those Remnants the necessary blue, but we need to BLEACH them first! That's where I come in!
+$Quest_GoldenThread_Event_december2025_06_Name»Speak with Frostay the Snowman
+$Quest_GoldenThread_Event_december2025_06_Description»Snowvasion 6/13: Now go see Frostay to see what it takes to DYE the Remnants!
+$Quest_GoldenThread_Event_december2025_07_Name»Craft Classic Snowman Gear
+$Quest_GoldenThread_Event_december2025_07_Description»Snowvasion 7/13: Using DYE is simple, but I need the materials to make some! Once you've got the materials, bring them to me and DYE some BLEACHED SNOWVADER REMNANTS to create CLASSIC SNOWMAN GEAR!
+$Quest_GoldenThread_Event_december2025_08_Name»Collect Pristine Snow
+$Quest_GoldenThread_Event_december2025_08_Description»Snowvasion 8/13: Once you've collected all the materials, I can help you craft a CLASSIC SNOWMAN. The rarest material of all, however, is PRISTINE SNOW. But I know where you can find some! The TREE DUNGEONS which appear throughoug Trove during Snowfest are where you need to go!
+$Quest_GoldenThread_Event_december2025_09_Name»Craft Classic Snowmen
+$Quest_GoldenThread_Event_december2025_09_Description»Snowvasion 9/13: Now return to me and craft a CLASSIC SNOWMAN!\n\nReturn to Fostay the Snowman in the Hub and use Pristine Snow to craft Classic Snowmen.
+$Quest_GoldenThread_Event_december2025_10_Name»Use Classic Snowmen in Permafrost
+$Quest_GoldenThread_Event_december2025_10_Description»Snowvasion 10/13: Now it should be a simple step: just head to PERMAFROST and release that Classic Snowman! That'll begin to tip the scales in our favor!
+$Quest_GoldenThread_Event_december2025_11_Name»Return 20 Classic Snowmen to Permafrost
+$Quest_GoldenThread_Event_december2025_11_Description»Snowvasion 11/13: Easy, right?! But repelling the invasion will require fortitude and persistence! You'll need to do this a few more times if you want to really have an impact on the invasion, but don't fret! You can free them en masse at the FROSTY WORKENCH in the Frozen Tundra!\n\nReturn Classic Snowmen to Permafrost by throwing them or using the Frosty Workbench
+$Quest_GoldenThread_Event_december2025_12_Name»Speak with Elfsly in the Hub
+$Quest_GoldenThread_Event_december2025_12_Description»Snowvasion 12/13: Nice work, Trovian! You're really making an impact! Come back to the hub for a well-deserved reward!
+$Quest_GoldenThread_Event_december2025_13_Name»Complete Dailies
+$Quest_GoldenThread_Event_december2025_13_Description»Snowvasion 13/13: The invasion has been slowed, but not completely stopped! Approach the visitors from other biomes and see if they need keeping their Snowvader problems in check.
+$Quest_GoldenThread_event_feb2026_01_Name»认识H.E.C.K助手海莉
+$Quest_GoldenThread_event_feb2026_01_Description»H.E.C.K到底是什么?! 2026 1/12: 是我——H.E.C.K的海莉，今年再度造访，播撒善意！H.E.C.K是什么？哈，我们属“异兽救助协会”……当然，为善意而行！来主城与我见面吧！
+$Quest_GoldenThread_event_feb2026_02_Name»在晶洞洞穴中帮助地狱虫
+$Quest_GoldenThread_event_feb2026_02_Description»H.E.C.K到底是什么?! 2026 2/12: 正如你注意到的，地狱虫群正在宝藏世界和晶洞世界进行一年一度的繁殖迁徙。虽然它们凶猛致命，但也可爱又惹人怜爱！由于该物种被归类为异兽，我们组织已主动承担起保护它们的责任！而你也能来帮忙！\n\n进入任意一个晶洞洞穴（沉没日库、鲜绿脉络或月光石窟），使用生物糖果、舒适毯子和治疗包装来喂养、保暖并治愈这些可怜的小地狱虫吧！
+$Quest_GoldenThread_event_feb2026_03_Name»认识H.E.C.K暖心使者哈罗德
+$Quest_GoldenThread_event_feb2026_03_Description»H.E.C.K到底是什么?! 2026 3/12: 你好！看来你已经见过我的搭档海莉了。在她帮助小地狱虫适应新环境，我现在这里可有个更带劲的活儿—确保这些小家伙能顺利诞生！快来主城找我，咱们这就开始吧！
+$Quest_GoldenThread_event_feb2026_04_Name»从暖心者哈罗德处购买多情的地狱虫
+$Quest_GoldenThread_event_feb2026_04_Description»H.E.C.K到底是什么?! 2026 4/12: 地狱虫的交配过程可能很复杂，但我们几乎已经完善了它。我收集了不少求偶期的地狱虫，准备帮它们寻找真爱！从我这里买一些，为下一步做好准备吧。
+$Quest_GoldenThread_event_feb2026_05_Name»在龙火山峰使用一只多情的地狱虫
+$Quest_GoldenThread_event_feb2026_05_Description»H.E.C.K到底是什么?! 2026 5/12: 现在直接前往龙火山峰，放出那些可爱的小家伙吧！\n\n龙火山峰的传送门位于主城的活动区域的地狱虫建筑内。
+$Quest_GoldenThread_event_feb2026_06_Name»帮助多情的地狱虫寻找真爱
+$Quest_GoldenThread_event_feb2026_06_Description»H.E.C.K到底是什么?! 2026 6/12: 现在四处跑动，为你的地狱虫寻找一只地狱虫谈恋爱吧！地狱虫出了名的挑剔，所以可能得多试几次！\n\n重复这个过程10次，你就能大致了解这个季节我每天在做什么了！
+$Quest_GoldenThread_event_feb2026_07_Name»孵化一只地狱虫蛋
+$Quest_GoldenThread_event_feb2026_07_Description»H.E.C.K到底是什么?! 2026 7/12: 你好，是我海莉！你准备好完成生命繁衍的最终阶段了吗？现在是孵化地狱虫蛋的时候啦！这些虫蛋遍布整个晶洞洞穴，快把它们放到孵化器里孵化吧！
+$Quest_GoldenThread_event_feb2026_08_Name»认识一下地狱虫猎人
+$Quest_GoldenThread_event_feb2026_08_Description»H.E.C.K到底是什么?! 2026 8/12: 寻宝者……H.E.C.K并非他们宣称的那样单纯……监视他们的可不止我一人——如我这般潜行于暗处、观察诡虫动向的，大有人在。来到主城，在他们建筑的背后与我碰面，你会知道更多……
+$Quest_GoldenThread_event_feb2026_09_Name»完成地狱虫猎人的每日任务
+$Quest_GoldenThread_event_feb2026_09_Description»H.E.C.K到底是什么?! 2026 9/12: 海莉和哈罗德对真相视而不见：地狱虫是嗜血的杀戮者！它们会毁灭整个星球，真的会！我曾亲眼目睹，而悲剧必将重演！我们必须立刻阻止它们，每日皆然！与我的行动员交谈，开始行动吧。\n记住！若未装备我的旗帜，则需借助“多情的地狱虫”来破除它们那该死的护盾！
+$Quest_GoldenThread_event_feb2026_10_Name»装备猎虫者的旗帜
+$Quest_GoldenThread_event_feb2026_10_Description»H.E.C.K到底是什么?! 2026 10/12: 我早看出你有猎杀本能。最后一步需要猎虫者的旗帜——从我这里购买并装备它吧！
+$Quest_GoldenThread_event_feb2026_11_Name»击败地狱虫入侵者
+$Quest_GoldenThread_event_feb2026_11_Description»H.E.C.K到底是什么?! 2026 11/12: 为了从地狱虫群中拯救宝藏世界，我们必须锁定地狱虫入侵者。你可能已经看到一些从天而降的虫子了。但它们还会躲在地下城里，装备旗帜就能把它们引诱出来！
+$Quest_GoldenThread_event_feb2026_12_Name»返回主城与地狱虫猎人交谈
+$Quest_GoldenThread_event_feb2026_12_Description»H.E.C.K到底是什么?! 2026 12/12: 干得漂亮！回来找我，有奖励给你——是从那些带着援军来的H.E.C.K分子那儿搞来的。啧。

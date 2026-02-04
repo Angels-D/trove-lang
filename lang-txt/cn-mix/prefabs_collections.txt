@@ -9,9 +9,9 @@ $CollectionName_Emblems»徽章
 $CollectionName_Sails»船帆
 $CollectionName_SailsStore»商店
 $CollectionName_Chaotic_Sails»混沌船帆
-$CollectionName_Mastery_Sails»宗师船帆
-$CollectionName_Prestige_Sails»高级船帆
-$CollectionName_Default_Sails»基础船帆
+$CollectionName_Mastery_Sails»精通之帆
+$CollectionName_Prestige_Sails»威望之帆
+$CollectionName_Default_Sails»基础之帆
 $CollectionName_ShadowArena»暗影竞技场
 $CollectionName_ShadowTower»暗影之塔
 $CollectionName_Knight»骑士
@@ -46,7 +46,7 @@ $CollectionName_Enchanted»附魔
 $CollectionName_Depths»深渊
 $CollectionName_Turtles»乌龟
 $CollectionName_Crafted»已制作
-$CollectionName_MountTamingBench»坐骑工作台
+$CollectionName_MountTamingBench»坐骑驯养工作台
 $CollectionName_Store»商店
 $CollectionName_StoreFrameworks»商店框架
 $CollectionName_Seasonal»季度
@@ -276,7 +276,7 @@ $CollectionName_Curiosities»珍品
 $CollectionName_Catastrophe»灾厄菲奥娜
 $CollectionName_CatastropheTemporary»灾厄菲奥娜 (临时)
 $CollectionName_EventVault»活动金库
-$CollectionName_TrialsofLuxion»奢龙的试炼
+$CollectionName_TrialsofLuxion»奢龙试炼
 $CollectionName_TitleCertificates»称号证书
 $CollectionName_Mysticism»秘术
 $CollectionName_MartialArts»武术

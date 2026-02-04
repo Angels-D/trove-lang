@@ -497,6 +497,6 @@ $prefabs_item_crafting_kraken_shell_fragment_item_name»海妖贝壳碎片
 $prefabs_item_crafting_kraken_shell_fragment_item_description»闪耀的贝壳，下沉到深渊中获得。
 $prefabs_item_crafting_gemspark_mystic_name»神秘宝石碎片
 $prefabs_item_crafting_gemspark_mystic_description»制作材料。可用于升级神秘宝石和制作稀有物品。\n\n在幽影U12（D15难度）或深渊秘境中稀有掉落。
-$prefabs_item_crafting_ash_trail_name»Ember Trails
-$prefabs_item_crafting_ash_trail_description»在所有冒险世界生物群落中掉落，不包括龙火山峰和宁静山丘，但仅当“灰姑娘火龙”活动当前处于活动状态时（请查看/welcome屏幕！[HK:Welcomescreen]）\n<font color="#cccccc">Drops in all Adventure World biomes, excluding Dragonfire Peaks and Peaceful Hills but only if the 'The Cindrakken the Emberscale Dragon' event is currently ACTIVE (check the /welcome screen! [HK:Welcomescreen])</font>
-$prefabs_item_crafting_ash_trail_controller»在所有冒险世界生物群落中掉落，不包括龙火山峰和宁静山丘，但仅当“灰姑娘火龙”活动当前处于活动状态时（请查看/welcome屏幕！[HK:Navigationmenu]）(Drops in all Adventure World biomes, excluding Dragonfire Peaks and Peaceful Hills but only if the 'The Cindrakken the Emberscale Dragon' event is currently ACTIVE (check the /welcome screen! [HK:Navigationmenu]))
+$prefabs_item_crafting_ash_trail_name»烬痕
+$prefabs_item_crafting_ash_trail_description»在龙火山峰与和平丘陵“以外”的所有冒险世界中收集——需要确保在“烬鳞龙，辛德拉肯”活动期间（可以聊天栏输入指令/welcome或者按[HK:WelcomeScreen]进入界面确认活动是否开始！）。
+$prefabs_item_crafting_ash_trail_controller»在龙火山峰与和平丘陵“以外”的所有冒险世界中收集——需要确保在“烬鳞龙，辛德拉肯”活动期间（可以聊天栏输入指令/welcome或者按[HK:WelcomeScreen]进入界面确认活动是否开始！）。

@@ -806,7 +806,7 @@ $prefabs_titles_entitlement_community_twitch_title_true_trovian_suffix», True T
 $prefabs_titles_events_aug2025_knightofelysia_name», Knight of Elysia
 $prefabs_titles_events_aug2025_elysianknight_name»Elysian Knight
 $prefabs_titles_events_aug2025_desc»授予完成太阳女神的入圣礼的寻宝者。
-$prefabs_titles_dog_dracrogi_newyear2026_name»，the Emberscale
-$prefabs_titles_dracrogi_newyear2026_description»可在龙台制作季节性称号。需要拥有坐骑: 余烬巨龙辛德拉肯\n<font color="#cccccc">Seasonally available at the DRAGON CRUCIBLE. Requires ownership of Mount: Cindrakken, the Emberscale</font>
+$prefabs_titles_dog_dracrogi_newyear2026_name», 烬鳞龙
+$prefabs_titles_dracrogi_newyear2026_description»季节性开放于龙台制作。需已拥有坐骑：烬鳞龙，辛德拉肯。
 $prefabs_titles_manual_numbercruncher_name»Number Cruncher
 $prefabs_titles_manual_numbercruncher_description»我们最喜欢的社区数据科学家的个人称谓：Sly

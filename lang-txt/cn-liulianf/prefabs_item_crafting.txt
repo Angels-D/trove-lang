@@ -428,6 +428,8 @@ $prefabs_item_crafting_gemspark_primal_name»原始宝石碎片(Primal Gem Shard
 $prefabs_item_crafting_gemspark_primal_description»制作素材\n\n用来提升水晶宝石的等级和制作稀有物品。\n\n在 断裂高地工作台 或者 冒险者的工作台 制作。
 $prefabs_item_crafting_crystal_gem_converter_name»水晶宝石转换器(Crystal Gem Converter)
 $prefabs_item_crystal_gem_converter_description»用来将星辰宝石转化为水晶宝石。\n\n在 断裂高地工作台 或者 冒险者的工作台 上制作。
+$prefabs_item_crafting_mystic_gem_converter_name»神秘宝石转换器
+$prefabs_item_crafting_mystic_gem_converter_description»用于将水晶宝石进阶为神秘宝石。\n\n可在盐水山姆的深渊工作台上制作。
 $prefabs_item_crafting_solarion_sunbeamcontainer_name»曜日容器(Sun Beam Container)
 $prefabs_item_crafting_solarion_sunbeamcontainer_description»一种据说能够容纳太阳力量的容器。用来制作曜日射手职业。\n\n在断裂高地工作台上制作。
 $prefabs_item_crafting_solarion_phoenixsoul_name»凤凰之魂(Phoenix Soul)
@@ -493,7 +495,8 @@ $prefabs_item_crafting_nitro_concentrated_name»超负荷硝基衰变悬浮宝�
 $prefabs_item_crafting_nitro_concentrated_description»晶洞时期的材料，设计用于储存大量的硝基闪光粉（肯定超过安全值），而不会有任何因放射性衰变而造成损失的风险！\n\n可使用寻日者的水晶熔炉提取全部硝基！\n\n*保证硝基不会有损失的风险...但是既不保证也不暗示你的生命不会有任何风险！
 $prefabs_item_crafting_kraken_shell_fragment_item_name»海妖贝壳碎片
 $prefabs_item_crafting_kraken_shell_fragment_item_description»闪耀的贝壳，下沉到深渊中获得。
-$prefabs_item_crafting_mystic_gem_converter_name»神秘宝石转换器
-$prefabs_item_crafting_mystic_gem_converter_description»用于将水晶宝石进阶为神秘宝石。\n\n可在盐水山姆的深渊工作台上制作。
 $prefabs_item_crafting_gemspark_mystic_name»神秘宝石碎片
 $prefabs_item_crafting_gemspark_mystic_description»制作材料。可用于升级神秘宝石和制作稀有物品。\n\n在幽影U12（D15难度）或深渊秘境中稀有掉落。
+$prefabs_item_crafting_ash_trail_name»烬痕
+$prefabs_item_crafting_ash_trail_description»在龙火山峰与和平丘陵“以外”的所有冒险世界中收集——需要确保在“烬鳞龙，辛德拉肯”活动期间（可以聊天栏输入指令/welcome或者按[HK:WelcomeScreen]进入界面确认活动是否开始！）。
+$prefabs_item_crafting_ash_trail_controller»在龙火山峰与和平丘陵“以外”的所有冒险世界中收集——需要确保在“烬鳞龙，辛德拉肯”活动期间（可以聊天栏输入指令/welcome或者按[HK:WelcomeScreen]进入界面确认活动是否开始！）。

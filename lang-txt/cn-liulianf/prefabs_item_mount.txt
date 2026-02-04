@@ -975,3 +975,5 @@ $prefabs_item_mount_sugarglider_september2024_up_name»坐骑: 光辉机械滑�
 $prefabs_item_mount_llama_nightstag_name»坐骑: 月影雄鹿
 $prefabs_item_mount_rocket_september2024_name»坐骑: 慢速悬浮喷气机
 $prefabs_item_mount_carpet_cauldron_name»坐骑: 悬浮坩埚
+$prefabs_item_mount_mammoth_sunlightbulb_name»坐骑：光滑阳光龙
+$prefabs_item_mount_rocket_heckbug_name»坐骑：H.E.C.K.悬浮漫游车

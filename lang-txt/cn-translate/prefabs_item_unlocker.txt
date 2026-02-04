@@ -1,2 +1,0 @@
-$prefabs_item_unlocker_streamer_twitch_04_item_name»主播之梦4
-$prefabs_item_unlocker_streamer_twitch_04_item_description»随机解锁一个你尚未拥有的特殊主播之梦4奖励！\n<font color="#cccccc">Grants a random, special Streamer Dream 4 reward that you don't already have unlocked.</font>
